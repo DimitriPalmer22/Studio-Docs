@@ -17,6 +17,12 @@ A better reference for the combat is the Devil May Cry series. The player should
 
 The game's melee combat should be easy enough that the player can pick it up and play without too much difficulty. However, the combat system should feel deep enough that the game allows the player to become really good at it.
 
+Some combos are very basic and can be performed by pressing the attack button once or twice. Other combos require the player to press the attack button multiple times in a specific order.
+
+#### Roguelike Element
+- The player starts off with the same couple of basic combo strings
+- However, they start off with
+
 ### Ranged Attacks
 
 ### Block
