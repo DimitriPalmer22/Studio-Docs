@@ -15,3 +15,6 @@ feeling cool
 # Overview
 
 This game
+
+> [!Note] How does this game relate to the studio's mission?
+> Contents
