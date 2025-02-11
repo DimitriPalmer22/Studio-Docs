@@ -17,6 +17,10 @@
     {
       "folder": "PrivateNotes/Daily",
       "template": "_META/Templates/Daily Note Template.md"
+    },
+    {
+      "folder": "Game 1",
+      "template": "_META/Templates/Note Template.md"
     }
   ],
   "enable_file_templates": false,
