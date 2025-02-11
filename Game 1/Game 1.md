@@ -15,6 +15,10 @@ feeling cool
 - Active Ability
 - Passive Ability
 
+# Art Style
+
+This game uses a non-photorealistic art style.
+
 # Overview
 
 This game centers around the player feeling *cool*.
