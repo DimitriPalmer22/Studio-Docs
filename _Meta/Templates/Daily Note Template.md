@@ -2,7 +2,7 @@
 cssclasses:
   - daily-note
 ---
-#
+# Daily Overview
 
 # Goals
 
