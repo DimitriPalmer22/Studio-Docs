@@ -39,7 +39,7 @@ Using the active ability will
 
 ### Passive Ability
 
-The passive ability has a meter requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different pads
+The passive ability has a meter requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have 
 
 # Art Style
 
