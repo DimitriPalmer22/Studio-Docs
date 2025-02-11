@@ -17,11 +17,12 @@ A better reference for the combat is the Devil May Cry series. The player should
 
 The game's melee combat should be easy enough that the player can pick it up and play without too much difficulty. However, the combat system should feel deep enough that the game allows the player to become really good at it.
 
-Some combos are very basic and can be performed by pressing the attack button once or twice. However, like Ninja Gaiden, executing specific combos will lead into 
+Some combos are very basic and can be performed by pressing the attack button once or twice. However, like Ninja Gaiden, executing specific combos will lead into more powerful moves. For the sake of naming things, we'll call these more powerful moves *finishers*.
 
 #### Roguelike Element
 - The player starts off with the same couple of basic combo strings
-- However, they start off with
+- However, they start off with a random finisher.
+- As the player progresses through the game, they can find more finishers.
 
 ### Ranged Attacks
 
@@ -43,10 +44,13 @@ However, getting hit, not attacking for a while, and blocking for too long will 
 
 Using the active ability will
 
+#### Roguelike Element
+
 ### Passive Ability
 
 The passive ability has a meter requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have different thresholds.
 
+#### Roguelike Element
 # Art Style
 
 This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/Non-photorealistic_rendering). To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
