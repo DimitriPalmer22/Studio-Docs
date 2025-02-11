@@ -11,7 +11,7 @@ feeling cool
 # Core Mechanics
 ### Melee Combos
 
-The game should feel *a little*
+The game should feel *a little* like the Batman Arkham series, but with more control over the combos. Those games just felt like you were pressing buttons and Batman did everything for you. 
 
 ### Ranged Attacks
 ### Dodge
