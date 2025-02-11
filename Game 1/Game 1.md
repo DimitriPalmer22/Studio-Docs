@@ -22,6 +22,9 @@ This game uses a non-photorealistic art style. To achieve this, the game uses ce
 ## Inspirations
 
 ### Jet Set Radio
+![](<../_META/Attachments/screen_shot_2446.jpeg>)
+
+- Very flat coloring on the textures of the characters
 
 ### XIII (Original & Remake)
 
