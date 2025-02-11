@@ -1,4 +1,5 @@
 {
-  "folder": "PrivateNotes",
-  "autorun": true
+  "folder": "PrivateNotes/Daily",
+  "autorun": true,
+  "template": "_Meta/Templates/Daily Note Template"
 }
