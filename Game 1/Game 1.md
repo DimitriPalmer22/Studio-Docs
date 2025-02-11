@@ -39,4 +39,4 @@ This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/No
 
 # Overview
 
-This game centers around the player feeling *cool*.
+This game centers around the player feeling *cool*. With everything the player does, they should be aura farming. The game should be a power trip.
