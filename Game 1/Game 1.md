@@ -9,7 +9,8 @@ feeling cool
 
 - Melee combos
 - Ranged attacks
-- Primary and SeAbilities
+- Active Ability
+- Passive Ability
 
 # Overview
 
