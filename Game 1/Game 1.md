@@ -9,12 +9,14 @@ feeling cool
 # Feature List
 
 # Core Mechanics
+### Melee Combos
+### Ranged Attacks
+### Dodge
 
-- Melee Combos
-- Ranged Attacks
-- Dodge
-- Active Ability
-- Passive Ability
+Think of the Bleach flash step or vanishing in Dragon Ball Z.
+
+### Active Ability
+### Passive Ability
 
 # Art Style
 
