@@ -10,6 +10,9 @@ feeling cool
 
 # Core Mechanics
 ### Melee Combos
+
+The game should feel *a little*
+
 ### Ranged Attacks
 ### Dodge
 
