@@ -17,4 +17,4 @@ feeling cool
 This game
 
 > [!Note] How does this game relate to the studio's mission?
-> Contents
+> The [Home](<../Home.md>)
