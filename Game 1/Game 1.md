@@ -12,6 +12,7 @@ feeling cool
 
 - Melee Combos
 - Ranged Attacks
+- Dodge
 - Active Ability
 - Passive Ability
 
