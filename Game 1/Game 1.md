@@ -19,10 +19,13 @@ feeling cool
 
 This game uses a non-photorealistic art style. To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
 
-###
-- Jet Set Radio
-- XIII (Original & Remake)
-- Borderlands
+## Inspirations
+
+### Jet Set Radio
+
+### XIII (Original & Remake)
+
+### Borderlands
 
 # Overview
 
