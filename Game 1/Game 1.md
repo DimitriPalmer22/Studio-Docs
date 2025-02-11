@@ -18,13 +18,14 @@ A better reference for the combat is the Devil May Cry series. The player should
 The game's melee combat should be easy enough that the player can pick it up and play without too much difficulty. However, the combat system should feel deep enough that the game allows the player to become really good at it.
 
 ### Ranged Attacks
-### Dodge
+
+### Block
+
+Hold the block button to *reduce* the damage you take from an attack (not all attacks are able to be blocked).
+
+### Perfect Dodge
 
 Think of the Bleach flash step or vanishing in Dragon Ball Z.
-
-### Block / Parry
-
-Hold the block button to *reduce* the damage you take from an attack (not all attacks are able to be blocked). P
 ### Active Ability
 ### Passive Ability
 
