@@ -44,14 +44,14 @@ However, getting hit, not attacking for a while, and blocking for too long will 
 
 Using the active ability will
 
-#### Roguelike Element
-- The player chooses their active ability at the beginning of the game (from a list of like 3)
 
 ### Passive Ability
 
 The passive ability has a meter requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have different thresholds.
 
 #### Roguelike Element
+- The player chooses their passive ability at the beginning of the game (from a list of like 3).
+
 # Art Style
 
 This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/Non-photorealistic_rendering). To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
