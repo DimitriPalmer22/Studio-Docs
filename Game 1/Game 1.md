@@ -27,6 +27,11 @@ Hold the block button to *reduce* the damage you take from an attack (not all at
 
 Think of the Bleach flash step or vanishing in Dragon Ball Z. After performing a perfect dodge, time slows down *a little bit* and the player can perform a counter attack. This counter attack animation is *fast* enough to work against the time slowdown. This is so it can be used to interrupt an enemy's attack or break their combo.
 
+### Aura Meter (Name Pending)
+
+Performing perfect dodges and combos fills up the aura meter. 
+
+
 ### Active Ability
 ### Passive Ability
 
