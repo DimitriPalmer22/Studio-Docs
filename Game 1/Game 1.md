@@ -39,8 +39,9 @@ This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/No
 ![](<../_META/Attachments/screen_shot_2446.jpeg>)
 
 - Very flat coloring on the textures of the characters. The cel shading gives the characters some depth within the scene.
-- The colors used for the character here make them stand out from the background, even though the background is very colorful.
-- The outlines around the characters make them pop out from the background. Also, the use of colored outlines makes the characters stand out even more
+- The colors used for the character here make them stand out from the background, even though thebackground is very colorful.
+- The outlines around the chara cters make them pop out from the background. Also, the use of colored outlines makes the characters stand out even more
+- ***NOTE***: The models in Jet Set Radio are made in a way that makes the outline shader work well. The models are made with the outline shader in mind.
 
 ### XIII (Original & Remake)
 
