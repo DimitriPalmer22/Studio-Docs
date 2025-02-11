@@ -16,5 +16,5 @@ feeling cool
 
 This game
 
-> [!Note] How does this game relate to the studio's mission?
-> The [Home](<../Home.md>)
+> [!Note] How does this game relate to [the studio's mission](<../Home.md>)?
+> This game aims to 
