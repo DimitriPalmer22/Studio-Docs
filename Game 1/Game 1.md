@@ -15,6 +15,9 @@ The game should feel *a little* like the Batman Arkham series, but with more con
 
 A better reference for the combat is the Devil May Cry series. The player should have a lot of control over the combos they perform. The player should be able to chain together different attacks to create their own combos. In this way, the Ninja Gaiden games (specifically 1 and 2) are also a good reference.
 
+The game's melee combat should be easy en
+
+
 ### Ranged Attacks
 ### Dodge
 
