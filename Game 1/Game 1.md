@@ -34,7 +34,12 @@ Performing perfect dodges and combos fills up the meter. As the meter fills up, 
 However, getting hit, not attacking for a while, and blocking for too long will drain the meter. This should encourage the player to have a high risk, high reward playstyle.
 
 ### Active Ability
+
+Using the active ability will
+
 ### Passive Ability
+
+The passive ability has a meter requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different pads
 
 # Art Style
 
