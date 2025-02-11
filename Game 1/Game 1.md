@@ -17,4 +17,4 @@ feeling cool
 
 # Overview
 
-This game
+This game centers around the player feeling cool.
