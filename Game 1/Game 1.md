@@ -17,7 +17,7 @@ feeling cool
 
 # Art Style
 
-This game uses a non-photorealistic art style. To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
+This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/Non-photorealistic_rendering). To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
 
 ## Inspirations
 
@@ -31,6 +31,8 @@ This game uses a non-photorealistic art style. To achieve this, the game uses ce
 ### XIII (Original & Remake)
 
 ### Borderlands
+
+### Hi-Fi Rush
 
 # Overview
 
