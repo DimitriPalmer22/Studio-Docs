@@ -9,7 +9,7 @@ feeling cool
 
 - Melee combos
 - Ranged attacks
-- Abilities
+- Primary and SeAbilities
 
 # Overview
 
