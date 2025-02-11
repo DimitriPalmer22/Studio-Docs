@@ -10,11 +10,11 @@ feeling cool
 
 # Core Mechanics
 
-- Melee combos
-- Ranged attacks
+- Melee Combos
+- Ranged Attacks
 - Active Ability
 - Passive Ability
 
 # Overview
 
-This game centers around the player feeling cool.
+This game centers around the player feeling *cool*.
