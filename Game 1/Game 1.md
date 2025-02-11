@@ -29,7 +29,9 @@ Think of the Bleach flash step or vanishing in Dragon Ball Z. After performing a
 
 ### Aura Meter (Name Pending)
 
-Performing perfect dodges and combos fills up the meter. As the meter fills up, the player does slightly more damage and their combos get a little faster. H
+Performing perfect dodges and combos fills up the meter. As the meter fills up, the player does slightly more damage and their combos get a little faster.
+
+However, getting hit, not attacking for a while, and blocking for too long will drain the meter. This should encourage the player to have a high risk, high reward playstyle.
 
 ### Active Ability
 ### Passive Ability
