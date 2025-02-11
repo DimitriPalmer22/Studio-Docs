@@ -45,6 +45,7 @@ However, getting hit, not attacking for a while, and blocking for too long will 
 Using the active ability will
 
 #### Roguelike Element
+- 
 
 ### Passive Ability
 
