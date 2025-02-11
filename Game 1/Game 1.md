@@ -7,6 +7,10 @@ feeling cool
 
 # Core Mechanics
 
+- Melee combos
+- Ranged attacks
+- Abilities
+
 # Overview
 
 This game
