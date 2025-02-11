@@ -45,7 +45,7 @@ However, getting hit, not attacking for a while, and blocking for too long will 
 Using the active ability will
 
 #### Roguelike Element
-- 
+- The player chooses their active ability at the beginning of the game (from a list of like 3)
 
 ### Passive Ability
 
