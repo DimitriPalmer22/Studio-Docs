@@ -1,1 +1,1 @@
-Parent 
+This note is part of: [[]]
