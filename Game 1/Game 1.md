@@ -18,6 +18,9 @@ feeling cool
 # Art Style
 
 This game uses a non-photorealistic art style.
+- Jet Set Radio
+- XIII (Remake)
+- 
 
 # Overview
 
