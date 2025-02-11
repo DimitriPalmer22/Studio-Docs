@@ -25,7 +25,7 @@ This game uses a non-photorealistic art style. To achieve this, the game uses ce
 ![](<../_META/Attachments/screen_shot_2446.jpeg>)
 
 - Very flat coloring on the textures of the characters. The cel shading gives the characters some depth within the scene.
-- The 
+- The colors used t
 - The outlines around the characters make them pop out from the background. Also, the use of colored outlines makes the characters stand out even more
 
 ### XIII (Original & Remake)
