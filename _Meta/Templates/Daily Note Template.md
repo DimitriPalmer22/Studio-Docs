@@ -2,3 +2,6 @@
 cssclasses:
   - daily-note
 ---
+# Goals
+
+- [ ]
