@@ -6,8 +6,10 @@ See more about the game in the [Pitch](<./Pitch.md>)
 # High Concept
 feeling cool
 
+---
 # Feature List
 
+---
 # Core Mechanics
 ### Melee Combos
 
@@ -51,6 +53,7 @@ The passive ability has a meter requirement, meaning that the *meter* has to be 
 #### Roguelike Element
 - The player has 3 options at the start of the game: choose a random passive ability, choose a random active ability, or choose a random finisher (maybe).
 
+---
 # Art Style
 
 This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/Non-photorealistic_rendering). To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
@@ -71,6 +74,7 @@ This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/No
 
 ### Hi-Fi Rush
 
+---
 # Overview
 
 This game centers around the player feeling *cool*. With everything the player does, they should be aura farming. The game should be a power trip.
