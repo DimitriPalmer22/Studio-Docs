@@ -38,9 +38,9 @@ Think of the Bleach flash step or vanishing in Dragon Ball Z. After performing a
 
 ### Aura Meter (Name Pending)
 
-Performing perfect dodges and combos fills up the meter. As the meter fills up, the player does slightly more damage and their combos get a little faster.
+Performing perfect dodges and combos fills up the *meter*. As the *meter* fills up, the player does slightly more damage and their combos get a little faster.
 
-However, getting hit, not attacking for a while, and blocking for too long will drain the meter. This should encourage the player to have a high risk, high reward playstyle.
+However, getting hit, not attacking for a while, and blocking for too long will drain the *meter*. This should encourage the player to have a high risk, high reward playstyle.
 
 ### Active Ability
 
@@ -48,7 +48,7 @@ Using the active ability will
 
 ### Passive Ability
 
-The passive ability has a meter requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have different thresholds.
+The passive ability has a *meter* requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have different thresholds.
 
 #### Roguelike Element
 - The player has 3 options at the start of the game: choose a random passive ability, choose a random active ability, or choose a random finisher (maybe).
