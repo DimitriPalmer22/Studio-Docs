@@ -14,4 +14,4 @@ lorem ipsum
 -
 
 ### Games
-- [Game 1](<./Game 1/Game 1.md>)
+- [Project Aura](<./Project Aura/Project Aura.md>)
