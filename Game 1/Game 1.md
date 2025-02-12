@@ -44,11 +44,11 @@ However, getting hit, not attacking for a while, and blocking for too long will 
 
 ### Active Ability
 
-Using the active ability will
+Each active ability has a *meter* cost requirement. This means that the *meter* will drain whenever the player activates the ability. Different abilities have different costs.
 
 ### Passive Ability
 
-The passive ability has a *meter* requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have different thresholds.
+The passive ability has a *meter* requirement, meaning that the *meter* has to be above a certain threshold in order for the passive ability to activate. Activating a passive ability does not drain the *meter* A UI icon should indicate when the passive ability is available (Like the icon for the passive is usually greyed out, but when the *meter* is above the threshold, the icon lights up). Different passive abilities have different thresholds.
 
 #### Roguelike Element
 - The player has 3 options at the start of the game: choose a random passive ability, choose a random active ability, or choose a random finisher (maybe).
