@@ -60,6 +60,9 @@ This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/No
 
 ## Inspirations
 
+[This YouTube video about cel shading in Unreal](https://www.youtube.com/watch?v=eBS3BOI5KnM&ab_channel=VisualTechArt)
+![](<../_META/Attachments/Pasted image 20250218005044.png>)
+
 ### Jet Set Radio
 ![](<../_META/Attachments/screen_shot_2446.jpeg>)
 
