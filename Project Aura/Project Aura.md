@@ -56,7 +56,7 @@ The passive ability has a *meter* requirement, meaning that the *meter* has to b
 ---
 # Art Style
 
-This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/Non-photorealistic_rendering). To achieve this, the game uses cel shading, a limited color palette, and outlines around objects.
+This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/Non-photorealistic_rendering). To achieve this, the game uses cel shading, a limited color palette, and outlines around objects. The game will use these in combination with PBR materials to achieve a modern take on the cel shaded art style.
 
 ## Inspirations
 
