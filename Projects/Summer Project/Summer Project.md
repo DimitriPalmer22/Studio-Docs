@@ -12,13 +12,17 @@
 - **List your hard limits**
 	- Small team size
 	- Team composition
-		- x designers
 		- x artists
 		- x programmers
+		- x designers
 	- Team experience with Unreal Engine
 	- Limited time for the project
+	- Limited budget
+	- Communication (We don't see each other in person regularly)
 - **Reframe each limit as a fuel question**
-	-
+	- How can we turn our small team size into a project with a more focused scope?
+	- Team composition
+		- How can we leverage our artists
 - **Rapid‑fire ideation (15 m)**:
 	-
 - **Cluster & prune**:
