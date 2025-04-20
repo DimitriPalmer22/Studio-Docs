@@ -24,7 +24,7 @@
 		- Understand that we have a small team, so any new features should be easy to implement.
 	- How can we leverage our numerous designers to make up for the limited number of artists and programmers?
 		- Kitbashing
-		- Reusing assets in as many places as possible. 
+		- Reusing assets in as many places as possible.
 		- Areas can have the same assets but be set-dressed differently to make them distinct
 		- Use of modular asset kits
 		- Turn designers into in-engine technical artists to help with the art pipeline
@@ -35,7 +35,12 @@
 		- Use existing plugins from the marketplace
 		- Follow tutorials to recreate things
 		- Also, just get better at Unreal
-	- Limited time -> smaller scope / easier game to de
+	- Limited time -> smaller scope / easier game to develop
+	- Limited budget -> free assets / plugins / templates. Also, we'll create our own assets.
+	- How do we turn the fact that we don't see each other in person into a positive?
+		- We no longer have the restrictions of workshop, so we can work on the project whenever / however much we want.
+		- Being able to work in call together allows us to rapidly get feedback from each other and iterate on ideas
+
 - **Rapid‑fire ideation (15 m)**:
 	-
 - **Cluster & prune**:
