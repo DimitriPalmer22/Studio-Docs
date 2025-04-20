@@ -21,8 +21,9 @@
 	- Communication (We don't see each other in person regularly)
 - **Reframe each limit as a fuel question**
 	- How can we turn our small team size into a project with a more focused scope?
-	- Team composition
-		- How can we leverage our artists
+		- Understand that we have a small team, so any new 
+	- How can we leverage our numerous designers to make up for the limited number of artists and programmers?
+		- 
 - **Rapid‑fire ideation (15 m)**:
 	-
 - **Cluster & prune**:
