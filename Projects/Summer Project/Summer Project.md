@@ -27,7 +27,15 @@
 		- Reusing assets in as many places as possible. 
 		- Areas can have the same assets but be set-dressed differently to make them distinct
 		- Use of modular asset kits
-		- Turn designers into in-
+		- Turn designers into in-engine technical artists to help with the art pipeline
+	- How can we use our limited experience with Unreal Engine to create a game that is easy to develop?
+		- Use blueprints for everything
+		- Use existing assets from the marketplace
+		- Use existing templates from the marketplace
+		- Use existing plugins from the marketplace
+		- Follow tutorials to recreate things
+		- Also, just get better at Unreal
+	- Limited time -> smaller scope / easier game to de
 - **Rapid‑fire ideation (15 m)**:
 	-
 - **Cluster & prune**:
