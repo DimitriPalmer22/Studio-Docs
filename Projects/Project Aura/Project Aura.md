@@ -1,6 +1,6 @@
 See more about the game in the [Pitch](<./Pitch.md>)
 
-> [!Note] How does this game relate to [the studio's mission](<../Home.md>)?
+> [!Note] How does this game relate to [the studio's mission](<../../Home.md>)?
 > Before the studio makes games that directly pursue the mission, we will make games that help build the community and brand we think will best serve the mission in the future.
 
 # High Concept
@@ -61,10 +61,10 @@ This game uses a [non-photorealistic art style](https://en.wikipedia.org/wiki/No
 ## Inspirations
 
 [This YouTube video about cel shading in Unreal](https://www.youtube.com/watch?v=eBS3BOI5KnM&ab_channel=VisualTechArt)
-![](<../_META/Attachments/Pasted image 20250218005044.png>)
+![](<../../_META/Attachments/Pasted image 20250218005044.png>)
 
 ### Jet Set Radio
-![](<../_META/Attachments/screen_shot_2446.jpeg>)
+![](<../../_META/Attachments/screen_shot_2446.jpeg>)
 
 - Very flat coloring on the textures of the characters. The cel shading gives the characters some depth within the scene.
 - The colors used for the character here make them stand out from the background, even though the background is very colorful.

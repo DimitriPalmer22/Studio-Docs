@@ -14,4 +14,4 @@ lorem ipsum
 -
 
 ### Games
-- [Project Aura](<./Project Aura/Project Aura.md>)
+- [Project Aura](<./Projects/Project Aura/Project Aura.md>)
