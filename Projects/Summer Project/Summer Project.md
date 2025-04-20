@@ -11,6 +11,11 @@
 
 - **List your hard limits**
 	- Team size
+	- Team composition
+		- x designers
+		- x artists
+		- x programmers
+	- Team experience with Unreal Engine
 	- 
 - **Reframe each limit as a fuel question**
 	-
