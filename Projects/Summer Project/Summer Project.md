@@ -10,13 +10,13 @@
 ## 2. Constraints‑Driven Brainstorming
 
 - **List your hard limits**
-	- Team size
+	- Small team size
 	- Team composition
 		- x designers
 		- x artists
 		- x programmers
 	- Team experience with Unreal Engine
-	- 
+	- Limited time for the project
 - **Reframe each limit as a fuel question**
 	-
 - **Rapid‑fire ideation (15 m)**:
