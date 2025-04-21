@@ -23,7 +23,7 @@
 	- How can we turn our small team size into a project with a more focused scope?
 		- Understand that we have a small team, so any new features should be easy to implement.
 	- How can we leverage our numerous designers to make up for the limited number of artists and programmers?
-		- Kitbashing
+		- Kitbashing (Ian Hubert)
 		- Reusing assets in as many places as possible.
 		- Areas can have the same assets but be set-dressed differently to make them distinct
 		- Use of modular asset kits
