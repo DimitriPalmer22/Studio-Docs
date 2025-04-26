@@ -85,7 +85,7 @@
 ### Structure of the Game
 
 #### What is an "Area"?
-- Areas are like the floors in a roguelike. They are themed areas that the player must traverse to reach the final boss.
+- ***Areas*** are like the floors in a roguelike. They are themed areas that the player must traverse to reach the final boss.
 	- Think the floors in *Hades*, *Enter the Gungeon*, *The Binding of Isaac*, etc.
 - Each area is broken up into a series of "rooms". Each room is a small space that contains a series of enemies, traps, and other obstacles.
 	- The player must defeat all the enemies in a room to progress to the next room.
@@ -93,14 +93,18 @@
 - Generally, no area's layout is predefined. Instead, the areas are procedurally generated.
 	- This means that the areas are randomly generated each time the player plays the game.
 	- This allows for a high degree of replayability and keeps the game fresh and exciting.
-
+- The individual rooms are pre-defined, but the order in which the player encounters them is random.
+	- Much like the rooms in *Enter the Gungeon*, the rooms are randomly chosen from a pool of rooms.
+- Each area has a specific theme, which is reflected in the enemies, traps, and other obstacles the player encounters.
+	- For example, one area might be themed around fire, while another might be themed around ice.
+	- The enemies in each area will also reflect this theme.
 
 #### Area 1
-
+-
 #### Area 2
-
+-
 #### Area 3
-
+-
 #### Final Boss
 - Boss area
 
