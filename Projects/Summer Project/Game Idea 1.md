@@ -71,8 +71,9 @@
 			- purposely decrease one of their tome's stats
 		- As a result, this increases the player's base stats.
 			- Depending on what you sacrifice, the player will get a different amount of base stats.
-	- *Rewrite* (name pending)
-		- 
+	- *Overwrite* (name pending)
+		- Increase the stats of the tome overall.
+		- One of the abilities of the tome (of the ones it currently )
 	- *Empower* (name pending)
 		- - 
 
