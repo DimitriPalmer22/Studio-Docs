@@ -62,7 +62,13 @@
 
 #### Progressing Through the Run / Getting Stronger
 - At the end of each floor, the player has a couple options
-- 
+- They can choose to:
+	- *Relinquish* (name pending)
+		- The player can choose to sacrifice
+	- *Rewrite* (name pending)
+		- -
+	- *Empower* (name pending)
+		- - 
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
