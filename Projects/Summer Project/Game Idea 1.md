@@ -56,7 +56,9 @@
 		- Tome B's meter fills up when the player dodges enemy attacks.
 
 ##### Passive Abilities
--
+- Each tome has a number of passive ability slots
+- Some tomes come with most / all of these slots pre-filled, but some slots may remain empty so the player can acquire more throughout their run.
+- These passive abilities can be anything from stat boosts to effects that trigger under specific circumstances.
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
