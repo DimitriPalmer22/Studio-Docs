@@ -1,3 +1,8 @@
+## 0. Jotting down Ideas
+
+- Genre: Fantasy (Magic) Roguelike
+- 
+
 ## 1. Three Creative Pillars
 
 | Pillar               | Core Question                                                        | Outcome |
