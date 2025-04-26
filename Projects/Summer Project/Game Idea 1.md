@@ -10,7 +10,8 @@
 		- Think *Devil May Cry*
 - Visual Style:
 	- Stylized Cel-shaded visuals
-	- shaded regions should be very very dark to give them a deep contras
+		- shaded regions should be very very dark to give them a deep contrast to the bright colors of the cel-shaded regions. Maybe even use occlusion masks to give the illusion of depth in places that need it more.
+		- For the most part, textures should be very simple. Mainly, they should be flat colors. Then, apply line work to give the illusion of depth and detail.
 
 ### Main Mechanics
 
