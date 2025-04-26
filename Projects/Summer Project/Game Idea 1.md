@@ -39,9 +39,10 @@
 ##### Ultimate Spell (OPTIONAL)
 - Some tomes have an ultimate spell.
 - These spells are very powerful, and can be used to get the player out of a pinch instantly.
-- However, they recharge very slowly / have extreme recharge conditions. For example, 
+- However, they recharge very slowly / have extreme recharge conditions. For example,
 	- Spell A only recharges while under 30% health.
-	- Spell B takes 5 
+	- Spell B takes 5 minutes to recharge.
+	- Spell C only starts to recharge after the player has not taken damage for X rooms.
 
 ##### Transformation (OPTIONAL)
 
@@ -59,7 +60,10 @@
 		- The questions / responses you unlock are tied to in-game achievements.
 		- The number of questions in the beginning sequence is tied to how far you've made it in your runs / how many times you made it very far.
 
-###
+### Incentive to Keep Going
+- Given that some powers / abilities have time-based mechanics, there needs to be a way to prevent the player from waiting in safe spaces for the cooldowns to finish.
+- *Idea*: Stop the timers while the rooms / areas are not active?
+- *Idea*: Have a timer that counts down to the next wave of enemies / next room.
 
 ## 1. Three Creative Pillars
 
