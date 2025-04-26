@@ -106,6 +106,7 @@
 	- What I mean is, the rooms do not need to be designed to flow into each other using the same assets.
 	- In fact, we can play into the rooms not making much sense together because of some magical reason.
 - The rooms can be designed to be completely different from each other, as long as they are fun to play in and look good.
+- Also, given our wide range of level designers, we can have a wide range of styles and themes for the rooms.
 
 #### Area 1
 - Theme:
