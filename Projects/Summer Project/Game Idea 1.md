@@ -4,8 +4,10 @@
 - 3D
 - 3rd Person, NOT top-down
 - The game is supposed to feel like:
-	- Difficulty: ETG / Risk of Rain / Hades
-	- Combat: 
+	- Difficulty: The player should never feel too powerful in relation to the enemies, even if they are having a really good run. Items / abilities should not carry the player's run. If anything, the player's skill should be the determining factor for how easy the game is.
+		- Think Enter the Gungeon / Risk of Rain / Hades
+	- Combat: Combat is fast-paced and skill-based. The player should feel like they are constantly moving and dodging.
+		
 
 ### Main Mechanics
 
