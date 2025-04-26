@@ -1,6 +1,8 @@
 ## 0. Jotting down Ideas
 
 - Genre: Fantasy (Magic) Roguelike
+- 3D
+- 3rd Person, NOT top-down
 
 ### Main Mechanics
 
@@ -22,7 +24,8 @@
 
 ##### Secondary Spell
 - Each tome comes with a secondary spell.
-- This is 
+- This is an additional spell the player will use in conjunction with the primary spell.
+- These can be used at a much less regular interval than the primary spell since they are more powerful.
 
 ##### Ultimate Spell (OPTIONAL)
 
