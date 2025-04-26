@@ -5,7 +5,8 @@
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
 	- These questions have a LARGE list of possible responses
 	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood, the effect will be different)
-	- 
+	- This serves as our initial character building, which we go into the rest of the run with.
+	- Note: The player's answers to the questions will be stored in a page at the front / back of the ***Tome*** for the duration of the run.
 
 ## 1. Three Creative Pillars
 
