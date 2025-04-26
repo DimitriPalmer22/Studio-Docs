@@ -71,11 +71,13 @@
 			- purposely decrease one of their tome's stats
 		- As a result, this increases the player's base stats.
 			- Depending on what you sacrifice, the player will get a different amount of base stats.
+		- This way, the player can keep their current tome and still get stronger if they really like it.
+		- Also, once the player does decide to change tomes, they still retain the stats they gained from relinquishing their tome.
 	- *Overwrite* (name pending)
 		- Increase the stats of the tome overall.
-		- One of the abilities of the tome (of the ones it currently )
+		- One of the spells of the tome (of the ones it currently has) gets replaced with a new spell (that is usually more powerful)
 	- *Empower* (name pending)
-		- - 
+		- This option is only available if the player does well for this floor / completes this flo
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
