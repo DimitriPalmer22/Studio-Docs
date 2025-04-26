@@ -2,6 +2,13 @@
 
 - Genre: Fantasy (Magic) Roguelike
 
+### Main Mechanics
+
+#### The Tome
+- A tome is a magical book that contains a collection of spells and abilities the player can use.
+- A core idea I
+
+### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
 	- These questions have a LARGE list of possible responses
 	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood, the effect will be different)
@@ -12,6 +19,8 @@
 		- As we get further through the game and defeat more bosses, we unlock more questions to choose from / more answers to choose from / a longer sequence of questions.
 		- The questions / responses you unlock are tied to in-game achievements.
 		- The number of questions in the beginning sequence is tied to how far you've made it in your runs / how many times you made it very far.
+
+###
 
 ## 1. Three Creative Pillars
 
