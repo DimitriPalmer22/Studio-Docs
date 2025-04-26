@@ -64,9 +64,15 @@
 - At the end of each floor, the player has a couple options
 - They can choose to:
 	- *Relinquish* (name pending)
-		- The player can choose to sacrifice
+		- The player can choose to:
+			- sacrifice one of their passive abilities
+			- sacrifice one of their ultimate spell
+			- sacrifice their transformation spell
+			- purposely decrease one of their tome's stats
+		- As a result, this increases the player's base stats.
+			- Depending on what you sacrifice, the player will get a different amount of base stats.
 	- *Rewrite* (name pending)
-		- -
+		- 
 	- *Empower* (name pending)
 		- - 
 
