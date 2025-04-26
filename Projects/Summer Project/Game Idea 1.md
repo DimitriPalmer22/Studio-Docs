@@ -43,10 +43,13 @@
 	- Spell A only recharges while under 30% health.
 	- Spell B takes 5 minutes to recharge.
 	- Spell C only starts to recharge after the player has not taken damage for X rooms.
+- Each use of these 
 
 ##### Transformation (OPTIONAL)
+-
 
 ##### Passive Abilities
+-
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
@@ -63,7 +66,12 @@
 ### Incentive to Keep Going
 - Given that some powers / abilities have time-based mechanics, there needs to be a way to prevent the player from waiting in safe spaces for the cooldowns to finish.
 - *Idea*: Stop the timers while the rooms / areas are not active?
-- *Idea*: Have a timer that counts down to the next wave of enemies / next room.
+- *Idea*: Have a time-based incentive at the end of the floor
+	- For example, the player has to defeat a boss at the end of the floor within a certain time limit.
+	- If they don't, they get a penalty (maybe a curse or something)
+- *Idea*: Have a curse that makes the player take damage if they stay in a room for too long.
+- *Idea*: Like Persona's Reaper, spawn a strong enemy if the player stays in an empty room for too long.
+	- This enemy is a very powerful mini-boss that can only be defeated with late-game stats and abilities.
 
 ## 1. Three Creative Pillars
 
