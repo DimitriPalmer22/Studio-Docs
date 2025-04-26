@@ -82,6 +82,21 @@
 - *Idea*: Like Persona's Reaper, spawn a strong enemy if the player stays in an empty room for too long.
 	- This enemy is a very powerful mini-boss that can only be defeated with late-game stats and abilities.
 
+### Structure of the Game
+
+#### What is an "Area"?
+- Areas are like the floors in a roguelike
+	- Think the floors in *Hades*, *Enter the Gungeon*
+
+#### Area 1
+
+#### Area 2
+
+#### Area 3
+
+#### Final Boss
+- Boss area
+
 ## 1. Three Creative Pillars
 
 | Pillar               | Core Question                                                        | Outcome                                                                                                                                                                                        |
