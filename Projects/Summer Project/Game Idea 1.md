@@ -6,7 +6,20 @@
 
 #### The Tome
 - A tome is a magical book that contains a collection of spells and abilities the player can use.
-- A core idea I
+- A core idea I want for the game is that your tome is only so modifiable.
+	- If you want to significantly change your tome, you have to find a new one.
+
+##### Stats
+
+##### Primary Spell
+
+##### Secondary Spell
+
+##### Ultimate Spell (OPTIONAL)
+
+##### Transformation (OPTIONAL)
+
+##### Passive Abilities
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
