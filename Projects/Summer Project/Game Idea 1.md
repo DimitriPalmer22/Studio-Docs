@@ -10,8 +10,14 @@
 	- If you want to significantly change your tome, you have to find a new one.
 
 ##### Stats
+- Separate from the player's stats, the tome has its own stats.
+- These stats serve as percentage modifiers to the player's stats.
+	- For example: +12% to spell damage, +5% to spell cooldown, etc.
+- Having the tomes be a separate entity from the player allows us to have a more interesting progression system / makes it easier to randomize them and make them feel distinct.
 
 ##### Primary Spell
+- Each tome comes with a primary spell.
+- This is 
 
 ##### Secondary Spell
 
