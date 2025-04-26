@@ -91,7 +91,7 @@
 	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood, the effect will be different)
 	- This serves as our initial character building, which we go into the rest of the run with.
 	- Note: The player's answers to the questions will be stored in a page at the front / back of the ***Tome*** for the duration of the run.
-	- **IDEA**: For long-term progrssion, we can unlock more questions at the start of our runs AND a wider selection of questions / responses.
+	- **IDEA**: For long-term progression, we can unlock more questions at the start of our runs AND a wider selection of questions / responses.
 		- For example, when booting the game for the very first time, the player gets a sequence of 3 random questions from a list of like 10 total.
 		- As we get further through the game and defeat more bosses, we unlock more questions to choose from / more answers to choose from / a longer sequence of questions.
 		- The questions / responses you unlock are tied to in-game achievements.
@@ -141,6 +141,7 @@
 	- The player should feel like they are in a safe space when they enter these rooms.
 	- The player should not feel like they are in danger of being attacked by enemies in these rooms.
 	- These spaces should also be used to deliver some type of environmental storytelling
+- Each level designer can
 
 #### Area 1
 - Theme: Prison / Dungeon
