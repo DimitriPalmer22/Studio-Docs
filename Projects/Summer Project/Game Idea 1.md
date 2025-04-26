@@ -5,9 +5,12 @@
 - 3rd Person, NOT top-down
 - The game is supposed to feel like:
 	- Difficulty: The player should never feel too powerful in relation to the enemies, even if they are having a really good run. Items / abilities should not carry the player's run. If anything, the player's skill should be the determining factor for how easy the game is.
-		- Think Enter the Gungeon / Risk of Rain / Hades
-	- Combat: Combat is fast-paced and skill-based. The player should feel like they are constantly moving and dodging.
-		
+		- Think Enter the Gungeon / Risk of Rain / *Hades*
+	- Combat: Combat is fast-paced and skill-based. The player should feel like they need to frequently move and dodge to avoid enemy attacks. The combat should feel simple enough that the player can pick it up and play, but complex enough that they can learn new things and improve over time.
+		- Think *Devil May Cry*
+- Visual Style:
+	- Stylized Cel-shaded visuals
+	- shaded regions should be very very dark to give them a deep contras
 
 ### Main Mechanics
 
