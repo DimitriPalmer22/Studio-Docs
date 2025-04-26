@@ -112,12 +112,15 @@
 - First and foremost, the rooms NEED to facilitate combat.
 	- The rooms need to be designed to allow for the player to move around freely and dodge enemy attacks.
 	- The player should rarely ever feel like the room is too small or cramped due to props or architecture getting in the way.
-- ROOMS THAT ARE NOT USED FOR COMBAT (like shops) ARE ALLOWED TO BE SMALLER / MORE DENSE WITH PROP
+- ROOMS THAT ARE NOT USED FOR COMBAT (like shops) ARE ALLOWED TO BE SMALLER / MORE DENSE WITH PROPS
+	- The player should feel like they are in a safe space when they enter these rooms.
+	- The player should not feel like they are in danger of being attacked by enemies in these rooms.
+	- These spaces should also be used to deliver some type of environmental storytelling
 
 #### Area 1
-- Theme:
+- Theme: Prison / Dungeon
 #### Area 2
-- Theme:
+- Theme: 
 #### Area 3
 - Theme:
 #### Final Boss Area
