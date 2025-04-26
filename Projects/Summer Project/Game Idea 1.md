@@ -100,13 +100,14 @@
 	- The enemies in each area will also reflect this theme.
 
 #### Area 1
--
+- Theme:
 #### Area 2
--
+- Theme:
 #### Area 3
--
-#### Final Boss
-- Boss area
+- Theme:
+#### Final Boss Area
+- Boss area is the only predetermined area in the game.
+- Instead of having a series of rooms the player must fight through, the final boss consists of a couple utility rooms and then the boss arena room.
 
 ## 1. Three Creative Pillars
 
