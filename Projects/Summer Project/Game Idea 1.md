@@ -9,7 +9,9 @@
 	- Note: The player's answers to the questions will be stored in a page at the front / back of the ***Tome*** for the duration of the run.
 	- **IDEA**: For long-term progrssion, we can unlock more questions at the start of our runs AND a wider selection of questions / responses.
 		- For example, when booting the game for the very first time, the player gets a sequence of 3 random questions from a list of like 10 total.
-		- As we get further through the game and defeat more bosses, we unlock more questions to choose from / more answ
+		- As we get further through the game and defeat more bosses, we unlock more questions to choose from / more answers to choose from / a longer sequence of questions.
+		- The questions / responses you unlock are tied to in-game achievements.
+		- The number of questions in the beginning sequence is tied to how far you've made it in your runs / how many times you made it very far.
 
 ## 1. Three Creative Pillars
 
