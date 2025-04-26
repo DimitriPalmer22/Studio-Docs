@@ -61,10 +61,10 @@
 - These passive abilities can be anything from stat boosts to effects that trigger under specific circumstances.
 
 #### Progressing Through the Run / Getting Stronger
-- After completing a floor, the player has to answer another question. Depending on thei
-- At the end of each floor, the player has a couple options
-- They can choose to:
+- After completing a floor, the player has to answer another question. Depending on their response, they get a different set of random base-stat boosts.
+- At the end of each floor, the player has a couple options. They can choose to:
 	- *Relinquish* (name pending)
+		- Thematically, tomes can't really change unless you give something up. Generally, there is a ceiling to how strong a tome can be.
 		- The player can choose to:
 			- sacrifice one of their passive abilities
 			- sacrifice one of their ultimate spell
@@ -75,6 +75,7 @@
 		- This way, the player can keep their current tome and still get stronger if they really like it.
 		- Also, once the player does decide to change tomes, they still retain the stats they gained from relinquishing their tome.
 	- *Overwrite* (name pending)
+		- 
 		- Increase the stats of the tome overall.
 		- One of the spells of the tome (of the ones it currently has) gets replaced with a new spell (that is usually more powerful)
 	- *Empower* (name pending)
