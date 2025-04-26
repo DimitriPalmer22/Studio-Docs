@@ -17,9 +17,12 @@
 
 ##### Primary Spell
 - Each tome comes with a primary spell.
-- This is 
+- This is the main spell the player will be using to fight enemies.
+- Should be able to be used with no cost / drawback.
 
 ##### Secondary Spell
+- Each tome comes with a secondary spell.
+- This is 
 
 ##### Ultimate Spell (OPTIONAL)
 
