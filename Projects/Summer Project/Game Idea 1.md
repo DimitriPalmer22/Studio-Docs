@@ -37,6 +37,11 @@
 - These can be used at a much less regular interval than the primary spell since they are more powerful.
 
 ##### Ultimate Spell (OPTIONAL)
+- Some tomes have an ultimate spell.
+- These spells are very powerful, and can be used to get the player out of a pinch instantly.
+- However, they recharge very slowly / have extreme recharge conditions. For example, 
+	- Spell A only recharges while under 30% health.
+	- Spell B takes 5 
 
 ##### Transformation (OPTIONAL)
 
