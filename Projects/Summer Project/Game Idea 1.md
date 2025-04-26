@@ -61,6 +61,7 @@
 - These passive abilities can be anything from stat boosts to effects that trigger under specific circumstances.
 
 #### Progressing Through the Run / Getting Stronger
+- After completing a floor, the player has to answer another question. Depending on thei
 - At the end of each floor, the player has a couple options
 - They can choose to:
 	- *Relinquish* (name pending)
@@ -77,7 +78,7 @@
 		- Increase the stats of the tome overall.
 		- One of the spells of the tome (of the ones it currently has) gets replaced with a new spell (that is usually more powerful)
 	- *Empower* (name pending)
-		- This option is only available if the player does well for this floor / completes this flo
+		- This option is only available if the player does well for this floor / completes this floor quickly
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
