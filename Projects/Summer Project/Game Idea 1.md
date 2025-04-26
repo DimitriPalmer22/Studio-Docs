@@ -4,7 +4,8 @@
 
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
 	- These questions have a LARGE list of possible responses
-	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood,)
+	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood, the effect will be different)
+	- 
 
 ## 1. Three Creative Pillars
 
