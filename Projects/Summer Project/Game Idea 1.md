@@ -43,10 +43,11 @@
 	- Spell A only recharges while under 30% health.
 	- Spell B takes 5 minutes to recharge.
 	- Spell C only starts to recharge after the player has not taken damage for X rooms.
-- Each use of these 
+- Each use of these spells should feel grand and powerful (using VFX and sound design to make them feel impactful).
 
 ##### Transformation (OPTIONAL)
--
+- Some tomes have a transformation ability.
+- These are not a literal change in form, but more a temporary augment to the player's abilities / s
 
 ##### Passive Abilities
 -
