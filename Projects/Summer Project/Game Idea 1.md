@@ -47,7 +47,13 @@
 
 ##### Transformation (OPTIONAL)
 - Some tomes have a transformation ability.
-- These are not a literal change in form, but more a temporary augment to the player's abilities / s
+- These are not a literal change in form, but more a temporary augment to the player's abilities / stats.
+- For example:
+	- Tome A gives the player a bright blue aura that increases their damage by 50% for 10 seconds.
+- Instead of being time-based cooldowns, these have meters that fill up based on the player's actions. They also deplete partially if the player plays poorly.
+	- For example:
+		- Tome A's meter fills up when the player hits enemies with their primary spell.
+		- Tome B's meter fills up when the player dodges enemy attacks.
 
 ##### Passive Abilities
 -
