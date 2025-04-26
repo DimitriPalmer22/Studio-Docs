@@ -75,11 +75,12 @@
 		- This way, the player can keep their current tome and still get stronger if they really like it.
 		- Also, once the player does decide to change tomes, they still retain the stats they gained from relinquishing their tome.
 	- *Overwrite* (name pending)
-		- 
+		- Thematically / lore-wise, you are replacing a page in your tome with a new one, allowing you to change your tome. However, you need some sort of special item (which breaks upon use) to do this.
 		- Increase the stats of the tome overall.
 		- One of the spells of the tome (of the ones it currently has) gets replaced with a new spell (that is usually more powerful)
 	- *Empower* (name pending)
 		- This option is only available if the player does well for this floor / completes this floor quickly
+		- Thematically,
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
