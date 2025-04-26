@@ -3,6 +3,7 @@
 - Genre: Fantasy (Magic) Roguelike
 - 3D
 - 3rd Person, NOT top-down
+- The game is supposed to feel
 
 ### Main Mechanics
 
@@ -49,8 +50,8 @@
 
 ## 1. Three Creative Pillars
 
-| Pillar               | Core Question                                                        | Outcome                                                                                                    |
-| -------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
-| **Emotional Spine**  | What core feeling do we want players to experience every 10 minutes? | Every choice they make is important. Choices lead to a sense of power (not overwhelming or underwhelming.) |
-| **Interactive Hook** | Which single mechanic will define the loop and reinforce the spine?  |                                                                                                            |
-| **Narrative Thread** | What story beat anchors player choice to world reaction?             |                                                                                                            |
+| Pillar               | Core Question                                                        | Outcome                                                                                                                                                                                        |
+| -------------------- | -------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Emotional Spine**  | What core feeling do we want players to experience every 10 minutes? | Every choice they make is important. <br><br>Choices lead to a sense of power (not overwhelming or underwhelming.).<br><br>The constant focus on combat gives the player a rush of adrenaline. |
+| **Interactive Hook** | Which single mechanic will define the loop and reinforce the spine?  |                                                                                                                                                                                                |
+| **Narrative Thread** | What story beat anchors player choice to world reaction?             |                                                                                                                                                                                                |
