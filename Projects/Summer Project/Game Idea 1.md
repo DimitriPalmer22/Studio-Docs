@@ -109,7 +109,10 @@
 - Also, given our wide range of level designers, we can have a wide range of styles and themes for the rooms.
 - Also, given with our lack of artists, we can focus on getting a wide range of small and simple props. We'll use those to set-dress the rooms and make them feel distinct.
 	- Try to stay away from having large props that take a long time to make and only appear in one or two rooms.
-- First and foremost, the rooms NEED to facilitate combat
+- First and foremost, the rooms NEED to facilitate combat.
+	- The rooms need to be designed to allow for the player to move around freely and dodge enemy attacks.
+	- The player should rarely ever feel like the room is too small or cramped due to props or architecture getting in the way.
+- ROOMS THAT ARE NOT USED FOR COMBAT (like shops) ARE ALLOWED TO BE SMALLER / MORE DENSE WITH PROP
 
 #### Area 1
 - Theme:
