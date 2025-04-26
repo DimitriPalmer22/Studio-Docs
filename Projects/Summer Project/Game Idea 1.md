@@ -2,8 +2,9 @@
 
 - Genre: Fantasy (Magic) Roguelike
 
-- Every time you start a run, you are given a series of random questions.
-	- These questions have a LARGE
+- Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
+	- These questions have a LARGE list of possible responses
+	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood,)
 
 ## 1. Three Creative Pillars
 
