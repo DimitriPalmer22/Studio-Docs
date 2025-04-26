@@ -80,7 +80,10 @@
 		- One of the spells of the tome (of the ones it currently has) gets replaced with a new spell (that is usually more powerful)
 	- *Empower* (name pending)
 		- This option is only available if the player does well for this floor / completes this floor quickly
-		- Thematically,
+		- Thematically, a special person who is very good at magic comes and empowers the player's tome. However, they are being chased by something, so they leave the floor after enough time has passed.
+		- Special shop that allows the player to buy a new spell / ability for their tome.
+		- Can also buy special upgrades for their tome.
+		- No sacrifice btw.
 
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
