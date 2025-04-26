@@ -99,6 +99,8 @@
 	- For example, one area might be themed around fire, while another might be themed around ice.
 	- The enemies in each area will also reflect this theme.
 
+#### Le
+
 #### Area 1
 - Theme:
 #### Area 2
