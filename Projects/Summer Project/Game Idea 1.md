@@ -141,7 +141,7 @@
 	- The player should feel like they are in a safe space when they enter these rooms.
 	- The player should not feel like they are in danger of being attacked by enemies in these rooms.
 	- These spaces should also be used to deliver some type of environmental storytelling
-- Each level designer can
+- Each level designer can work asynchronously on their rooms while regularly checking in with each other / the CD to make sure the rooms are cohesive and fit within the overall theme of the game.
 
 #### Area 1
 - Theme: Prison / Dungeon
