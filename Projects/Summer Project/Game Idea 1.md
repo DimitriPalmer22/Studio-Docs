@@ -107,6 +107,9 @@
 	- In fact, we can play into the rooms not making much sense together because of some magical reason.
 - The rooms can be designed to be completely different from each other, as long as they are fun to play in and look good.
 - Also, given our wide range of level designers, we can have a wide range of styles and themes for the rooms.
+- Also, given with our lack of artists, we can focus on getting a wide range of small and simple props. We'll use those to set-dress the rooms and make them feel distinct.
+	- Try to stay away from having large props that take a long time to make and only appear in one or two rooms.
+- First and foremost, the rooms NEED to facilitate combat
 
 #### Area 1
 - Theme:
