@@ -18,7 +18,7 @@
 #### The Tome
 - A tome is a magical book that contains a collection of spells and abilities the player can use.
 - A core idea I want for the game is that your tome is only so modifiable.
-	- If you want to significantly change your tome, you have to find a new one.
+	- If you want to significantly change / upgrade your tome, you have to find a new one.
 
 ##### Stats
 - Separate from the player's stats, the tome has its own stats.
