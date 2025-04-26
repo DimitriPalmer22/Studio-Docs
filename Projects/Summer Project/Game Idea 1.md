@@ -60,6 +60,10 @@
 - Some tomes come with most / all of these slots pre-filled, but some slots may remain empty so the player can acquire more throughout their run.
 - These passive abilities can be anything from stat boosts to effects that trigger under specific circumstances.
 
+#### Progressing Through the Run / Getting Stronger
+- At the end of each floor, the player has a couple options
+- 
+
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
 	- These questions have a LARGE list of possible responses
@@ -120,7 +124,7 @@
 #### Area 1
 - Theme: Prison / Dungeon
 #### Area 2
-- Theme: 
+- Theme:
 #### Area 3
 - Theme:
 #### Final Boss Area
