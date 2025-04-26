@@ -85,8 +85,15 @@
 ### Structure of the Game
 
 #### What is an "Area"?
-- Areas are like the floors in a roguelike
-	- Think the floors in *Hades*, *Enter the Gungeon*
+- Areas are like the floors in a roguelike. They are themed areas that the player must traverse to reach the final boss.
+	- Think the floors in *Hades*, *Enter the Gungeon*, *The Binding of Isaac*, etc.
+- Each area is broken up into a series of "rooms". Each room is a small space that contains a series of enemies, traps, and other obstacles.
+	- The player must defeat all the enemies in a room to progress to the next room.
+	- Rooms can also contain treasure chests, shops, and other points of interest.
+- Generally, no area's layout is predefined. Instead, the areas are procedurally generated.
+	- This means that the areas are randomly generated each time the player plays the game.
+	- This allows for a high degree of replayability and keeps the game fresh and exciting.
+
 
 #### Area 1
 
