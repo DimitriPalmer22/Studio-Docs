@@ -99,7 +99,13 @@
 	- For example, one area might be themed around fire, while another might be themed around ice.
 	- The enemies in each area will also reflect this theme.
 
-#### Le
+#### Level Design Methodology
+- The game is designed to be procedurally generated, but the individual rooms are pre-defined.
+- This means that there are a series of rooms that are designed to be used in the game, but the order in which they are encountered is random.
+- As a result, there does not need to be much continuity between the rooms.
+	- What I mean is, the rooms do not need to be designed to flow into each other using the same assets.
+	- In fact, we can play into the rooms not making much sense together because of some magical reason.
+- The rooms can be designed to be completely different from each other, as long as they are fun to play in and look good.
 
 #### Area 1
 - Theme:
