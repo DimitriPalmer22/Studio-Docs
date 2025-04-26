@@ -3,7 +3,9 @@
 - Genre: Fantasy (Magic) Roguelike
 - 3D
 - 3rd Person, NOT top-down
-- The game is supposed to feel
+- The game is supposed to feel like:
+	- Difficulty: ETG / Risk of Rain / Hades
+	- Combat: 
 
 ### Main Mechanics
 
