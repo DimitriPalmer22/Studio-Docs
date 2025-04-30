@@ -7,7 +7,7 @@ I want to avoid this with the new game. I want to have a clear idea of what the 
 
 ChatGPT prompt for developing a proper production structure / pipeline:
 ## Prompt
-I am currently leading a team of game developers, and the game we are currently making is in the early stages of development. I want to make sure that we have a solid production structure in place to ensure that the game is developed efficiently and effectively.
+I am currently leading a team of game developers, and the game we are currently making is in the early stages of development. I want to make sure that we have a solid production structure in place to ensure that the game is developed efficiently and effectively. It should be noted that our team has no dedicated producer.
 
 I have an idea for how I can properly structure the tasks and workflow of the team. The idea is as follows:
 
@@ -21,4 +21,3 @@ I have an idea for how I can properly structure the tasks and workflow of the te
 - Each *task* has a *due date* that is set by the team lead. This due date is based on the overall timeline of the game and the deadlines that we have set for ourselves.
 
 What can be improved about this structure? What are some things that I should consider when implementing this structure? What are some potential pitfalls that I should be aware of?
-
