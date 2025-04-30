@@ -46,6 +46,6 @@ This is an example description of what the task is. Here, we describe:
 
 ##### Task Quality Standards
 This is an example description of what the quality standard is for this task. Here, we describe:
-- Minimum Acceptable Standard (MAS): What is the bare minimum that needs to be done in order for this task to be considered complete? This is something we are *comfortable* putting into the game, but definitely needs some type of improvement or iteration. Things at this level should only stay in the game if time becomes a concern.
-- Preferred Standard: What is the preferred standard for this task? This is something we are *happy* putting into the game. Things at this level should be polished and ready to go. This is the standard we should be aiming for.
-- 
+- Level 1 - Minimum Acceptable Standard (MAS): What is the bare minimum that needs to be done in order for this task to be considered complete? This is something we are *comfortable* putting into the game, but definitely needs some type of improvement or iteration. Things at this level should only stay in the game if time becomes a concern.
+- Level 2 - Preferred Standard: What is the preferred standard for this task? This is something we are *happy* putting into the game. Things at this level should be polished and ready to go. This is the standard we should be aiming for.
+- Level 3: Anything at this point should be considered goldplating. This is something we are *proud* to put into the game. This is something that we should be aiming for, but if we don't have time, it is okay to leave it out.
