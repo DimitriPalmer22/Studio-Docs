@@ -5,3 +5,6 @@ One of the main issues I had with Relapse is how unplanned things felt. There wa
 
 I want to avoid this with the new game. I want to have a clear idea of what the game will look like, how it will play, and what the scope is. This way, at the start of each week, I can plan out everything that needs to be done in the near future.
 
+
+ChatGPT 
+
