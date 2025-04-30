@@ -26,4 +26,7 @@ What can be improved about this structure? What are some things that I should co
 
 ## Feature: FEATURE_NAME
 ### Description
-This is an example description of what the feature is. Here, 
+This is an example description of what the feature is. Here, we describe:
+- A general overview of the feature (short summary)
+- Why the feature is important. What is the context of the feature within the game's overall design?
+- How does the player interact with this feature? Is it a mechanic they directly interact with? Is it an art ass
