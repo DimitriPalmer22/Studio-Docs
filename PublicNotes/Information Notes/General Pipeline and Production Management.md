@@ -22,11 +22,17 @@ I have an idea for how I can properly structure the tasks and workflow of the te
 
 What can be improved about this structure? What are some things that I should consider when implementing this structure? What are some potential pitfalls that I should be aware of?
 
-# Feature Structure
+# Feature Outline Structure
 
 ## Feature: FEATURE_NAME
 ### Description
 This is an example description of what the feature is. Here, we describe:
 - A general overview of the feature (short summary)
 - Why the feature is important. What is the context of the feature within the game's overall design?
-- How does the player interact with this feature? Is it a mechanic they directly interact with? Is it an art ass
+- How does the player interact with this feature? Is it a mechanic they directly interact with? Is it an art asset that they see up close? Things like this help contextualize the feature for the developers.
+
+### Tasks
+
+> Note: Some tasks depend on others. It might be a good idea to make some type of dependency graph or use a topol
+
+#### Task_NAME
