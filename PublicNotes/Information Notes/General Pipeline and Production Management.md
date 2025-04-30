@@ -36,3 +36,10 @@ This is an example description of what the feature is. Here, we describe:
 > Note: Some tasks depend on others. It might be a good idea to make some type of dependency graph or use a topological sort of some kind to understand which things need to be done asynchronously or sequentially.
 
 #### Task_NAME
+
+##### Task Description: 
+This is an example description of what the task is. Here, we describe:
+- A general overview of the task (short summary)
+- Why is this task important? How does this task fit into the context of the feature?
+- How do other tasks relate to this task? Are there any dependencies? Is it a prerequisite for other tasks? Does somebody else need this done first in order to do their task?
+- What is the expected outcome of this task? What does it need to look like when it is done?
