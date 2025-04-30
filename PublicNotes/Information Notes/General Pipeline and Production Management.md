@@ -33,6 +33,6 @@ This is an example description of what the feature is. Here, we describe:
 
 ### Tasks
 
-> Note: Some tasks depend on others. It might be a good idea to make some type of dependency graph or use a topol
+> Note: Some tasks depend on others. It might be a good idea to make some type of dependency graph or use a topological sort of some kind to understand which things need to be done asynchronously or sequentially.
 
 #### Task_NAME
