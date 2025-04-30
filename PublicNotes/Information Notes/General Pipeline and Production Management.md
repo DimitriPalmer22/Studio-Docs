@@ -11,6 +11,7 @@ I am currently leading a team of game developers, and the game we are currently 
 
 I have an idea for how I can properly structure the tasks and workflow of the team. The idea is as follows:
 
+- The game is divided into *features*. Each *feature* is a major part of the game that needs to be developed. Features do not necessarily need to be mechanics; they can also be things like *art* or *sound*.
 - Each *feature* of the game is clearly defined and outlined by the team lead. This *outline* contains a clear text description as well as photos / videos of what the feature should look like. These outlines are then sent to the team members who will be working on the feature.
 - The *outline* for each feature contains a list of related tasks that need to be completed in order to finish the feature. These tasks are then assigned to the team members who will be working on the feature.
 - Each *task* has a *minimum acceptable standard (MAS)* that goes with it. This is basically an explanation of what the bare minimum is that needs to be done in order for the task to be considered complete. This is important because:
@@ -18,3 +19,6 @@ I have an idea for how I can properly structure the tasks and workflow of the te
 	- helps to avoid scope creep
 	- allows us to be comfortable with what we have and avoid goldplating
 - Each *task* has a *due date* that is set by the team lead. This due date is based on the overall timeline of the game and the deadlines that we have set for ourselves.
+
+What can be improved about this structure? What are some things that I should consider when implementing this structure? What are some potential pitfalls that I should be aware of?
+
