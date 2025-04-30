@@ -1,0 +1,1 @@
+One of the main issues I had with Relapse is how unplanned things felt. There was never a point where I felt like I could look 2 weeks in the future and would know what exactly everyone would be working on and what the game would look like.
