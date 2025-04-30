@@ -6,5 +6,10 @@ One of the main issues I had with Relapse is how unplanned things felt. There wa
 I want to avoid this with the new game. I want to have a clear idea of what the game will look like, how it will play, and what the scope is. This way, at the start of each week, I can plan out everything that needs to be done in the near future.
 
 
-ChatGPT 
+ChatGPT prompt for developing a proper production structure / pipeline:
+## Prompt
+I am currently leading a team of game developers, and the game we are currently making is in the early stages of development. I want to make sure that we have a solid production structure in place to ensure that the game is developed efficiently and effectively. 
+
+I have an idea for how I can properly structure the tasks and workflow of the team. The idea is as follows:
+- Each *feature* of the game is clearly defined by a 
 
