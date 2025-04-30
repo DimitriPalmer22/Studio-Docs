@@ -21,3 +21,9 @@ I have an idea for how I can properly structure the tasks and workflow of the te
 - Each *task* has a *due date* that is set by the team lead. This due date is based on the overall timeline of the game and the deadlines that we have set for ourselves.
 
 What can be improved about this structure? What are some things that I should consider when implementing this structure? What are some potential pitfalls that I should be aware of?
+
+# Feature Structure
+
+## Feature: FEATURE_NAME
+### Description
+This is an example description of what the feature is. Here, 
