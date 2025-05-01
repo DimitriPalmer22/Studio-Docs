@@ -21,13 +21,10 @@
 #### Faction 2
 - da bad guys idk
 
-#### Why are they at war?
+#### Why Are They at War?
 - They're fighting over some resource.
 
-> Note: I want whatever this resource is to be something magical. Also, it should have medical applications or something. This way, any health powerups the player finds can be explained as being made from this resource. Also, I want this resource to be visually reoccurring throughout the game within the game's "safe spaces". This way, the player will be able to recognize it and associate it with the world.
-
-
-
+> Note: I want whatever this resource is to be something magical. Also, it should have medical applications or something. This way, any health powerups the player finds can be explained as being made from this resource. Also, I want this resource to be visually reoccurring throughout the game within the game's "safe spaces". This way, the player will be able to recognize it and associate it the game's world OUTSIDE the **Seal Realm**.
 
 ### Conveying the Game's Story to the Player
 
@@ -43,11 +40,16 @@
 	- Should the dialogue focus moreso on the current state of the war and **Main Character**'s allies rather than the lore of the world?
 	- Or, maybe **Main Character** is just a really strong guy who has never really cared to learn about the politics / history of their world.
 
-- **Rival Mage** is the main recurring antgonist of the game. As such, they have their own **Interaction Gateways** that appear after certain events.
+- **Rival Mage** is the main recurring antagonist of the game. As such, they have their own **Interaction Gateways** that appear after certain events.
 	- The might appear after boss fights or randomly after clearing rooms
 #### Safe Spaces Where We Do the Dialogue Thing
 - **The Starting Room** - The starting room is an empty room that somewhat resembles a prison cell. Inside this room is an **Interaction Gateway** that allows **Main Character** to communicate with their allies. This room is the player's starting point and is where they will spawn after dying.
 	- The first time the player plays the game, this **Interaction Gateway** will have a character named **Ally 1** who will explain their situation.
+
+#### Allies
+- **Ally 1** - This character is the first ally that **Main Character** meets. They are the one who interfered with the sealing spell and are the one who explains the situation to **Main Character**. They are a powerful mage who has been fighting for **Faction 1** for a long time.
+- The rest of the allies have less story significance and are just there to provide information about the world and the war.
+- Idea: Much like other rogue-likes, the player randomly meets new people as they progress through the game, wh 
 
 #### Explicit Acknowledgement of the Loop
 - Every time the player respawns in the starting room, the **Interaction gateway** that is in the center of the room contains a different character. They'll say something from a pool of text lines that are all about **Main Character** dying again.
