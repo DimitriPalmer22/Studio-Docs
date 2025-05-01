@@ -45,11 +45,15 @@
 #### Safe Spaces Where We Do the Dialogue Thing
 - **The Starting Room** - The starting room is an empty room that somewhat resembles a prison cell. Inside this room is an **Interaction Gateway** that allows **Main Character** to communicate with their allies. This room is the player's starting point and is where they will spawn after dying.
 	- The first time the player plays the game, this **Interaction Gateway** will have a character named **Ally 1** who will explain their situation.
+- Shop
+- Item rooms or something idk
+- Boss rooms after beating the boss
 
 #### Allies
 - **Ally 1** - This character is the first ally that **Main Character** meets. They are the one who interfered with the sealing spell and are the one who explains the situation to **Main Character**. They are a powerful mage who has been fighting for **Faction 1** for a long time.
 - The rest of the allies have less story significance and are just there to provide information about the world and the war.
-- Idea: Much like other rogue-likes, the player randomly meets new people as they progress through the game, wh 
+- Idea: Much like other rogue-likes, the player randomly meets new people as they progress through the game, which unlocks those NPCs for use in later playthroughs
+	- In this game, we will see these characters in the **Interaction Gateways** (throughout the game and at the start of each run)
 
 #### Explicit Acknowledgement of the Loop
 - Every time the player respawns in the starting room, the **Interaction gateway** that is in the center of the room contains a different character. They'll say something from a pool of text lines that are all about **Main Character** dying again.
