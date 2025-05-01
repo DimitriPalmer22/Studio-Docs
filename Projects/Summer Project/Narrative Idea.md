@@ -24,7 +24,9 @@
 #### Why are they at war?
 - They're fighting over some resource.
 
-> Note: I want whatever this resource is to be something magical with regenerative abilities or something. 
+> Note: I want whatever this resource is to be something magical. Also, it should have medical applications or something. This way, any health powerups the player finds can be explained as being made from this resource. Also, I want this resource to be visually reoccurring throughout the game within the game's "safe spaces". This way, the player will be able to recognize it and associate it with the world.
+
+
 
 
 ### Conveying the Game's Story to the Player
