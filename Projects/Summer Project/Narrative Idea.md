@@ -41,7 +41,8 @@
 	- Or, maybe **Main Character** is just a really strong guy who has never really cared to learn about the politics / history of their world.
 
 - **Rival Mage** is the main recurring antagonist of the game. As such, they have their own **Interaction Gateways** that appear after certain events.
-	- The might appear after boss fights or randomly after clearing rooms
+	- They might appear after boss fights or randomly after clearing rooms
+
 #### Safe Spaces Where We Do the Dialogue Thing
 - **The Starting Room** - The starting room is an empty room that somewhat resembles a prison cell. Inside this room is an **Interaction Gateway** that allows **Main Character** to communicate with their allies. This room is the player's starting point and is where they will spawn after dying.
 	- The first time the player plays the game, this **Interaction Gateway** will have a character named **Ally 1** who will explain their situation.
