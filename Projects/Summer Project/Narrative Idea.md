@@ -15,6 +15,18 @@
 	- This will be conveyed through a cutscene or something
 	- Or, as a stretch goal, maybe the player can play through the final battle against **Rival Mage**.
 
+#### Faction 1
+- da good guys idk
+
+#### Faction 2
+- da bad guys idk
+
+#### Why are they at war?
+- They're fighting over some resource.
+
+> Note: I want whatever this resource is to be something magical with regenerative abilities or something. 
+
+
 ### Conveying the Game's Story to the Player
 
 - Narrative is mainly conveyed in areas where the player is safe from combat for some reason.
