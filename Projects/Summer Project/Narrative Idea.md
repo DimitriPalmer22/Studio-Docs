@@ -28,7 +28,7 @@
 
 ### Conveying the Game's Story to the Player
 
-- Narrative is mainly conveyed in areas where the player is safe from combat for some reason.
+- Narrative is mainly conveyed in areas where the player is safe from combat.
 
 #### Interaction Gateways
 - In these "safe spaces" are **Interaction Gateways**
