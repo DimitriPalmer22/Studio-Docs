@@ -1,5 +1,3 @@
-GAMEPLAY ABILITY SYSTEM - Unreal Engine 5 -> the key to spells
-
 ## 0. Jotting down Ideas
 
 - Genre: Fantasy (Magic) Roguelike
