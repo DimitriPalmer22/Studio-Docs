@@ -14,4 +14,4 @@ The player gracefully twirls in while dodging, allowing them to dodge incoming a
 
 ### Dodge 3: Flashstep
 
-The player damn near teleports a longer distance in the direction of their input. This dodge has a much long
+The player damn near teleports a longer distance in the direction of their input. This dodge has a much longer travel distance, but the duration of the dodge is shorter than that of the twirl
