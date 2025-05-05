@@ -12,9 +12,9 @@
 - **List your hard limits**
 	- Small team size
 	- Team composition
-		- x artists
-		- x programmers
-		- x designers
+		- 5 artists
+		- 1 programmers
+		- 7 designers
 	- Team experience with Unreal Engine
 	- Limited time for the project
 	- Limited budget
