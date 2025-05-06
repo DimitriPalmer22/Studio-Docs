@@ -27,7 +27,7 @@
 > Note: I want whatever this resource is to be something magical. Also, it should have medical applications or something. This way, any health powerups the player finds can be explained as being made from this resource. Also, I want this resource to be visually reoccurring throughout the game within the game's "safe spaces". This way, the player will be able to recognize it and associate it the game's world OUTSIDE the **Seal Realm**.
 
 ```diff
-- New!
+- New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
 ##### Mana Overview
@@ -47,9 +47,15 @@
 - Imagine this world went through its own industrial revolution, but the harvesting of these natural mana resources was the driving force behind it.
 - Not all instances of these natural resources are equally potent. Some have higher concentrations of mana than others, leading to more powerful artifacts, weapons, and potions, etc.
 
+> Note: It might be a good idea to develop two different terms for the mana that people generate and the mana that is found in the world. This way, we can differentiate between the two types of mana and make it easier for the player to understand the game's narrative. OR just make every mana crystals or something to make it apparent that they're two different things.
 
+##### The Conflict
 
-> Note: It might be a good idea to develop two different terms for the mana that people generate and the mana that is found in the world. This way, we can differentiate between the two types of mana and make it easier for the player to understand the game's narrative.
+-
+
+```diff
++ End of New Content! End of New Content! End of New Content! End of New Content!
+```
 
 ### Conveying the Game's Story to the Player
 
