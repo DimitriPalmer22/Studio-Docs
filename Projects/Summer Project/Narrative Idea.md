@@ -37,6 +37,7 @@
 
 - A powerful empire
 - Usually grows in size through "diplomatic means" (usually backed by the threat of force)
+- There are generally two ty
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
