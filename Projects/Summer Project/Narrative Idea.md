@@ -72,7 +72,8 @@
 
 ##### The Conflict
 
--
+- some event happens that signals to surrounding countries that a new mana resource has just been discovered
+- **Faction 1** and **Faction 2** both send groups  
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
