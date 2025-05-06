@@ -33,7 +33,7 @@
 #### Faction 2: The Brainrot Empire
 
 ```diff
-- New Content! New Content! New Content! New Content! New Content! New Content!
++ New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
 - A powerful empire
@@ -44,7 +44,7 @@
 - **The Brainrot Empire**'s main reason for expanding is to acquire more resources and develop their civilization. However, this comes at the expense of the culture and identity of the people that they conquer.
 
 ```diff
-+ End of New Content! End of New Content! End of New Content! End of New Content!
+- End of New Content! End of New Content! End of New Content! End of New Content!
 ```
 
 #### Why Are They at War?
@@ -53,7 +53,7 @@
 > Note: I want whatever this resource is to be something magical. Also, it should have medical applications or something. This way, any health powerups the player finds can be explained as being made from this resource. Also, I want this resource to be visually reoccurring throughout the game within the game's "safe spaces". This way, the player will be able to recognize it and associate it the game's world OUTSIDE the **Seal Realm**.
 
 ```diff
-- New Content! New Content! New Content! New Content! New Content! New Content!
++ New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
 ##### Mana Overview
@@ -94,7 +94,7 @@
 - This is why **Main Character** is able to encounter some individuals or the bodies of some individuals who have been sent to **Seal Realm**. These individuals are usually not hostile and are just trying to survive in **Seal Realm**.
 
 ```diff
-+ End of New Content! End of New Content! End of New Content! End of New Content!
+- End of New Content! End of New Content! End of New Content! End of New Content!
 ```
 
 ### Conveying the Game's Story to the Player
