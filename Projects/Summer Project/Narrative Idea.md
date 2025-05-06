@@ -18,7 +18,7 @@
 #### Faction 1: The Bruh Coalition
 
 ```diff
-- New Content! New Content! New Content! New Content! New Content! New Content!
++ New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
 - A coalition of individual countries who are joining forces for the sole reason of defeating **The Brainrot Empire**.
@@ -27,7 +27,7 @@
 > Note: Given that **The Bruh Coalition** is a coalition of countries, I think it makes sense for each country to have their own unique culture and identity. This way, we can make **The Bruh Coalition** feel like a real place rather than just a collection of countries that are all the same.
 
 ```diff
-+ End of New Content! End of New Content! End of New Content! End of New Content!
+- End of New Content! End of New Content! End of New Content! End of New Content!
 ```
 
 #### Faction 2: The Brainrot Empire
