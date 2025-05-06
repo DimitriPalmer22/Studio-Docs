@@ -90,7 +90,8 @@
 - Several people in this world have the power to send people to **Seal Realm**. However, most people who know how to use it belong to **The Brainrot Empire**, as they are the ones who possess the knowledge to teach the spell to others. Only the most distinguished mages are taught this spell.
 - As such, **Seal Realm** is not exclusive to **Main Character**.
 - People are usually sent to **Seal Realm** as a punishment for crimes against **The Brainrot Empire**. However, it is usually reserved for powerful individuals who may still pose a threat when placed in a traditional prison. People are also sent here if the people who has the spell feels like sending someone here, like if they get really upset with someone.
-- Sections of **Seal Realm** have their own ecosystems and environments. As such, people who get sent to **Seal Realm** can survive off of the resources they find in these sections. However, depending on which part of **Seal Realm** they are in, there are still dangerous enemies that pose a th
+- Sections of **Seal Realm** have their own ecosystems and environments. As such, people who get sent to **Seal Realm** can survive off of the resources they find in these sections. However, depending on which part of **Seal Realm** they are in, there are still dangerous enemies that pose a threat to them.
+- This is why **Main Character** is able to encounter some individuals or the bodies of some individuals who have been sent to **Seal Realm**. These individuals are usually not hostile and are just trying to survive in **Seal Realm**.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
