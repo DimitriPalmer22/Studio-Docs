@@ -3,8 +3,8 @@
 
 ### Basic Summary
 
-- There's this huge war going on between **Faction 1** and **Faction 2**
-- The player plays as **Main Character**, a powerful mage who fights for **Faction 1**. **Main Character**'s presence alone is enough to turn the tide of the war in **Faction 1**'s favor.
+- There's this huge war going on between **The Bruh Coalition** and **The Brainrot Empire**
+- The player plays as **Main Character**, a powerful mage who fights for **The Bruh Coalition**. **Main Character**'s presence alone is enough to turn the tide of the war in **The Bruh Coalition**'s favor.
 - However, during a pivotal battle in this war against another powerful mage named **Rival Mage**, **Main Character** was caught off-guard and stripped of their powers. Because of this, **Rival Mage** sealed **Main Character** away with a powerful spell.
 	- However, before being completely sealed away, an ally of **Main Character** interfered with the sealing spell.
 	- This interference allows for people outside of the seal's realm to interact with the player a little bit
@@ -15,22 +15,22 @@
 	- This will be conveyed through a cutscene or something
 	- Or, as a stretch goal, maybe the player can play through the final battle against **Rival Mage**.
 
-#### Faction 1
+#### Faction 1: The Bruh Coalition
 
 ```diff
 - New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
-- A coalition of individual countries who are joining forces for the sole reason of defeating **Faction 2**.
-- **Main Character** is a powerful mage from one of the countries that is part of **Faction 1**.
+- A coalition of individual countries who are joining forces for the sole reason of defeating **The Brainrot Empire**.
+- **Main Character** is a powerful mage from one of the countries that is part of **The Bruh Coalition**.
 
-> Note: Given that **Faction 1** is a coalition of countries, I think it makes sense for each country to have their own unique culture and identity. This way, we can make **Faction 1** feel like a real place rather than just a collection of countries that are all the same.
+> Note: Given that **The Bruh Coalition** is a coalition of countries, I think it makes sense for each country to have their own unique culture and identity. This way, we can make **The Bruh Coalition** feel like a real place rather than just a collection of countries that are all the same.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
 ```
 
-#### Faction 2
+#### Faction 2: The Brainrot Empire
 
 ```diff
 - New Content! New Content! New Content! New Content! New Content! New Content!
@@ -38,10 +38,10 @@
 
 - A powerful empire
 - Usually grows in size through "diplomatic means" (usually backed by the threat of force)
-- There are generally two types of people in **Faction 2**:
-	1. People who are loyal to the empire and believe in its cause. These people are particularly overzealous and preach **Faction 2**'s ideals.
-	2. People who have grown a little hopeless and see no point in resisting **Faction 2**'s overwhelming power. These people are just trying to survive and are willing to do whatever it takes to survive.
-- **Faction 2**'s main reason for expanding is to acquire more resources and develop their civilization. However, this comes at the expense of the culture and identity of the people that they conquer.
+- There are generally two types of people in **The Brainrot Empire**:
+	1. People who are loyal to the empire and believe in its cause. These people are particularly overzealous and preach **The Brainrot Empire**'s ideals.
+	2. People who have grown a little hopeless and see no point in resisting **The Brainrot Empire**'s overwhelming power. These people are just trying to survive and are willing to do whatever it takes to survive.
+- **The Brainrot Empire**'s main reason for expanding is to acquire more resources and develop their civilization. However, this comes at the expense of the culture and identity of the people that they conquer.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
@@ -80,11 +80,11 @@
 ##### The Conflict
 - A powerful ancient magical beast lived underground for centuries. This mana that this beast was exuding was so powerful that it discouraged civilizations from settling in the area. However, as the beast died from old age and decomposed, a new powerful mana crystal was formed.
 - The creation of this mana crystal sent out a powerful shockwave that was felt throughout the world. This shockwave was so powerful that it caused several countries to send groups to investigate the source of the shockwave.
-- **Faction 2** and a country who later joins **Faction 1** both send groups to investigate and claim this resource for themselves
+- **The Brainrot Empire** and a country who later joins **The Bruh Coalition** both send groups to investigate and claim this resource for themselves
 - However, once these two groups met, they immediately started fighting over the resource
-- Realizing that this resource could not fall into the hands of **Faction 2**, several weaker countries join to form **Faction 1**.
-- Understanding that controlling this resource would upset the balance of power in the world, the countries of **Faction 1** swear to prevent any single group from controlling this resource.
-- **Faction 1** and **Faction 2** are now at war over this resource.
+- Realizing that this resource could not fall into the hands of **The Brainrot Empire**, several weaker countries join to form **The Bruh Coalition**.
+- Understanding that controlling this resource would upset the balance of power in the world, the countries of **The Bruh Coalition** swear to prevent any single group from controlling this resource.
+- **The Bruh Coalition** and **The Brainrot Empire** are now at war over this resource.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
@@ -115,7 +115,7 @@
 - Boss rooms after beating the boss
 
 #### Allies
-- **Ally 1** - This character is the first ally that **Main Character** meets. They are the one who interfered with the sealing spell and are the one who explains the situation to **Main Character**. They are a powerful mage who has been fighting for **Faction 1** for a long time.
+- **Ally 1** - This character is the first ally that **Main Character** meets. They are the one who interfered with the sealing spell and are the one who explains the situation to **Main Character**. They are a powerful mage who has been fighting for **The Bruh Coalition** for a long time.
 - The rest of the allies have less story significance and are just there to provide information about the world and the war.
 - Idea: Much like other rogue-likes, the player randomly meets new people as they progress through the game, which unlocks those NPCs for use in later playthroughs
 	- In this game, we will see these characters in the **Interaction Gateways** (throughout the game and at the start of each run)
