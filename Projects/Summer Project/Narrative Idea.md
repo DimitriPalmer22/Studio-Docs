@@ -34,8 +34,11 @@
 
 - In this world, "Mana" is a resource that people use to cast spells. 
 - Everybody has the capacity to naturally generate and store mana. However, the amount of mana that a person can store varies from person to person.
-	- The amount of mana a person can store can be 
+	- The amount of mana a person can store can be increased through training, but it is also limited by the person's physical body.
 
+##### Mana As a Natural Resource
+- Separate from the mana that people naturally generate, there are also natural sources of mana that can be found in the world.
+- These
 ### Conveying the Game's Story to the Player
 
 - Narrative is mainly conveyed in areas where the player is safe from combat.
