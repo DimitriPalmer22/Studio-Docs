@@ -24,6 +24,8 @@
 - A coalition of individual countries who are joining forces for the sole reason of defeating **Faction 2**.
 - **Main Character** is a powerful mage from one of the countries that is part of **Faction 1**.
 
+> Note: Given that **Faction 1** is a coalition of countries, I think it makes sense for each country to have their own unique culture and identity. This way, we can make **Faction 1** feel like a real place rather than just a collection of countries that are all the same.
+
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
 ```
@@ -39,7 +41,7 @@
 - There are generally two types of people in **Faction 2**:
 	1. People who are loyal to the empire and believe in its cause. These people are particularly overzealous and preach **Faction 2**'s ideals.
 	2. People who have grown a little hopeless and see no point in resisting **Faction 2**'s overwhelming power. These people are just trying to survive and are willing to do whatever it takes to survive.
-- **Faction 2**'s main reason for expanding is to acquire more resources and develop their country 
+- **Faction 2**'s main reason for expanding is to acquire more resources and develop their civilization. However, this comes at the expense of the culture and identity of the people that they conquer.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
