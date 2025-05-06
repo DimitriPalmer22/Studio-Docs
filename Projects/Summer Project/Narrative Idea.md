@@ -58,3 +58,11 @@
 
 #### Explicit Acknowledgement of the Loop
 - Every time the player respawns in the starting room, the **Interaction gateway** that is in the center of the room contains a different character. They'll say something from a pool of text lines that are all about **Main Character** dying again.
+
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
