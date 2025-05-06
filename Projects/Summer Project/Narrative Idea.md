@@ -39,7 +39,7 @@
 - A powerful empire
 - Usually grows in size through "diplomatic means" (usually backed by the threat of force)
 - There are generally two types of people in **The Brainrot Empire**:
-	1. People who are loyal to the empire and believe in its cause. These people are particularly overzealous and preach **The Brainrot Empire**'s ideals.
+	1. People who are loyal to the empire and believe in its cause. These people are particularly overzealous and preach **The Brainrot Empire**'s ideals. **Rival Mage** falls into this category.
 	2. People who have grown a little hopeless and see no point in resisting **The Brainrot Empire**'s overwhelming power. These people are just trying to survive and are willing to do whatever it takes to survive.
 - **The Brainrot Empire**'s main reason for expanding is to acquire more resources and develop their civilization. However, this comes at the expense of the culture and identity of the people that they conquer.
 
