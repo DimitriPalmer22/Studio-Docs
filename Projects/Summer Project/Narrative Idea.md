@@ -45,7 +45,7 @@
 	- potions
 	- fuel / an energy source
 - Imagine this world went through its own industrial revolution, but the harvesting of these natural mana resources was the driving force behind it.
-- 
+- Not all instances of these natural 
 
 
 
