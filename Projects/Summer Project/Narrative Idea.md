@@ -77,11 +77,11 @@
 
 ##### The Conflict
 
-- some event happens that signals to surrounding countries that a new staggeringly potent mana resource has just been discovered
-- A powerful ancient magical beast lived underground for centuries. This 
+- A powerful ancient magical beast lived underground for centuries. This mana that this beast was exuding was so powerful that it discouraged civilizations from settling in the area. However, as the beast died from old age and decomposed, a new powerful mana crystal was formed.
+- The creation of this mana crystal sent out a powerful shockwave that was felt throughout the world. This shockwave was so powerful that it caused several countries to send groups to investigate the source of the shockwave.
 - **Faction 2** and a country who later joins **Faction 1** both send groups to investigate and claim this resource for themselves
-- However, once these two groups meet, they immediately start fighting over the resource
-- Realizing that this resource cannot fall into the hands of **Faction 2**, several weaker countries join to form **Faction 1**.
+- However, once these two groups met, they immediately started fighting over the resource
+- Realizing that this resource oud fall into the hands of **Faction 2**, several weaker countries join to form **Faction 1**.
 - Understanding that controlling this resource would upset the balance of power in the world, the countries of **Faction 1** swear to prevent any single group from controlling this resource.
 - **Faction 1** and **Faction 2** are now at war over this resource.
 
