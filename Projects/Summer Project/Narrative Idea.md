@@ -70,14 +70,15 @@
 	- fuel / an energy source
 - Imagine this world went through its own industrial revolution, but the harvesting of these natural mana resources was the driving force behind it.
 - Not all instances of these natural resources are equally potent. Some have higher concentrations of mana than others, leading to more powerful artifacts, weapons, and potions, etc.
-- Mana resources come from the decomposition of living things. As such, the more powerful the living thing was, the more potent the mana resource will be.
+- Mana resources come from the decomposition of living things. As such, the more powerful the living thing was in life, the more potent the mana resource it generates will be.
 
-> Note: It might be a good idea to develop two different terms for the mana that people generate and the mana that is found in the world. This way, we can differentiate between the two types of mana and make it easier for the player to understand the game's narrative. 
+> Note: It might be a good idea to develop two different terms for the mana that people generate and the mana that is found in the world. This way, we can differentiate between the two types of mana and make it easier for the player to understand the game's narrative.
 > OR just turn every resource into mana crystals or something to make it apparent that they're two different things.
 
 ##### The Conflict
 
 - some event happens that signals to surrounding countries that a new staggeringly potent mana resource has just been discovered
+- A powerful ancient magical beast lived underground for centuries. This 
 - **Faction 2** and a country who later joins **Faction 1** both send groups to investigate and claim this resource for themselves
 - However, once these two groups meet, they immediately start fighting over the resource
 - Realizing that this resource cannot fall into the hands of **Faction 2**, several weaker countries join to form **Faction 1**.
