@@ -22,7 +22,7 @@
 - New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
-- 
+- A coalition of countries
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
