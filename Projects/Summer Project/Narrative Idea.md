@@ -72,8 +72,10 @@
 
 ##### The Conflict
 
-- some event happens that signals to surrounding countries that a new mana resource has just been discovered
-- **Faction 1** and **Faction 2** both send groups  
+- some event happens that signals to surrounding countries that a new staggeringly potent mana resource has just been discovered
+- **Faction 2** and a country who later joins **Faction 1** both send groups to investigate and claim this resource for themselves
+- However, once these two groups meet, they immediately start fighting over the resource
+- Realizing that this resource cannot fall into the hands of **Faction 2**, several weaker countries join to 
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
