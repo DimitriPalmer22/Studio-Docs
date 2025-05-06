@@ -22,7 +22,7 @@
 - New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
-- A coalition of countries
+- A coalition of individual countries who are joining forces for the sole reason of defeating **Faction 2**.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
@@ -30,6 +30,17 @@
 
 #### Faction 2
 - da bad guys idk
+
+```diff
+- New Content! New Content! New Content! New Content! New Content! New Content!
+```
+
+- A powerful empire
+- Usually grows in size through "diplomatic means" (usually backed by the threat of force)
+
+```diff
++ End of New Content! End of New Content! End of New Content! End of New Content!
+```
 
 #### Why Are They at War?
 - They're fighting over some resource.
