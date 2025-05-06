@@ -15,7 +15,7 @@
 	- This will be conveyed through a cutscene or something
 	- Or, as a stretch goal, maybe the player can play through the final battle against **Rival Mage**.
 
-#### Faction 1: The Bruh Coalition
+#### Faction 1: The Bruh Coalition (Name Not Final)
 
 ```diff
 + New Content! New Content! New Content! New Content! New Content! New Content!
@@ -30,7 +30,7 @@
 - End of New Content! End of New Content! End of New Content! End of New Content!
 ```
 
-#### Faction 2: The Brainrot Empire
+#### Faction 2: The Brainrot Empire (Name Not Final)
 
 ```diff
 + New Content! New Content! New Content! New Content! New Content! New Content!
