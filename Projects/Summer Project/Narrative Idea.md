@@ -37,7 +37,10 @@
 
 - A powerful empire
 - Usually grows in size through "diplomatic means" (usually backed by the threat of force)
-- There are generally two ty
+- There are generally two types of people in **Faction 2**:
+	1. People who are loyal to the empire and believe in its cause. These people are particularly overzealous and preach **Faction 2**'s ideals.
+	2. People who have grown a little hopeless and see no point in resisting **Faction 2**'s ove
+
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
