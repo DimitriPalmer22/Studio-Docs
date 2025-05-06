@@ -86,6 +86,11 @@
 - Understanding that controlling this resource would upset the balance of power in the world, the countries of **The Bruh Coalition** swear to prevent any single group from controlling this resource.
 - **The Bruh Coalition** and **The Brainrot Empire** are now at war over this resource.
 
+##### **Seal Realm**
+- Several people in this world have the power to send people to **Seal Realm**. However, most people who know how to use it belong to 
+- 
+
+
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
 ```
