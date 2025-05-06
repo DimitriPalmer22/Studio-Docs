@@ -30,7 +30,10 @@
 - New!
 ```
 
-- In this world, 
+##### Mana Overview
+
+- In this world, "Mana" is a resource that people use to cast spells. 
+- Everybody has the capacity to y  
 
 ### Conveying the Game's Story to the Player
 
