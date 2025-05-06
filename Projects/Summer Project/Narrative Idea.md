@@ -45,6 +45,9 @@
 	- potions
 	- fuel / an energy source
 - Imagine this world went through its own industrial revolution, but the harvesting of these natural mana resources was the driving force behind it.
+- 
+
+
 
 > Note: It might be a good idea to develop two different terms for the mana that people generate and the mana that is found in the world. This way, we can differentiate between the two types of mana and make it easier for the player to understand the game's narrative.
 
