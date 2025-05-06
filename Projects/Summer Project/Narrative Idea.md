@@ -87,8 +87,9 @@
 - **The Bruh Coalition** and **The Brainrot Empire** are now at war over this resource.
 
 ##### **Seal Realm**
-- Several people in this world have the power to send people to **Seal Realm**. However, most people who know how to use it belong to 
-- 
+- Several people in this world have the power to send people to **Seal Realm**. However, most people who know how to use it belong to **The Brainrot Empire**, as they are the ones who possess the knowledge to teach the spell to others. Only the most distinguished mages are taught this spell.
+- As such, **Seal Realm** is not exclusive to **Main Character**.
+- People are usually sent 
 
 
 ```diff
