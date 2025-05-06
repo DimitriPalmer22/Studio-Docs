@@ -38,7 +38,7 @@
 
 ##### Mana As a Natural Resource
 - Separate from the mana that people naturally generate, there are also natural sources of mana that can be found in the world.
-- These
+- These naturally occurring sources of mana are often found in the form of crystals or other natural formations.
 ### Conveying the Game's Story to the Player
 
 - Narrative is mainly conveyed in areas where the player is safe from combat.
