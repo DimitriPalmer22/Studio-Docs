@@ -16,21 +16,19 @@
 	- Or, as a stretch goal, maybe the player can play through the final battle against **Rival Mage**.
 
 #### Faction 1
-- da good guys idk
 
 ```diff
 - New Content! New Content! New Content! New Content! New Content! New Content!
 ```
 
 - A coalition of individual countries who are joining forces for the sole reason of defeating **Faction 2**.
-- **Ma
+- **Main Character** is a powerful mage from one of the countries that is part of **Faction 1**.
 
 ```diff
 + End of New Content! End of New Content! End of New Content! End of New Content!
 ```
 
 #### Faction 2
-- da bad guys idk
 
 ```diff
 - New Content! New Content! New Content! New Content! New Content! New Content!
@@ -121,11 +119,3 @@
 
 #### Explicit Acknowledgement of the Loop
 - Every time the player respawns in the starting room, the **Interaction gateway** that is in the center of the room contains a different character. They'll say something from a pool of text lines that are all about **Main Character** dying again.
-
-```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
