@@ -26,6 +26,12 @@
 
 > Note: I want whatever this resource is to be something magical. Also, it should have medical applications or something. This way, any health powerups the player finds can be explained as being made from this resource. Also, I want this resource to be visually reoccurring throughout the game within the game's "safe spaces". This way, the player will be able to recognize it and associate it the game's world OUTSIDE the **Seal Realm**.
 
+```diff
+- New!
+```
+
+- In this world, 
+
 ### Conveying the Game's Story to the Player
 
 - Narrative is mainly conveyed in areas where the player is safe from combat.
