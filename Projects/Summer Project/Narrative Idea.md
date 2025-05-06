@@ -33,7 +33,8 @@
 ##### Mana Overview
 
 - In this world, "Mana" is a resource that people use to cast spells. 
-- Everybody has the capacity to y  
+- Everybody has the capacity to naturally generate and store mana. However, the amount of mana that a person can store varies from person to person.
+	- The amount of mana a person can store can be 
 
 ### Conveying the Game's Story to the Player
 
