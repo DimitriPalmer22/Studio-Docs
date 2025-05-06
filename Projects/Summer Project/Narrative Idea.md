@@ -18,6 +18,16 @@
 #### Faction 1
 - da good guys idk
 
+```diff
+- New Content! New Content! New Content! New Content! New Content! New Content!
+```
+
+- 
+
+```diff
++ End of New Content! End of New Content! End of New Content! End of New Content!
+```
+
 #### Faction 2
 - da bad guys idk
 
