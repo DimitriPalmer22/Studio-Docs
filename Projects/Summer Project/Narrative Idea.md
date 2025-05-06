@@ -31,14 +31,18 @@
 ```
 
 ##### Mana Overview
-
-- In this world, "Mana" is a resource that people use to cast spells. 
+- In this world, "Mana" is a resource that people use to cast spells.
 - Everybody has the capacity to naturally generate and store mana. However, the amount of mana that a person can store varies from person to person.
 	- The amount of mana a person can store can be increased through training, but it is also limited by the person's physical body.
 
+> Note: It might be a good idea to develop two different terms
+
 ##### Mana As a Natural Resource
 - Separate from the mana that people naturally generate, there are also natural sources of mana that can be found in the world.
-- These naturally occurring sources of mana are often found in the form of crystals or other natural formations.
+- These naturally occurring sources of mana are often found in solid (crystal), liquid, or gaseous forms.
+- Unlike the mana
+- These natural sources of mana are often used in the creation of magical artifacts, potions, and other items.
+
 ### Conveying the Game's Story to the Player
 
 - Narrative is mainly conveyed in areas where the player is safe from combat.
