@@ -43,7 +43,7 @@ _I think it would be interesting if these interactions were less expository and 
 
 ### Main Character
 - you mentioned the mc is stripped of his powers before getting sent to the realm. Is he still powerless while he's in there? I figured yes as it would justify him having difficulty escaping and needing the power of all the different tomes down there. but, maybe there are systems in place tailored to him specifically that prevent him from just leaving.
-	- Before getting sealed, the main character loses their tome, meaning they no longer have access to any of their spells or abilities.
+	- Before getting sealed, the main character loses their tome. So, they no longer have access to any of their spells or abilities, and they lose the overall powerup that their super-powerful tome gives them.
 
 - mc fights for the bruhs, but is he from one of the united countries? does he have anyone in particular he's fighting for? is he just looking for a worthy opponent after becoming so powerful?
 	-
