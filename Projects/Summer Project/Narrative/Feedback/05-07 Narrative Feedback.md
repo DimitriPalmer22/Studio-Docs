@@ -1,3 +1,5 @@
+# Chelle Notes
+
 Question I've had that wasn't answered here:
 
 - In what way is the seal spell altered so that they can contact the MC?
