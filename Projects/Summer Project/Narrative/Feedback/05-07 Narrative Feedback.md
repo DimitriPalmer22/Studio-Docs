@@ -23,7 +23,7 @@ Question I've had that wasn't answered here:
 # Matthew Notes
 
 _I think it would be interesting if these interactions were less expository and focused on the present_. maybe even have the MC call shots or give advice to his allies to help in the war?
--
+- I like this idea
 
 ## Questions
 
@@ -39,7 +39,7 @@ _I think it would be interesting if these interactions were less expository and 
 	- The Seal Realm is finite and does have an exit. However, traversing this realm is so dangerous that most people die once they get too far.
 
 - like Chelle mentioned, if the Seal Realm is a physical place, maybe the contact between the MC and the allies can eventually reveal this fact, and pivot to searching for clues for MC's allies to rescue him from the location
-	- 
+	-
 
 ### Main Character
 - you mentioned the mc is stripped of his powers before getting sent to the realm. is he still powerless while he's in there? i figured yes as it would justify him having difficulty escaping and needing the power of all the different tomes down there. but, maybe there are systems in place tailored to him specifically that prevent him from just leaving.
