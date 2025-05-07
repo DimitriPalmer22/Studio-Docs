@@ -58,10 +58,10 @@ _I think it would be interesting if these interactions were less expository and 
 	- To get stronger, I kinda imagine the whole mana thing to be similar to how people can lift weights to get stronger. Through focused exercises and training, people can increase their mana reserves and output. However, this is generally a slow process and there is a limit to how much stronger people can get through this. Other ways to get stronger include getting better control over your mana and learning new spells, but this is something people go to school for.
 
 - its mentioned that countries stayed away from the giant pool of mana while the large beast underground was alive. does that mean mana can have positive/negative energy? do they each have pros/cons or is there a clear delineation between good and bad mana?
-	- For this, the beast was moreso the 
+	- For this, the beast was moreso the thing that drove people away. Even though the beast was underground, the beast's presence was so strong that people were able to detect it. This is why people stayed away from the area.
 
 - how long has the underground beast been alive? were there others before him? will another beast take its place after a while? it seems like it dying of old age was unexpected, as the bruhs and brainrots sought out to plot the unexplored land when it died.
-	-
+	- 
 
 - is this beast the source of mana? or can mana occur naturally within people/the environment without it?
-	-
+	- 
