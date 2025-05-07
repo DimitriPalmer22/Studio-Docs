@@ -31,9 +31,10 @@ _I think it would be interesting if these interactions were less expository and 
 - as for the others who are also trapped in the Seal Realm, do you think it would mostly be people/creatures that deserved it/couldn't be contained outside? or do the people who can send others to the Seal Realm just send whoever they want down there even if they've done nothing wrong?
 	- Since the Seal Realm has its own set of ecosystems and environments, I think it makes sense for the weaker creatures to have been born there. For stronger monsters and _some_ people, I think it makes sense for them to have been sent there because there was no other feasible way to contain them.
 	- Since the spell that sends people to the Seal Realm is pretty much exclusive to "The Brainrot Empire", "The Brainrot Empire" is kinda characterized by who they choose to send to the Seal Realm. For example, if there were too many people in there that didn't really deserve it, then that paints the "Brainrot Empire" to be a little more evil than I want them to be.
-	- So, for the people in the Seal Realm that don't really deserve to be there, I want them to have very specific reasons for being there. For example, maybe they're a victim of **Rival Mage** tweaking out on
+	- So, for the people in the Seal Realm that don't really deserve to be there, I want them to have very specific reasons for being there that are well-explained. For example, maybe they're a victim of **Rival Mage** tweaking out and abusing their power.
 
 - if loops are intended, does the mc get sent right back into the Seal Realm after he escapes? is it actually a prison with infinite layers of seals?
+	- The Seal Realm itself doesn't actually have any looping mechanism. That's only because the main character has the support of their allies, which keeps them alive whenever they die. The main character is sent back to the start of the Seal Realm whenever they die, but they don't actually get sent back to the Seal Realm after they escape.
 
 - ^like Chelle mentioned, if the Seal Realm is a physical place, maybe the contact between the MC and the allies can eventually reveal this fact, and pivot to searching for clues for MC's allies to rescue him from the location
 
