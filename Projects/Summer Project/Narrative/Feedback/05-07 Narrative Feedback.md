@@ -23,15 +23,15 @@ Question I've had that wasn't answered here:
 # Matthew Notes
 
 _I think it would be interesting if these interactions were less expository and focused on the present_. maybe even have the MC call shots or give advice to his allies to help in the war?
-- 
+-
 
 ## Questions
 
 ### Seal Realm
 - as for the others who are also trapped in the Seal Realm, do you think it would mostly be people/creatures that deserved it/couldn't be contained outside? or do the people who can send others to the Seal Realm just send whoever they want down there even if they've done nothing wrong?
-	- Since the Seal Realm has its own set of ecosystems and environments, I think it makes sense for the weaker creatures to have been born there. For stronger monsters and _some_ people, I think it makes sense for them to have been sent there because there was no other feasible way to contain them. 
-	- Since the spell that sends people to the Seal Realm is exclusive to "The Brainrot Empire",
- 
+	- Since the Seal Realm has its own set of ecosystems and environments, I think it makes sense for the weaker creatures to have been born there. For stronger monsters and _some_ people, I think it makes sense for them to have been sent there because there was no other feasible way to contain them.
+	- Since the spell that sends people to the Seal Realm is exclusive to "The Brainrot Empire", "The Brainrot Empire" is kinda characterized by who they chose to send to the Seal Realm. For example, if there were too many guys in there that didn't really deserve it, then that paints the "Brainrot Empire" to be a little more evil than I want them to be.
+	- So, for the people in the Seal Realm that don't 
 
 - if loops are intended, does the mc get sent right back into the Seal Realm after he escapes? is it actually a prison with infinite layers of seals?
 
