@@ -10,8 +10,8 @@ Question I've had that wasn't answered here:
 	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on another person regardless of distance.
 
 - Does that adjustment contribute to why there is a loop?
-	- Not directly, no. The communication spell allows one of the other allies to, at the start of each run, cast a spell that creates a "restart point"" for the main character. Whenever the main character dies, they are sent back to this restart point.  This spell is extremely draining for whoever casts it, which is why it isn't used more than once per run. 
-	- The main character loses the items they've acquired during the current run because
+	- Not directly, no. The communication spell allows one of the other allies to, at the start of each run, cast a spell that creates a "restart point"" for the main character. Whenever the main character dies, they are sent back to this restart point. This spell is extremely draining for whoever casts it, which is why it isn't used more than once per run.
+	- The restart spell respawns the main character at the start of the Seal Realm exactly as they were when the spell was cast. This explains why the main character doesn't keep their loot between runs.
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
 	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
