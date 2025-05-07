@@ -61,7 +61,8 @@ _I think it would be interesting if these interactions were less expository and 
 	- For this, the beast was moreso the thing that drove people away. Even though the beast was underground, the beast's presence was so strong that people were able to detect it. This is why people stayed away from the area.
 
 - how long has the underground beast been alive? were there others before him? will another beast take its place after a while? it seems like it dying of old age was unexpected, as the bruhs and brainrots sought out to plot the unexplored land when it died.
-	- This beast was alive for a couple hundred years. In this particular area, there were no other beasts before it. Powerful magi
+	- This beast was alive for a couple hundred years. In this particular area, there were no other beasts before it. Powerful magical beasts like this one appear due to mutations in creatures in areas that are dense in naturally occurring mana resources.
+	- Yeah, nobody really expected this beast to die. They had kinda grown accustomed to the beast being there, and they thought it would be there for a while longer.
 
 - is this beast the source of mana? or can mana occur naturally within people/the environment without it?
 	-
