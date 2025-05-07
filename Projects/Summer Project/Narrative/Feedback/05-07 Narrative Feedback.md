@@ -53,7 +53,9 @@ _I think it would be interesting if these interactions were less expository and 
 
 ### Mana
 - how did MC/rival become such powerful mages? its mentioned that you can train to up your mana output, but what exactly separates a weak mage from a powerful one, and what kinds of techniques can they employ?
-	- Generally, the MC and Rival Mage 
+	- Generally, the MC and Rival Mage are both freaks of nature who were born with way more mana than the average mage.
+	- Strong mages tend to have higher reserves of mana, which also allows them to output more mana at once. 
+	- For 
 
 - its mentioned that countries stayed away from the giant pool of mana while the large beast underground was alive. does that mean mana can have positive/negative energy? do they each have pros/cons or is there a clear delineation between good and bad mana?
 	-
