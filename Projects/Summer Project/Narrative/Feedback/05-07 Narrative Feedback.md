@@ -65,4 +65,4 @@ _I think it would be interesting if these interactions were less expository and 
 	- Yeah, nobody really expected this beast to die. They had kinda grown accustomed to the beast being there, and they thought it would be there for a while longer.
 
 - is this beast the source of mana? or can mana occur naturally within people/the environment without it?
-	-
+	- mana can occur naturally within people / the environment without it.
