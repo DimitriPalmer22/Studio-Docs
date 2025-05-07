@@ -10,7 +10,7 @@ Question I've had that wasn't answered here:
 	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on another person regardless of distance.
 
 - Does that adjustment contribute to why there is a loop?
-	- Not directly, no. The communication spell allows one of the other allies to, at the start of each run, cast a spell that creates a "restart point"" for the main character. Whenever the main character dies, they are sent back to this restart point. This spell is extremely draining for whoever casts it, which is why it isn't used more than once per run.
+	- Not directly, no. The communication spell allows another one of the allies (Not **Ally 1**) to, at the start of each run, cast a spell that creates a "restart point"" for the main character. Whenever the main character dies, they are sent back to this restart point. This spell is extremely draining for whoever casts it, which is why it isn't used more than once per run.
 	- The restart spell respawns the main character at the start of the Seal Realm exactly as they were when the spell was cast. This explains why the main character doesn't keep their loot between runs.
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
@@ -30,6 +30,7 @@ _I think it would be interesting if these interactions were less expository and 
 
 ### Seal Realm
 - as for the others who are also trapped in the Seal Realm, do you think it would mostly be people/creatures that deserved it/couldn't be contained outside? or do the people who can send others to the Seal Realm just send whoever they want down there even if they've done nothing wrong?
+	- 
 
 - if loops are intended, does the mc get sent right back into the Seal Realm after he escapes? is it actually a prison with infinite layers of seals?
 
