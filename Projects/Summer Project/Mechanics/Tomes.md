@@ -1,3 +1,5 @@
-# Primary Attack
+Tomes themselves are blueprints. The mesh / materials they use can be configured.
 
-- The primary attacks are 
+# Primary Attack
+- The primary attacks are all components that derive from the same base class
+-
