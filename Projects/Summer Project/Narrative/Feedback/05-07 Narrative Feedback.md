@@ -39,20 +39,27 @@ _I think it would be interesting if these interactions were less expository and 
 	- The Seal Realm is finite and does have an exit. However, traversing this realm is so dangerous that most people die once they get too far.
 
 - like Chelle mentioned, if the Seal Realm is a physical place, maybe the contact between the MC and the allies can eventually reveal this fact, and pivot to searching for clues for MC's allies to rescue him from the location
-	-
+	- cool idea, but the Seal Realm won't be a real place
 
 ### Main Character
 - you mentioned the mc is stripped of his powers before getting sent to the realm. is he still powerless while he's in there? i figured yes as it would justify him having difficulty escaping and needing the power of all the different tomes down there. but, maybe there are systems in place tailored to him specifically that prevent him from just leaving.
+	- 
 
 - mc fights for the bruhs, but is he from one of the united countries? does he have anyone in particular he's fighting for? is he just looking for a worthy opponent after becoming so powerful?
+	- 
 
 - does mc have any kind of prior relationship with the rival mage? were they initially part of the same coalition, or have they always been at odds? are the mc or rival mage actually in charge of anything on their respective sides, or are they just the goats that are sent to the frontlines?
+	- 
 
 ### Mana
 - how did MC/rival become such powerful mages? its mentioned that you can train to up your mana output, but what exactly separates a weak mage from a powerful one, and what kinds of techniques can they employ?
+	- 
 
 - its mentioned that countries stayed away from the giant pool of mana while the large beast underground was alive. does that mean mana can have positive/negative energy? do they each have pros/cons or is there a clear delineation between good and bad mana?
+	- 
 
 - how long has the underground beast been alive? were there others before him? will another beast take its place after a while? it seems like it dying of old age was unexpected, as the bruhs and brainrots sought out to plot the unexplored land when it died.
+	- 
 
 - is this beast the source of mana? or can mana occur naturally within people/the environment without it?
+	- 
