@@ -55,10 +55,10 @@ _I think it would be interesting if these interactions were less expository and 
 - how did MC/rival become such powerful mages? its mentioned that you can train to up your mana output, but what exactly separates a weak mage from a powerful one, and what kinds of techniques can they employ?
 	- Generally, the MC and Rival Mage are both freaks of nature who were born with way more mana than the average mage.
 	- Strong mages tend to have higher reserves of mana, which allows them to regularly output more mana at once.
-	- To get stronger, I kinda imagine the whole mana thing to be similar to how people can lift weights to get stronger. Through focused exercises and training, people can increase their mana reserves and output. However, this is gee
+	- To get stronger, I kinda imagine the whole mana thing to be similar to how people can lift weights to get stronger. Through focused exercises and training, people can increase their mana reserves and output. However, this is generally a slow process and there is a limit to how much stronger people can get through this. Other ways to get stronger include getting better control over your mana and learning new spells, but this is something people go to school for.
 
 - its mentioned that countries stayed away from the giant pool of mana while the large beast underground was alive. does that mean mana can have positive/negative energy? do they each have pros/cons or is there a clear delineation between good and bad mana?
-	-
+	- For this, the beast was moreso the 
 
 - how long has the underground beast been alive? were there others before him? will another beast take its place after a while? it seems like it dying of old age was unexpected, as the bruhs and brainrots sought out to plot the unexplored land when it died.
 	-
