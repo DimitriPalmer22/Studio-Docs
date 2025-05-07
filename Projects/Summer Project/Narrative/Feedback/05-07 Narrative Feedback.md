@@ -1,3 +1,6 @@
+
+> Note: This doc is in response to the comments I got in Discord. I'll eventually update the [Narrative Idea](<../../Narrative Idea.md>) 
+
 # Chelle Notes
 
 Question I've had that wasn't answered here:
@@ -8,7 +11,7 @@ Question I've had that wasn't answered here:
 
 - Does that adjustment contribute to why there is a loop?
 	- Not directly, no. The communication spell allows one of the other allies to 
-	- The main character loses
+	- The main character loses the items they've acquired during the current run because 
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
 	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
