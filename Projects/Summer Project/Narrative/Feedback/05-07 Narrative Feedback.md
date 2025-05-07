@@ -49,11 +49,11 @@ _I think it would be interesting if these interactions were less expository and 
 	- I just realized that I haven't really characterized the MC at all. I'll get back to you on that
 
 - does mc have any kind of prior relationship with the rival mage? were they initially part of the same coalition, or have they always been at odds? are the mc or rival mage actually in charge of anything on their respective sides, or are they just the goats that are sent to the frontlines?
-	- I'll flesh this out more, but I like the idea of them being the goats that are sent to the frontlines. They have no history with each other, but they're both really strong to the point where they're pretty well-known.
+	- I'll flesh this out more, but I like the idea of them being the goats that are sent to the frontlines. They have no direct history with each other, but they're both really strong to the point where they're pretty well-known.
 
 ### Mana
 - how did MC/rival become such powerful mages? its mentioned that you can train to up your mana output, but what exactly separates a weak mage from a powerful one, and what kinds of techniques can they employ?
-	-
+	- Generally, the MC and Rival Mage 
 
 - its mentioned that countries stayed away from the giant pool of mana while the large beast underground was alive. does that mean mana can have positive/negative energy? do they each have pros/cons or is there a clear delineation between good and bad mana?
 	-
