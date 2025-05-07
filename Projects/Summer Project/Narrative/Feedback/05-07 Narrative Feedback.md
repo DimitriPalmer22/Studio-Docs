@@ -61,7 +61,7 @@ _I think it would be interesting if these interactions were less expository and 
 	- For this, the beast was moreso the thing that drove people away. Even though the beast was underground, the beast's presence was so strong that people were able to detect it. This is why people stayed away from the area.
 
 - how long has the underground beast been alive? were there others before him? will another beast take its place after a while? it seems like it dying of old age was unexpected, as the bruhs and brainrots sought out to plot the unexplored land when it died.
-	-
+	- 
 
 - is this beast the source of mana? or can mana occur naturally within people/the environment without it?
 	-
