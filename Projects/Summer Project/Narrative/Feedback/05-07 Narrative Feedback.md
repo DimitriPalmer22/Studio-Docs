@@ -7,8 +7,8 @@ Question I've had that wasn't answered here:
 	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on another person regardless of distance.
 
 - Does that adjustment contribute to why there is a loop?
-	- Not directly, no. --
-	- The main charac
+	- Not directly, no. The communication spell allows one of the other allies to quickly revive the 
+	- The main character loses
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
 	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
