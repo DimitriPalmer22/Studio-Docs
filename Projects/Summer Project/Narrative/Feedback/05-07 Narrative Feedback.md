@@ -3,11 +3,9 @@
 
 # Chelle Notes
 
-Question I've had that wasn't answered here:
-
 - In what way is the seal spell altered so that they can contact the MC?
-	- After further consideration, saying that the casting of the Seal Spell was altered might cause some issues for the narrative (Does this affect the other people who are currently in the Seal Realm? Couldn't **Rival Mage** just cast the spell again or something to make sure it works this time?).
-	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on another person regardless of distance.
+	- After further consideration, saying that the casting of the Seal Spell was altered might cause some issues for the narrative down the line. (Does this affect the other people who are currently trapped in the Seal Realm? Couldn't **Rival Mage** just cast the spell again or something to make sure it works 100% this time?).
+	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on the main character regardless of distance.
 
 - Does that adjustment contribute to why there is a loop?
 	- Not directly, no. The communication spell allows another one of the allies (Not **Ally 1**) to, at the start of each run, cast a spell that creates a "restart point"" for the main character. Whenever the main character dies, they are sent back to this restart point. This spell is extremely draining for whoever casts it, which is why it isn't used more than once per run.
