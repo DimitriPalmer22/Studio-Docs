@@ -12,8 +12,8 @@
 	- The restart spell respawns the main character at the start of the Seal Realm exactly as they were when the spell was cast. This explains why the main character doesn't keep their loot between runs.
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
-	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
-	- I do want the people that contact the main character to be visible. Like, the main character can actually see them. Given that we have 2 2D artists, I planned for one of them to focus on character portraits.
+	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals under any circumstance, but individuals on the outside can send small objects through the portal.
+	- I do want the people that contact the main character to be visible. Like, the main character (and the player) can actually see them. Given that we have 2 2D artists, I planned for one of them to focus on character portraits.
 
 - Also, is the Seal Realm a real physical place (like you could get there through some other means) or is it on some other plane of reality?
 	- The Seal Realm is not a physical place. There is no way to get there through any means other than using the spell that specifically sends people to the Seal Realm. Not even traditional teleportation spells can send someone there. The Seal Realm is a different plane of reality.
