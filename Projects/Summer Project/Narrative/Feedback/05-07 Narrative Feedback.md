@@ -30,8 +30,8 @@ _I think it would be interesting if these interactions were less expository and 
 ### Seal Realm
 - as for the others who are also trapped in the Seal Realm, do you think it would mostly be people/creatures that deserved it/couldn't be contained outside? or do the people who can send others to the Seal Realm just send whoever they want down there even if they've done nothing wrong?
 	- Since the Seal Realm has its own set of ecosystems and environments, I think it makes sense for the weaker creatures to have been born there. For stronger monsters and _some_ people, I think it makes sense for them to have been sent there because there was no other feasible way to contain them.
-	- Since the spell that sends people to the Seal Realm is exclusive to "The Brainrot Empire", "The Brainrot Empire" is kinda characterized by who they chose to send to the Seal Realm. For example, if there were too many guys in there that didn't really deserve it, then that paints the "Brainrot Empire" to be a little more evil than I want them to be.
-	- So, for the people in the Seal Realm that don't 
+	- Since the spell that sends people to the Seal Realm is pretty much exclusive to "The Brainrot Empire", "The Brainrot Empire" is kinda characterized by who they choose to send to the Seal Realm. For example, if there were too many people in there that didn't really deserve it, then that paints the "Brainrot Empire" to be a little more evil than I want them to be.
+	- So, for the people in the Seal Realm that don't really deserve to be there, I want them to have very specific reasons for being there. For example, maybe they're a victim of **Rival Mage** tweaking out on
 
 - if loops are intended, does the mc get sent right back into the Seal Realm after he escapes? is it actually a prison with infinite layers of seals?
 
