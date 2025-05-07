@@ -4,10 +4,11 @@ Question I've had that wasn't answered here:
 
 - In what way is the seal spell altered so that they can contact the MC?
 	- After further consideration, saying that the casting of the Seal Spell was altered might cause some issues for the narrative (Does this affect the other people who are currently in the Seal Realm? Couldn't **Rival Mage** just cast the spell again or something to make sure it works this time?).
-	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast spells on another person regardless of distance. 
+	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on another person regardless of distance.
 
 - Does that adjustment contribute to why there is a loop?
-	- Not directly, no. 
+	- Not directly, no. --
+	- The main charac
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
 	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
@@ -20,7 +21,7 @@ Question I've had that wasn't answered here:
 
 I'm a big fan of the premise being the MC escaping from the Seal Realm. with how they're described it feels kinda like a Gojo situation where if they escape it would be like an insta-win on the war against the brainrots. I also love the idea of different friends/allies that can chime in through the interaction gateways to support you and give you updates on what's going on outside.
 
-*I think it would be interesting if these interactions were less expository and focused on the present*. maybe even have the MC call shots or give advice to his allies to help in the war?
+_I think it would be interesting if these interactions were less expository and focused on the present_. maybe even have the MC call shots or give advice to his allies to help in the war?
 
 ## Questions
 
