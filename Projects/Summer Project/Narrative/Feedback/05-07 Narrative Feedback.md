@@ -4,7 +4,7 @@ Question I've had that wasn't answered here:
 
 - In what way is the seal spell altered so that they can contact the MC?
 	- After further consideration, saying that the casting of the Seal Spell was altered might cause some issues for the narrative (Does this affect the other people who are currently in the Seal Realm? Couldn't **Rival Mage** just cast the spell again or something to make sure it works this time?).
-	- Instead, I think its better to say something like **Ally 1** casts a very powerful spell support spell that allows two individuals to communicate, exchange items, and cast spells on each other regardless of distance. 
+	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast spells on another person regardless of distance. 
 
 - Does that adjustment contribute to why there is a loop?
 	- Not directly, no. 
