@@ -86,7 +86,7 @@
 - Understanding that controlling this resource would upset the balance of power in the world, the countries of **The Bruh Coalition** swear to prevent any single group from controlling this resource.
 - **The Bruh Coalition** and **The Brainrot Empire** are now at war over this resource.
 
-##### **Seal Realm**
+##### **Seal Realm** (Name Not Final)
 - Several people in this world have the power to send people to **Seal Realm**. However, most people who know how to use it belong to **The Brainrot Empire**, as they are the ones who possess the knowledge to teach the spell to others. Only the most distinguished mages are taught this spell.
 - As such, **Seal Realm** is not exclusive to **Main Character**.
 - People are usually sent to **Seal Realm** as a punishment for crimes against **The Brainrot Empire**. However, it is usually reserved for powerful individuals who may still pose a threat when placed in a traditional prison. People are also sent here if the people who has the spell feels like sending someone here, like if they get really upset with someone.
