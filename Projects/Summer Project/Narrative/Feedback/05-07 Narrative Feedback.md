@@ -13,7 +13,7 @@ Question I've had that wasn't answered here:
 	- I do want the people that contact the main character to be visible. Like, the main character can actually see them. Given that we have 2 2D artists, I planned for one of them to focus on character portraits.
 
 - Also, is the Seal Realm a real physical place (like you could get there through some other means) or is it on some other plane of reality?
-	- The Seal Realm is not a physical place. There is no way to get there through any means other than using the spell that specifically sends people to the Seal Realm. Not even teleportation 
+	- The Seal Realm is not a physical place. There is no way to get there through any means other than using the spell that specifically sends people to the Seal Realm. Not even traditional teleportation spells can send someone there. The Seal Realm is a different plane of reality.
 
 # Matthew Notes
 
