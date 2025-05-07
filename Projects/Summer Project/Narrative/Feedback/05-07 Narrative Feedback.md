@@ -1,0 +1,47 @@
+Question I've had that wasn't answered here:
+
+- In what way is the seal spell altered so that they can contact the MC?
+	- The seal spell was altered by …
+
+- And what does the contact look like?
+	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
+
+- Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
+	- I do want the people that contact the main character to be visible. Like, the main character can actually see them. Given that we have 2 2D artists, I planned for one of them to focus on character portraits.
+
+- Does that adjustment contribute to why there is a loop?
+	-
+
+- Also, is the seal realm a real physical place (like you could get there through some other means) or is it on some other plane of reality?
+	-
+
+# Matthew Notes
+
+I'm a big fan of the premise being the MC escaping from the seal realm. with how they're described it feels kinda like a Gojo situation where if they escape it would be like an insta-win on the war against the brainrots. I also love the idea of different friends/allies that can chime in through the interaction gateways to support you and give you updates on what's going on outside.
+
+*I think it would be interesting if these interactions were less expository and focused on the present*. maybe even have the MC call shots or give advice to his allies to help in the war?
+
+## Questions
+
+### Seal Realm
+- as for the others who are also trapped in the seal realm, do you think it would mostly be people/creatures that deserved it/couldn't be contained outside? or do the people who can send others to the seal realm just send whoever they want down there even if they've done nothing wrong?
+
+- if loops are intended, does the mc get sent right back into the seal realm after he escapes? is it actually a prison with infinite layers of seals?
+
+- ^like Chelle mentioned, if the seal realm is a physical place, maybe the contact between the MC and the allies can eventually reveal this fact, and pivot to searching for clues for MC's allies to rescue him from the location
+
+### Main Character
+- you mentioned the mc is stripped of his powers before getting sent to the realm. is he still powerless while he's in there? i figured yes as it would justify him having difficulty escaping and needing the power of all the different tomes down there. but, maybe there are systems in place tailored to him specifically that prevent him from just leaving.
+
+- mc fights for the bruhs, but is he from one of the united countries? does he have anyone in particular he's fighting for? is he just looking for a worthy opponent after becoming so powerful?
+
+- does mc have any kind of prior relationship with the rival mage? were they initially part of the same coalition, or have they always been at odds? are the mc or rival mage actually in charge of anything on their respective sides, or are they just the goats that are sent to the frontlines?
+
+### Mana
+- how did MC/rival become such powerful mages? its mentioned that you can train to up your mana output, but what exactly separates a weak mage from a powerful one, and what kinds of techniques can they employ?
+
+- its mentioned that countries stayed away from the giant pool of mana while the large beast underground was alive. does that mean mana can have positive/negative energy? do they each have pros/cons or is there a clear delineation between good and bad mana?
+
+- how long has the underground beast been alive? were there others before him? will another beast take its place after a while? it seems like it dying of old age was unexpected, as the bruhs and brainrots sought out to plot the unexplored land when it died.
+
+- is this beast the source of mana? or can mana occur naturally within people/the environment without it?
