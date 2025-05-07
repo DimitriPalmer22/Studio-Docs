@@ -3,7 +3,7 @@
 Question I've had that wasn't answered here:
 
 - In what way is the seal spell altered so that they can contact the MC?
-	- The seal spell was altered by …
+	- After further consideration, saying that Seal Spell was altered might 
 
 - Does that adjustment contribute to why there is a loop?
 	-
