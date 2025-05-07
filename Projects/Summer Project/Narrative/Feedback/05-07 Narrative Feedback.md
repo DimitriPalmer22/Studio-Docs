@@ -4,10 +4,10 @@ Question I've had that wasn't answered here:
 
 - In what way is the seal spell altered so that they can contact the MC?
 	- After further consideration, saying that the casting of the Seal Spell was altered might cause some issues for the narrative (Does this affect the other people who are currently in the Seal Realm? Couldn't **Rival Mage** just cast the spell again or something to make sure it works this time?).
-	- 
+	- Instead, I think its better to say something like **Ally 1** casts a spell that 
 
 - Does that adjustment contribute to why there is a loop?
-	-
+	- Not directly, no. 
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
 	- Whenever an individual contacts the main character from the outside, a large portal opens up. On the other side of this portal, the person is visible. Both the main character and the person on the other side can see and hear each other. People absolutely cannot travel through these portals, but individuals on the outside can send small objects through the portal.
