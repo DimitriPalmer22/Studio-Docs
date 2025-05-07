@@ -7,7 +7,7 @@ Question I've had that wasn't answered here:
 	- Instead, I think its better to say something like **Ally 1** casts a very powerful support spell that allows one or more individuals to communicate with, send items to, and cast _some_ spells on another person regardless of distance.
 
 - Does that adjustment contribute to why there is a loop?
-	- Not directly, no. The communication spell allows one of the other allies to quickly revive the 
+	- Not directly, no. The communication spell allows one of the other allies to 
 	- The main character loses
 
 - What does the contact look like? Do the people actually show up or is it exactly like Hades where they kind of just talk to him from the beyond?
