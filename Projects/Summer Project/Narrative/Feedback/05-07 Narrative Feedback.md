@@ -34,7 +34,9 @@ _I think it would be interesting if these interactions were less expository and 
 	- So, for the people in the Seal Realm that don't really deserve to be there, I want them to have very specific reasons for being there that are well-explained. For example, maybe they're a victim of **Rival Mage** tweaking out and abusing their power.
 
 - if loops are intended, does the mc get sent right back into the Seal Realm after he escapes? is it actually a prison with infinite layers of seals?
-	- The Seal Realm itself doesn't actually have any looping mechanism. That's only because the main character has the support of their allies, which keeps them alive whenever they die. The main character is sent back to the start of the Seal Realm whenever they die, but they don't actually get sent back to the Seal Realm after they escape.
+	- The Seal Realm itself doesn't actually have any looping mechanism. That's only because the main character has a spell cast on them by one of their allies, which keeps them alive and resets them whenever they die. For literally anyone else, they would die and stay dead.
+	- If someone escapes the Seal Realm, then they are free to leave.
+	- The Seal Realm is finite and does have an exit. However, traversing this realm is so dangerous that most people die once they get too far.
 
 - ^like Chelle mentioned, if the Seal Realm is a physical place, maybe the contact between the MC and the allies can eventually reveal this fact, and pivot to searching for clues for MC's allies to rescue him from the location
 
