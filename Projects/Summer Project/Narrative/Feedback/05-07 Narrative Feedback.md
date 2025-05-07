@@ -22,9 +22,8 @@ Question I've had that wasn't answered here:
 
 # Matthew Notes
 
-I'm a big fan of the premise being the MC escaping from the Seal Realm. with how they're described it feels kinda like a Gojo situation where if they escape it would be like an insta-win on the war against the brainrots. I also love the idea of different friends/allies that can chime in through the interaction gateways to support you and give you updates on what's going on outside.
-
 _I think it would be interesting if these interactions were less expository and focused on the present_. maybe even have the MC call shots or give advice to his allies to help in the war?
+- 
 
 ## Questions
 
