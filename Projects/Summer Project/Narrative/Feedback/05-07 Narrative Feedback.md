@@ -46,10 +46,10 @@ _I think it would be interesting if these interactions were less expository and 
 	- Before getting sealed, the main character loses their tome. So, they no longer have access to any of their spells or abilities, and they lose the overall powerup that their super-powerful tome gives them.
 
 - mc fights for the bruhs, but is he from one of the united countries? does he have anyone in particular he's fighting for? is he just looking for a worthy opponent after becoming so powerful?
-	-
+	- I just realized that I haven't really characterized the MC at all. I'll get back to you on that
 
 - does mc have any kind of prior relationship with the rival mage? were they initially part of the same coalition, or have they always been at odds? are the mc or rival mage actually in charge of anything on their respective sides, or are they just the goats that are sent to the frontlines?
-	-
+	- I'll flesh this out more, but I like the idea of them being the goats that are sent to the frontlines. They have no history with each other, but they're both really strong to the point where they're pretty well-known.
 
 ### Mana
 - how did MC/rival become such powerful mages? its mentioned that you can train to up your mana output, but what exactly separates a weak mage from a powerful one, and what kinds of techniques can they employ?
