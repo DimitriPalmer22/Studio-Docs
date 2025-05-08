@@ -25,11 +25,14 @@
 
 # References
 
-### Almost Exactly What I Want
-- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals
+### Magnix Games
+- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals. Also, he's making his game in Unreal
 
 [Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames)
-Her
+Both of the videos on here are pretty short, but they show off a lot of the game's visuals.
+
+[Here's his Instagram](https://www.instagram.com/magnixgames/)
+
 # Textures
 -
 
