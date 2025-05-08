@@ -11,3 +11,4 @@ Tomes themselves are blueprints. The mesh / materials they use can be configured
 - Shotgun
 - Charge Single Fire
 - Charge Burst
+
