@@ -23,6 +23,11 @@
 # Models
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
 
+# References
+
+### Almost Exactly What I Want
+- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals and 
+
 # Textures
 -
 
