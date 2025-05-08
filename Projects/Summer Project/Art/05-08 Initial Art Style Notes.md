@@ -26,8 +26,10 @@
 # References
 
 ### Almost Exactly What I Want
-- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals and 
+- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals
 
+[Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames)
+Her
 # Textures
 -
 
