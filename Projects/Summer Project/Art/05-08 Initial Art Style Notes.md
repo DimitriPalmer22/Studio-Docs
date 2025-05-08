@@ -35,6 +35,7 @@
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
 - We can do things like
-	- Use Unreal Engine's lighting
-	- Use Unreal Engine's post-processing effects
-	- Use Particles & VFX
+	- Abuse Unreal Engine's lighting
+	- Use post-processing effects
+	- Use particles & VFX at every opportunity
+	- Provide visual feedback to the player every time they do something (add a camera shake, play an animation, have the UI do the dougie idk)
