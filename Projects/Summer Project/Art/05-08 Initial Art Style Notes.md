@@ -76,7 +76,9 @@ I think these games are also pretty good references for how I want this project 
 - Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
 
 ![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
-> Octa
+
+> Octagonal barrel model
+
 # Textures
 - Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
 - I've seen people start out by creating a low-res texture completely from scratch and just stick it in-engine like that
