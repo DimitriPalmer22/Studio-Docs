@@ -73,16 +73,16 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 # Post Processing
 - A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
 - A color reduction shader is applied to everything. This may be unnecessary if we can get the colors right in the textures
-- A dithering shader is applied to the entire screen. In areas where the screen is dark, a 
-- 
+- A dithering shader is applied to the entire screen. In areas where the screen is dark, the dither texture subtly shows up, which helps to create the illusion of a wider range of colors
 
 # UI
-- Given that the game has a retro
+- Given that the game has a retro aesthetic to it, the UI would need to fit into that as well
+- I'm against having a completely minimal UI. Some things are allowed to be on scre
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
 - We can do things like
 	- Abuse Unreal Engine's lighting
-	- Use post-processing effects
+	- Use post-processing effects (Bloom, chromatic aberration, etc)
 	- Use particles & VFX at every opportunity
 	- Provide visual feedback to the player every time they do something (add a camera shake, play an animation, have the UI do the dougie idk)
