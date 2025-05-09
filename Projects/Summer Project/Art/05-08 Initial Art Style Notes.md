@@ -77,7 +77,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 
 # UI
 - Given that the game has a retro aesthetic to it, the UI would need to fit into that as well
-- I'm against having a completely minimal UI. Some things are allowed to be on scre
+- I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
