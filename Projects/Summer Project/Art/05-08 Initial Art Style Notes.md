@@ -117,11 +117,11 @@ I think these games are also pretty good references for how I want this project 
 - A color reduction shader + dithering shader is applied to the entire screen. In areas where the screen is dark, the dither texture subtly shows up, which helps to create the illusion of a wider range of colors
 ![](<../../../_META/Attachments/ScreenShot00002.png>)
 
-> Without Dither
+> Without Dither / Color Reduction
 
 ![](<../../../_META/Attachments/ScreenShot00003.png>)
 
-> With Dither
+> With Dither / Color Reduction
 
 # UI / 2D Elements
 - Given that the game has a retro aesthetic to it, the UI would need to fit into that as well
