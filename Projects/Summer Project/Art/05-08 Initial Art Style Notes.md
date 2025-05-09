@@ -25,7 +25,7 @@
 ### Magnix Games (Lowkey Exactly What I want the Game to Look like)
 - I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals. Also, he's making his game in Unreal Engine 5, so anything he's doing should also be achievable by us.
 
-[Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames).
+[Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames). ***WATCH THIS VIDEO (and his other one too)!!!*** This is the strongest visual reference we have!!!
 
 Both of the videos on here are pretty short, but they show off a lot of the game's visuals.
 
@@ -74,7 +74,7 @@ I think these games are also pretty good references for how I want this project 
 # Models
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
 - Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
-- In terms of the overall theming of the assets you'll be making, I e
+- In terms of the overall theming of the assets you'll be making, I still need to determine what the first area of the game is going to be. I need to figure out what the first area we work on is going to be before I can give you any more details on that.
 
 ![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
 
