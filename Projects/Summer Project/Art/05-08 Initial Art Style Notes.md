@@ -12,14 +12,11 @@
 #### Things I Want
 - The low-poly aesthetic of the PS1 era. All models should generally have some pretty hard angles. Even circular objects need to have very noticable edges.
 
-![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
-
 - Low res textures. I want to try and keep the texture resolution low, but not so low that it becomes hard to tell what you're looking at.
-
 - Reduced Color Depth. Most games on the PS1 used a 15-bit color depth.
 
 #### Things I Don't Want
-- The weird vertex and texture warping on models that happened as a result of the PS1's hardware limitations. (The actual names for these are screen space vertex snapping and affine texture mapping)
+- The weird vertex and texture warping on models that happened as a result of the PS1's hardware limitations. (The actual names for these are [screen space vertex snapping](https://www.youtube.com/watch?v=Ap-RV6pcXDk&ab_channel=Marcis) and [affine texture mapping](https://www.youtube.com/watch?v=byYNo2Puv9g&ab_channel=DanielIlett))
 - The extreme pixelization due to the PS1's low resolution. I feel like trying to do this on modern screens would make the scene harder to read
 - The low framerate found in many PS1 games. A lot of those ran at 15-20 FPS, which is not something I want to replicate. I want the game to target 60 FPS.
 
@@ -78,6 +75,8 @@ I think these games are also pretty good references for how I want this project 
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
 - Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
 
+![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
+> Octa
 # Textures
 - Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
 - I've seen people start out by creating a low-res texture completely from scratch and just stick it in-engine like that
