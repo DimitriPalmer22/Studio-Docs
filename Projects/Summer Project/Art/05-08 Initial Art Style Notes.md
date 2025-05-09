@@ -15,6 +15,7 @@
 ![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
 
 - Low res textures. I want to try and keep the texture resolution low, but not so low that it becomes hard to tell what you're looking at.
+
 - Reduced Color Depth. Most games on the PS1 used a 15-bit color depth.
 
 #### Things I Don't Want
@@ -64,6 +65,9 @@ I think these games are also pretty good references for how I want this project 
 - Vagrant Story
 	- An excellent example of a 3D PS1 game that looks really good.
 	- This game came out at the very end of the PS1's lifespan, so it looks a lot better than most other games
+	- I really like the way the characters in this game look
+![](<../../../_META/Attachments/Pasted image 20250509170856.png>)
+
 - Final Fantasy IX
 - The Legend of Dragoon
 
