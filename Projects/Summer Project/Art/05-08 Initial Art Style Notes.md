@@ -4,7 +4,7 @@
 - Overall, we're going with a non-photorealistic art style for this project.
 - In particular, I've been really drawn to the PS1 / PSX art style for a couple reasons:
 	- Could be really interesting to try and modernize
-	- Lower quality assets could help with getting more things done within the short time we have
+		- Lower quality assets could help with getting more things done within the short time we have
 - The goal is to have a low-poly art style that is still visually appealing and interesting in a modern way
 
 ### The PS1 / PSX Art Style
