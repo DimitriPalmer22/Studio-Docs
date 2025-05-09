@@ -99,6 +99,9 @@ I think these games are also pretty good references for how I want this project 
 - Given that the game has a retro aesthetic to it, the UI would need to fit into that as well
 - I've been thinking that the whole idea of using a reduced color palette for any 2D elements as well would help to sell the retro aesthetic
 - Also, I've been thinking that applying a dithering filter to any 2D asset before we put it in-engine would help with making everything feel retro and cohesive
+
+![](<../../../_META/Attachments/Pasted image 20250509180006.png>)
+
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
 - The 2D elements are not meant to be completely 8-bit like some games. Having the UI be too pixelated / low-res might be too much. Honestly, this might be one of those points where we can take some liberties and make the UI a little more modern
 
