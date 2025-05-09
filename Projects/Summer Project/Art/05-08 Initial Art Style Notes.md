@@ -86,10 +86,12 @@ I think these games are also pretty good references for how I want this project 
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
 - The UI is not meant to be completely 8-bit like some games. Having the UI be too pixelated / low-res might be too much. Honestly, this might be one of those points where we can take some liberties and make the UI a little more modern
 
-- Character portraits: When the different characters in-game are talking to the player, a character portrait will show up on the screen. This will be a 2D image of the character. 
+- Character portraits: When the different characters in-game are talking to the player, a character portrait will show up on the screen. This will be a 2D image of the character.
 	- Since we don't know how many different characters there will be at this time, I don't think they'll be animated like they were in Relapse. It might be too much work for the time we have
 	- At the bare minimum, each character needs a single portrait image
-	- Depending on how things go, 
+	- Depending on how things go, we can probably get multiple portraits for each character that show different emotions for different lines of dialogue
+
+- 
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
