@@ -66,6 +66,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 
 # Models
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
+- Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
 
 # Textures
 -
