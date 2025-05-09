@@ -91,13 +91,14 @@ I think these games are also pretty good references for how I want this project 
 	- At the bare minimum, each character needs a single portrait image
 	- Depending on how things go, we can probably get multiple portraits for each character that show different emotions for different lines of dialogue
 
-- To help with conveyance, I'm thinking we can try to lean into having a lot of 2D UI elements. 
+- To help with conveyance, I'm thinking we can try to lean into having a lot of 2D UI elements.
 	- Some will be on-screen
 	- Some will be in world-space
 - We can have indicators for
 	- Player health
 	- Enemy health
 	- Some type of UI to let the player know the room has started / ended
+	- A little pointer to let the player know where an interactable item is
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
