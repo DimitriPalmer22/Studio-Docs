@@ -88,6 +88,13 @@ I think these games are also pretty good references for how I want this project 
 - A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
 - A color reduction shader is applied to everything. This may be unnecessary if we can get the colors right in the textures
 - A dithering shader is applied to the entire screen. In areas where the screen is dark, the dither texture subtly shows up, which helps to create the illusion of a wider range of colors
+![](<../../../_META/Attachments/ScreenShot00002.png>)
+
+> Without Dither
+
+![](<../../../_META/Attachments/ScreenShot00003.png>)
+
+> With Dither
 
 # UI / 2D Elements
 - Given that the game has a retro aesthetic to it, the UI would need to fit into that as well
