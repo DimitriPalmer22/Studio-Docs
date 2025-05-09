@@ -99,6 +99,10 @@ I think these games are also pretty good references for how I want this project 
 
 > 256x256 version of the texture
 
+![](<../../../_META/Attachments/ScreenShot00005.png>)
+
+> How it looks in-engine
+
 # Post Processing
 - A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
 - A color reduction shader + dithering shader is applied to the entire screen. In areas where the screen is dark, the dither texture subtly shows up, which helps to create the illusion of a wider range of colors
