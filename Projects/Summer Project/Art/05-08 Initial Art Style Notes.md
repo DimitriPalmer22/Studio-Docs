@@ -86,6 +86,8 @@ I think these games are also pretty good references for how I want this project 
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
 - The UI is not meant to be completely 8-bit like some games. Having the UI be too pixelated / low-res might be too much. Honestly, this might be one of those points where we can take some liberties and make the UI a little more modern
 
+- 
+
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
 - We can do things like
