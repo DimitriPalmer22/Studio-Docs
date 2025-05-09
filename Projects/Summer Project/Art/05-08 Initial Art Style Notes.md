@@ -74,6 +74,7 @@ I think these games are also pretty good references for how I want this project 
 # Models
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
 - Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
+- In terms of the overall theming of the assets you'll be making, I e
 
 ![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
 
@@ -81,7 +82,9 @@ I think these games are also pretty good references for how I want this project 
 
 ![](<../../../_META/Attachments/Pasted image 20250509180659.png>)
 
+![](<../../../_META/Attachments/Pasted image 20250509180826.png>)
 
+![](<../../../_META/Attachments/Pasted image 20250509180852.png>)
 
 # Textures
 - Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
