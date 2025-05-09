@@ -18,14 +18,15 @@
 - The weird vertex warping on models that happened as a result of the PS1's hardware limitations
 - The weird texture warping that happened as a result of the PS1's hardware limitations
 - The extreme pixelization due to the PS1's low resolution. I feel like trying to do this on modern screens would make the scene harder to read
-- The low framerate found in many PSX games. A lot of those ran at 15-20 FPS, which is not something I want to replicate. I want the game to target 60 FPS.
+- The low framerate found in many PS1 games. A lot of those ran at 15-20 FPS, which is not something I want to replicate. I want the game to target 60 FPS.
 
 # References
 
 ### Magnix Games (Lowkey Exactly What I want the Game to Look like)
 - I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals. Also, he's making his game in Unreal Engine 5, so anything he's doing should also be achievable by us.
 
-[Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames)
+[Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames).
+
 Both of the videos on here are pretty short, but they show off a lot of the game's visuals.
 
 [Here's his Instagram as Well](https://www.instagram.com/magnixgames/)
