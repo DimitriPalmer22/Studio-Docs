@@ -71,7 +71,10 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 -
 
 # Post Processing
--
+- A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
+- A color reduction shader is applied to everything. This may be unnecessary if we can get the colors right in the textures
+- A dithering shader is applied to the entire screen. In areas where the screen is dark, a 
+- 
 
 # UI
 - Given that the game has a retro
