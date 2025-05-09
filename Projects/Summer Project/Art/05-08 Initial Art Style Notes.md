@@ -40,10 +40,14 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 	- Dust and stuff when he jumps (its a little hard to see)
 	- Random particles just chillin in the air
 	- Also, they all seem low quality to the point where I could see them being in a late PS1 / early PS2 game
-- His fullscreen dithering effect is perfect
+- His fullscreen dithering effect is almost perfect
+![](<../../../_META/Attachments/Pasted image 20250509182350.png>)
 - His character model looks cool.
 	- I like the silhouette of the character
 - His environmental models are low poly + his textures are low res. However, they are still easy to read. They are detailed enough that the low-poly nature of them isn't distracting
+![](<../../../_META/Attachments/Pasted image 20250509182456.png>)
+![](<../../../_META/Attachments/Pasted image 20250509182515.png>)
+
 - The animations / posing is really good
 	- Very fluid. In fact, too fluid for a PSX game, which is good.
 	- The way he holds his swords while idling is sick.
@@ -52,6 +56,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 - I noticed that his FOV seems pretty high
 - Fog is an excellent touch
 ![](<../../../_META/Attachments/Pasted image 20250509182321.png>)
+
 #### What I Don't Really Want In Our Game
 - His game is a dark fantasy game, and his color choice + his overall art style is dark and gritty. I want our game to be a little brighter and more colorful. Also, its generally just hard to see in his game because its so dark at some points
 - Pixelization shader is a little too harsh
