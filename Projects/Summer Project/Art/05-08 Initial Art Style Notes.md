@@ -66,8 +66,9 @@ I think these games are also pretty good references for how I want this project 
 	- An excellent example of a 3D PS1 game that looks really good.
 	- This game came out at the very end of the PS1's lifespan, so it looks a lot better than most other games
 	- I really like the way the characters in this game look
+![](<../../../_META/Attachments/Pasted image 20250509171117.png>)
 ![](<../../../_META/Attachments/Pasted image 20250509170856.png>)
-
+![](<../../../_META/Attachments/Pasted image 20250509171035.png>)
 - Final Fantasy IX
 - The Legend of Dragoon
 
