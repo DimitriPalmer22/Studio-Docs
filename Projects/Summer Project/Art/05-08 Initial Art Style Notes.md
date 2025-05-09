@@ -50,7 +50,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 	- The way he holds his swords while idling is sick.
 - Still uses modern techniques to give his game a good feel
 	- Things like camera shake when hitting enemies
-- His FOV is actually pretty high
+- I noticed that his FOV seems pretty high
 - Fog is an excellent touch
 
 #### What I Don't Really want in Our Game
