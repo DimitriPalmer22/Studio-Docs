@@ -80,8 +80,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 - I've been thinking that the whole idea of using a reduced color palette for any 2D elements as well would help to sell the retro aesthetic
 - Also, I've been thinking that applying a dithering filter to any 2D asset before we put it in-engine would help with making everything feel retro and cohesive
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
-- The UI is not meant to be completely 8-bit like some games. I want the UI to look like it belongs in a PS1 game, not an NES game.
-
+- The UI is not meant to be completely 8-bit like some games. Having the UI be too pixelated / low-res might be too much. Honestly, this might be one of those points where we can take some liberties and make the UI a little more modern
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
