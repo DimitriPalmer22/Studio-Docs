@@ -33,7 +33,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 
 #### What I Like Visually About the Game
 - His VFX are insane. They're not exactly what you would find in a PS1 game, but they still fit the aesthetic anyway.
-![](<../../../_META/Attachments/Pasted image 20250509182534.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509182534.png>)
 	- Ghost effect thing when he does his dash
 	- Sword trails
 	- Hit effects
@@ -42,12 +42,12 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 	- Random particles just chillin in the air
 	- Also, they all seem low quality to the point where I could see them being in a late PS1 / early PS2 game
 - His fullscreen dithering effect is almost perfect
-![](<../../../_META/Attachments/Pasted image 20250509182350.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509182350.png>)
 - His character model looks cool.
 	- I like the silhouette of the character
 - His environmental models are low poly + his textures are low res. However, they are still easy to read. They are detailed enough that the low-poly nature of them isn't distracting
-![](<../../../_META/Attachments/Pasted image 20250509182456.png>)
-![](<../../../_META/Attachments/Pasted image 20250509182515.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509182456.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509182515.png>)
 
 - The animations / posing is really good
 	- Very fluid. In fact, too fluid for a PSX game, which is good.
@@ -56,7 +56,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 	- Things like camera shake when hitting enemies
 - I noticed that his FOV seems pretty high
 - Fog is an excellent touch
-![](<../../../_META/Attachments/Pasted image 20250509182321.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509182321.png>)
 
 #### What I Don't Really Want In Our Game
 - His game is a dark fantasy game, and his color choice + his overall art style is dark and gritty. I want our game to be a little brighter and more colorful. Also, its generally just hard to see in his game because its so dark at some points
@@ -69,10 +69,10 @@ I think these games are also pretty good references for how I want this project 
 	- An excellent example of a 3D PS1 game that looks really good.
 	- This game came out at the very end of the PS1's lifespan, so it looks a lot better than most other games
 	- I really like the way the characters in this game look
-![](<../../../_META/Attachments/Pasted image 20250509171117.png>)
-![](<../../../_META/Attachments/Pasted image 20250509170856.png>)
-![](<../../../_META/Attachments/Pasted image 20250509171035.png>)
-![](<../../../_META/Attachments/Pasted image 20250509171221.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509171117.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509170856.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509171035.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509171221.png>)
 
 - Final Fantasy IX
 - The Legend of Dragoon
@@ -84,13 +84,13 @@ There's nothing in particular I think I want to take from these two. They're mor
 - Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
 - In terms of the overall theming of the assets you'll be making, I still need to determine what the first area of the game is going to be. I need to figure out what the first area we work on is going to be before I can give you any more details on that.
 
-![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509165446.png>)
 
-![](<../../../_META/Attachments/Pasted image 20250509180659.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180659.png>)
 
-![](<../../../_META/Attachments/Pasted image 20250509180826.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180826.png>)
 
-![](<../../../_META/Attachments/Pasted image 20250509180852.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180852.png>)
 
 # Textures
 - Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
@@ -108,26 +108,26 @@ There's nothing in particular I think I want to take from these two. They're mor
 	- the metallic property (no shininess)
 	- the roughness property
 
-![](<../../../_META/Attachments/Pasted image 20250509180550.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180550.png>)
 
 > Original Size of the texture (2048x2048)
 
-![](<../../../_META/Attachments/Pasted image 20250509180525.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180525.png>)
 
 > 256x256 version of the texture
 
-![](<../../../_META/Attachments/ScreenShot00007.png>)
+![](<../../../_Meta/Attachments/ScreenShot00007.png>)
 
 > How it looks in-engine
 
 # Post Processing
 - A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
 - A color reduction shader + dithering shader is applied to the entire screen. In areas where the screen is dark, the dither texture subtly shows up, which helps to create the illusion of a wider range of colors
-![](<../../../_META/Attachments/ScreenShot00002.png>)
+![](<../../../_Meta/Attachments/ScreenShot00002.png>)
 
 > Without Dither / Color Reduction
 
-![](<../../../_META/Attachments/ScreenShot00003.png>)
+![](<../../../_Meta/Attachments/ScreenShot00003.png>)
 
 > With Dither / Color Reduction
 
@@ -136,22 +136,22 @@ There's nothing in particular I think I want to take from these two. They're mor
 - I've been thinking that the whole idea of using a reduced color palette for any 2D elements as well would help to sell the retro aesthetic
 - Also, I've been thinking that applying a dithering filter to any 2D asset before we put it in-engine would help with making everything feel retro and cohesive
 
-![](<../../../_META/Attachments/Pasted image 20250509180006.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180006.png>)
 
-![](<../../../_META/Attachments/Pasted image 20250509182604.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509182604.png>)
 
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
 - The 2D elements are not meant to be completely 8-bit like some games. Having the UI be too pixelated / low-res might be too much. Honestly, this might be one of those points where we can take some liberties and make the UI a little more modern
 
-![](<../../../_META/Attachments/Pasted image 20250509174846.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509174846.png>)
 
 > Castlevania: Lament of Innocence (PS2)
 
-![](<../../../_META/Attachments/Pasted image 20250509175042.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509175042.png>)
 
 > Valkyrie Profile (PS1)
 
-![](<../../../_META/Attachments/Pasted image 20250509175318.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509175318.png>)
 
 > Xenogears (PS1)
 
@@ -160,8 +160,8 @@ There's nothing in particular I think I want to take from these two. They're mor
 	- At the bare minimum, each character needs a single portrait image
 	- Depending on how things go, we can probably get multiple portraits for each character that show different emotions for different lines of dialogue
 
-![](<../../../_META/Attachments/Pasted image 20250509180126.png>)
-![](<../../../_META/Attachments/Dealer Blue_001.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250509180126.png>)
+![](<../../../_Meta/Attachments/Dealer Blue_001.png>)
 
 - To help with conveyance, I'm thinking we can try to lean into having a lot of 2D UI elements.
 	- Some will be on-screen

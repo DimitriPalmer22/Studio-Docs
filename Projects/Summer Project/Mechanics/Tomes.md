@@ -12,4 +12,4 @@ Tomes themselves are blueprints. The mesh / materials they use can be configured
 - Charge Single Fire
 - Charge Burst
 
-![Test](<../../../_META/Attachments/Pasted image 20250509175042.png>)
+![Test](<../../../_Meta/Attachments/Pasted image 20250509175042.png>)
