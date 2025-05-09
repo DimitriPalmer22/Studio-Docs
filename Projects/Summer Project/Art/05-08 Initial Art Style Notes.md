@@ -12,7 +12,7 @@
 #### Things I Want
 - The low-poly aesthetic of the PS1 era. All models should generally have some pretty hard angles. Even circular objects need to have very noticable edges.
 
-
+![](<../../../_META/Attachments/Pasted image 20250509165446.png>)
 
 - Low res textures. I want to try and keep the texture resolution low, but not so low that it becomes hard to tell what you're looking at.
 - Reduced Color Depth. Most games on the PS1 used a 15-bit color depth.
