@@ -56,6 +56,14 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 #### What I Don't Really want in Our Game
 - His game is a dark fantasy game, and his color choice + his overall art style is dark and gritty. I want our game to be a little brighter and more colorful. Also, its generally just hard to see in his game because its so dark at some points
 - Pixelization shader is a little too harsh
+
+### Actual PS1 Games for Reference
+- I think these games are also pretty good references for how I want this project to look
+
+- Vagrant Story
+- Final Fantasy IX
+- The Legend of Dragoon
+
 # Models
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
 
