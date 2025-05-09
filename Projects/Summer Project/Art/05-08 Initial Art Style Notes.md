@@ -51,7 +51,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 	- Things like camera shake when hitting enemies
 - I noticed that his FOV seems pretty high
 - Fog is an excellent touch
-
+![](<../../../_META/Attachments/Pasted image 20250509182321.png>)
 #### What I Don't Really Want In Our Game
 - His game is a dark fantasy game, and his color choice + his overall art style is dark and gritty. I want our game to be a little brighter and more colorful. Also, its generally just hard to see in his game because its so dark at some points
 - Pixelization shader is a little too harsh
@@ -70,6 +70,8 @@ I think these games are also pretty good references for how I want this project 
 
 - Final Fantasy IX
 - The Legend of Dragoon
+
+There's nothing in particular I think I want to take from these two. They're moreso just good references for the general aesthetic of PS1 games.
 
 # Models
 - Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
