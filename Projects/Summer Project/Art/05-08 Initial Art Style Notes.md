@@ -20,18 +20,44 @@
 - The extreme pixelization due to the PS1's low resolution. I feel like trying to do this on modern screens would make the scene harder to read
 - The low framerate found in many PSX games. A lot of those ran at 15-20 FPS, which is not something I want to replicate. I want the game to target 60 FPS.
 
-# Models
-- Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
-
 # References
 
 ### Magnix Games
-- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals. Also, he's making his game in Unreal
+- I stumbled across this one guy on Instagram and he was making this game that is very similar to ours in terms of visuals. Also, he's making his game in Unreal Engine 5, so anything he's doing should also be achievable by us.
 
 [Here's his YouTube](https://www.youtube.com/watch?v=F3u7SyMXLWU&ab_channel=MagnixGames)
 Both of the videos on here are pretty short, but they show off a lot of the game's visuals.
 
-[Here's his Instagram](https://www.instagram.com/magnixgames/)
+[Here's his Instagram as Well](https://www.instagram.com/magnixgames/)
+
+Here's a quick list of stuff that I like / dislike about his game's visuals:
+
+#### What I Like
+- His VFX are insane
+	- Ghost effect thing when he does his dash
+	- Sword trails
+	- Hit effects
+	- Sparkles around projectiles
+	- Dust and stuff when he jumps (its a little hard to see)
+	- Random particles just chillin in the air
+	- Also, they all seem low quality to the point where I could see them being in a late PS1 / early PS2 game
+- His fullscreen dithering is perfect
+- His character model looks sick
+	- A good amount of really hard angles helps to sell the low-poly nature of the model
+- His environmental models are low poly + his textures are low res. However, they are not low quality. They are detailed enough that the low-poly nature of them isn't distracting
+- The animations / posing is really good
+	- Very fluid. In fact, too fluid for a PSX game, which is good.
+	- The way he holds his swords while idling is sick.
+- Still uses modern techniques to give his game a good feel
+	- Things like camera shake when hitting enemies
+- His FOV is actually pretty high
+- Fog is an excellent touch
+
+#### What I Don't Really want in Our Game
+- His game is a dark fantasy game, and his color choice + his overall art style is dark and gritty. I want our game to be a little brighter and more colorful. Also, its generally just hard to see in his game because its so dark at some points
+- Pixelization shader is a little too harsh
+# Models
+- Even though we're going for a low-poly art style, I don't want everything in the game to be completely flat to the point where we solely rely on textures to add detail.
 
 # Textures
 -
