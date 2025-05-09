@@ -99,6 +99,12 @@ I think these games are also pretty good references for how I want this project 
 	- Enemy health
 	- Some type of UI to let the player know the room has started / ended
 	- A little pointer to let the player know where an interactable item is
+	- other stuff
+
+- Also, menus are a thing
+	- I don't really have an idea for how these should look right now
+	- The overall style of the menus should fit the overall style of the game and should also be pretty consistent between the different menus
+	- However, the overall look is up to whoever designs them
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
