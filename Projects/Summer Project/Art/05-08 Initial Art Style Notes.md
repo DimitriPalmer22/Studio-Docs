@@ -33,7 +33,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 Here's a quick list of stuff that I like / dislike about his game's visuals:
 
 #### What I Like
-- His VFX are insane
+- His VFX are insane. They're not exactly what you would find in a PS1 game, but they still fit the aesthetic anyway.
 	- Ghost effect thing when he does his dash
 	- Sword trails
 	- Hit effects
@@ -41,10 +41,10 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 	- Dust and stuff when he jumps (its a little hard to see)
 	- Random particles just chillin in the air
 	- Also, they all seem low quality to the point where I could see them being in a late PS1 / early PS2 game
-- His fullscreen dithering is perfect
-- His character model looks sick
-	- A good amount of really hard angles helps to sell the low-poly nature of the model
-- His environmental models are low poly + his textures are low res. However, they are not low quality. They are detailed enough that the low-poly nature of them isn't distracting
+- His fullscreen dithering effect is perfect
+- His character model looks cool.
+	- I like the silhouette of the character
+- His environmental models are low poly + his textures are low res. However, they are still easy to read. They are detailed enough that the low-poly nature of them isn't distracting
 - The animations / posing is really good
 	- Very fluid. In fact, too fluid for a PSX game, which is good.
 	- The way he holds his swords while idling is sick.
