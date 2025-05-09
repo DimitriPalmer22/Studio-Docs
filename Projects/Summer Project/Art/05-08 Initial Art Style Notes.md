@@ -18,7 +18,7 @@
 - Reduced Color Depth. Most games on the PS1 used a 15-bit color depth.
 
 #### Things I Don't Want
-- The weird vertex and texture warping on models that happened as a result of the PS1's hardware limitations
+- The weird vertex and texture warping on models that happened as a result of the PS1's hardware limitations. (The actual names for these are screen space verte)
 - The extreme pixelization due to the PS1's low resolution. I feel like trying to do this on modern screens would make the scene harder to read
 - The low framerate found in many PS1 games. A lot of those ran at 15-20 FPS, which is not something I want to replicate. I want the game to target 60 FPS.
 
