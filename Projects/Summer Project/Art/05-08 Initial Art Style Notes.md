@@ -31,9 +31,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 
 [Here's his Instagram as Well](https://www.instagram.com/magnixgames/)
 
-Here's a quick list of stuff that I like / dislike about his game's visuals:
-
-#### What I Like
+#### What I Like Visually About the Game
 - His VFX are insane. They're not exactly what you would find in a PS1 game, but they still fit the aesthetic anyway.
 	- Ghost effect thing when he does his dash
 	- Sword trails
@@ -54,7 +52,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 - I noticed that his FOV seems pretty high
 - Fog is an excellent touch
 
-#### What I Don't Really want in Our Game
+#### What I Don't Really Want In Our Game
 - His game is a dark fantasy game, and his color choice + his overall art style is dark and gritty. I want our game to be a little brighter and more colorful. Also, its generally just hard to see in his game because its so dark at some points
 - Pixelization shader is a little too harsh
 
@@ -62,7 +60,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 I think these games are also pretty good references for how I want this project to look. I could probably download any of these games and play them in call if any of you want.
 
 - Vagrant Story
-	- Actually a really good example of a 3D PS1 game that looks really good.
+	- An excellent example of a 3D PS1 game that looks really good.
 	- This game came out at the very end of the PS1's lifespan, so it looks a lot better than most other games
 - Final Fantasy IX
 - The Legend of Dragoon
