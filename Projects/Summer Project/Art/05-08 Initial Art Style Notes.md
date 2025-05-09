@@ -75,9 +75,12 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 - A color reduction shader is applied to everything. This may be unnecessary if we can get the colors right in the textures
 - A dithering shader is applied to the entire screen. In areas where the screen is dark, the dither texture subtly shows up, which helps to create the illusion of a wider range of colors
 
-# UI
+# UI / 2D Elements
 - Given that the game has a retro aesthetic to it, the UI would need to fit into that as well
+- I've been thinking that the whole idea of using a reduced color palette for any 2D elements as well would help to sell the retro aesthetic
+- Also, I've been thinking that applying a dithering filter to any 2D asset before we put it in-engine would help with making everything feel retro and cohesive
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
+- The UI is not 
 
 # Modernizing the Look
 - The goal is to modernize the PS1 look, not just copy it. This means that we can take some liberties in some areas to make our game stand out a little more.
