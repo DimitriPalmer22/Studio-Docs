@@ -99,7 +99,7 @@ I think these games are also pretty good references for how I want this project 
 
 > 256x256 version of the texture
 
-![](<../../../_META/Attachments/ScreenShot00005.png>)
+![](<../../../_META/Attachments/ScreenShot00007.png>)
 
 > How it looks in-engine
 
