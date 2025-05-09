@@ -69,7 +69,9 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 - Im ngl, modeling is like my weakest area, so I don't have much to write here other than low-poly good, high-poly bad
 
 # Textures
--
+- Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
+- I've seen people start out by creating a low-res texture completely from scratch and just stick it in-engine like that
+- I've also seen people get a high-res texture and down
 
 # Post Processing
 - A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
