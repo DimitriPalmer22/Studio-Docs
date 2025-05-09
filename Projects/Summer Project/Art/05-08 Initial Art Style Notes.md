@@ -33,6 +33,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 
 #### What I Like Visually About the Game
 - His VFX are insane. They're not exactly what you would find in a PS1 game, but they still fit the aesthetic anyway.
+
 ![](<../../../_Meta/Attachments/Pasted image 20250509182534.png>)
 	- Ghost effect thing when he does his dash
 	- Sword trails
@@ -42,11 +43,14 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 	- Random particles just chillin in the air
 	- Also, they all seem low quality to the point where I could see them being in a late PS1 / early PS2 game
 - His fullscreen dithering effect is almost perfect
+
 ![](<../../../_Meta/Attachments/Pasted image 20250509182350.png>)
 - His character model looks cool.
 	- I like the silhouette of the character
 - His environmental models are low poly + his textures are low res. However, they are still easy to read. They are detailed enough that the low-poly nature of them isn't distracting
+
 ![](<../../../_Meta/Attachments/Pasted image 20250509182456.png>)
+
 ![](<../../../_Meta/Attachments/Pasted image 20250509182515.png>)
 
 - The animations / posing is really good
@@ -56,6 +60,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 	- Things like camera shake when hitting enemies
 - I noticed that his FOV seems pretty high
 - Fog is an excellent touch
+
 ![](<../../../_Meta/Attachments/Pasted image 20250509182321.png>)
 
 #### What I Don't Really Want In Our Game
