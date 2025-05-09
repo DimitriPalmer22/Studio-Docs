@@ -58,8 +58,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 - Pixelization shader is a little too harsh
 
 ### Actual PS1 Games for Reference
-- I think these games are also pretty good references for how I want this project to look
-- I could probably download any of these games and play them in call if any of you want
+I think these games are also pretty good references for how I want this project to look. I could probably download any of these games and play them in call if any of you want.
 
 - Vagrant Story
 	- Actually a really good example of a 3D PS1 game that looks really good.
