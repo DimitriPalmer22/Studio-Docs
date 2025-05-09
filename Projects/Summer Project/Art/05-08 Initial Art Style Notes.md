@@ -33,6 +33,7 @@ Both of the videos on here are pretty short, but they show off a lot of the game
 
 #### What I Like Visually About the Game
 - His VFX are insane. They're not exactly what you would find in a PS1 game, but they still fit the aesthetic anyway.
+![](<../../../_META/Attachments/Pasted image 20250509182534.png>)
 	- Ghost effect thing when he does his dash
 	- Sword trails
 	- Hit effects
@@ -136,6 +137,8 @@ There's nothing in particular I think I want to take from these two. They're mor
 - Also, I've been thinking that applying a dithering filter to any 2D asset before we put it in-engine would help with making everything feel retro and cohesive
 
 ![](<../../../_META/Attachments/Pasted image 20250509180006.png>)
+
+![](<../../../_META/Attachments/Pasted image 20250509182604.png>)
 
 - I'm against having a completely minimal UI. Some things are allowed to be on screen at all times (like a health bar or something)
 - The 2D elements are not meant to be completely 8-bit like some games. Having the UI be too pixelated / low-res might be too much. Honestly, this might be one of those points where we can take some liberties and make the UI a little more modern
