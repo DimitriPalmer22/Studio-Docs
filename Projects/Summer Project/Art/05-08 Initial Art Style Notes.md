@@ -71,7 +71,7 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 # Textures
 - Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
 - I've seen people start out by creating a low-res texture completely from scratch and just stick it in-engine like that
-- I've also seen people get a high-res texture and down
+- I've also seen people get a high-res texture and downscale it to a low-res texture. This is pretty easy to do in Unreal, but this should be done with caution, as you might lose some of the more important details of the texture.
 
 # Post Processing
 - A black outline shader is applied to everything (although this may be unnecessary / may muddy up the look of the game)
