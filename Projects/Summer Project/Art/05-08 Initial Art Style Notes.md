@@ -122,6 +122,9 @@ I think these games are also pretty good references for how I want this project 
 	- At the bare minimum, each character needs a single portrait image
 	- Depending on how things go, we can probably get multiple portraits for each character that show different emotions for different lines of dialogue
 
+![](<../../../_META/Attachments/Pasted image 20250509180126.png>)
+![](<../../../_META/Attachments/Dealer Blue_001.png>)
+
 - To help with conveyance, I'm thinking we can try to lean into having a lot of 2D UI elements.
 	- Some will be on-screen
 	- Some will be in world-space
