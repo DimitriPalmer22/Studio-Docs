@@ -123,8 +123,8 @@ I think these games are also pretty good references for how I want this project 
 	- Some will be on-screen
 	- Some will be in world-space
 	- We can have indicators for
-		- Player health
-		- Enemy health
+		- Player health (next to the player / above their head)
+		- Enemy health (next to the enemy / above their head)
 		- Some type of UI to let the player know the room has started / ended
 		- A little pointer to let the player know where an interactable item is
 		- other stuff
