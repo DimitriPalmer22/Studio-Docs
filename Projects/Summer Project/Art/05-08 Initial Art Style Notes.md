@@ -90,6 +90,15 @@ I think these games are also pretty good references for how I want this project 
 - Textures should be 512x512 at the max. I want to try and keep them lower than that if possible. 128x128 or 256x256 would be ideal.
 - I've seen people start out by creating a low-res texture completely from scratch and just stick it in-engine like that
 - I've also seen people get a high-res texture and downscale it to a low-res texture. This is pretty easy to do in Unreal, but this should be done with caution, as you might lose some of the more important details of the texture.
+- The materials we use will mainly use:
+	- a base color texture
+	- a normal map.
+	- We *can* use occlusion maps to get certain sections of the model darker as well
+	- We *can* use emissive maps to make certain sections of the model glow
+- The materials we use will avoid using:
+	- the specular property (no glossiness)
+	- the metallic property (no shininess)
+	- the roughness property
 
 ![](<../../../_META/Attachments/Pasted image 20250509180550.png>)
 
