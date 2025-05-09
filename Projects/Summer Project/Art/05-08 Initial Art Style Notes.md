@@ -61,6 +61,8 @@ Here's a quick list of stuff that I like / dislike about his game's visuals:
 - I think these games are also pretty good references for how I want this project to look
 
 - Vagrant Story
+	- Actually a really good example of a 3D PS1 game that looks really good.
+	- This game came out at the very end of the PS1's lifespan, so it looks a lot better than mo
 - Final Fantasy IX
 - The Legend of Dragoon
 
