@@ -1,7 +1,11 @@
 Rooms themselves have no randomly generated components inside of them (aside from loot or something that might spawn when you complete the room). They are pre-configured by our designers.
 
 # What is a Room?
-- A room is closed-in isolated space
+- A room is closed-in isolated space.
+- The player is teleported into one of these with no clear way out.
+- The player needs to clear the room of enemies to progress to the next room.
+	- Each room can either have 1 set of enemies or have several waves of enemies that attack the player
+-
 
 # What Parts Make Up A Room?
 - A spawning point for the player (where they appear when they start the room). This doesn't need to be denoted by anything specific.
