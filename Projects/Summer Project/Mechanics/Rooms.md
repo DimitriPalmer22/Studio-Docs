@@ -5,4 +5,5 @@ Rooms themselves have no randomly generated components inside of them (aside fro
 
 
 # What Parts Make Up A Room?
-- A spawning point for the pla
+- A spawning point for the player (where they appear when they start the room)
+- A 
