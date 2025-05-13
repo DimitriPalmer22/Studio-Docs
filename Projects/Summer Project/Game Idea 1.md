@@ -144,7 +144,7 @@
 - Each level designer can work asynchronously on their rooms while regularly checking in with each other / the CD to make sure the rooms are cohesive and fit within the overall theme of the game.
 
 #### Area 1
-- Theme: Magical Rock
+- Theme: Magical area complete with magic crystals & floating orbs
 #### Area 2
 - Theme:
 #### Area 3
