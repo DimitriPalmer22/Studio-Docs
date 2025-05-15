@@ -2,6 +2,7 @@ Visuals
 
 ### Environment
 - Baroque (game)
+
 ![](<../../../_Meta/Attachments/bptwii2.webp>)
 - The legend of dragoon (specifically the prison tower)
 ![](<../../../_Meta/Attachments/7-prison2-014.jpg>)
