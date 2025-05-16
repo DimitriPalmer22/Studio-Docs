@@ -18,7 +18,7 @@ Avernoth is a magical realm separate from the real world created by *crazy mage*
 
 *Crazy mage* is a mage who was particularly gifted at spells that either altered space (like moving and rearranging terrain) or moved people through space (like teleportation / portal magic). This would explain how he eventually made a space like Avernoth and kept it separate from the rest of reality.
 
-Avernoth was not created all at once. Instead, it was constructed room-by-room, with *Crazy Mage* temporarily using each room for shelter. While staying in these rooms, he would temporarily use them as studies where he would do more research and study magic (which means there are bookshelved and other magic-related items here). Once he felt he was no longer safe where he was staying, he would then create the next room and stay there. This would explain why the layout of Avernoth is so non-contiguous and disorganized. 
+Avernoth was not created all at once. Instead, it was constructed room-by-room, with *Crazy Mage* temporarily using each room for shelter. While staying in these rooms, he would temporarily use them as studies where he would do more research and study magic (which means there are bookshelved and other magic-related items here). Once he felt he was no longer safe where he was staying, he would then create the next room and stay there. This would explain why the layout of Avernoth is so non-contiguous and disorganized.
 
-The longer *Crazy Mage* stayed in Avernoth, the more paranoid he became. This is reflected by the layouts of the individual rooms becoming more and more erratic in the later levels of the game. 
- 
+The longer *Crazy Mage* stayed in Avernoth, the more paranoid he became. This is reflected by the layouts of the individual rooms becoming more and more erratic in the later levels of the game (i.e. there are stairs and archways that lead to nowhere and other non-sensical things in the rooms). The rooms also become more and more cluttered with random objects and furniture, which is a reflection of *Crazy Mage*'s mental state.
+
