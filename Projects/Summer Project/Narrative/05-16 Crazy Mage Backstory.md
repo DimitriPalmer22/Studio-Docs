@@ -11,3 +11,5 @@ After creating Avernoth, the mage tells his allies about it and even teaches the
 - The monsters were originally placed there by the mage to keep intruders out. However, as time went on, the monsters began to breed, multiply, and evolve, which is why there are so many of them in Avernoth.
 - The realm was not created all at once. The inner-most structure was created first. The first (easiest / outermost) level was made second, and the last level was made last.
 - New Idea: Avernoth was constructed with a more normal layout. However, due to old age / death / a lack of magical profiency, the magic the mage used to hold the realm together began to fail. As a result, the structural integrity of the realm began to fail, causing the layout to become more non-contiguous and the furniture and objects to become more disorganized.
+
+Avernoth is a space created by *crazy mage* because he was paranoid and wanted to run away from *some threat*.
