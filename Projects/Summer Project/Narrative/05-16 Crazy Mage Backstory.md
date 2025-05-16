@@ -14,8 +14,10 @@ After creating Avernoth, the mage tells his allies about it and even teaches the
 
 ----
 
-Avernoth is a space created by *crazy mage* because he was paranoid and wanted to run away from *some threat*.
+Avernoth is a magical realm separate from the real world created by *crazy mage* because he was paranoid and wanted to run away from *some threat*.
 
 *Crazy mage* is a mage who was particularly gifted at spells that either altered space (like moving and rearranging terrain) or moved people through space (like teleportation / portal magic). This would explain how he eventually made a space like Avernoth and kept it separate from the rest of reality.
 
-Avernoth was not created all at once. Instead, it was constructed room-by-room, with *Crazy Mage* temporarily using the rooms 
+Avernoth was not created all at once. Instead, it was constructed room-by-room, with *Crazy Mage* temporarily using each room for shelter. While staying in these rooms, he would temporarily use them as studies where he would do more research and study magic. 
+Once he felt he was no longer safe where he was staying, he would then create the next room and stay there. This would explain why the layout of Avernoth is so non-contiguous and disorganized. It would also explain why there are so many random objects and furniture scattered throughout the realm.
+ 
