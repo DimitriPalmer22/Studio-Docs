@@ -7,3 +7,6 @@ Avernoth was made to be a bunker of sorts, with the deepest parts of it being th
 Aside from just being a bunker, the mage had also made Avernoth to be a study where he and his companions could continue their research (so there can be bookshelves and other academic / magic stuff scattered throughout the levels).
 
 After creating Avernoth, the mage tells his allies about it and even teaches them the spell to send themselves / other people there. However, the mage's allies realize that the mage isn't in his right mind and decline to go with him. The mage then seals himself away in Avernoth and studies in isolation. His allies, armed with the knowledge of the spell, then begin to use the spell to seal people away in Avernoth. This is how Avernoth becomes a prison realm. They then pass on this knowledge to their descendants, who continue to use the spell to seal people away in Avernoth.
+
+- 
+- New Idea: Avernoth was constructed with a more normal layout. However, due to old age / death / a lack of magical profiency, the magic the mage used to hold the realm together began to fail. As a result, the structural integrity of the realm began to fail, causing the layout to become more non-contiguous and the furniture and objects to become more disorganized. 
