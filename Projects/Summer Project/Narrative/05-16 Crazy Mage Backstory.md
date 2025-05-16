@@ -2,8 +2,8 @@ Basically, the idea was that the mage, before he went crazy, was a brilliant pro
 
 One day, the mage became very paranoid (at something idk), which led him to create Avernoth, a space where he and several of his most trusted companions could be safe from the outside world.
 
-Avernoth was made to be a bunker of sorts, with the deepest parts of it being the most secure (which is why the game gets progressively harder the further you go into it). The areas outside the deepest parts were filled with many traps and monsters to keep out intruders. For example, the mage constructed Avernoth with a non-contiguous layout to make it difficult to navigate. He also included a variety of traps and monsters to keep intruders out.
+Avernoth was made to be a bunker of sorts, with the deepest parts of it being the most secure (which is why the game gets progressively harder the further you go into it). The areas outside the deepest parts were filled with many traps and monsters to keep intruders out. Furthermore, the mage constructed Avernoth with a non-contiguous layout to make it difficult to navigate.
 
-Aside from just being a bunker, the mage had also made Avernoth to be a study where he could continue his research (so there can be bookshelves and other academic / magic stuff scattered throughout the levels).
+Aside from just being a bunker, the mage had also made Avernoth to be a study where he and his companions could continue their research (so there can be bookshelves and other academic / magic stuff scattered throughout the levels).
 
 After creating Avernoth, the mage tells his allies about it and even teaches them the spell to send themselves / other people there. However, the mage's allies realize that the mage isn't in his right mind and decline to go with him. The mage then seals himself away in Avernoth and studies in isolation. His allies, armed with the knowledge of the spell, then begin to use the spell to seal people away in Avernoth. This is how Avernoth becomes a prison realm. They then pass on this knowledge to their descendants, who continue to use the spell to seal people away in Avernoth.
