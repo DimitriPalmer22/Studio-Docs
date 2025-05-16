@@ -12,4 +12,10 @@ After creating Avernoth, the mage tells his allies about it and even teaches the
 - The realm was not created all at once. The inner-most structure was created first. The first (easiest / outermost) level was made second, and the last level was made last.
 - New Idea: Avernoth was constructed with a more normal layout. However, due to old age / death / a lack of magical profiency, the magic the mage used to hold the realm together began to fail. As a result, the structural integrity of the realm began to fail, causing the layout to become more non-contiguous and the furniture and objects to become more disorganized.
 
+----
+
 Avernoth is a space created by *crazy mage* because he was paranoid and wanted to run away from *some threat*.
+
+*Crazy mage* is a mage who was particularly gifted at spells that either altered space (like moving and rearranging terrain) or moved people through space (like teleportation / portal magic). This would explain how he eventually made a space like Avernoth and kept it separate from the rest of reality.
+
+Avernoth was not created all at once. Instead, it was constructed room-by-room, with *Crazy Mage* temporarily using the rooms 
