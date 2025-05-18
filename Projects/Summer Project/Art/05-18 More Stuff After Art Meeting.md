@@ -1,7 +1,13 @@
 # Texture Color Reduction
 
 - As a final step before importing the textures into Unreal, we need to reduce the color depth of the textures to help give them a more old-school look.
-- After looking it up online, there were
+- This creates a dithered effect that makes the textures look less smooth and more pixelated.
+- After looking it up online, there were two ways I've seen it done in Photoshop
+
+### Method 1: Indexed Color
+- In the top bar, select Image > Mode > Indexed Color
+- In the dialog box that pops up, select "Local (Perceptual)" for the palette.
+- For the number of colors, I've experimented 
 
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
