@@ -1,3 +1,6 @@
+# Texture Color Reduction
+
+
 
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
