@@ -7,7 +7,8 @@
 ### Method 1: Indexed Color
 - In the top bar, select Image > Mode > Indexed Color
 - In the dialog box that pops up, select "Local (Perceptual)" for the palette.
-- For the number of colors, I've experimented 
+- For the number of colors, I've experimented with 16 and 32, but you can go for whatever you think looks best. I will say, though, reducing the colors too much, especially on an image with a wide range of colors, can make the image look weird.
+- 
 
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
