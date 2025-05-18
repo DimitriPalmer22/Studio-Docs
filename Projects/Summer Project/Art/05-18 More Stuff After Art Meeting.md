@@ -1,6 +1,7 @@
 # Texture Color Reduction
 
-
+- As a final step before importing the textures into Unreal, we need to reduce the color depth of the textures to help give them a more old-school look.
+- After looking it up online, there were
 
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
