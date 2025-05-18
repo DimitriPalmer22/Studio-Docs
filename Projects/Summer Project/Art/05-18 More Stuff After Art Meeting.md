@@ -6,9 +6,9 @@
 
 ### Method 1: Indexed Color
 - In the top bar, select Image > Mode > Indexed Color
-- In the dialog box that pops up, select "Local (Perceptual)" for the palette.
+- The only setting that NEEDS to be consistent is the "Dither" setting, which should be set to "Pattern" to get that gridded dither effect.
 - For the number of colors, I've experimented with 16 and 32, but you can go for whatever you think looks best. I will say, though, reducing the colors too much, especially on an image with a wide range of colors, can make the image look weird.
-- 
+- Here are the settings I've used with some of the character portrait references, you can experiment with these to see what works best
 
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
