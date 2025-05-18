@@ -14,4 +14,5 @@
 
 ### Filtering
 - This is something you NEED to change.
-- Normally, 
+- Normally, Unreal uses a default value defined by some configuration files somewhere. However, this default value adds unwanted filtering to the textures, making them look blurry.
+- Change the "Filter" setting under the "Texture" section to "Nearest" to disable this filtering.
