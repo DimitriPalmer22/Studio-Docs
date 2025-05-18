@@ -14,7 +14,10 @@
 ### Method 2: Save For Web (Legacy)
 - In the top bar, select File > Export > Save for Web (Legacy)
 - For this method, you should change the image type to "GIF" and change the dithering type to "Pattern"
-- I, personally, try 
+- I, personally, try to reduce the colors to 16 or 32, but you can go for whatever you think looks best.
+- You can play with the rest of the settings to see what comes out
+- It should be noted that this does export the file as a GIF, so you're eventually going to have to convert the file to a PNG before putting it in-engine.
+![](<../../../_Meta/Attachments/Pasted image 20250518161727.png>)
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
 
