@@ -6,6 +6,7 @@ is-complete: false
 #### Task_NAME
 
 ##### Task Description
+##### Task Description
 This is an example description of what the task is. Here, we describe:
 - A general overview of the task (short summary)
 - Why is this task important? How does this task fit into the context of the feature?
