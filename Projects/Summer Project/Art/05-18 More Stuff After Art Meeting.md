@@ -20,7 +20,16 @@
 - You can play with the rest of the settings to see what comes out
 - It should be noted that this does export the file as a GIF, so you're eventually going to have to convert the file to a PNG before putting it in-engine.
 ![](<../../../_Meta/Attachments/Pasted image 20250518161727.png>)
+
 # Texture Import Settings
+
+![](<../../../_Meta/Attachments/Pasted image 20250518155031.png>)
+
+### Filtering
+- This is something you NEED to change. (Honestly its the main thing that should be focused on)
+- Normally, Unreal uses a default value defined by some configuration files somewhere. However, this default value adds unwanted filtering to the textures, making them look blurry.
+- Change the "Filter" setting under the "Texture" section to "Nearest" to disable this filtering.
+
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
 
 ### Mipping
@@ -30,10 +39,3 @@
 ### Compression
 - Since the textures themselves are already going to be 128x128 or 256x256 when we put them in-engine, we shouldn't need to compress them any further.
 - However, if you do want to compress any high-res texture into a lower resolution, you can change the "Maximum Texture Size" setting under the advanced portion of the "Compression" section to 128 or 256.
-
-![](<../../../_Meta/Attachments/Pasted image 20250518155031.png>)
-
-### Filtering
-- This is something you NEED to change.
-- Normally, Unreal uses a default value defined by some configuration files somewhere. However, this default value adds unwanted filtering to the textures, making them look blurry.
-- Change the "Filter" setting under the "Texture" section to "Nearest" to disable this filtering.
