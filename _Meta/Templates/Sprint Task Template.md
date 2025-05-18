@@ -1,10 +1,10 @@
 ---
-sprint-tag: 
+sprint-tag: sprint01
 is-complete: false
 ---
 #### Task_NAME
 
-Sprint: [Sprint01](<./Sprint01.md>)
+Sprint: Sprint01
 Prerequisite Tasks: N/A
 
 ##### Desired Due Date (Let Me Know if You Need to Change this)
