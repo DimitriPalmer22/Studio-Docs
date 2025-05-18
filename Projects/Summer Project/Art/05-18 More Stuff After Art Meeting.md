@@ -4,7 +4,7 @@
 - This creates a dithered effect that makes the textures look less smooth and more pixelated.
 - After looking it up online, there were two ways I've seen it done in Photoshop
 
-### Method 1: Indexed Color
+### Method 1: Indexed Color (Probably Better)
 - In the top bar, select Image > Mode > Indexed Color
 - The only setting that NEEDS to be consistent is the "Dither" setting, which should be set to "Pattern" to get that gridded dither effect.
 - For the number of colors, I've experimented with 16 and 32, but you can go for whatever you think looks best. I will say, though, reducing the colors too much, especially on an image with a wide range of colors, can make the image look weird.
@@ -13,6 +13,8 @@
 
 ### Method 2: Save For Web (Legacy)
 - In the top bar, select File > Export > Save for Web (Legacy)
+- For this method, you should change the image type to "GIF" and change the dithering type to "Pattern"
+- I, personally, try 
 # Texture Import Settings
 ![](<../../../_Meta/Attachments/Pasted image 20250518154551.png>)
 
