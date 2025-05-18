@@ -4,7 +4,7 @@
 - This creates a dithered effect that makes the textures look less smooth and more pixelated.
 - After looking it up online, there were two ways I've seen it done in Photoshop
 
-> NOTE: There is ALSO a color reduction / dithering post-processing effect applied in-engine as well. That is used moreso to make the look of the textures more consistent with each other.
+> NOTE: There is ALSO a color reduction / dithering post-processing effect applied in-engine as well. That is used moreso to make the look of the textures more consistent with each other. However, it might be enough on its own to make the textures look pixelated enough without having to do this step.
 
 ### Method 1: Indexed Color (Probably Better)
 - In the top bar, select Image > Mode > Indexed Color
