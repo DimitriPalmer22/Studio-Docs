@@ -1,12 +1,13 @@
 ---
 sprint-tag: 
-previous-tasks: 
 is-complete: false
 ---
 #### Task_NAME
 
+Prerequisite Tasks: N/A
+
 ##### Desired Due Date (Let Me Know if You Need to Change this)
-- Due Date: 
+- Due Date:
 
 ##### Task Description
 This is an example description of what the task is. Here, we describe:
