@@ -48,8 +48,11 @@ A couple things I thought of are:
 
 If you have any other ideas for this, lmk
 
+
+
 ### A Couple Questions
 - What exactly did you imagine the character to be doing during this dialogue?
 	- When you put "–Player approaches portal–", do you imagine the main character ACTUALLY walking to the portal?
 	- Or do you imagine a black screen or something until the player gets to that point in the interaction?
 - At this point in the game, did you imagine the characters not knowing the name of the "Avernoth", which is why they're referring to it as "the Seal Realm"? Is this something they find out later?
+- This isn't rly a question, but some of the vocabulary words need to be
