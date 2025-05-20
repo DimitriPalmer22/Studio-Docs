@@ -43,7 +43,7 @@ With the word usage, the words are definitely used appropriately. I meant moreso
 
 -----
 
-7 total dialogues is a little much considering that this is still the first pass of text in the game. I'd rather get 5 total for this week and provide feedback that gives a better picture for what the rest of the text should look like. So, I'm asking for:
+7 total dialogues is a little much considering that this is still the first pass of text in the game. I'd rather get 5 total for this week and provide feedback that gives a better picture for what the rest of the text should look like. So, I'm asking for 5 total dialogues by tmr:
 - Game boot dialogue
 - You died for the first time dialogue (Have Magnus talk to the player here)
 - 3 subsequent death dialogues (I have to preference for who is involved in these)
