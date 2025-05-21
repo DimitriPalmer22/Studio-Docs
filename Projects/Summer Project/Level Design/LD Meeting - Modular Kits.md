@@ -1,7 +1,7 @@
 
 # What Are your Tasks?
 
-- Create a modular kit to find a good balance between granularity and ease of use
+- Create a modular kit using Unreal primatives and modeling tools to find a good balance between granularity and ease of use
 - Create at least 2 level blockouts 
 
 If you want to see what I did for a modular kit open the "KitSizeTest01" Level in ``
