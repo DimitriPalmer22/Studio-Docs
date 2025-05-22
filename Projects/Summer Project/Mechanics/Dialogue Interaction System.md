@@ -25,6 +25,7 @@ Dialogue Characters are defined by:
 
 Ideas:
 - Character-unique fonts?
+- Character-unique text sounds
 
 # Where Are Dialogue Interactions Found?
 
