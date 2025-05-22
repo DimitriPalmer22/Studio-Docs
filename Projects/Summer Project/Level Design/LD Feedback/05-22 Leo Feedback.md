@@ -76,4 +76,6 @@
 We were looking at Elden Ring specifically for inspiration for the props, set-dressing, and layout of the levels
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522033234.png>)
-> The crystals here are kinda what I imagine the mana crystals to look like in our game. A little less dense, though. Imagine these are a lot sparser and placed in the corners of the room or places that seem a little out of the way. 
+> The crystals here are kinda what I imagine the mana crystals to look like in our game. A little less dense, though. Imagine these are a lot sparser and placed in the corners of the room or places that seem a little out of the way.
+
+> Also, you guys are allowed to get creative with the props you come up with for the rooms.
