@@ -7,11 +7,11 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151216.png>)
 
-# Taller Rooms!!
+# Taller Rooms
 
 - Andre, Leo, and I were in a call and we were looking for ways to make the levels more interesting
-- Somebody then brought up the idea of using Elden Ring's levels & interiors as whole as references for what the spaces should look like (an idea that I like)
-	- Specifically, we can look at interior spaces in Raya Lucaria
+- Somebody then brought up the idea of using Elden Ring's interior levels as references for what the spaces should look like (an idea that I like)
+	- Specifically, we can look at interior spaces in Raya Lucaria since they fit the scholarly magic aesthetic I want for the rooms in Avernoth
 - Andre then brought up how tall Elden Ring's rooms are. They really make the space feel grand.
 
 # Leo's Revised Level
@@ -24,6 +24,8 @@
 
 - Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
 - After making Leo's level taller, we decided that we liked this wayyyyy more.
+	- The space immediately became way less claustrophobic
+	- Putting a roof on this verion
 
 # This Level is Still Too Small
 
