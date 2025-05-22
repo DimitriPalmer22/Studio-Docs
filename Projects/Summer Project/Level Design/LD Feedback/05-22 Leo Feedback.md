@@ -69,3 +69,6 @@
 	- Another room could have been an enchantment room, so there is an enchantment table with various artifacts around
 
 - *Please try to think like this so that we can start curating a list of props we request from the environmental artists.*
+
+----
+# Elden Ring References
