@@ -89,4 +89,9 @@ Link: <https://www.artstation.com/artwork/WBqVGJ>
 
 > This isn't an in-game screenshot from Elden Ring. This is a recreation of one of the game's areas by some guy Leo found on ArtStation.
 
+> This reference is interesting because the walls are lined with paintings that give the room / who the room belongs to a little more character.
 
+> Another thing that makes this room interesting is the backdrop of the room. The upper section of the level is completely inaccessible to the player, but adds depth to the room.
+
+
+![](<../../../../_Meta/Attachments/Pasted image 20250522033334.png>)
