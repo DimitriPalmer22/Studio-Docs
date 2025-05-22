@@ -74,3 +74,5 @@
 # Elden Ring References
 
 We were looking at Elden Ring specifically for inspiration for the props, set-dressing, and layout of the levels
+
+![](<../../../../_Meta/Attachments/Pasted image 20250522033234.png>)
