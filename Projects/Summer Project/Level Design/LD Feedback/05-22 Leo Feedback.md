@@ -36,6 +36,8 @@
 
 > Although there are props that line the bottom of the walls to populate the space, the upper sections of the walls now need some set-dressing. They seem a little flat and unappealing.
 
+![](<../../../../_Meta/Attachments/Pasted image 20250522034747.png>)
+
 - Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
 - After making Leo's level taller, we decided that we liked this wayyyyy more.
 	- The space immediately became way less claustrophobic
@@ -100,3 +102,7 @@ Link: <https://www.artstation.com/artwork/WBqVGJ>
 ![](<../../../../_Meta/Attachments/Pasted image 20250522033407.png>)
 
 > I really like the look of the chandeliers in this room. The color of the fires makes the room feel mystical.
+
+![](<../../../../_Meta/Attachments/Pasted image 20250522033429.png>)
+
+> The site of grace in this screenshot gave me an idea. Instead of *just* physical items as props, we can also use magic spells / orbs / whatever as props, too.
