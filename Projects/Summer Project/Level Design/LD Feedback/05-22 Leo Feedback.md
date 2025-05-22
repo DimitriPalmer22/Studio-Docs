@@ -28,4 +28,5 @@
 	- The pillar in the middle off the room breaks up the space
 	- The props along the edges of the walls (the white blocks) cut down the surface area of the playable space
 - The camera is a little far back from the player, so the space needs to be larger to accommodate this
-- One thing that *will* help with gauging how big the room should be is placing down mannequins to mimc
+- One thing that *will* help with gauging how big the room should be is placing down mannequins to mimic the enemies in the level.
+	- This way, we can see more easily if a level feels too dense or needs to be populated more with assets or enemies
