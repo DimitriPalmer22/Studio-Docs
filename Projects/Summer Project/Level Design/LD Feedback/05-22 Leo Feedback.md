@@ -59,4 +59,5 @@
 	- For example, one room could be a basic study room with a desk and a couple candles
 	- Whereas, another room could have been a library room, so there are bookshelves all around
 	- Another room could have been an enchantment room, so there is an enchantment table with various artifacts around
-- *Try to think like this so that we can start curating a list of props we request from the environmental artists.*
+
+- *Please try to think like this so that we can start curating a list of props we request from the environmental artists.*
