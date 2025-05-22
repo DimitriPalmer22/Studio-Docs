@@ -2,6 +2,7 @@ I need some way to represent the dialogue system in-engine so that dialogue can 
 # What is a Dialogue Interaction?
 
 - A dialogue interaction is a list of *"Dialogue Lines"* from one or more characters.
+- The dialogue interaction will simply iterate through this list of dialogue lines.
 - During these interactions, there is no user input into what is said. These interactions are predefined.
 
 ### Dialogue Line
