@@ -38,5 +38,9 @@
 	- This way, we can see more easily if a level feels too dense or needs to be populated more with assets or enemies
 
 # Ideas For Set-Dressing & A Little Bit of Environmental Story-Telling
-- One thing that can help us w/ the set-dressing and environmental story-telling is determining what the crazy mage used each room for.
-- We were looking at rooms in Skyrim and immediately noticed that the rooms in one 
+- We were looking at rooms in Skyrim and immediately noticed that the rooms in one building were all set-dressed a little differently because they had different purposes.
+- One thing that can help us w/ the set-dressing and environmental story-telling is determining what the crazy mage used each room for while he was temporarily staying there.
+	- For example, one room could be a basic study room with a desk and a couple candles
+	- Whereas, another room could have been a library room, so there are bookshelves all around
+	- Another room could have been an enchantment room, so there is an enchantment table with various artifacts around
+- *Try to think like this so that we can start curating a list of props we request from the environmental artists.*
