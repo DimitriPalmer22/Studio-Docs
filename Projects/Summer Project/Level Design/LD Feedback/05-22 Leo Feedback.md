@@ -38,6 +38,8 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522034747.png>)
 
+![](<../../../../_Meta/Attachments/Pasted image 20250522034807.png>)
+
 - Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
 - After making Leo's level taller, we decided that we liked this wayyyyy more.
 	- The space immediately became way less claustrophobic
