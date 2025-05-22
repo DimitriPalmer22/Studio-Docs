@@ -10,13 +10,18 @@ I need some way to represent the dialogue system in-engine so that dialogue can 
 	- Can be more than one sentence or even a sentence fragment
 
 Dialogue Lines are characterized by:
-- Who is saying the line
+- *The Dialogue Character*
 
-# Where is Dialogue Found?
+
+### Dialogue Character
+
+# Where Are Dialogue Interactions Found?
 
 In our game, there are "rooms".
 
-# How Do We Determine Which Dialogue Lines Play
+BUT, we need the ability to trigger dialogue interactions whenever.
+
+# How Do We Determine Which Dialogue Interaction Play
 
 ### Flags
 
