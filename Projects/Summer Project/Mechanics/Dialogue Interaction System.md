@@ -1,3 +1,9 @@
+
+# What is a Dialogue Interaction
+
+- A dialogue interaction is a set of lines said by one or more characters. 
+- During these
+
 # Where is Dialogue Found?
 
 In our game, there are "rooms".
