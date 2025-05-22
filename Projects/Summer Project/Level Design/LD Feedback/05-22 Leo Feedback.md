@@ -10,7 +10,8 @@
 # Taller Rooms
 
 - Andre, Leo, and I were in a call and we were looking for ways to make the levels more interesting
-- Somebody then brought up the idea of using Elden Ring's library as a reference & interiors as whole as references for what the spaces should look like (an idea that I like)
+- Somebody then brought up the idea of using Elden Ring's levels as a reference & interiors as whole as references for what the spaces should look like (an idea that I like)
+	- Specifically, we can look at interior spaces in Raya Lucaria
 - Andre then brought up how tall Elden Ring's rooms are. They really make the space feel grand.
 
 # Leo's Revised Level
@@ -20,6 +21,9 @@
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151433.png>)
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
+
+- After making Leo's level taller, we decided that we liked this wayyyyy more.
+- Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
 
 # This Level is Still Too Small
 
