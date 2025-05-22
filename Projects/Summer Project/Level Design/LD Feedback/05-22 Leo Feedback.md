@@ -22,8 +22,8 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
 
-- After making Leo's level taller, we decided that we liked this wayyyyy more.
 - Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
+- After making Leo's level taller, we decided that we liked this wayyyyy more.
 
 # This Level is Still Too Small
 
@@ -31,6 +31,12 @@
 - The level feels especially small because:
 	- The pillar in the middle off the room breaks up the space
 	- The props along the edges of the walls (the white blocks) cut down the surface area of the playable space
-- The camera is a little far back from the player, so the space needs to be larger to accommodate this
+- Camera problems
+	- The camera is a little far back from the player, so the space needs to be larger to accommodate this
+	- A problem consistent in 3rd person games with interior spaces is that the camera often gets caught on props and stuff. We need a more open area to prevent this.
 - One thing that *will* help with gauging how big the room should be is placing down mannequins to mimic the enemies in the level.
 	- This way, we can see more easily if a level feels too dense or needs to be populated more with assets or enemies
+
+# Ideas For Set-Dressing & A Little Bit of Environmental Story-Telling
+- One thing that can help us w/ the set-dressing and environmental story-telling is determining what the crazy mage used each room for.
+- We were looking at rooms in Skyrim and immediately noticed that the rooms in one 
