@@ -16,9 +16,13 @@
 
 # Leo's Revised Level
 
+Literally, all we did was copy the walls surrounding the level and copy-paste them on top of each other two more times to make the room taller.
+
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151302.png>)
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151433.png>)
+
+> Immediately, we noticed that the ceiling / skybox is no longer in the view of the player. They would have to look up to see it.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
 
