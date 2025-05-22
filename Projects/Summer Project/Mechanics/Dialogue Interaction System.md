@@ -1,8 +1,12 @@
 
-# What is a Dialogue Interaction
+# What is a Dialogue Interaction?
 
-- A dialogue interaction is a set of lines said by one or more characters. 
-- During these
+- A dialogue interaction is a list of *"Dialogue Lines"* from one or more characters.
+- During these interactions, there is no user input into what is said. These interactions are predefined.
+
+### Dialogue Line
+
+- A single line of dialogue spoken by one person
 
 # Where is Dialogue Found?
 
