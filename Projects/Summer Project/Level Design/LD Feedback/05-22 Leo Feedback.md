@@ -21,3 +21,5 @@
 - Somebody then brought up the idea of using Elden Ring's library as a reference & interiors as whole as references for what the spaces should look like (an idea that I like)
 - Andre then brought up how tall Elden Ring's rooms are. They really make the space feel grand.
 # What Else Needs to Change?
+
+- This level is still too small in terms of length and w
