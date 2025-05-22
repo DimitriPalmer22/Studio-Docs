@@ -15,7 +15,7 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
 
-# Taller Rooms!!
+# Taller Rooms!
 
 - Andre, Leo, and I were in a call and we were looking for ways to make the levels more interesting
 - Somebody then brought up the idea of using Elden Ring's library as a reference & interiors as whole as references for what the spaces should look like (an idea that I like)
@@ -27,4 +27,4 @@
 - The level feels especially small because:
 	- The pillar in the middle off the room breaks up the space
 	- The props along the edges of the walls (the white blocks) cut down the surface area of the playable space
-- The camera is too far back from the player, so the space needs to be larger to accommodate this
+- The camera is a little far back from the player, so the space needs to be larger to accommodate this
