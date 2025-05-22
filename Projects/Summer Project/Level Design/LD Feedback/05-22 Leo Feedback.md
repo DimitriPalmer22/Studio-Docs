@@ -15,6 +15,8 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
 
-# What did we change & why?
+# Taller Rooms?
+
+- Andre, Leo, and I were in a call and we were looking for ways to make the levels more intersting
 
 # What Else Needs to Change?
