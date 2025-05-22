@@ -36,7 +36,11 @@ BUT, we need the ability to trigger dialogue interactions whenever.
 ### Dialogue Interaction Triggers
 
 Dialogue interaction triggers are defined by:
-- Where they are
+- Which level they are found in
+- What type of trigger is it?
+	- Run start trigger
+	- Room clear trigger
+	- Room enter trigger
 
 # How Do We Determine Which Dialogue Interaction Play
 
