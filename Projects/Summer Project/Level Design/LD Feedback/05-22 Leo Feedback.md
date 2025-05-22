@@ -73,4 +73,4 @@
 ----
 # Elden Ring References
 
-We were looking at Elden Ring specifically for inspiration for the props and 
+We were looking at Elden Ring specifically for inspiration for the props, set-dressing, and layout of the levels
