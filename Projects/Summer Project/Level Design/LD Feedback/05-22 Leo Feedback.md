@@ -93,7 +93,10 @@ Link: <https://www.artstation.com/artwork/WBqVGJ>
 
 > Another thing that makes this room interesting is the backdrop of the room. The upper section of the level is completely inaccessible to the player, but adds depth to the room.
 
-
 ![](<../../../../_Meta/Attachments/Pasted image 20250522033334.png>)
 
-> Rennala's boss fight arena is a very intersting place. The upper portion of the level is very detailed and populated. The lower section has stacks of 
+> Rennala's boss fight arena is a very intersting place. The upper portion of the level is very detailed and populated. The lower section has really tall stacks of books. Also, the candles used for the lighting are a nice touch.
+
+![](<../../../../_Meta/Attachments/Pasted image 20250522033407.png>)
+
+> I really like the look of the chandeliers in this room. The color of the fires makes the room feel mystical.
