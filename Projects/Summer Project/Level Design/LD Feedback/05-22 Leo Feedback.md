@@ -67,6 +67,8 @@
 
 # Ideas For Set-Dressing & A Little Bit of Environmental Story-Telling
 - We were looking at rooms in Skyrim and immediately noticed that the rooms in one building were all set-dressed a little differently because they had different purposes.
+	- For example, one room was a library, so it had bookshelves and tables
+	- Another room was an enchantment room, so it had an enchantment table and various artifacts around
 - One thing that can help us w/ the set-dressing and environmental story-telling is determining what the crazy mage used each room for while he was temporarily staying there.
 	- For example, one room could be a basic study room with a desk and a couple candles
 	- Whereas, another room could have been a library room, so there are bookshelves all around
