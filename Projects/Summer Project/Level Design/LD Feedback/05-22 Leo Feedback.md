@@ -16,15 +16,17 @@
 
 # Leo's Revised Level
 
-Literally, all we did was copy the walls surrounding the level and copy-paste them on top of each other two more times to make the room taller.
-
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151302.png>)
+
+> Literally, all we did was copy the walls surrounding the level and copy-paste them on top of each other two more times to make the room taller.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151433.png>)
 
 > Immediately, we noticed that the ceiling / skybox is no longer in the view of the player. They would have to look up to see it.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
+
+> Although there are props that line the bottom of the walls to populate the space, the upper sections of the walls now need some set-dressing.
 
 - Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
 - After making Leo's level taller, we decided that we liked this wayyyyy more.
