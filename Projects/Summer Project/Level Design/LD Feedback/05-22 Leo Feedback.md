@@ -35,14 +35,15 @@
 
 - How should we set-dress the upper sections of the walls?
 	- One thing that we thought of was making little balconies that line the walls
-	- We could also have very very tall props that extend to the 
+	- We could also have very very tall props that extend to the upper sections of the walls
 
 # This Level is Still Too Small
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522155740.png>)
 
-- This level is still too small in terms of length and width. The playable area is too small for the player to move around in
-	- The space is very roughly 24 meters x 22 meters
+> The space is very roughly 24 meters x 22 meters
+
+- This level is still too small in terms of length and width. I think the playable area is too small for the player to move around in
 - The level feels especially small because:
 	- The pillar in the middle off the room breaks up the space
 	- The props along the edges of the walls (the white blocks that are supposed to be bookshelves and tables) cut down the surface area of the playable space
