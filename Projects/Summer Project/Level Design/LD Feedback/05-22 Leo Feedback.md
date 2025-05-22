@@ -1,5 +1,5 @@
 
-Leo's level is called `LeoKitSizeTest`. It's currently in the main branch, so if you want to 
+Leo's level is called `LeoKitSizeTest`. It's currently in the main branch, so if you want to open it and look around, you can.
 
 # Leo's Initial Level
 
