@@ -26,12 +26,16 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151446.png>)
 
-> Although there are props that line the bottom of the walls to populate the space, the upper sections of the walls now need some set-dressing.
+> Although there are props that line the bottom of the walls to populate the space, the upper sections of the walls now need some set-dressing. They seem a little flat and unappealing.
 
 - Leo's individual wall kit pieces are 6 meters tall. We stacked 3 walls on top of each other, making the room 18 meters tall in total.
 - After making Leo's level taller, we decided that we liked this wayyyyy more.
 	- The space immediately became way less claustrophobic
 	- Putting a roof on this taller version of the room made it feel way more complete without making the room look awkward
+
+- How should we set-dress the upper sections of the walls?
+	- One thing that we thought of was making little balconies that line the walls
+	- We could also have very very tall props that extend to the 
 
 # This Level is Still Too Small
 
