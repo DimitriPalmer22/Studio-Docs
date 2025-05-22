@@ -72,3 +72,5 @@
 
 ----
 # Elden Ring References
+
+We were looking at Elden Ring specifically for inspiration for the props and 
