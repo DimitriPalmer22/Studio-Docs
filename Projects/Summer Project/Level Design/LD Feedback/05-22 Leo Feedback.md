@@ -73,7 +73,7 @@
 ----
 # Elden Ring References
 
-We were looking at Elden Ring specifically for inspiration for the props, set-dressing, and layout of the levels
+We were looking at Elden Ring specifically for inspiration for the props, set-dressing, and layout of the levels. Although these are nice references, remember that not everything in Elden Ring may properly translate to our project due to our different art styles.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522033234.png>)
 
@@ -88,3 +88,5 @@ We were looking at Elden Ring specifically for inspiration for the props, set-dr
 Link: <https://www.artstation.com/artwork/WBqVGJ>
 
 > This isn't an in-game screenshot from Elden Ring. This is a recreation of one of the game's areas by some guy Leo found on ArtStation.
+
+
