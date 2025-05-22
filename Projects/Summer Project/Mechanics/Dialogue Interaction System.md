@@ -49,6 +49,7 @@ We'll use *flags* / tags / values that tell us more about each line of dialogue.
 In order for a line to be considered to be played, all of the flags must be true.
 
 To break it down further, dialogue interactions will have flags like:
+- IsForced: a boolean flag to determine if the interaction MUST be played if all the flags are true
 - PlaysInAreas: the list of areas of the game the interaction can be played in (1, 2, 3). If the player is not in one of the valid areas, then this interaction will not play.
 - PlaysInInteractionTypes: the list of interaction types the interaction can be played in (run start, room clear, room enter). If the dialogue interaction trigger is not one of the valid types, then this interaction will not play.
-- UniqueTags: A list of unique boolean flags that MUST be true in order for this interaction to play (Killed first boss, has died yet, etc.)
+- OneTimeTags: A list of unique boolean flags that MUST be true in order for this interaction to play (Killed first boss, has died yet, etc.). These will automatically be set to false when the interaction is played.
