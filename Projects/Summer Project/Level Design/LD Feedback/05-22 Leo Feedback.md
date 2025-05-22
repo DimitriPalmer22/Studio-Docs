@@ -23,4 +23,8 @@
 # This Level is Still Too Small
 
 - This level is still too small in terms of length and width.
+- The playable area is too small for the player to move around in
+- The level feels especially small because:
+	- The pillar in the middle off the room breaks up the space
+	- The props along the edges of the walls (the white blocks) cut down the surface area of the playable space
 - The camera is too far back from the player, so the space needs to be larger to accommodate this
