@@ -7,6 +7,8 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151216.png>)
 
+- Leo made his level with actual openings for the windows.
+	- I personally think we should move away from having real windows because they show the game outside the level, 
 # Taller Rooms
 
 - Andre, Leo, and I were in a call and we were looking for ways to make the levels more interesting
