@@ -11,9 +11,19 @@ I need some way to represent the dialogue system in-engine so that dialogue can 
 
 Dialogue Lines are characterized by:
 - *The Dialogue Character*
-
+- The text contained within the line
+- The text speed for that line?
+- Any special formatting for that line?
 
 ### Dialogue Character
+- The character that is speaking the line of dialogue.
+
+Dialogue Characters are defined by:
+- *The character portrait* that appears when the corresponding dialogue line is triggered
+- *The character name* that appears when the corresponding dialogue line is triggered
+
+Ideas:
+- Character-unique fonts?
 
 # Where Are Dialogue Interactions Found?
 
