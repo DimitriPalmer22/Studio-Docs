@@ -33,6 +33,11 @@ In our game, there are "rooms".
 
 BUT, we need the ability to trigger dialogue interactions whenever.
 
+### Dialogue Interaction Triggers
+
+Dialogue interaction triggers are defined by:
+- Where they are
+
 # How Do We Determine Which Dialogue Interaction Play
 
 ### Flags
