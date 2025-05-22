@@ -1,4 +1,4 @@
-
+I need some way to represent the dialogue system in-engine so that dialogue can start being implemented properly.
 # What is a Dialogue Interaction?
 
 - A dialogue interaction is a list of *"Dialogue Lines"* from one or more characters.
@@ -6,7 +6,11 @@
 
 ### Dialogue Line
 
-- A single line of dialogue spoken by one person
+- A single line of dialogue spoken by one person.
+	- Can be more than one sentence or even a sentence fragment
+
+Dialogue Lines are characterized by:
+- Who is saying the line
 
 # Where is Dialogue Found?
 
