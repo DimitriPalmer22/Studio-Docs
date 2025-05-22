@@ -29,10 +29,13 @@
 
 # This Level is Still Too Small
 
+![](<../../../../_Meta/Attachments/Pasted image 20250522155740.png>)
+
 - This level is still too small in terms of length and width. The playable area is too small for the player to move around in
+	- The space is very roughly 24 meters x 22 meters
 - The level feels especially small because:
 	- The pillar in the middle off the room breaks up the space
-	- The props along the edges of the walls (the white blocks) cut down the surface area of the playable space
+	- The props along the edges of the walls (the white blocks that are supposed to be bookshelves and tables) cut down the surface area of the playable space
 - Camera problems
 	- The camera is a little far back from the player, so the space needs to be larger to accommodate this
 	- A problem consistent in 3rd person games with interior spaces is that the camera often gets caught on props and stuff. We need a more open area to prevent this.
