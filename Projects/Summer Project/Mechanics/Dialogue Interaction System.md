@@ -47,6 +47,8 @@ Dialogue interaction triggers are defined by:
 We'll use *flags* / tags / values that tell us more about each line of dialogue. Each dialogue interaction is defined by a series of flags that apply to all dialogue interactions, as well as unique tags that only apply to certain dialogue lines.
 
 To break it down further, dialogue interactions will have flags like:
-- 
+- PlaysInAreas: the list of areas of the game the interaction can be played in (1, 2, 3)
+- PlaysInInteractionTypes: the list of interaction types the interaction can be played in (run start, room clear, room enter)
+- UniqueTags: A list of unique boolean flags that MUST be true in order for this interaction to play (Killed first boss, has died yet,)
 
 ### Forced Dialogue Lines
