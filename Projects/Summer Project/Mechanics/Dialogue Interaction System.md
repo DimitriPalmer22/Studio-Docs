@@ -29,9 +29,7 @@ Ideas:
 
 # Where Are Dialogue Interactions Found?
 
-In our game, there are "rooms".
-
-BUT, we need the ability to trigger dialogue interactions whenever.
+We need the ability to trigger dialogue interactions whenever.
 
 ### Dialogue Interaction Triggers
 
@@ -46,6 +44,9 @@ Dialogue interaction triggers are defined by:
 
 ### Flags
 
-We'll use *flags* / tags / values that tell us more about each line of dialogue. Each dialogue interaction is defined
+We'll use *flags* / tags / values that tell us more about each line of dialogue. Each dialogue interaction is defined by a series of flags that apply to all dialogue interactions, as well as unique tags that only apply to certain dialogue lines.
+
+To break it down further, dialogue interactions will have flags like:
+- 
 
 ### Forced Dialogue Lines
