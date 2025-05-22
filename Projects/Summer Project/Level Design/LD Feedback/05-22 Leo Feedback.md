@@ -1,7 +1,6 @@
+# Leo's Initial Level
 
 Leo's level is called `LeoKitSizeTest`. It's currently in the main branch, so if you want to open it and look around, you can.
-
-# Leo's Initial Level
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151047.png>)
 
