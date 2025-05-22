@@ -7,10 +7,10 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151216.png>)
 
-# Taller Rooms
+# Taller Rooms!!
 
 - Andre, Leo, and I were in a call and we were looking for ways to make the levels more interesting
-- Somebody then brought up the idea of using Elden Ring's levels as a reference & interiors as whole as references for what the spaces should look like (an idea that I like)
+- Somebody then brought up the idea of using Elden Ring's levels & interiors as whole as references for what the spaces should look like (an idea that I like)
 	- Specifically, we can look at interior spaces in Raya Lucaria
 - Andre then brought up how tall Elden Ring's rooms are. They really make the space feel grand.
 
