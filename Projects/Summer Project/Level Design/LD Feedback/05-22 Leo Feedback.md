@@ -95,3 +95,5 @@ Link: <https://www.artstation.com/artwork/WBqVGJ>
 
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250522033334.png>)
+
+> Rennala's boss fight arena is a very intersting place. The upper portion of the level is very detailed and populated. The lower section has stacks of 
