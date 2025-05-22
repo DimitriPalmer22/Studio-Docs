@@ -8,7 +8,10 @@
 ![](<../../../../_Meta/Attachments/Pasted image 20250522151216.png>)
 
 - Leo made his level with actual openings for the windows.
-	- I personally think we should move away from having real windows because they show the game outside the level, 
+	- I personally think we should move away from having real windows because they show the game outside the level, which may contain janky geometry or other funky stuff to make the game work
+	- I instead suggested that if we're gonna have windows, then the window panes can be textures that look like stained glass so the player can't actually see outside the level
+- Also, those triangle-shaped things in the windows are supposed to be mana crystals
+	- We should probably find a place for those within the level itself like on the walls or in the corners. 
 # Taller Rooms
 
 - Andre, Leo, and I were in a call and we were looking for ways to make the levels more interesting
