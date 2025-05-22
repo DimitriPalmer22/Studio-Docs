@@ -6,6 +6,6 @@ In our game, there are "rooms".
 
 ### Flags
 
-We'll use *flags* / values that tell us more about each line of dialogue. For example, each
+We'll use *flags* / tags / values that tell us more about each line of dialogue. Each dialogue interaction is defined
 
 ### Forced Dialogue Lines
