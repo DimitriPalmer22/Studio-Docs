@@ -9,4 +9,4 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 > Also, try to think of props that can be reusable. 
 ![](<../../../../_Meta/Attachments/Pasted image 20250524011029.png>)
 
-Roughly 45 meters x 27 meters
+> The main area in Brian's level is roughly 45 meters x 27 meters. After getting a good look at it in-engine. I'd say 50 meters is around the max any one room should be in one direction. 
