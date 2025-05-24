@@ -21,4 +21,4 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250524013024.png>)
 
-> Brian's level
+> Brian's level is roughly 18-19 meters tall (excluding the arching roof)
