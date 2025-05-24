@@ -40,4 +40,7 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 - Here's what I had in mind:
 	- The actual walls of the level are *simpler* and *less detailed* geometry-wise than these bookshelves.
 	- The bookshelves are not supposed to be used as walls themselves, but instead are props that we place in front of the walls.
-	-
+
+In terms of modularity:
+- Brian made his level before *fully* making his modular kit, so some portions of the level are not properly modular and might not line up properly with the modular pieces.
+- This might make it harder to make changes to the level later on.
