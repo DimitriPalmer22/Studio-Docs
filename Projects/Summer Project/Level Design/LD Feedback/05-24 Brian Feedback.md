@@ -32,4 +32,7 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 
 > Here are the pieces Brian used to make his walls. 
 
-- The pieces Brian used for his wall pieces 
+- The pieces Brian used for his wall pieces are a little too granular (too small), which would make it kinda hard to make a level quickly.
+- Also, they are pretty detailed. 
+	- They are supposed to be bookshelves that line the walls, but having these completely make up a level might be too much.
+- What I had in mind was usin
