@@ -4,4 +4,6 @@ Brian's Level is called ``
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250524002117.png>)
 
+![](<../../../../_Meta/Attachments/Pasted image 20250524010644.png>)
+
 Roughly 45 x 27
