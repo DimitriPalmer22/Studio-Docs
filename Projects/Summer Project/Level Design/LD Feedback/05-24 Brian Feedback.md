@@ -7,12 +7,11 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 > This big orb is supposed to represent a floating mana crystal
 
 - Brian included this large floating crystal orb at the end of his level as a large visual landmark. I think this is a great idea.
-- *However*, a prop this unique and large needs to be used sparingly. 
-	- Also, not every level can have
-	- Keep in mind all the space he needed around it to have it within the level. 
+- *However*, a prop this unique and large needs to be used sparingly.
+	- Also, not every level can have a prop this attention-grabbing.
+	- Keep in mind all the space he needed around it to have it within the level.
 - If you also have an idea for a large prop, make sure you get approval for it first.
-
-> Also, try to think of props that can be reusable.
+- When thinking of props for your levels, try to think of props that can be reused in multiple levels without feeling out of place or are too unique.
 ![](<../../../../_Meta/Attachments/Pasted image 20250524011029.png>)
 
 > The main area in Brian's level is roughly 45 meters x 27 meters.
