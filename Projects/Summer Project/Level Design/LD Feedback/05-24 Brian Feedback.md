@@ -30,4 +30,4 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250524034258.png>)
 
-> Here are the pieces Brian 
+> Here are the pieces Brian used to make his walls. 
