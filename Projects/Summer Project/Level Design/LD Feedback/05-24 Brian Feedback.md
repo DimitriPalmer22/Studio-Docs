@@ -18,3 +18,7 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 
 - After getting a good look at the level in-engine. I'd say *50 meters is around the max* any one room should be in one direction.
 - Brian's level contained some placeholder props, which made the 27 meter width feel a little cramped. So, I asked him to make the level a little wider.
+
+![](<../../../../_Meta/Attachments/Pasted image 20250524013024.png>)
+
+> Brian's level
