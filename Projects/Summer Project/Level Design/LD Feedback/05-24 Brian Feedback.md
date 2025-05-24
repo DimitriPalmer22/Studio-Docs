@@ -44,3 +44,4 @@ Brian's Level is called `BrianKitSizeTestLevel`. It is currently on the `feature
 In terms of modularity:
 - Brian made his level before *fully* making his modular kit, so some portions of the level are not properly modular and might not line up properly with the modular pieces.
 - This might make it harder to make changes to the level later on.
+- Eventually, he's going to have to replace all the non-modular pieces with modular pieces and make sure they line up properly.
