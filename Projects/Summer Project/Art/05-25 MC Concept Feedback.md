@@ -14,3 +14,4 @@
 - Also, we want the character to be a little taller.
 - The body type should be a *little* bit more imposing
 	- He shouldn't be this big strong guy
+	- We just want to make sure he's not super slim and 
