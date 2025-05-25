@@ -16,4 +16,5 @@ I have made some an Actor Component that allows for added functionality whenever
 3. With the `BP_DebugComponent` selected, go to the details panel and find the `Events` section
 4. Click the `+` button next to `OnDebugModeOn` and `OnDebugModeOff` to add the events to your blueprint
 5. From here, you can add any functionality you want to happen when debug mode is turned on or off
-6. Also, as an added note, the `BP_DebugComponent` has a function called `IsDebugModeOn` that returns a boo
+6. Also, as an added note, the `BP_DebugComponent` has a function called `IsDebugModeOn` that returns a boolean that indicates whether debug mode is on or off.
+	1. You can use this function to check if debug mode is on or off and add functionality accordingly
