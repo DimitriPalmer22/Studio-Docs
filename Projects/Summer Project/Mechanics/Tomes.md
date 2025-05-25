@@ -13,3 +13,4 @@ Tomes themselves are blueprints. The mesh / materials they use can be configured
 - Charge Burst
 
 ![Test](<../../../_Meta/Attachments/Pasted image 20250509175042.png>)
+
