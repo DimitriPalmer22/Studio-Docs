@@ -10,4 +10,5 @@
 
 - Allister is supposed to be a little older (early 30s) and we want the design to reflect that
 - Also, we want the design to look a little less "cute"
-	- At first glance, people's 
+	- At first glance, people's first reactions shouldn't be "look at this little guy"
+- Also, we want the design
