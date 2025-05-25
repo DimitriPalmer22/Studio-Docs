@@ -1,3 +1,5 @@
 - We generally like the color palette of the MC
 - The designs you sent were pretty cool
-	- In terms of clothing, I think most people are kinda leaning towards design 3 as their favorite
+	- In terms of clothing, I think most people are kinda leaning towards design 3 as their favorite. The accessories are a nice added touch
+	- I personally also like the necklace in design 1
+	- I also personally like the jagged wizard hat designs in 1 and 2
