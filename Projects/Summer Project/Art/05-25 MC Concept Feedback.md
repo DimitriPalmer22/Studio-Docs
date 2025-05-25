@@ -1,0 +1,3 @@
+- We generally like the color palette of the MC
+- The designs you sent were pretty cool
+	- In terms of clothing, I think most people are kinda leaning towards design 3 as their favorite
