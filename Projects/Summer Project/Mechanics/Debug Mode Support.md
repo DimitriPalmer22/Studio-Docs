@@ -12,4 +12,8 @@ I have made some an Actor Component that allows for added functionality whenever
 # How to Add Debug Mode Support for a Blueprint
 
 1. On your blueprint, add a component called `BP_DebugComponent`
-2. Once you do that,
+2. In the event graph of your blueprint, click on the `BP_DebugComponent`
+3. With the `BP_DebugComponent` selected, go to the details panel and find the `Events` section
+4. Click the `+` button next to `OnDebugModeOn` and `OnDebugModeOff` to add the events to your blueprint
+5. From here, you can add any functionality you want to happen when debug mode is turned on or off
+6. Also, as an added note, the `BP_DebugComponent` has a function called `IsDebugModeOn` that returns a boo
