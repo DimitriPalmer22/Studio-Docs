@@ -39,7 +39,7 @@ This refers to what type of interaction is currently going on. For example, is t
 
 ### Creating a New Dialogue Interaction
 
-1. In the content drawer, navigate to the `Game/Avernoth/Narrative/DialogueInteractions` folder. All of the dialogue interactions should be found somewhere within this folder.
+1. In the content drawer, navigate to the `Avernoth/Narrative/DialogueInteractions` folder. All of the dialogue interactions should be found somewhere within this folder.
 2. Either find an appropriate folder or create a new folder to put your interaction in
 3. In this folder, right-click and search "data asset"
 4. In the data asset creation window, search for `DIS_Interaction`. `BP_DIS_Interaction` should come up. Click it
@@ -68,6 +68,10 @@ This refers to what type of interaction is currently going on. For example, is t
 ### Creating a New Dialogue Character
 
 Dialogue characters are stored as assets, so you only have to create one for each character once and then you can reuse it in any dialogue interaction.
+
+1. In the content drawer, navigate to the `Avernoth/Narrative/DialogueCharacters` folder. All of the dialogue characters should be in this folder
+2. Right click and search up "Data Asset"
+3. In the data asset creation window, search for `DIS_Character`. `BP_DIS_Character` should come up. Click it
 
 ### Creating New Custom Boolean Flags
 
