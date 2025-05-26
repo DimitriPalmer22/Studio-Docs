@@ -12,6 +12,10 @@
 - The circular bookshelves (right?) are also a really nice touch. I like the way you made specific wall sections that are meant to a space specifically for them. The do a really nice job of breaking up the flat appearance of the walls.
 	- The only thing about these is that once we get the actual prop, we need to make sure it's low-poly / much less circular
 - The pillars that extend all the way to the roof are also really sick
+- I like the different variations of tables you have. They all seem appropriately sized and do well to fill in the space.
+
+# Things that Can Change
+
 
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
