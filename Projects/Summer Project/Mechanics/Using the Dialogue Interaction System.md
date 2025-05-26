@@ -60,6 +60,8 @@ This refers to what type of interaction is currently going on. For example, is t
 7. *Interaction Types*: This is a list of interaction types that the interaction can be played in (Run Start, Room Clear, Room Enter). If the dialogue interaction trigger is not one of the valid types, then this interaction will not play. Since this is a list, you can define one or more interaction types for the interaction to play in. If you leave this empty, then the interaction can be played in any interaction type.
 8. *False Flags*: A list of custom boolean flags that MUST all be false for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
 9. *True Flags*: A list of custom boolean flags that MUST all be true for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
+10. *Set to True After*: A list of custom boolean flags that you want to be set to true after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
+11. *Set to False After*: A list of custom boolean flags that you want to be set to false after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 
 ### Creating a New Dialogue Character
 
@@ -67,6 +69,6 @@ Dialogue characters are stored as assets, so you only have to create one for eac
 
 ### Creating New Custom Boolean Flags
 
-Custom boolean flags are used to determine if a dialogue interaction can be played based on the current state of the game. By default, these flags are ALL false, and need to be set to true through gameplay.
+Custom boolean flags are used to determine if a dialogue interaction can be played based on the current state of the game. By default, these flags are ALL false, and need to be set to true either through gameplay or by completing dialogue interactions.
 
 You can create new custom boolean flags by following these steps:
