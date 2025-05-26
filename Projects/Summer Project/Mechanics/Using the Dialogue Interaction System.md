@@ -91,6 +91,9 @@ Open up the map titled `DialogueInteraction_Demo`. You can either search for it 
 
 When you play this level, there is a big white block behind the player and to the right. Walk up to this and press `E` to interact with it. This will play one of the valid dialogue interactions.
 
-If you want to change the current *interaction type* or current *area* values, click on the  
+If you want to change the current *interaction type* or current *area* values:
+- click on the `BP_InteractableDialogueTrigger` in the outliner
+- In the details panel, click on the `BP_DIS_TriggerComponent`
+- Then, in the details panel, you'll see dropdowns for the interaction type and current area.
 
 ![](<../../../_Meta/Attachments/Pasted image 20250526152215.png>)
