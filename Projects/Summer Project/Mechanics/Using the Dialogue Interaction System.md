@@ -63,7 +63,7 @@ This refers to what type of interaction is currently going on. For example, is t
 10. *Set to True After*: A list of custom boolean flags that you want to be set to true after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 11. *Set to False After*: A list of custom boolean flags that you want to be set to false after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 
-> Note: The 
+> Note: The last 4 steps are unnecessary for most dialogue interactions in the game. They are really only needed if you want to ensure the interaction plays after some event has happened.
 
 ### Creating a New Dialogue Character
 
