@@ -63,6 +63,8 @@ This refers to what type of interaction is currently going on. For example, is t
 10. *Set to True After*: A list of custom boolean flags that you want to be set to true after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 11. *Set to False After*: A list of custom boolean flags that you want to be set to false after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 
+> Note: The 
+
 ### Creating a New Dialogue Character
 
 Dialogue characters are stored as assets, so you only have to create one for each character once and then you can reuse it in any dialogue interaction.
@@ -79,3 +81,6 @@ You can create new custom boolean flags by following these steps:
 - Click the button that says "Manage Gameplay Tags"
 - Click the dropdown for `Narrative` and then Click on `Flags`. This selects the `Flags` category as the parent for all the new flags you create.
 - Then, click the `+` button at the top left to create a new flag
+- Name the flag whatever you want
+	- Make sure the name starts with `Narrative.Flags.`
+	- Make sure the "Source" file is `DefaultGameplayTags.ini`
