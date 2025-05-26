@@ -49,21 +49,29 @@ This refers to what type of interaction is currently going on. For example, is t
 
 #### Setting the Attributes of a Dialogue Interaction
 
+##### Basic Info
+
 1. *Add to Interaction pool*: This is a boolean flag to determine if this dialogue interaction should be included in the game's list of available dialogue interactions. If this is set to false, the interaction will not be played during normal gameplay. You should only ever set this to false for dialogue interactions that are not yet ready to be played or are only used for testing purposes.
 2. *Interaction Description*: A brief description of the dialogue interaction. This is NOT used in-game whatsoever. This is only used so that we, the devs, know what the interaction is about without having to read through the entire interaction.
 3. *Lines*. This is the list of dialogue lines that will be iterated through during the interaction. You can add new dialogue lines by clicking the `+` button next to the `Lines` attribute. For each line, expand the line to see its attributes.
 	1. *Character*: The dialogue character asset used for this line. Select the appropriate dialogue character asset from the dropdown. If the character you want isn't there, then you need to create a new one.
 	2. *Text*: The words that appear on screen when this line is spoken.
-4. *Is Forced*: This is a boolean flag that determines if this dialogue interaction MUST be played if all the flags are true. This is only used for dialogue interactions that we NEED the player to see, such as the interaction that plays at the start of the game. Most dialogue interactions should have this set to false.
-5. *Forced Priority*: In the event that the game is trying to find a dialogue interaction to play, and there are multiple *forced* dialogue interactions that CAN be played, the game will choose the interaction with the highest priority to play. This is only used if *Is Forced* is set to true.
-6. *Plays In Areas*: This is a list of areas of the game that the interaction can be played in (1, 2, 3). If the player is not in one of the valid areas, then this interaction will not play. Since this is a list, you can define one or more areas for the interaction to play in. If you leave this empty, then the interaction can be played in any area.
-7. *Interaction Types*: This is a list of interaction types that the interaction can be played in (Run Start, Room Clear, Room Enter). If the dialogue interaction trigger is not one of the valid types, then this interaction will not play. Since this is a list, you can define one or more interaction types for the interaction to play in. If you leave this empty, then the interaction can be played in any interaction type.
-8. *False Flags*: A list of custom boolean flags that MUST all be false for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
-9. *True Flags*: A list of custom boolean flags that MUST all be true for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
-10. *Set to True After*: A list of custom boolean flags that you want to be set to true after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
-11. *Set to False After*: A list of custom boolean flags that you want to be set to false after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 
-> Note: The last 4 steps are unnecessary for most dialogue interactions in the game. They are really only needed if you want to ensure the interaction plays after some event has happened.
+##### Conditions
+
+1. *Is Forced*: This is a boolean flag that determines if this dialogue interaction MUST be played if all the flags are true. This is only used for dialogue interactions that we NEED the player to see, such as the interaction that plays at the start of the game. Most dialogue interactions should have this set to false.
+2. *Forced Priority*: In the event that the game is trying to find a dialogue interaction to play, and there are multiple *forced* dialogue interactions that CAN be played, the game will choose the interaction with the highest priority to play. This is only used if *Is Forced* is set to true.
+3. *Plays In Areas*: This is a list of areas of the game that the interaction can be played in (1, 2, 3). If the player is not in one of the valid areas, then this interaction will not play. Since this is a list, you can define one or more areas for the interaction to play in. If you leave this empty, then the interaction can be played in any area.
+4. *Interaction Types*: This is a list of interaction types that the interaction can be played in (Run Start, Room Clear, Room Enter). If the dialogue interaction trigger is not one of the valid types, then this interaction will not play. Since this is a list, you can define one or more interaction types for the interaction to play in. If you leave this empty, then the interaction can be played in any interaction type.
+5. *False Flags*: A list of custom boolean flags that MUST all be false for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
+6. *True Flags*: A list of custom boolean flags that MUST all be true for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
+
+##### Update
+
+1. *Set to True After*: A list of custom boolean flags that you want to be set to true after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
+2. *Set to False After*: A list of custom boolean flags that you want to be set to false after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
+
+> Note: The last 4 steps are unnecessary for most dialogue interactions in the game.
 
 ### Creating a New Dialogue Character
 
