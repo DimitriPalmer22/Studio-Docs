@@ -20,7 +20,7 @@
 - I'm assuming the big white blocks lining the walls are paintings. If that's the case, I don't know how I didn't think of that as a possible prop idea. Nice job. 
 	- I also like that you had varying shapes and sizes for these. 
 	- Actually since we have multiple 2D artists on this team, I might lean into this idea a little more.
-- 
+- Shoutout you for putting the ambient particles in your level.
 
 # Things that Can Change
 
