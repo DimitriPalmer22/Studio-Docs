@@ -14,3 +14,8 @@ Tomes themselves are blueprints. The mesh / materials they use can be configured
 
 ![Test](<../../../_Meta/Attachments/Pasted image 20250509175042.png>)
 
+# Tome Ability Data Asset
+
+This is a data asset that contains a
+
+### Ability 
