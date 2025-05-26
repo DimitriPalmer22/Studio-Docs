@@ -35,3 +35,10 @@ Dialogue Characters are defined by:
 2. Either find an appropriate folder or create a new folder to put your interaction in
 3. In this folder, right-click and search "data asset"
 4. In the data asset creation window, search for `DIS_Interaction`. `BP_DIS_Interaction` should come up. Click it
+5. Name the new asset with the following format: `DIS_Interaction_InteractionName`
+6. Open the new data asset
+7. -
+
+### Creating a New Dialogue Character
+
+Dialogue characters are stored as assets, so you only have to cr
