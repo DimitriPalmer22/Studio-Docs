@@ -84,3 +84,7 @@ You can create new custom boolean flags by following these steps:
 - Name the flag whatever you want
 	- Make sure the name starts with `Narrative.Flags.`
 	- Make sure the "Source" file is `DefaultGameplayTags.ini`
+
+# Testing out the Dialogue
+
+As of right now, there is no way to test out SPECIFIC interactions or set specific flags to true or false.
