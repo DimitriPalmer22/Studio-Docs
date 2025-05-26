@@ -31,5 +31,7 @@ Dialogue Characters are defined by:
 
 ### Creating a New Dialogue Interaction
 
-1. Navigate to the `Game/Avernoth/Narrative/DialogueInteractions` folder
-2. 
+1. In the content drawer, navigate to the `Game/Avernoth/Narrative/DialogueInteractions` folder
+2. Either find an appropriate folder or create a new folder to put your interaction in
+3. In this folder, right-click and search "data asset"
+4. In the data asset creation window, search for `DIS_Inter`
