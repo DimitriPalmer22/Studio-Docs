@@ -16,6 +16,16 @@ Tomes themselves are blueprints. The mesh / materials they use can be configured
 
 # Tome Ability Data Asset
 
-This is a data asset that contains a
+This is a data asset that contains all the unchanging information about an ability in the game.
 
-### Ability 
+They derive from one base class: `TomeAbilityDataAsset`.
+- This is used to define the ability's name, description, icon, and other static information.
+
+The child classes of `TomeAbilityDataAsset` define the categories types of abilities.
+- `PrimaryAttackDataAsset`
+- `SecondaryAttackDataAsset`
+- `PassiveAbilityDataAsset`
+- `UltimateAbilityDataAsset`
+- `TransformAbilityDataAsset`
+
+### Ability
