@@ -71,6 +71,11 @@ Dialogue characters are stored as assets, so you only have to create one for eac
 
 Custom boolean flags are used to determine if a dialogue interaction can be played based on the current state of the game. By default, these flags are ALL false, and need to be set to true either through gameplay or by completing dialogue interactions.
 
+![](<../../../_Meta/Attachments/Pasted image 20250526151131.png>)
+
 You can create new custom boolean flags by following these steps:
 - In the top bar, go to `Edit > Project Settings`
-- Then, search ""
+- Then, search "Gameplay Tags" in the search bar
+- Click the button that says "Manage Gameplay Tags"
+- Click the dropdown for `Narrative` and then Click on `Flags`. This selects the `Flags` category as the parent for all the new flags you create.
+- Then, click the `+` button at the top left to create a new flag
