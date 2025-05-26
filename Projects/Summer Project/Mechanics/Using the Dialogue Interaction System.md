@@ -9,7 +9,7 @@ A *dialogue interaction* is a list of *"Dialogue Lines"* from one or more charac
 - The dialogue interaction will simply iterate through this list of dialogue lines.
 - During these interactions, there is no user input into what is said. These interactions are predefined.
 
-Ideally, the dialogue interactions can be triggered from anywhere in the game th
+Ideally, the dialogue interactions can be triggered from anywhere in the game that we define. However, only a specific set of dialogue interactions have the chance to play depending on the current conditions in the game.
 
 ### Dialogue Line
 
@@ -26,6 +26,10 @@ The character that is speaking the line of dialogue.
 Dialogue Characters are defined by:
 - *The character portrait* that appears when the corresponding dialogue line is triggered
 - *The character name* that appears when the corresponding dialogue line is triggered
-### 
 
 # Creating New Dialogue
+
+### Creating a New Dialogue Interaction
+
+1. Navigate to the `Game/Avernoth/Narrative/DialogueInteractions` folder
+2. 
