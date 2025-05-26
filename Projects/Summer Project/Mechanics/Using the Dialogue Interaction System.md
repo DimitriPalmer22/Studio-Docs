@@ -91,4 +91,9 @@ Open up the map titled `DialogueInteraction_Demo`. You can either search for it 
 
 When you play this level, there is a big white block behind the player and to the right. Walk up to this and press `E` to interact with it. This will play one of the valid dialogue interactions.
 
-If you want to test out a specific dialogue interaction, there is currently no way to set up specific flags, set up the current area, or set up the current interaction type in-editor or in-game. So, if you want to see a  
+If you want to test out a specific dialogue interaction, there is currently no way to set up specific flags, set up the current area, or set up the current interaction type in-editor or in-game. This will come eventually. So, if you want to see a specific interaction, I recommend:
+ - temporarily removing all flags
+ - temporarily allowing the interaction to play in all areas
+ - temporarily allowing the interaction to play in all interaction types
+ - setting the interaction to be forced
+ - setting the forced priority to a high number (like 100,000)
