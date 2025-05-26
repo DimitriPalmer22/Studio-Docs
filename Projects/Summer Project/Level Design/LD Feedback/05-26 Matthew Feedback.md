@@ -10,7 +10,8 @@
 - The various book piles scattered across the room were another thing that I envisioned almost exactly like how you implemented. These do a good job of filling the space without making it feel cluttered.
 - The banners hanging along the walls are a really nice touch as well. They add some depth to the walls and give us a little bit of room for environmental storytelling
 - The circular bookshelves (right?) are also a really nice touch. I like the way you made specific wall sections that are meant to a space specifically for them. The do a really nice job of breaking up the flat appearance of the walls.
-
+	- The only thing about these is that once we get the actual prop, we need to make sure it's low-poly / much less circular
+- The pillars that extend all the way to the roof are also really sick
 
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
