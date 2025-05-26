@@ -26,7 +26,8 @@
 	- The stairs that lead to the upper part of the room help so much with this.
 
 # Comments about the Modular Kit
-- The sizes of your kit's pieces are the largest, but they're detailed enough that the designers wouldn't need to add extra detail
+- The sizes of your kit's pieces are the largest, but they're detailed enough that the designers wouldn't need to add extra detail to the rooms by playing around with different piece layouts.
+- Maybe once we get further into development, we can add more half-sized pieces to the kit. This would allow us to get more creative with the shapes we create
 
 # Things that Can Change
 
