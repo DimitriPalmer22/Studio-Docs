@@ -58,10 +58,15 @@ This refers to what type of interaction is currently going on. For example, is t
 5. *Forced Priority*: In the event that the game is trying to find a dialogue interaction to play, and there are multiple *forced* dialogue interactions that CAN be played, the game will choose the interaction with the highest priority to play. This is only used if *Is Forced* is set to true.
 6. *Plays In Areas*: This is a list of areas of the game that the interaction can be played in (1, 2, 3). If the player is not in one of the valid areas, then this interaction will not play. Since this is a list, you can define one or more areas for the interaction to play in. If you leave this empty, then the interaction can be played in any area.
 7. *Interaction Types*: This is a list of interaction types that the interaction can be played in (Run Start, Room Clear, Room Enter). If the dialogue interaction trigger is not one of the valid types, then this interaction will not play. Since this is a list, you can define one or more interaction types for the interaction to play in. If you leave this empty, then the interaction can be played in any interaction type.
-8. *False Flags*: A list of custom boolean flags that MUST all be false for this interaction to play. For every flag that you want to add, click the checkmark next to it.
+8. *False Flags*: A list of custom boolean flags that MUST all be false for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
+9. *True Flags*: A list of custom boolean flags that MUST all be true for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
 
 ### Creating a New Dialogue Character
 
 Dialogue characters are stored as assets, so you only have to create one for each character once and then you can reuse it in any dialogue interaction.
 
 ### Creating New Custom Boolean Flags
+
+Custom boolean flags are used to determine if a dialogue interaction can be played based on the current state of the game. By default, these flags are ALL false, and need to be set to true through gameplay.
+
+You can create new custom boolean flags by following these steps:
