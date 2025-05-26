@@ -13,6 +13,9 @@
 	- The only thing about these is that once we get the actual prop, we need to make sure it's low-poly / much less circular
 - The pillars that extend all the way to the roof are also really sick
 - I like the different variations of tables you have. They all seem appropriately sized and do well to fill in the space.
+- All of your hanging lighting fixtures are really good
+	- The big chandeliers that hang from the ceiling are a really nice touch.
+	- The smaller hanging lights that are placed in various areas seem like a really good idea, too. They give the designers an extra opportunity to add some extra lighting to the space in other ways than adding a candle or  
 
 # Things that Can Change
 
