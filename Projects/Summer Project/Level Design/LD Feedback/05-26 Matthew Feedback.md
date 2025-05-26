@@ -22,10 +22,9 @@
 	- Actually since we have multiple 2D artists on this team, I might lean into this idea a little more.
 - Shoutout you for putting the ambient particles in your level.
 
-### The Layout of the Room
 
-- I'll say, your room definitely feels the most magical out of the rooms we've seen so far. 
-- 
+- I'll say, your room definitely feels the most magical out of the rooms we've seen so far.
+	- The stairs that lead to the upper part of the room help so much with this.
 
 # Things that Can Change
 
