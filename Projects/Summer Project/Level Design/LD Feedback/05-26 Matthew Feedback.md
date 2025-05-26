@@ -15,10 +15,11 @@
 - I like the different variations of tables you have. They all seem appropriately sized and do well to fill in the space.
 - All of your hanging lighting fixtures are really good
 	- The big chandeliers that hang from the ceiling are a really nice touch.
-	- The smaller hanging lights that are placed in various areas seem like a really good idea, too. They give the designers an extra opportunity to add some extra lighting to the space in other ways than adding a candle or  
+	- The smaller hanging lights that are placed in various areas seem like a really good idea, too. They give the designers an extra opportunity to add some extra lighting to the space in other ways than adding a candle or another big chandelier.
+	- The entire block for the hanging light above the circular book cases looks so cool. It's also fire that you put candles on top of these.
+- I'm assuming the big white blocks lining the walls are paintings. If that's the case, I don't know how I didn't think of that as a possible prop idea. Nice job
 
 # Things that Can Change
-
 
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
