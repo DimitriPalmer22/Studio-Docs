@@ -28,4 +28,11 @@ The child classes of `TomeAbilityDataAsset` define the categories types of abili
 - `UltimateAbilityDataAsset`
 - `TransformAbilityDataAsset`
 
-### Ability
+# Tome Ability Info
+
+This is a struct that is responsible for holding the information for an ability, as well as all the current modifiers applied to it.
+
+It stores the tome ability data asset and other things such as
+- Damage modifier (If applicable)
+- Cooldown modifier
+- Duration modifier (if I can do this)
