@@ -31,6 +31,10 @@ Dialogue Characters are defined by:
 
 By *Area*, really I mean the level the player is currently in. For example, level 1 (the area with the green crystals) and level 3 (the area with the purple crystals) are two of the areas in the game.
 
+### Interaction Type
+
+This refers to what type of interaction is currently going on. For example, is the player currently in a *Run Start* interaction, a *Room Clear* interaction, or a *Room Enter* interaction?
+
 # Creating New Dialogue
 
 ### Creating a New Dialogue Interaction
@@ -50,7 +54,7 @@ By *Area*, really I mean the level the player is currently in. For example, leve
 	4. *Is Forced*: This is a boolean flag that determines if this dialogue interaction MUST be played if all the flags are true. This is only used for dialogue interactions that we NEED the player to see, such as the interaction that plays at the start of the game. Most dialogue interactions should have this set to false.
 	5. *Forced Priority*: In the event that the game is trying to find a dialogue interaction to play, and there are multiple *forced* dialogue interactions that CAN be played, the game will choose the interaction with the highest priority to play. This is only used if *Is Forced* is set to true.
 	6. *Plays In Areas*: This is a list of areas of the game that the interaction can be played in (1, 2, 3). If the player is not in one of the valid areas, then this interaction will not play. Since this is a list, you can define one or more areas for the interaction to play in. If you leave this empty, then the interaction can be played in any area.
-	7. 
+	7. *Interaction Types*: This is a list of interaction types that the interaction can be played in (Run Start, Room Clear, Room Enter). If the dialogue interaction trigger is not one of the valid types, then this interaction will not play. Since this is a list, you can define one or more interaction types for the interaction to play in. If you leave this empty, then the interaction can be played in any interaction type.
 
 ### Creating a New Dialogue Character
 
