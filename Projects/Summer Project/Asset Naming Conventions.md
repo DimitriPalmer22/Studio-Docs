@@ -27,6 +27,26 @@ I've mainly been following this guide for naming assets and structuring the proj
 | Particle System    | PS_    |           |                                                                                                               |
 | Widget Blueprint   | WBP_   |           |                                                                                                               |
 
+| Asset Type (Textures)               | Prefix | Suffix | Notes                                                                                                                      |
+| ----------------------------------- | ------ | ------ | -------------------------------------------------------------------------------------------------------------------------- |
+| Texture                             | T_     |        |                                                                                                                            |
+| Texture (Diffuse/Albedo/Base Color) | T_     | _D     |                                                                                                                            |
+| Texture (Normal)                    | T_     | _N     |                                                                                                                            |
+| Texture (Roughness)                 | T_     | _R     |                                                                                                                            |
+| Texture (Alpha/Opacity)             | T_     | _A     |                                                                                                                            |
+| Texture (Ambient Occlusion)         | T_     | _O     |                                                                                                                            |
+| Texture (Bump)                      | T_     | _B     |                                                                                                                            |
+| Texture (Emissive)                  | T_     | _E     |                                                                                                                            |
+| Texture (Mask)                      | T_     | _M     |                                                                                                                            |
+| Texture (Specular)                  | T_     | _S     |                                                                                                                            |
+| Texture (Metallic)                  | T_     | _M     |                                                                                                                            |
+| Texture (Packed)                    | T_     | _*     | See notes below about [packing](https://github.com/Allar/ue5-style-guide/tree/v2?tab=readme-ov-file#anc-textures-packing). |
+| Texture Cube                        | TC_    |        |                                                                                                                            |
+| Media Texture                       | MT_    |        |                                                                                                                            |
+| Render Target                       | RT_    |        |                                                                                                                            |
+| Cube Render Target                  | RTC_   |        |                                                                                                                            |
+| Texture Light Profile               | TLP    |        |                                                                                                                            |
+
 #### Example
 
 | Asset Type               | Asset Name   |
