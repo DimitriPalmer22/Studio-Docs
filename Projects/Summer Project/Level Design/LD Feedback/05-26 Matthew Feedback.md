@@ -9,6 +9,7 @@
 - I also really liked the circle you used for the player's starting position. It gives us a visual indication of where the player will be starting and gives us room to create another prop to decorate the space.
 - The various book piles scattered across the room were another thing that I envisioned almost exactly like how you implemented. These do a good job of filling the space without making it feel cluttered.
 - The banners hanging along the walls are a really nice touch as well. They add some depth to the walls and give us a little bit of room for environmental storytelling
+- The circular bookshelves (right?) are also a really nice touch. I like the way you made specific wall sections that are meant to a space specifically for them. The do a really nice job of breaking up the flat appearance of the walls.
 
 
 # A Note About Lighting
