@@ -39,7 +39,8 @@ Dialogue Characters are defined by:
 6. Open the new data asset
 7. Set the attributes of the Dialogue Interaction
 	1. *Add to Interaction pool*: This is a boolean flag to determine if this dialogue interaction should be included in the game's list of available dialogue interactions. If this is set to false, the interaction will not be played during normal gameplay. You should only ever set this to false for dialogue interactions that are not yet ready to be played or are only used for testing purposes.
-	2. *Interaction Description*: A brief 
+	2. *Interaction Description*: A brief description of the dialogue interaction. This is NOT used in-game whatsoever. This is only used so that we, the devs, know what the interaction is about without having to read through the entire interaction.
+	3. *Lines*. This is the list of dialogue lines that will be iterated through during the interaction. You can add new dialogue lines by clicking the `+` button next to the `Lines` attribute. For each line, expand
 
 ### Creating a New Dialogue Character
 
