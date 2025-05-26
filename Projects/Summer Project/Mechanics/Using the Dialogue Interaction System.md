@@ -5,6 +5,12 @@
 
 ### Dialogue Interaction
 
+A dialogue interaction is basically the 
+
 ### Dialogue Line
+
+### Dialogue Character
+
+###
 
 # Creating New Dialogue
