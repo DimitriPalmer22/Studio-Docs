@@ -37,6 +37,8 @@ This refers to what type of interaction is currently going on. For example, is t
 
 # Creating New Dialogue
 
+> Note: You can always check out the other dialogue interactions to see how they're set up. They might clear a couple things up.
+
 ### Creating a New Dialogue Interaction
 
 1. In the content drawer, navigate to the `Avernoth/Narrative/DialogueInteractions` folder. All of the dialogue interactions should be found somewhere within this folder.
