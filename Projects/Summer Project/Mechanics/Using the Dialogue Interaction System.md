@@ -89,4 +89,8 @@ You can create new custom boolean flags by following these steps:
 
 Open up the map titled `DialogueInteraction_Demo`. You can either search for it or go to `Avernoth/Maps/DemoMaps` and find it there.
 
-When you play this level, there is a big white block behind the player and to
+When you play this level, there is a big white block behind the player and to the right. Walk up to this and press `E` to interact with it. This will play one of the valid dialogue interactions.
+
+If you want to change the current *interaction type* or current *area* values, click on the  
+
+![](<../../../_Meta/Attachments/Pasted image 20250526152215.png>)
