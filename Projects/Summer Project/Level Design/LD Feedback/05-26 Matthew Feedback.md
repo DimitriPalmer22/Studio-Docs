@@ -7,7 +7,7 @@
 
 - I like the fact that you made crystals for your blockout and put the appropriately colored lights on them. This is EXACTLY what I had in mind
 
-
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
-- I checked the GPU profiler just to see how performac
+- I checked the GPU profiler just to see how performance was being impacted, and I was a little bit surprised to see just how much performance the lights were costing.
+- So, later on in the project, we'll probably be using baked lighting as opposed to Unreal's realtime dynamic lighting system.
