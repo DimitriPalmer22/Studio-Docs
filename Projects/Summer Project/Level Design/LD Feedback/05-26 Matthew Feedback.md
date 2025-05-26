@@ -28,6 +28,9 @@
 # Comments about the Modular Kit
 - The sizes of your kit's pieces are the largest, but they're detailed enough that the designers wouldn't need to add extra detail to the rooms by playing around with different piece layouts.
 - Maybe once we get further into development, we can add more half-sized pieces to the kit. This would allow us to get more creative with the shapes we create
+- One thing I do really need to see is how this kit can be used to create rooms of varying sizes and shapes.
+	- I want this game to have *a lot* of different rooms, and I want to be sure that the sizes and shapes of the rooms can be varied enough to create different experiences for the player.
+	- I just want to be sure the kit you made can support that.
 
 # Things that Can Change
 
