@@ -51,6 +51,8 @@ This refers to what type of interaction is currently going on. For example, is t
 
 #### Setting the Attributes of a Dialogue Interaction
 
+![](<../../../_Meta/Attachments/Pasted image 20250526154215.png>)
+
 ##### Basic Info
 
 1. *Add to Interaction pool*: This is a boolean flag to determine if this dialogue interaction should be included in the game's list of available dialogue interactions. If this is set to false, the interaction will not be played during normal gameplay. You should only ever set this to false for dialogue interactions that are not yet ready to be played or are only used for testing purposes.
