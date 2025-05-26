@@ -22,9 +22,11 @@
 	- Actually since we have multiple 2D artists on this team, I might lean into this idea a little more.
 - Shoutout you for putting the ambient particles in your level.
 
-
 - I'll say, your room definitely feels the most magical out of the rooms we've seen so far.
 	- The stairs that lead to the upper part of the room help so much with this.
+
+# Comments about the Modular Kit
+- The sizes of your kit's pieces are the largest, but they're detailed enough that the designers wouldn't need to add extra detail
 
 # Things that Can Change
 
