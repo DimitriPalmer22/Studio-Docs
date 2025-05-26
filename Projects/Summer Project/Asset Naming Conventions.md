@@ -2,3 +2,7 @@ I've mainly been following this guide for naming assets and structuring the proj
 
 - For specifics on what to name assets, scroll down to the section titled "1. Asset Naming Conventions"
 
+### Overview
+
+- Asset names generally follow the following format:
+	- `Prefix_BaseAssetName_Variant_Suffix`
