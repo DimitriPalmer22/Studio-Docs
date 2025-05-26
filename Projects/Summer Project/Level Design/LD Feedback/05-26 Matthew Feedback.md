@@ -34,6 +34,10 @@
 
 # Things that Can Change
 
+![](<../../../../_Meta/Attachments/Pasted image 20250526195654.png>)
+- One thing that may become an issue is having pathways and choke points that are too narrow for either the player or the enemies to move between.
+	- For example, the gap I marked in red might be a little too tight. I would either move that or  table to the right a little bit more
+
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
 - I checked the GPU profiler just to see how performance was being impacted, and I was a little bit surprised to see just how much performance the lights were costing.
