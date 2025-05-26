@@ -39,7 +39,7 @@ This refers to what type of interaction is currently going on. For example, is t
 
 ### Creating a New Dialogue Interaction
 
-1. In the content drawer, navigate to the `Game/Avernoth/Narrative/DialogueInteractions` folder
+1. In the content drawer, navigate to the `Game/Avernoth/Narrative/DialogueInteractions` folder. All of the dialogue interactions should be found somewhere within this folder.
 2. Either find an appropriate folder or create a new folder to put your interaction in
 3. In this folder, right-click and search "data asset"
 4. In the data asset creation window, search for `DIS_Interaction`. `BP_DIS_Interaction` should come up. Click it
@@ -87,4 +87,6 @@ You can create new custom boolean flags by following these steps:
 
 # Testing out the Dialogue
 
-As of right now, there is no way to test out SPECIFIC interactions or set specific flags to true or false.
+Open up the map titled `DialogueInteraction_Demo`. You can either search for it or go to `Avernoth/Maps/DemoMaps` and find it there.
+
+When you play this level, there is a big white block behind the player and to
