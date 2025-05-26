@@ -17,10 +17,15 @@
 	- The big chandeliers that hang from the ceiling are a really nice touch.
 	- The smaller hanging lights that are placed in various areas seem like a really good idea, too. They give the designers an extra opportunity to add some extra lighting to the space in other ways than adding a candle or another big chandelier.
 	- The entire block for the hanging light above the circular book cases looks so cool. It's also fire that you put candles on top of these.
-- I'm assuming the big white blocks lining the walls are paintings. If that's the case, I don't know how I didn't think of that as a possible prop idea. Nice job. 
-	- I also like that you had varying shapes and sizes for these. 
+- I'm assuming the big white blocks lining the walls are paintings. If that's the case, I don't know how I didn't think of that as a possible prop idea. Nice job.
+	- I also like that you had varying shapes and sizes for these.
 	- Actually since we have multiple 2D artists on this team, I might lean into this idea a little more.
 - Shoutout you for putting the ambient particles in your level.
+
+### The Layout of the Room
+
+- I'll say, your room definitely feels the most magical out of the rooms we've seen so far. 
+- 
 
 # Things that Can Change
 
