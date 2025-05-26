@@ -6,7 +6,7 @@ I've mainly been following this guide for naming assets and structuring the proj
 
 - Asset names generally follow the following format:
 	- `Prefix_BaseAssetName_Variant_Suffix`
-- Some assets will have different prefixes and suffixes depending on the type of asset they are
+- Assets will have different prefixes and suffixes depending on the type of asset they are
 - The Variant is optional if there is only one asset of that type
 
 ### What to name Assets
