@@ -43,7 +43,9 @@ Dialogue Characters are defined by:
 	3. *Lines*. This is the list of dialogue lines that will be iterated through during the interaction. You can add new dialogue lines by clicking the `+` button next to the `Lines` attribute. For each line, expand the line to see its attributes.
 		1. *Character*: The dialogue character asset used for this line. Select the appropriate dialogue character asset from the dropdown. If the character you want isn't there, then you need to create a new one.
 		2. *Text*: The words that appear on screen when this line is spoken.
-	4. *Is Forced*: This is a boolean flag that determines if this dialogue interaction MUST be played if all the flags are true. This is only used for dialogue interactions that we NEED the poka
+	4. *Is Forced*: This is a boolean flag that determines if this dialogue interaction MUST be played if all the flags are true. This is only used for dialogue interactions that we NEED the player to see, such as the interaction that plays at the start of the game. Most dialogue interactions should have this set to false.
+	5. *Forced Priority*: In the event that the game is trying to find a dialogue interaction to play, and there are multiple *forced* dialogue interactions that CAN be played, the game will choose the interaction with the highest priority to play. This is only used if *Is Forced* is set to true.
+	6. 
 
 ### Creating a New Dialogue Character
 
