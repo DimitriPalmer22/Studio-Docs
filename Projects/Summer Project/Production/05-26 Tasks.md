@@ -48,7 +48,8 @@ To be specific, here are most if not all the props currently in that level.
 - Big painting
 - Small painting
 
-For this week, we wanted to get you guys to go in-engine yourselves to export the modelsIf the static mesh isn't already in the level's folder ready to be exported, you're having trouble finding the asset, or if you just need one of us to export the fb, lmk:
+For this week, we wanted to get you guys to go in-engine yourselves to export the models from Unreal as .fbx files.
+- But, if there's some issue like you can't find the asset or it isn't already a static mesh so you can't export it, let me know and I'll export it for you.
 
 - Kiana
 - Rae
