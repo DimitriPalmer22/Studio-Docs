@@ -38,7 +38,9 @@
 - One thing that may become an issue is having pathways and choke points that are too narrow for either the player or the enemies to move between.
 	- For example, the gap I marked in red might be a little too tight. I would either move or rotate that table to the right a little bit more the give this little walkway more space
 - Maybe 1 or 2 less enemies.
-- One of your concerns was 
+- One of your concerns was if this room layout is too boring for gameplay. 
+	- Although the shape of the room is pretty simple, you at least make up for it in the way you set-dressed the level
+	- However, I do think that having too many rooms shaped like this could get boring for the player after a while of playing.
 
 # Notes About Lighting
 
