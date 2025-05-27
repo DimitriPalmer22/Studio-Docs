@@ -7,9 +7,12 @@
 
 #### Aiden
 - Aiden's walls are 5m wide x 17m tall. His walls (the ones in the pic below) are good candidates for some half-width walls if we cut them to match the size of Matthew's kit (5m wide & 10m tall)
+
 ![](<../../../_Meta/Attachments/Pasted image 20250526214043.png>)
+
 - There is also another wall in hit kit we can use as a half-width half-height wall (make it 5m wide x 5m tall)
  ![](<../../../_Meta/Attachments/Pasted image 20250526214240.png>)
+
 - These candle stands are cool
 ![](<../../../_Meta/Attachments/Pasted image 20250526214341.png>)
 
