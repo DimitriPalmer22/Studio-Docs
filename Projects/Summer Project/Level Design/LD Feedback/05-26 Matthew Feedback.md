@@ -39,7 +39,14 @@
 	- For example, the gap I marked in red might be a little too tight. I would either move or rotate that table to the right a little bit more the give this little walkway more space
 - Maybe 1 or 2 less enemies.
 
-# A Note About Lighting
+# Notes About Lighting
+
+### The Look
+- Just to clear up an possible confusion, I don't want the lighting in the game to be super moody or dark. I want it the lights to be bright enough that it's easy for the player to see at all times.
+- I like the fact that you used different colored lights to give the room a magical feel. I think this is a good idea, and I think it works well in your level.
+- In terms of the levl
+
+### Performance
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
 - I checked the GPU profiler just to see how performance was being impacted, and I was a little bit surprised to see just how much performance the lights were costing.
 - So, later on in the project, we'll *probably* be using baked lighting as opposed to Unreal's realtime dynamic lighting system.
