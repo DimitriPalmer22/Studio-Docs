@@ -44,7 +44,7 @@ This refers to what type of interaction is currently going on. For example, is t
 1. In the content drawer, navigate to the `Avernoth/Narrative/DialogueInteractions` folder. All of the dialogue interactions should be found somewhere within this folder.
 2. Either find an appropriate folder or create a new folder to put your interaction in
 3. In this folder, right-click and search "data asset"
-4. In the data asset creation window, search for `DIS_Interaction`. `BP_DIS_Interaction` should come up. Click it
+4. In the data asset creation window, search for `DIS_Interaction`. `PDA_DIS_Interaction` should come up. Click it
 5. Name the new asset with the following format: `DIS_Interaction_InteractionName`
 6. Open the new data asset
 7. Set the attributes of the Dialogue Interaction
@@ -83,7 +83,7 @@ Dialogue characters are stored as assets, so you only have to create one for eac
 
 1. In the content drawer, navigate to the `Avernoth/Narrative/DialogueCharacters` folder. All of the dialogue characters should be in this folder
 2. Right click and search up "Data Asset"
-3. In the data asset creation window, search for `DIS_Character`. `BP_DIS_Character` should come up. Click it
+3. In the data asset creation window, search for `DIS_Character`. `PDA_DIS_Character` should come up. Click it
 4. Name the new asset with the following format: `DIS_Character_CharacterName`
 5. Open the new data asset
 6. Set the attributes of the Dialogue Character
