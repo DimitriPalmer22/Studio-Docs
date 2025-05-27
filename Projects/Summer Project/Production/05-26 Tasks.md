@@ -36,8 +36,15 @@ Matthew made a few placeholder props, so we have a decent idea for what kinds of
 
 Also, we need to start getting real models / textures for the modular kit pieces.
 
-To be specific, here are most if not all the props currently in that level:
-- Piles of 
+To be specific, here are most if not all the props currently in that level. If the static mesh isn't already in the level's folder ready to be exported, or you're having trouble finding the asset, lmk:
+- Piles of books
+- Banners
+- Circular bookshelves
+- The very tall pillars
+- Big table
+- Small table
+- Chandelier
+- Smaller hanging lights
 
 - Kiana
 - Rae
