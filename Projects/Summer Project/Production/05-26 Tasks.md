@@ -7,7 +7,7 @@ The next thing I want to do is implement enemies. They will not move or attack, 
 
 Also, by the end of the week, I want the ability to spawn in a room, kill enemies, and have a dialogue interaction pop up.
 
-- Dimitri Palmer
+- Dimitri
 
 ### Designers
 
@@ -15,18 +15,18 @@ Also, by the end of the week, I want the ability to spawn in a room, kill enemie
 
 Make Levels using Matthew's modular kit & see how they can be used to create different room shapes. Matthew's kit is the base for the modular kit, and we'll take pieces from the other kits to add more variety.
 
-- Mikel Sienra - 1 Level
-- Leonardo Santa-Zapata - 1 Level
-- Brian Rosario-Diaz - 1 Level
-- Aiden Richmond - 1 Level
-- Ashley Mendez - 1 Level
-- Matthew Cabrera (+design) - 1 Level
+- Mikel - 1 Level
+- Leonardo - 1 Level
+- Brian - 1 Level
+- Aiden - 1 Level
+- Ashley - 1 Level
+- Matthew - 1 Level
 
 #### Technical Designers
 
 Research more into the process of importing animations into Unreal and how they will work with the enemies. Also look more into animation blueprints, animation retargeting, and animation montages.
 
-- Andre Powell
+- Andre
 
 ### Artists
 
@@ -36,8 +36,11 @@ Matthew made a few placeholder props, so we have a decent idea for what kinds of
 
 Also, we need to start getting real models / textures for the modular kit pieces.
 
-- Kiana Cuevas
-- Rae Overton
+To be specific, here are most if not all the props currently in that level:
+- Piles of 
+
+- Kiana
+- Rae
 
 #### Character Artist
 
@@ -47,7 +50,7 @@ Once the MC's completely finished, Lee can create the character's model. I at le
 
 In the meantime, she can work on props alongside the environment artists.
 
-- Azalee Nelson
+- Azalee
 
 #### 2D Artists
 
@@ -55,8 +58,8 @@ The concept art for the MC needs to be finalized so that the character artist ca
 
 After that, we can concept the designs and portraits for the other characters.
 
-- Alexandra Kotzeva
-- Alexis Ibanez
+- Alexandra 
+- Alexis
 
 #### Animators
 
@@ -64,7 +67,7 @@ Once the MC's model is finished, it needs to be rigged to see if the animations 
 
 In the meantime, you can animate the current player model (Unreal's manny) to get a feel for the animations and how they will look in-game.
 
-- James Draper (Animator)
+- James
 
 ### Narrative Designer
 
@@ -72,4 +75,4 @@ We can start to get the dialogue in-engine since the basics of the dialogue syst
 
 Also, I added the task of importing the fonts to the list of tasks. I didn't explicitly say for you to apply the font to the current UI, but if that is something you want to do, let me know.
 
-- Chelle Radcliffe
+- Chelle
