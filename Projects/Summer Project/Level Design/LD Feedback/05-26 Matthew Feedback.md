@@ -42,4 +42,4 @@
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
 - I checked the GPU profiler just to see how performance was being impacted, and I was a little bit surprised to see just how much performance the lights were costing.
-- So, later on in the project, we'll probably be using baked lighting as opposed to Unreal's realtime dynamic lighting system.
+- So, later on in the project, we'll *probably* be using baked lighting as opposed to Unreal's realtime dynamic lighting system.
