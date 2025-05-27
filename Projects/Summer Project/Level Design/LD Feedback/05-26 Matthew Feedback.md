@@ -44,7 +44,7 @@
 ### The Look
 - Just to clear up an possible confusion, I don't want the lighting in the game to be super moody or dark. I want it the lights to be bright enough that it's easy for the player to see at all times.
 - I like the fact that you used different colored lights to give the room a magical feel. I think this is a good idea, and I think it works well in your level.
-- In terms of the levl
+- In terms of the level's ambient lighting, I don't think we can just rely on the crystals, chandeliers, and other small point lights. I think we need to add some ambient lighting to the room to make it feel more alive and vibrant.
 
 ### Performance
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
