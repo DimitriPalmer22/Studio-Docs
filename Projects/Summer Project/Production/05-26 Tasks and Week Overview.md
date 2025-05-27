@@ -28,6 +28,14 @@ Research more into the process of importing animations into Unreal and how they 
 
 - Andre
 
+#### Narrative Designer
+
+We can start to get the dialogue in-engine since the basics of the dialogue system are done.
+
+Also, I added the task of importing the fonts to the list of tasks. I didn't explicitly say for you to apply the font to the current UI, but if that is something you want to do, let me know.
+
+- Chelle
+
 ### Artists
 
 #### Environmental Artists
@@ -80,11 +88,3 @@ Once the MC's model is finished, it needs to be rigged to see if the animations 
 In the meantime, you can animate the current player model (Unreal's manny) to get a feel for the animations and how they will look in-game.
 
 - James
-
-### Narrative Designer
-
-We can start to get the dialogue in-engine since the basics of the dialogue system are done.
-
-Also, I added the task of importing the fonts to the list of tasks. I didn't explicitly say for you to apply the font to the current UI, but if that is something you want to do, let me know.
-
-- Chelle
