@@ -11,9 +11,11 @@
 ![](<../../../_Meta/Attachments/Pasted image 20250526214043.png>)
 
 - There is also another wall in hit kit we can use as a half-width half-height wall (make it 5m wide x 5m tall)
+
  ![](<../../../_Meta/Attachments/Pasted image 20250526214240.png>)
 
 - These candle stands are cool
+
 ![](<../../../_Meta/Attachments/Pasted image 20250526214341.png>)
 
 #### Brian
