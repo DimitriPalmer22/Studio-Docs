@@ -36,7 +36,8 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250526195654.png>)
 - One thing that may become an issue is having pathways and choke points that are too narrow for either the player or the enemies to move between.
-	- For example, the gap I marked in red might be a little too tight. I would either move that or  table to the right a little bit more
+	- For example, the gap I marked in red might be a little too tight. I would either move or rotate that table to the right a little bit more the give this little walkway more space
+- Maybe 1 or 2 less enemies.
 
 # A Note About Lighting
 - After looking at the lights in your level, I immediately realized that I have almost no clue how lighting works in Unreal.
