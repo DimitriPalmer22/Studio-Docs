@@ -36,7 +36,7 @@ Matthew made a few placeholder props, so we have a decent idea for what kinds of
 
 Also, we need to start getting real models / textures for the modular kit pieces.
 
-To be specific, here are most if not all the props currently in that level. If the static mesh isn't already in the level's folder ready to be exported, or you're having trouble finding the asset, lmk:
+To be specific, here are most if not all the props currently in that level.
 - Piles of books
 - Banners
 - Circular bookshelves
@@ -45,6 +45,10 @@ To be specific, here are most if not all the props currently in that level. If t
 - Small table
 - Chandelier
 - Smaller hanging lights
+- Big painting
+- Small painting
+
+For this week, we wanted to get you guys to go in-engine yourselves to export the modelsIf the static mesh isn't already in the level's folder ready to be exported, you're having trouble finding the asset, or if you just need one of us to export the fb, lmk:
 
 - Kiana
 - Rae
@@ -65,7 +69,7 @@ The concept art for the MC needs to be finalized so that the character artist ca
 
 After that, we can concept the designs and portraits for the other characters.
 
-- Alexandra 
+- Alexandra
 - Alexis
 
 #### Animators
