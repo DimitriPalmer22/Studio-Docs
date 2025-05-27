@@ -10,16 +10,16 @@
 
 ![](<../../../_Meta/Attachments/Pasted image 20250526214043.png>)
 
-- There is also another wall in hit kit we can use as a half-width half-height wall (make it 5m wide x 5m tall)
+- There is also another wall in his kit we can use as a half-width half-height wall (make it 5m wide x 5m tall)
 
  ![](<../../../_Meta/Attachments/Pasted image 20250526214240.png>)
 
-- These candle stands are cool
+- These candle stands are cool as props, too
 
 ![](<../../../_Meta/Attachments/Pasted image 20250526214341.png>)
 
 #### Brian
-- Something I like from Brian's level is the idea of having balconies that overlook the main room. These balconies are inaccessible and just there for visual interest.
+- Something I like from Brian's level is the idea of having balconies that overlook the main room. These balconies are inaccessible and are just there for visual interest.
 - The fences are also a nice touch, but I'm not sure how well they'll align with the grid / align with the other pieces.
 - For the large hallway w/ the section that has the large floating mana crystal, that mana crystal is cool as a unique piece that only appears in some levels.
 - Brian's kit has a lot of unique pieces that are great for adding detail, but for right now we'll focus on the more basic pieces from the other kits.
