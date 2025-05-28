@@ -119,3 +119,10 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 	- For Allister, this could be the necklace
 	- Leo said like a headband or if a character has an eye patch is a good place for this
 		- This could work for 
+
+### Meetings
+
+- Once a week meeting with everyone.
+	- On Friday / Saturday, I'll ask what times work for everyone.
+	- Monday / Tuesday, we'll have the meeting
+- Also, we'll have 
