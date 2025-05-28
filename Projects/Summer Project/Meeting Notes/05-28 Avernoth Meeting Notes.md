@@ -102,3 +102,7 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 - MC designs.
 - Meeting frequency.
 	- It's really hard to understand what's going on with the project, especially since we kinda have 2 halves of the team that don't talk to each other too often.
+
+### Anything Else?
+
+- Expect a google form some time next week for a post-mortem.
