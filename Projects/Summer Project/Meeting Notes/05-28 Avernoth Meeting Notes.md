@@ -105,3 +105,11 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 ### Anything Else?
 
 - Expect a google form some time next week for a post-mortem.
+
+
+
+# Extra Notes
+
+### MC Design
+- Color palette of the MC's main robes might need to be changed. It's pretty monochromatic. 
+- Also, the random trinkets were a concern
