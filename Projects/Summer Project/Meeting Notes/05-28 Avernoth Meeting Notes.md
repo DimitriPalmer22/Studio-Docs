@@ -120,7 +120,7 @@ Rae is art lead btw
 - For each character design, find unique places to place the character's sigil
 	- For Allister, this could be the necklace
 	- Leo said like a headband or if a character has an eye patch is a good place for this
-		- This could work for 
+		- This could work for
 
 ### Meetings
 
