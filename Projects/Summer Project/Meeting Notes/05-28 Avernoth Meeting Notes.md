@@ -100,3 +100,4 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 
 - Fonts PureRef.
 - MC designs.
+- Meeting frequency
