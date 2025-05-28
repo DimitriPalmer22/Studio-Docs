@@ -130,7 +130,8 @@ Rae is art lead btw
 - Also, we'll have department meetings like halfway through
 
 ### 2D Art References
-The 2D artists w
-
+The 2D artists were leaning toward these two for their main references:
 - Stray Gods
 - Hades
+
+The higher fidelity art styles might pose an issue for the ps1 art style.
