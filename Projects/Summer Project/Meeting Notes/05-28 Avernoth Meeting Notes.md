@@ -125,4 +125,4 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 - Once a week meeting with everyone.
 	- On Friday / Saturday, I'll ask what times work for everyone.
 	- Monday / Tuesday, we'll have the meeting
-- Also, we'll have department meetings
+- Also, we'll have department meetings like halfway out 
