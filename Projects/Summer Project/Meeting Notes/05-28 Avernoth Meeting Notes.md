@@ -94,7 +94,7 @@ So, about a week ago, I decided to rely on the team more and divvy up my respons
 - I started leaning on the producers, Andre and Leo, a lot more. They've been helping me a lot more with task creation and making important decisions about the short-term direction of the project.
 - I've been relying on Chelle more for creative director-type stuff. They're pretty much a co-creative director. I try to run ideas by them to make sure things make sense. In terms of directing and giving feedback, I trust and respect their opinion, and I usually agree with it.
 
-Also, Mikel is the lead level designer. So, once he's up to speed, you should also be able to look to him for level design-related questions and feedback.
+Also, Mikel is the lead level designer. So, once he's up to speed, you should also be able to look to him for level design-related feedback.
 
 ### Polls
 
