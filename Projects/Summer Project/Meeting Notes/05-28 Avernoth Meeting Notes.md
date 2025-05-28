@@ -31,11 +31,11 @@ Now that we have a better idea of what exactly needs to be in the game, we can s
 
 #### Environmental Art
 
-I want enough of the props / modular kit to be modeled & textured so that we can put together a level that doesn't have any placeholder pieces in it. Once we get these, we'll essentially have the basis for the game's art style.
+I want enough of the props / modular kit to be modeled & textured so that we can *put together a level that doesn't have any placeholder pieces in it*. Once we get these, we'll essentially have the basis for the game's art style.
 
 #### Character Art
 
-Ideally, we would have the main character modeled and rigged by the end of the week. But if we can't get that due to it taking too long, I at the very least want the MC's model in-engine so we can get a feel for how he looks with the rest of the game's art.
+Ideally, we would have the *main character modeled and rigged by the end of the week*. But if we can't get that due to it taking too long, I at the very least want the MC's model in-engine so we can get a feel for how he looks with the rest of the game's art.
 
 ### Programming
 
