@@ -8,7 +8,7 @@ With that being said, there are still a few things that need to get done before 
 ### Goals
 
 - In-engine implementation of the PS1 / low-poly art style. We need to see what works, what doesn't work, and what needs iteration. We need to see what the game looks like. This doesn't just mean artwork; this also means level design things as well. I want us to have a good idea of the game's vibe.
-- A very basic implementation of the gameplay loop. This means that we need to have the player able to move around, interact with objects, and have some basic combat mechanics. For right now, rather than focusing on how the game *feels*, we'll focus on what exactly is happening in the game.
+- A very basic demonstration of the gameplay loop. This means that we need to have the player able to move around, interact with objects, and have some basic combat mechanics. For right now, rather than focusing on how the game *feels*, we'll focus on what exactly is happening in the game.
 - A simple implementation of the game's narrative. This means that we need to have some basic dialogue interactions in-engine so that we can see how the narrative will flow and how the player will interact with it.
 
 ### Level Design
