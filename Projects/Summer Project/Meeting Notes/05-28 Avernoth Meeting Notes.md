@@ -13,7 +13,7 @@ With that being said, there are still a few things that need to get done before 
 
 ### Level Design
 
-I want at least 1 fully realized level in-engine for POC. By "fully realized," I mean that the level should have:
+I want at least *1 fully realized level in-engine for POC*. By "fully realized," I mean that the level should have:
 - An established modular kit that isn't just placeholder pieces. These should be actual textured models.
 - Props placed in the level (that should also be modeled and textured)
 - A basic lighting setup that gives the level a good atmosphere. We can worry about lighting optimization later. For now, we just need to see how the lighting looks in-engine.
