@@ -96,6 +96,8 @@ So, about a week ago, I decided to rely on the team more and divvy up my respons
 
 Also, Mikel is the lead level designer. So, once he's up to speed, you should also be able to look to him for level design-related feedback.
 
+Rae is art lead btw
+
 ### Polls
 
 - MC designs.
@@ -125,4 +127,4 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 - Once a week meeting with everyone.
 	- On Friday / Saturday, I'll ask what times work for everyone.
 	- Monday / Tuesday, we'll have the meeting
-- Also, we'll have department meetings like halfway out 
+- Also, we'll have department meetings like halfway through
