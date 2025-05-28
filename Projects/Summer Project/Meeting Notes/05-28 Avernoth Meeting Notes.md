@@ -112,4 +112,6 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 
 ### MC Design
 - Color palette of the MC's main robes might need to be changed. It's pretty monochromatic. 
+	- Lean more into the battle-y part of the mage
 - Also, Allister's random trinkets were a concern
+	- The 
