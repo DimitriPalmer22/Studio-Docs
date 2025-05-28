@@ -128,3 +128,9 @@ Rae is art lead btw
 	- On Friday / Saturday, I'll ask what times work for everyone.
 	- Monday / Tuesday, we'll have the meeting
 - Also, we'll have department meetings like halfway through
+
+### 2D Art References
+The 2D artists w
+
+- Stray Gods
+- Hades
