@@ -106,15 +106,16 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 
 - Expect a google form some time next week for a post-mortem.
 
-
-
 # Extra Notes
 
 ### MC Design
-- Color palette of the MC's main robes might need to be changed. It's pretty monochromatic. 
+- Color palette of the MC's main robes might need to be changed. It's pretty monochromatic.
 	- It might clash with the last level of the game, which is purple
 	- Lean more into the battle-y part of the mage
+	- Might need to change the color entirely. Maybe a more neutral color. Something that gives battle-mage vibes
 - Also, Allister's random trinkets were a concern
 	- The green jewels on the hat and in the necklace might need some type of explanation
 - For each character design, find unique places to place the character's sigil
 	- For Allister, this could be the necklace
+	- Leo said like a headband or if a character has an eye patch is a good place for this
+		- This could work for 
