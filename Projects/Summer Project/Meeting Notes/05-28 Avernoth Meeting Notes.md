@@ -112,7 +112,7 @@ Also, Mikel is the lead level designer. So, once he's up to speed, you should al
 
 ### MC Design
 - Color palette of the MC's main robes might need to be changed. It's pretty monochromatic. 
-	- It might clash with the last level of the gam
+	- It might clash with the last level of the game, which is purple
 	- Lean more into the battle-y part of the mage
 - Also, Allister's random trinkets were a concern
 	- The green jewels on the hat and in the necklace might need some type of explanation
