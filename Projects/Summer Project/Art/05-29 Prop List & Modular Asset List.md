@@ -30,7 +30,12 @@ Below is list of each asset in order of priority. The assets at the top of the l
 ### Props that Are Probably Don't Need to Be Completed by the End of the Week
 
 1. Kit Piece - Long Stairs
-2. 
+2. Kit Piece - Wall 2.5m wide x 5m tall
+3. Kit Piece - Wall 2.5m wide x 10m tall
+4. Prop - Triple candle thing
+	1. We already have candles in-engine, so we just need the candle holder itself. In-engine, we
+5. Kit Piece - Floor 1m wide x 1m tall x 5m depth
+6. Kit Piece - Floor 2m wide x 1m tall x 5m depth
 
 ----
 
@@ -40,7 +45,7 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 
 - [x] Circular bookshelves
 - [x] Book Piles
-- [ ] Triple candle thing
+- [x] Triple candle thing
 - [x] Chandelier
 - [x] Really tall column
 - [x] Hanging light
@@ -55,18 +60,18 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 ### Walls
 
 - [x] Wall 10m x 10m `/Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0/CubeGridToolOutput_066AA8D5.CubeGridToolOutput_066AA8D5`
-- [ ] Wall 2.5m wide x 5m tall
-- [ ] Wall 2.5m wide x 10m tall
+- [x] Wall 2.5m wide x 5m tall
+- [x] Wall 2.5m wide x 10m tall
 - [x] Semi-circle wall thing (5m wide, 10m tall, 5m depth)
 - [x] Corner wall piece (5m wide, 5m tall, 5m depth)
 
 ### Floors
 
-- [ ] Floor 1m wide x 1m tall x 5m depth
-- [ ] Floor 2m wide x 1m tall x 5m depth
+- [x] Floor 1m wide x 1m tall x 5m depth
+- [x] Floor 2m wide x 1m tall x 5m depth
 - [x] Floor 5m wide x 1m tall x 5m depth
 
 ### Other
 
-- [ ] Long Stairs
+- [x] Long Stairs
 - [x] Wall Platform thing
