@@ -2,11 +2,11 @@
 # Props
 
 - Circular bookshelves
-	- One without books
-	- One with books
 - Book Piles
 - Short table
 - Long table
 - Triple candle thing
+- Starting platform (this needs to be expanded upon)
+	- lowkey, this can remain as a blockout asset for rn
 
 # Modular Kit Pieces
