@@ -16,4 +16,5 @@
 # Modular Kit Pieces
 
 - 10m x 10m Wall `/Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0/CubeGridToolOutput_066AA8D5.CubeGridToolOutput_066AA8D5`
--
+- 2.5m wide x 5m wall
+- 2.5m x 10
