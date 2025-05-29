@@ -5,7 +5,12 @@ In the future, our modular kit will have more pieces to allow for more customiza
 
 # Where to Find the Props
 
-Most modular kit pieces can be found in 
+Most modular kit pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0`. However, this folder is full of other assets that are not being used, so it might be difficult to look through this for the assets you need. 
+
+Most prop pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/Meshes`. 
+
+### How I recommend you find the asset
+
 
 # Prop List
 
