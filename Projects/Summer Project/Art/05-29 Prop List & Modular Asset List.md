@@ -34,7 +34,6 @@ Below is list of each asset in order of priority. The assets at the top of the l
 3. Kit Piece - Wall 2.5m wide x 10m tall
 4. Prop - Triple candle thing
 	1. We already have candles in-engine, so we just need the candle holder itself. In-engine, we'll put the candles on the holder & make that a blueprint.
-	2. The ones in engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
 5. Kit Piece - Floor 1m wide x 1m tall x 5m depth
 6. Kit Piece - Floor 2m wide x 1m tall x 5m depth
 
