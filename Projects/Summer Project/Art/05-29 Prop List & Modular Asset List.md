@@ -13,6 +13,9 @@ Below is list of each asset in order of priority. The assets at the top of the l
 6. Prop - Book Piles
 7. Prop - Short table
 8. Prop - Long table
+9. Prop Really tall column
+10. Prop - Chandelier
+11. Prop - Hanging Light
 
 ----
 
@@ -23,13 +26,13 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 - [x] Circular bookshelves
 - [x] Book Piles
 - [ ] Triple candle thing
-- [ ] Chandelier
+- [x] Chandelier
 - [ ] Really tall column
-- [ ] Hanging light
+- [x] Hanging light
 - [x] Short table
 - [x] Long table
 - [ ] The long hanging banners
-- [ ] Painting - 5m x 7m
+- [ ] Painting - 5m tall x 7m wide
 	- The ones in engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
 
 # Modular Kit Pieces
