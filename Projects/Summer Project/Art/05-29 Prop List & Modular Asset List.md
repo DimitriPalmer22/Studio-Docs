@@ -5,6 +5,8 @@ In the future, our modular kit will have more pieces to allow for more customiza
 
 Below is list of each asset in order of priority. The assets at the top of the list are the most important and should be completed first. The assets at the bottom of the list are the least important and can be completed later / don't even need to be complete by the end of the week.
 
+### Props We Absolutely Need
+
 1. Kit Piece - 10m x 10m Wall
 2. Kit Piece - Floor 5m wide x 1m tall x 5m depth
 3. Kit Piece - Corner wall piece (5m wide, 5m tall, 5m depth)
@@ -21,6 +23,7 @@ Below is list of each asset in order of priority. The assets at the top of the l
 14. Kit Piece - Painting - 5m tall x 7m wide
 	1. the texture work on the paintings is going to tie into the narrative, which means some thought has to be put into what actually goes on the painting. For now, the frame is the most important part, so you can just use a placeholder texture for the painting itself.
 	2. Also, the paintings in-engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
+15.
 
 ----
 
