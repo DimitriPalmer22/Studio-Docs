@@ -18,6 +18,8 @@ Below is list of each asset in order of priority. The assets at the top of the l
 9. Prop - Really tall column
 10. Prop - Chandelier
 
+> Note: For the modular kit pieces in this section, I'd prefer if you guys didn't take 
+
 ### Props that Aren't as Important, but Would Be Really Nice
 
 1. Prop - Hanging Light
