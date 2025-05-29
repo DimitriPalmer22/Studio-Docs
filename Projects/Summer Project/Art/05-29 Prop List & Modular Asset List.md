@@ -1,7 +1,9 @@
 
 These are all the props that are currently used to make up Matthew's level. The goal is to get as many of these completed as possible so that we can use them to build out the level in-engine.
 
-In the future, our modular kit will have 
+In the future, our modular kit will have more pieces to allow for more customization and variety in the levels we create. There will also be different variations for each type of asset so that we can create more unique levels. But, for right now, we're focusing on getting the basics done.
+
+Below is list of each asset in order of priority. The assets at the top of the list are the most important and s
 
 # Props
 
