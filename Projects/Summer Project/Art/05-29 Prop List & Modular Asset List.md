@@ -7,8 +7,11 @@ Below is list of each asset in order of priority. The assets at the top of the l
 
 1. Kit Piece - 10m x 10m Wall
 2. Kit Piece - Floor 5m wide x 1m tall x 5m depth
-3. Corner wall piece (5m wide, 5m tall, 5m depth)
-4. Semi-circle wall thing (5m wide, 10m tall, 5m depth)
+3. Kit Piece - Corner wall piece (5m wide, 5m tall, 5m depth)
+4. Kit Piece - Semi-circle wall thing (5m wide, 10m tall, 5m depth)
+5. Prop - Circular bookshelves
+6. Prop - Book Piles
+7. 
 
 ----
 
@@ -16,8 +19,8 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 
 # Props
 
-- [ ] Circular bookshelves
-- [ ] Book Piles
+- [x] Circular bookshelves
+- [x] Book Piles
 - [ ] Triple candle thing
 - [ ] Chandelier
 - [ ] Really tall column
