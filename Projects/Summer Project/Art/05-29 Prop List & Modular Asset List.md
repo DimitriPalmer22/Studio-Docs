@@ -11,6 +11,6 @@
 - Long table
 
 - The long hanging banners
-- Painting shape 1 - Almost square
+- Painting - 500
 
 # Modular Kit Pieces
