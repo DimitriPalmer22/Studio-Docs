@@ -11,7 +11,8 @@ Most prop pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKi
 
 ### How I Recommend You Find the Assets You Need
 1. Open Matthew's level located in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest`
-2. Look through the level and right click on the asset you want to find
+2. Look through the level and right click on the asset you want to find.
+	1. If you're looking for a modular kit piece, Matthew made a gallery of assets outside his level that showcases all of the modular kit pieces.
 3. Click "Browse to Asset". This opens the content browser and selects the asset you clicked on
 4. Right click the asset, hover over "Asset Actions", and select "Export…" to export the FBX file
 
