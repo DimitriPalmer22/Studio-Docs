@@ -17,13 +17,20 @@ Below is list of each asset in order of priority. The assets at the top of the l
 8. Prop - Long table
 9. Prop - Really tall column
 10. Prop - Chandelier
-11. Prop - Hanging Light
-12. Prop - The long hanging banners
-13. Kit Piece - Wall Platform thing
-14. Kit Piece - Painting - 5m tall x 7m wide
+
+### Props that Aren't as Important, but Would Be Really Nice
+
+1. Prop - Hanging Light
+2. Prop - The long hanging banners
+3. Kit Piece - Wall Platform thing
+4. Kit Piece - Painting - 5m tall x 7m wide
 	1. the texture work on the paintings is going to tie into the narrative, which means some thought has to be put into what actually goes on the painting. For now, the frame is the most important part, so you can just use a placeholder texture for the painting itself.
 	2. Also, the paintings in-engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
-15.
+
+### Props that Are Probably Don't Need to Be Completed by the End of the Week
+
+1. Kit Piece - Long Stairs
+2. 
 
 ----
 
