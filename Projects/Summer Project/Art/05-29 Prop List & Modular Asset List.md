@@ -7,13 +7,13 @@ In the future, our modular kit will have more pieces to allow for more customiza
 
 Most modular kit pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0`. However, this folder is full of other assets that are not being used, so it might be difficult to look through this for the assets you need.
 
-Most prop pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/Meshes`.
+Most prop pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/Meshes`. I believe every item in this folder EXCEPT the mana crystal asset is found in the list below.
 
 ### How I Recommend You Find the Assets You Need
 1. Open Matthew's level located in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest`
 2. Look through the level and right click on the asset you want to find
 3. Click "Browse to Asset". This opens the content browser and selects the asset you clicked on
-4. Right click the asset, hover over "Asset Actions", and select "Export..." to export the FBX file
+4. Right click the asset, hover over "Asset Actions", and select "Export…" to export the FBX file
 
 # Prop List
 
