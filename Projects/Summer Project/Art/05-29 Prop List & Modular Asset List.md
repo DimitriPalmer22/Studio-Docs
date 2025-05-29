@@ -1,5 +1,7 @@
 
-These are all the props that are currently used to make up Matthew's level. 
+These are all the props that are currently used to make up Matthew's level. The goal is to get as many of these completed as possible so that we can use them to build out the level in-engine.
+
+In the future, our modular kit will have 
 
 # Props
 
