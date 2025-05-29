@@ -53,38 +53,40 @@ Below is list of each asset in order of priority. The assets at the top of the l
 
 ----
 
+# IGNORE THIS
+
 You can ignore this section of the document. This is just an UNORDERED list of all the props and modular kit pieces
 
 ### Props
 
-- [x] Circular bookshelves
-- [x] Book Piles
-- [x] Triple candle thing
-- [x] Chandelier
-- [x] Really tall column
-- [x] Hanging light
-- [x] Short table
-- [x] Long table
-- [x] The long hanging banners
-- [x] Painting - 5m tall x 7m wide
+- [ ] Circular bookshelves
+- [ ] Book Piles
+- [ ] Triple candle thing
+- [ ] Chandelier
+- [ ] Really tall column
+- [ ] Hanging light
+- [ ] Short table
+- [ ] Long table
+- [ ] The long hanging banners
+- [ ] Painting - 5m tall x 7m wide
 
 ### Modular Kit Pieces
 
 #### Walls
 
-- [x] Wall 10m x 10m
-- [x] Wall 2.5m wide x 5m tall
-- [x] Wall 2.5m wide x 10m tall
-- [x] Semi-circle wall thing (5m wide, 10m tall, 5m depth)
-- [x] Corner wall piece (5m wide, 5m tall, 5m depth)
+- [ ] Wall 10m x 10m
+- [ ] Wall 2.5m wide x 5m tall
+- [ ] Wall 2.5m wide x 10m tall
+- [ ] Semi-circle wall thing (5m wide, 10m tall, 5m depth)
+- [ ] Corner wall piece (5m wide, 5m tall, 5m depth)
 
 #### Floors
 
-- [x] Floor 1m wide x 1m tall x 5m depth
-- [x] Floor 2m wide x 1m tall x 5m depth
-- [x] Floor 5m wide x 1m tall x 5m depth
+- [ ] Floor 1m wide x 1m tall x 5m depth
+- [ ] Floor 2m wide x 1m tall x 5m depth
+- [ ] Floor 5m wide x 1m tall x 5m depth
 
 #### Other
 
-- [x] Long Stairs
-- [x] Wall Platform thing
+- [ ] Long Stairs
+- [ ] Wall Platform thing
