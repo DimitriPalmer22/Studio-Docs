@@ -13,7 +13,7 @@ Most prop pieces can be found in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKi
 1. Open Matthew's level located in `Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest`
 2. Look through the level and right click on the asset you want to find
 3. Click "Browse to Asset". This opens the content browser and selects the asset you clicked on
-4. 
+4. Right click the asset, hover over "Asset Actions", and select "Export..." to export
 
 # Prop List
 
