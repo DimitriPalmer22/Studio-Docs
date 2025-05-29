@@ -55,7 +55,7 @@ Below is list of each asset in order of priority. The assets at the top of the l
 
 You can ignore this section of the document. This is just an UNORDERED list of all the props and modular kit pieces
 
-# Props
+### Props
 
 - [x] Circular bookshelves
 - [x] Book Piles
@@ -68,9 +68,9 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 - [x] The long hanging banners
 - [x] Painting - 5m tall x 7m wide
 
-# Modular Kit Pieces
+### Modular Kit Pieces
 
-### Walls
+#### Walls
 
 - [x] Wall 10m x 10m
 - [x] Wall 2.5m wide x 5m tall
@@ -78,13 +78,13 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 - [x] Semi-circle wall thing (5m wide, 10m tall, 5m depth)
 - [x] Corner wall piece (5m wide, 5m tall, 5m depth)
 
-### Floors
+#### Floors
 
 - [x] Floor 1m wide x 1m tall x 5m depth
 - [x] Floor 2m wide x 1m tall x 5m depth
 - [x] Floor 5m wide x 1m tall x 5m depth
 
-### Other
+#### Other
 
 - [x] Long Stairs
 - [x] Wall Platform thing
