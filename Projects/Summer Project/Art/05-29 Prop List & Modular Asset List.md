@@ -5,6 +5,13 @@ In the future, our modular kit will have more pieces to allow for more customiza
 
 Below is list of each asset in order of priority. The assets at the top of the list are the most important and should be completed first. The assets at the bottom of the list are the least important and can be completed later / don't even need to be complete by the end of the week.
 
+1. Kit Piece - 10m x 10m Wall
+2. Kit Piece - 2.5m wide x 5m 
+
+----
+
+You can ignore this section of the document. This is just an UNORDERED list of all the props and modular kit pieces
+
 # Props
 
 - Circular bookshelves
