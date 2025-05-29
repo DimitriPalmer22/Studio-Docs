@@ -11,6 +11,6 @@
 - Long table
 
 - The long hanging banners
-- Painting - 500
+- Painting - 5m x 7m
 
 # Modular Kit Pieces
