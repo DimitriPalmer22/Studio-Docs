@@ -6,7 +6,9 @@ In the future, our modular kit will have more pieces to allow for more customiza
 Below is list of each asset in order of priority. The assets at the top of the list are the most important and should be completed first. The assets at the bottom of the list are the least important and can be completed later / don't even need to be complete by the end of the week.
 
 1. Kit Piece - 10m x 10m Wall
-2. Kit Piece - 2.5m wide x 5m 
+2. Kit Piece - Floor 5m wide x 1m tall x 5m depth
+3. Corner wall piece (5m wide, 5m tall, 5m depth)
+4. Semi-circle wall thing (5m wide, 10m tall, 5m depth)
 
 ----
 
@@ -14,35 +16,35 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 
 # Props
 
-- Circular bookshelves
-- Book Piles
-- Triple candle thing
-- Chandelier
-- Really tall column
-- Hanging light
-- Short table
-- Long table
-- The long hanging banners
-- Painting - 5m x 7m
+- [ ] Circular bookshelves
+- [ ] Book Piles
+- [ ] Triple candle thing
+- [ ] Chandelier
+- [ ] Really tall column
+- [ ] Hanging light
+- [ ] Short table
+- [ ] Long table
+- [ ] The long hanging banners
+- [ ] Painting - 5m x 7m
 	- The ones in engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
 
 # Modular Kit Pieces
 
 ### Walls
 
-- 10m x 10m Wall `/Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0/CubeGridToolOutput_066AA8D5.CubeGridToolOutput_066AA8D5`
-- 2.5m wide x 5m tall wall
-- 2.5m wide x 10m tall wall
-- Semi-circle wall thing (5m wide, 10m tall, 5m depth)
-- Corner wall piece (5m wide, 5m tall, 5m depth)
+- [x] Wall 10m x 10m `/Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0/CubeGridToolOutput_066AA8D5.CubeGridToolOutput_066AA8D5`
+- [ ] Wall 2.5m wide x 5m tall
+- [ ] Wall 2.5m wide x 10m tall
+- [x] Semi-circle wall thing (5m wide, 10m tall, 5m depth)
+- [x] Corner wall piece (5m wide, 5m tall, 5m depth)
 
 ### Floors
 
-- Floor 1m wide x 1m tall x 5m depth
-- Floor 2m wide x 1m tall x 5m depth
-- Floor 5m wide x 1m tall x 5m depth
+- [ ] Floor 1m wide x 1m tall x 5m depth
+- [ ] Floor 2m wide x 1m tall x 5m depth
+- [x] Floor 5m wide x 1m tall x 5m depth
 
 ### Other
 
-- Stairs
-- Wall Platform thing
+- [ ] Stairs
+- [ ] Wall Platform thing
