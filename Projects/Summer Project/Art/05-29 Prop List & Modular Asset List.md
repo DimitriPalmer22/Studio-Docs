@@ -18,7 +18,7 @@ Below is list of each asset in order of priority. The assets at the top of the l
 11. Prop - Hanging Light
 12. Prop - The long hanging banners
 13. Kit Piece - Wall Platform thing
-14. Painting - 5m tall x 7m wide
+14. Kit Piece - Painting - 5m tall x 7m wide
 
 ----
 
