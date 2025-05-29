@@ -19,6 +19,7 @@ Below is list of each asset in order of priority. The assets at the top of the l
 12. Prop - The long hanging banners
 13. Kit Piece - Wall Platform thing
 14. Kit Piece - Painting - 5m tall x 7m wide
+	1. the texture work on the paintings is going to tie into the narrative, which means some thought has to be put into what actually goes on the painting. For now, the frame is the most important part, so you can just use a placeholder texture for the painting itself.
 
 ----
 
@@ -35,8 +36,9 @@ You can ignore this section of the document. This is just an UNORDERED list of a
 - [x] Short table
 - [x] Long table
 - [x] The long hanging banners
-- [ ] Painting - 5m tall x 7m wide
+- [x] Painting - 5m tall x 7m wide
 	- The ones in engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
+	- Also,
 
 # Modular Kit Pieces
 
