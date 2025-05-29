@@ -9,9 +9,11 @@
 - Hanging light
 - Short table
 - Long table
-
 - The long hanging banners
 - Painting - 5m x 7m
 	- The ones in engine are not scaled to align with the grid, so you probably won't be able to use those to create an asset that's the appropriate scale
 
 # Modular Kit Pieces
+
+- 10m x 10m Wall `/Avernoth/Maps/TestRooms/KitSizeTests/MatthewKitSizeTest/_GENERATED/mjcr0/CubeGridToolOutput_066AA8D5.CubeGridToolOutput_066AA8D5`
+-
