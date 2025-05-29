@@ -21,10 +21,15 @@
 - 2.5m wide x 5m tall wall
 - 2.5m wide x 10m tall wall
 - Semi-circle wall thing (5m wide, 10m tall, 5m depth)
-- Corner wall piece  (5m wide, 5m tall, 5m depth)
+- Corner wall piece (5m wide, 5m tall, 5m depth)
 
 ### Floors
 
 - Floor 1m wide x 1m tall x 5m depth
 - Floor 2m wide x 1m tall x 5m depth
 - Floor 5m wide x 1m tall x 5m depth
+
+### Other
+
+- Stairs
+- Wall Platform thing
