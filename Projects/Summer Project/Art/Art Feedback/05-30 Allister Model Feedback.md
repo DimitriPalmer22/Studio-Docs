@@ -50,4 +50,4 @@ From the images you sent, I can't say too too much about the hands. When you get
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530163920.png>)
 
-This is Seifer from Final Fantasy VIII. I think his feet are a good reference for Allister's feet. I think the front of the foot should be a little more rounded, and the back of the foot should be a little more square.
+This is Seifer from Final Fantasy VIII. I think his feet are a good reference for Allister's feet. I think the shape  sizeis pretty good in these pics.
