@@ -1,13 +1,17 @@
 
 ### Allister's Hat
 
-Can you make the rim around the hat a little thinner? Also, can you make the rim of his hat a little "bendier"?
+Can you make the rim around the hat a little thinner? Also, can you make the rim of his hat a little "bendier" (the hat's rim might have to be a little bit wider to acommodate this)?
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530153103.png>)
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530153229.png>)
 
-For reference, this is Vivi from Final Fantasy IX. Here,
+For reference, this is Vivi from Final Fantasy IX. Here, the rom of the hat has a much thinner rim, and pretty much has no thickness to it. This is probably because the devs wanted to save polygons, but it still looks really good.
 
 ![](<../../../../_Meta/Attachments/Black_Waltz_2-FFIX.PNG.webp>)
-This is Black Waltz 2, also from FFIX.
+
+![](<../../../../_Meta/Attachments/Pasted image 20250530154229.png>)
+
+This is Black Waltz 2, also from FFIX. Here, we also see a thinner rim, but the bendiness of the hat adds the illusion of . The rim is also a bit more "bendy" than Allister's hat.
+
