@@ -23,4 +23,4 @@ This is Black Waltz 2, also from FFIX (You can also look up Black Waltz 1 and 3 
 
 In terms of the point of Allister's hat being too far back, I think Black Waltz #2's hat is more like the shape I want. 
 
-Allister's hart
+In the screenshot above, Allister's hat gradually sweeps back to the point, which makes the hat seem a little short when viewed at certain angles. On the other hand, Black Waltz #2's hat is much more vertical and then abrubtly juts out backwards (maybe too abrubptly). As a result, Black Waltz #'s hat seems taller
