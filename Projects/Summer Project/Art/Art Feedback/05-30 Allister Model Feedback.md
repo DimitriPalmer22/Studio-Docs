@@ -3,7 +3,7 @@
 
 - Can you make the rim around the hat a little thinner?
 - Also, can you make the rim of his hat a little "bendier" (the hat's rim might have to be a little bit wider to acommodate this)?
-- I think I want the point of the hat to go off to the side a little bit more. It's kind-of hard to see from a dead-on view, but I think it would look better if the point was more off to the side.
+- I think the point of the hat is a little too far back and could be off to the side a bit more.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530153103.png>)
 
