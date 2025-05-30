@@ -10,7 +10,7 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530153229.png>)
 
-For reference, this is Vivi from Final Fantasy IX. Here, the rim of the hat has a much thinner rim, and pretty much has no thickness to it. This is probably because the devs wanted to save polygons, but it still looks really good.
+For reference, this is Vivi from Final Fantasy IX. Here, the rim of the hat has a much thinner rim, and pretty much has no thickness to it. This is probably because the devs wanted to save polygons, but it still looks really good and is honestly more like what I want for Allister.
 
 ![](<../../../../_Meta/Attachments/Black_Waltz_2-FFIX.PNG.webp>)
 
