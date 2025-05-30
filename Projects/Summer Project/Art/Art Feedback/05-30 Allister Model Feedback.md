@@ -20,6 +20,8 @@ This is Black Waltz #2, also from FFIX (You can also look up Black Waltz #1 and 
 
 > Note: It's a little hard to find images / an actual model of Black Waltz #2 online. So, I'll just drop this video of the character in action here: <https://www.youtube.com/watch?v=4nlDVBhxApc>
 
+Also, Vivi in the above image is another example of the hat's rim being thinner and more bendy. The rim of the hat is also a little wider compared to his body, which gives it a more "wizard-y" look
+
 ![](<../../../../_Meta/Attachments/Pasted image 20250530160530.png>)
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530160546.png>)
