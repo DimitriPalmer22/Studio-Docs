@@ -9,10 +9,10 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530153229.png>)
 
-For reference, this is Vivi from Final Fantasy IX. Here, the rom of the hat has a much thinner rim, and pretty much has no thickness to it. This is probably because the devs wanted to save polygons, but it still looks really good.
+For reference, this is Vivi from Final Fantasy IX. Here, the rim of the hat has a much thinner rim, and pretty much has no thickness to it. This is probably because the devs wanted to save polygons, but it still looks really good.
 
 ![](<../../../../_Meta/Attachments/Black_Waltz_2-FFIX.PNG.webp>)
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530154229.png>)
 
-This is Black Waltz 2, also from FFIX. Here, we also see a thinner rim, but the bendiness of the hat adds the illusion of thickness to it. This hat is actually really wide and almost extends past the character's really wide shoulders. I'm thinking Allister's hat should be similar in that regard.
+This is Black Waltz 2, also from FFIX (You can also look up Black Waltz 1 and 3 for more references). Here, we also see a thinner rim, but the bendiness of the hat adds the illusion of thickness to it. This hat is actually really wide and almost extends past the character's really wide shoulders. I'm thinking Allister's hat should be similar in that regard.
