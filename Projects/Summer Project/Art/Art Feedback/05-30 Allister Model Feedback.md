@@ -13,5 +13,4 @@ For reference, this is Vivi from Final Fantasy IX. Here, the rom of the hat has 
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530154229.png>)
 
-This is Black Waltz 2, also from FFIX. Here, we also see a thinner rim, but the bendiness of the hat adds the illusion of . The rim is also a bit more "bendy" than Allister's hat.
-
+This is Black Waltz 2, also from FFIX. Here, we also see a thinner rim, but the bendiness of the hat adds the illusion of thickness to it. This hat is actually really wide and almost extends past the character's really wide shoulders. I'm thinking Allister's hat should be similar in that regard.
