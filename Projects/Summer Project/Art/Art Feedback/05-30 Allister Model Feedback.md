@@ -21,6 +21,10 @@ This is Black Waltz 2, also from FFIX (You can also look up Black Waltz 1 and 3 
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530160546.png>)
 
-In terms of the point of Allister's hat being too far back, I think Black Waltz #2's hat is more like the shape I want. 
+In terms of the point of Allister's hat being too far back, I think Black Waltz #2's hat is more like the shape I want.
 
-In the screenshot above, Allister's hat gradually sweeps back to the point, which makes the hat seem a little short when viewed at certain angles. On the other hand, Black Waltz #2's hat is much more vertical and then abrubtly juts out backwards (maybe too abrubptly). As a result, Black Waltz #'s hat seems taller
+In the screenshot above, Allister's hat gradually sweeps back to the point, which makes the hat seem a little short when viewed at certain angles. On the other hand, Black Waltz #2's hat is much more vertical and then abrubtly juts out backwards (maybe too abrubptly). As a result, Black Waltz #'s hat seems taller and doesn't go out backwards as far as Allister's hat does, which makes it look more like a pointy wizard hat.
+
+### The Hands
+
+From the images you sent, I can't say too too much about the hands. When you get a chance, can you send an image of those from a top-down view so I can see how exactly its set up? I just wanna see if all 4 fingers are connected together and the thumb is separate ()
