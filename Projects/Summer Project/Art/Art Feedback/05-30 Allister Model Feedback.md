@@ -18,6 +18,8 @@ For reference, this is Vivi from Final Fantasy IX. Here, the rim of the hat has 
 
 This is Black Waltz 2, also from FFIX (You can also look up Black Waltz 1 and 3 for more references). Here, we also see a thinner rim, but the bendiness of the hat adds the illusion of thickness to it. This hat is actually really wide and almost extends past the character's really wide shoulders. I'm thinking Allister's hat should be similar in that regard.
 
+> Note: It'
+
 ![](<../../../../_Meta/Attachments/Pasted image 20250530160530.png>)
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530160546.png>)
@@ -27,6 +29,10 @@ In terms of the point of Allister's hat being too far back, I think Black Waltz 
 In the screenshot above, Allister's hat gradually sweeps back to the point, which makes the hat seem a little short when viewed at certain angles. On the other hand, Black Waltz #2's hat is much more vertical and then abrubtly juts out backwards (maybe too abrubptly). As a result, Black Waltz #'s hat seems taller and doesn't go out backwards as far as Allister's hat does, which makes it look more like a pointy wizard hat.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250530161245.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250530161302.png>)
+
+I think the string holding the hanging accessory is a little too long right now and doesn't exactly match the concept art.
 
 ### The Hands
 
