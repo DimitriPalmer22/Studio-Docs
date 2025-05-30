@@ -40,3 +40,14 @@ I think the string holding the hanging accessory is a little too long right now 
 
 From the images you sent, I can't say too too much about the hands. When you get a chance, can you send an image of those from a top-down view so I can see how exactly its set up? I just wanna see if all 4 fingers are connected together and the thumb is separate (like a lot of PS1 character models)
 
+### The Feet
+
+![](<../../../../_Meta/Attachments/Pasted image 20250530163829.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250530163848.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250530163903.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250530163920.png>)
+
+This is Seifer from Final Fantasy VIII. I think his feet are a good reference for Allister's feet. I think the front of the foot should be a little more rounded, and the back of the foot should be a little more square.
