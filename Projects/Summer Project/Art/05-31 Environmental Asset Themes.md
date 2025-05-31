@@ -28,4 +28,4 @@ I was also playing around with the lighting, dithering / pixelation shader, and 
 
 ### My Takeaways
 
-- With the room
+- With the rooms being so large, 
