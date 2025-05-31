@@ -59,3 +59,11 @@ There's also the possibility of having too much wood in one area. If some of the
 ### The References
 
 ![](<../../../_Meta/Attachments/Pasted image 20250531070334.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250531070352.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250531070404.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250531070416.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250531070426.png>)
