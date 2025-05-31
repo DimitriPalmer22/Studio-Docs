@@ -34,4 +34,4 @@ I did all this on a private branch and didn't push it. If you want me to push it
 
 - With the rooms being so large, we'll likely run into issues where large portions of the room have the same texture repeating over and over again (kinda like in the image above).
 	- If we're going to be using gray brick for the walls and floors, this is going to be an even bigger issue since gray is just so ugly and bland.
-	- One of the biggest things that makes the is
+	- One of the biggest things that makes the issue so apparent in the image above is the fact that the texture is tiling A LOT.
