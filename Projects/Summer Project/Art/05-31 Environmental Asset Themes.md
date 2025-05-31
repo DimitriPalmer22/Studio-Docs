@@ -4,7 +4,6 @@ I was also playing around with the lighting, dithering / pixelation shader, and 
 
 I did all this on a private branch and didn't push it. If you want me to push it so you guys can look around for yourselves, let me know.
 
-
 ![](<../../../_Meta/Attachments/Pasted image 20250531054050.png>)
 
 > Medium Lighting, Fog on, Dithering + Pixelation Shader on
@@ -33,4 +32,6 @@ I did all this on a private branch and didn't push it. If you want me to push it
 
 ![](<../../../_Meta/Attachments/Pasted image 20250531060607.png>)
 
-- With the rooms being so large, we'll likely run into issues where large portions of the room have the same texture repeating over and over again (kinda like in the image above). 
+- With the rooms being so large, we'll likely run into issues where large portions of the room have the same texture repeating over and over again (kinda like in the image above).
+	- If we're going to be using gray brick for the walls and floors, this is going to be an even bigger issue since gray is just so ugly and bland.
+	- One of the biggest things that makes the is
