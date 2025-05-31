@@ -56,4 +56,4 @@ There's also the possibility of having too much wood in one area. If some of the
 
 ### The References
 
-I added a couple images to the Miro board that have a little bit more wood in them.
+I added a couple images to the Miro board that show stone interiors with strong wooden accents.
