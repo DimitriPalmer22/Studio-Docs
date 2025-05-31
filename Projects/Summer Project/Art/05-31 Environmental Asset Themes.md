@@ -4,6 +4,8 @@ I was also playing around with the lighting, dithering / pixelation shader, and 
 
 I did all this on a private branch and didn't push it. If you want me to push it so you guys can look around for yourselves, let me know.
 
+FULL DISCLAIMER: I don't think this looks that good, but it just represents the idea of what we can do for the assets for right now.
+
 ![](<../../../_Meta/Attachments/Pasted image 20250531054050.png>)
 
 > Medium Lighting, Fog on, Dithering + Pixelation Shader on
