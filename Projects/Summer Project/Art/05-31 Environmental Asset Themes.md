@@ -1,6 +1,6 @@
 So, I played around in-engine and tried to find something that could work roughly for the environmental assets. I placed some temporary materials on the assets just to see what would work and what wouldn't.
 
-I was also playing around with the lighting, dithering / pixelation shader, and the fog to get a better idea of what the game would look like in a more finished state.
+I was also playing around with the lighting, dithering / pixelation shader, and the fog to get a better idea of what the game would look like in a more finished state. Also, I turned off the outline shader since it doesn't really fit the aesthetic we're going for (it was also clashing really bad with the fog)
 
 I did all this on a private branch and didn't push it. If you want me to push it so you guys can look around for yourselves, let me know.
 
@@ -25,6 +25,10 @@ I did all this on a private branch and didn't push it. If you want me to push it
 > High Global Illumination, Fog off, Dithering + Pixelation Shader off
 
 ![](<../../../_Meta/Attachments/Pasted image 20250531054724.png>)
+
+> High Global Illumination, Fog on, Dithering + Pixelation Shader on
+
+![](<../../../_Meta/Attachments/Pasted image 20250531061818.png>)
 
 > High Global Illumination, Fog on, Dithering + Pixelation Shader on
 
