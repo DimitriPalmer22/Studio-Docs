@@ -48,22 +48,10 @@ FULL DISCLAIMER: I don't think this looks that good, but it just represents the 
 
 Honestly, after playing around in-engine with a couple different sets of materials, I figured that having too much stone would make the levels seem too dungeon like or castle-like. The stone base is fine, but we should probably break a lot of the stone portions up with wood.
 
-As we get further into development, we can get more pieces in the kit to add small details and break up the monotony of the textures. But for now, I think we should focus on getting a good base down that looks good enough to play with.
-
-**For these reasons, I think we should go for something with a lot of wood framing + a stone base instead of primarily using brick & adding wooden accents** (My bad, I know I said before we'd do the brick + wood accemts, but I thought about it some more and changed my mind)
+As we get further into development, we can get more pieces in the kit to add small details and break up the monotony of the textures / better achieve the look that we're going for. But for now, I think we should focus on getting a good base down that looks good enough to play with.
 
 ![](<../../../_Meta/Attachments/Pasted image 20250531065830.png>)
 
 There's also the possibility of having too much wood in one area. If some of the props are made of wood and too many of them are in one area, then that could clash with the wood in the environmental assets as well.
 
 ### The References
-
-![](<../../../_Meta/Attachments/Pasted image 20250531070334.png>)
-
-![](<../../../_Meta/Attachments/Pasted image 20250531070352.png>)
-
-![](<../../../_Meta/Attachments/Pasted image 20250531070404.png>)
-
-![](<../../../_Meta/Attachments/Pasted image 20250531070416.png>)
-
-![](<../../../_Meta/Attachments/Pasted image 20250531070426.png>)
