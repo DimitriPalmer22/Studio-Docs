@@ -44,6 +44,6 @@ I did all this on a private branch and didn't push it. If you want me to push it
 
 - If I increase the size of the texture, the wall seems a little bit less like a sea of gray (the issue is still there though).
 
-Honestly, after playing around in-engine with a couple different sets of materials, I figured that having too much stone would make the levels seem too dungeon like or castle-like. The stone base is fine, but we should probably break a lot of 
+Honestly, after playing around in-engine with a couple different sets of materials, I figured that having too much stone would make the levels seem too dungeon like or castle-like. The stone base is fine, but we should probably break a lot of the stone portions up with wood.
 
 For these reasons, I think we should go for something with a lot of wood framing + a stone base.
