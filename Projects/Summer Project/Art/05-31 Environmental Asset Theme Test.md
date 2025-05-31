@@ -46,7 +46,7 @@ FULL DISCLAIMER: I don't think this looks that good, but it just represents the 
 
 - If I increase the size of the texture and make it tile less, the wall seems a little bit less like a sea of gray (the issue is still there though).
 
-Honestly, after playing around in-engine with a couple different sets of materials, I figured that having too much stone would make the levels seem too dungeon like or castle-like. The stone base is fine, but we should probably break a lot of the stone portions up with wood.
+Honestly, after playing around in-engine with a couple different sets of materials, I figured that having too much stone would make the levels seem too dungeon like or castle-like. The stone base is fine, but we should probably break a lot of the stone portions up with wood. If we're doing wooden within the levels, then it might need to be a little more than just accents
 
 As we get further into development, we can get more pieces in the kit to add small details and break up the monotony of the textures / better achieve the look that we're going for. But for now, I think we should focus on getting a good base down that looks good enough to play with.
 
