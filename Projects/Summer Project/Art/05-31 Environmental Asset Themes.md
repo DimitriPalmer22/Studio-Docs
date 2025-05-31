@@ -38,5 +38,4 @@ I did all this on a private branch and didn't push it. If you want me to push it
 
 ![](<../../../_Meta/Attachments/Pasted image 20250531061204.png>)
 
-- If I increase the size of the texture, the wall seems a little bit less like a sea of gray, but it still has the same issue of being a sea of gray.
-	
+- If I increase the size of the texture, the wall seems a little bit less like a sea of gray (the issue is still there though).
