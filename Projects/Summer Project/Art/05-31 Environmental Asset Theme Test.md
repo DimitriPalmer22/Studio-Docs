@@ -55,3 +55,5 @@ As we get further into development, we can get more pieces in the kit to add sma
 There's also the possibility of having too much wood in one area. If some of the props are made of wood and too many of them are in one area, then that could clash with the wood in the environmental assets as well.
 
 ### The References
+
+![](<../../../_Meta/Attachments/81iK-obJ5OL.jpg>)
