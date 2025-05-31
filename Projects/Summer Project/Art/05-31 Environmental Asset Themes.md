@@ -50,4 +50,4 @@ Honestly, after playing around in-engine with a couple different sets of materia
 
 As we get further into development, we can get more pieces in the kit to add small details and break up the monotony of the textures. But for now, I think we should focus on getting a good base down that looks good enough to play with.
 
-For these reasons, I think we should go for something with a lot of wood framing + a stone base.
+*For these reasons, I think we should go for something with a lot of wood framing + a stone base instead of primarily using brick & adding wooden accents*
