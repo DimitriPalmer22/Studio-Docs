@@ -1,4 +1,7 @@
-# More Allister 3D Model Notes
+
+### Feet
+
+I think the feet look better. I wanna see them from diagonal and side angles just to make sure I feel good about them from all angles.
 
 ### Shirt
 
