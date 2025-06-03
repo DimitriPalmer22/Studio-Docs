@@ -1,11 +1,17 @@
+The level showcasing Mikel's kit and the dem
 
+# Level Designers
+
+
+
+# Environmental Artists
 ### Pivots
 
 Making sure the pieces are pivoted properly and consistently is gonna save the LDs a lot of headache in the long run. So, I'm writing this just to make sure things are easier for them
 
 I think most of the pieces are properly pivoted in-engine, but I'm not sure if that'll carry over once they're exported.
 
-Also, quick note: when you guys are giving the pieces back to us, please make sure each piece is placed at 
+Also, quick note: when you guys are giving the pieces back to us, please make sure each piece is placed at (0, 0, 0) so that we don't have any weird issues with pieces moving once we replace the models.
 
 #### Floors
 
