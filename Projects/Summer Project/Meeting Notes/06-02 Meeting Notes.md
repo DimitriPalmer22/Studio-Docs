@@ -10,13 +10,13 @@ GOALS
 ### Show Off the Game So Far
 
 - Start off in the "starting room"
-    - Intro Dialogue
-    - Walk over to the thing to get more dialogue
-    - Get given a tome
+	- Intro Dialogue
+	- Walk over to the thing to get more dialogue
+	- Get given a tome
 - Exit the first room & get loaded into the next one
 - Kill all the enemies to clear the room
 - Spawn another dialogue interaction
-    - Speak to Finish the room.
+	- Speak to Finish the room.
 - Leave & repeat
 
 ### Department Meetings
