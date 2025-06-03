@@ -6,7 +6,9 @@ Most of Mikel's game-ready assets should be located in `/All/Game/Avernoth/Maps/
 
 # Level Designers
 
+If you look around the blockout Mikel made in this map, you'll see how each asset is supposed to be used and how they fit together.
 
+Quick note: if you look at the bookshelves, you'll notice that some of them are misplaced / have z-fighting. This is because of a small oopsie I made when repivoting the bookshelves. The bookshelves work just fine though.
 
 # Environmental Artists
 ### Pivots
