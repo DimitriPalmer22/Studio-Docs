@@ -11,3 +11,14 @@ Some of Mikel's static mesh files are rotated improperly and need be properly ro
 - Rail_25x125 is supposed to be sideways
 
 This isn't a comprehensive list. These are just some of the ones I've noticed.
+
+#### Pivots
+
+#### Floors
+
+#### Walls
+
+#### Other Pieces
+
+##### Columns
+The pivots of the columns should be at the back bottom middle (in the bottom middle of the flat )
