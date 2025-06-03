@@ -30,6 +30,14 @@ The pivot of the corner pieces should be the bottom back corner of the piece (th
 
 ![](<../../../_Meta/Attachments/Pasted image 20250603183036.png>)
 
+##### Archways
+
+The pivots for the archway pieces should be the bottom front middle of the piece (at the front in the middle of the archway's gap).
+
+Also, small note about the archways. I could be crazy, but I don't think the left and right legs of the archway are the same width.
+
+![](<../../../_Meta/Attachments/Pasted image 20250603183152.png>)
+
 ### Note About the Rotation of Some Assets
 
 If you notice that any of the pieces are strangely rotated (like a wall is laying flat on the ground or a floor is standing up), let us know. That might have been a mistake
