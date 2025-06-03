@@ -9,12 +9,22 @@ I think most of the pieces are properly pivoted in-engine, but I'm not sure if t
 
 The pivots of the floor pieces should be placed at the top back right corner of each piece.
 
+![](<../../../_Meta/Attachments/Pasted image 20250603182722.png>)
+
 #### Walls
+
+The pivots of the wall pieces should be the bottom front right corner of the piece. This way, the floors and walls should line up very nicely (should the LDs choose to make the floors align with the walls)
+
+![](<../../../_Meta/Attachments/Pasted image 20250603182827.png>)
 
 #### Other Pieces
 
 ##### Columns
 The pivots of the columns should be at the back bottom middle (in the bottom middle of the flat side of the column)
+
+![](<../../../_Meta/Attachments/Pasted image 20250603182905.png>)
+
+##### Corner Pieces
 
 ### Note About the Rotation of Some Assets
 
