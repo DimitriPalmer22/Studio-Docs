@@ -49,9 +49,9 @@ Also, by the time this meeting happens, I would have hopefully dragged Alecks’
 
 ### Changes To How We Share Work
 
-- Now we have #finished-work!!! This channel’s for sharing work that has been approved and doesn’t need any more feedback
+- Now we have `#finished-work`!!! This channel’s for sharing work that has been approved and doesn’t need any more feedback
 
-- Department channels like #team-designer are used for sharing work and getting feedback from leads / people in your department.
+- Department channels like `#team-designer` are used for sharing work and getting feedback from leads / people in your department.
 
 - Individual threads are for giving status updates on where exactly your work is at.
 
