@@ -1,8 +1,8 @@
-### Level Designers
+# Level Designers
 
-### Environmental Artists
+# Environmental Artists
 
-#### Note About the Rotation of Some Assets
+### Note About the Rotation of Some Assets
 
 Some of Mikel's static mesh files are rotated improperly and need be properly rotated before giving them back to the designers. In particular
 - Corner_200w_1000h_200d and Corner_500w_1000h_500d need to be upright
@@ -12,7 +12,9 @@ Some of Mikel's static mesh files are rotated improperly and need be properly ro
 
 This isn't a comprehensive list. These are just some of the ones I've noticed.
 
-#### Pivots
+### Pivots
+
+Making sure the pieces are pivoted properly and consistently is gonna save the LDs a lot of headache in the long run. So, I'm writing this just to make sure things are easier for them
 
 #### Floors
 
@@ -21,4 +23,4 @@ This isn't a comprehensive list. These are just some of the ones I've noticed.
 #### Other Pieces
 
 ##### Columns
-The pivots of the columns should be at the back bottom middle (in the bottom middle of the flat )
+The pivots of the columns should be at the back bottom middle (in the bottom middle of the flat side of the column)
