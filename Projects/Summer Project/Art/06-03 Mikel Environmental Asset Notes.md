@@ -1,4 +1,8 @@
-The level showcasing Mikel's kit and the dem
+The level showcasing Mikel's kit and the demo he made for it is called `MikelBlockout1`. It is located in `/All/Game/Avernoth/Maps/TestRooms/KitSizeTests/MikelBlockout`
+
+All of the assets can be found in this showcase level. If you want to see where in the project files an asset is located, just click on it and press `ctrl + b` to open it up in the content browser.
+
+Most of Mikel's game-ready assets should be located in `/All/Game/Avernoth/Maps/TestRooms/KitSizeTests/MikelBlockout/_GENERATED/Kit`
 
 # Level Designers
 
