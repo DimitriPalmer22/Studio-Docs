@@ -5,6 +5,8 @@ Making sure the pieces are pivoted properly and consistently is gonna save the L
 
 I think most of the pieces are properly pivoted in-engine, but I'm not sure if that'll carry over once they're exported.
 
+Also, quick note: when you guys are giving the pieces back to us, please make sure each piece is placed at 
+
 #### Floors
 
 The pivots of the floor pieces should be placed at the top back right corner of each piece.
