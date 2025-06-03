@@ -26,6 +26,10 @@ The pivots of the columns should be at the back bottom middle (in the bottom mid
 
 ##### Corner Pieces
 
+The pivot of the corner pieces should be the bottom back corner of the piece (the bottom corner that is furthest from the hypotenuse of the triangle).
+
+![](<../../../_Meta/Attachments/Pasted image 20250603183036.png>)
+
 ### Note About the Rotation of Some Assets
 
 If you notice that any of the pieces are strangely rotated (like a wall is laying flat on the ground or a floor is standing up), let us know. That might have been a mistake
