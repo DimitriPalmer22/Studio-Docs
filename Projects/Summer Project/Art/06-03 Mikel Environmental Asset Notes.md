@@ -41,3 +41,9 @@ Also, small note about the archways. I could be crazy, but I don't think the lef
 ### Note About the Rotation of Some Assets
 
 If you notice that any of the pieces are strangely rotated (like a wall is laying flat on the ground or a floor is standing up), let us know. That might have been a mistake
+
+### Note about the Scale of Some Assets
+
+I believe all of the assets are scaled properly. Some even have their dimensions in their names.
+
+BUT, if you notice that an asset's name doesn't match it's dimensions, let us know. There may have been a mistake when making the static mesh in-engine.
