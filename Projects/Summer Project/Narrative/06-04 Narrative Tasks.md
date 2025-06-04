@@ -27,3 +27,5 @@ If we do it like this, then I think it would make sense to have this interaction
 ### A Note about Implementing In-Engine
 
 On one of my own branches, I am completely reworking the dialogue, so DONT DO ANY DIALOGUE STUFF IN-ENGINE YET. The work you do will probably be erased.
+
+I am converting the blueprints I used for the dialogue system to C++ (because I absolutely can't stand blueprinting), so it's under construction for rn.
