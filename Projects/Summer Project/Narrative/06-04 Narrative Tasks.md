@@ -16,6 +16,7 @@ Not only this, but any mention of Tarun in the dialogue would need to be checked
 I think an easier way to write the dialogue would be to have some type of forced interaction during the first run where it is conveyed that all of Allister's allies can speak to him. This way, the dialogue can be written more freely and implemented more easily.
 - Idea 1: Magnus just tells Allister "hey, all of these guys (list of allies) can talk to you too"
 - Idea 2: A group interaction where everyone introduces themselves to Allister in a single dialogue interaction.
+
 If we do it like this, then I think it would make sense to have this interaction after completing a room.
 
 *Which one do you like better?*
