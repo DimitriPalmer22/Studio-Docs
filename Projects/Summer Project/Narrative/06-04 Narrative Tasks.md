@@ -28,4 +28,4 @@ If we do it like this, then I think it would make sense to have this interaction
 
 On one of my own branches, I am completely reworking the dialogue, so DONT DO ANY DIALOGUE STUFF IN-ENGINE YET. The work you do will probably be erased.
 
-I am converting the blueprints I used for the dialogue system to C++ (because I absolutely can't stand blueprinting), so it's under construction for rn. I've already redone all of the work you've done with the new system, so no work has bee
+I am converting the blueprints I used for the dialogue system to C++ (because I absolutely can't stand blueprinting), so it's under construction for rn. I've already transferred over all of the work you've done thus far to the new system, so no work has been lost.
