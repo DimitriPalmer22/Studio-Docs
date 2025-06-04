@@ -1,11 +1,9 @@
 
 ### The Task
 
-2 Dialogue Interactions for this week:
+2 Dialogue Interactions for this week due by Sunday:
 - written out first for feedback
 - once approved, they should be implemented in-engine
-
-Due Sunday.
 
 ### The Dialogue
 
