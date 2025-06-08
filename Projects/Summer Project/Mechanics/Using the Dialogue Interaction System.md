@@ -83,7 +83,7 @@ Dialogue characters are stored as assets, so you only have to create one for eac
 
 1. In the content drawer, navigate to the `Avernoth/Narrative/DialogueCharacters` folder. All of the dialogue characters should be in this folder
 2. Right click and search up "Data Asset"
-3. In the data asset creation window, search for `DIS_Character`. `PDA_DIS_Character` should come up. Click it
+3. In the data asset creation window, search for `DIS_Character`. `BP_PDA_DIS_Character` should come up. Click it
 4. Name the new asset with the following format: `DIS_Character_CharacterName`
 5. Open the new data asset
 6. Set the attributes of the Dialogue Character
