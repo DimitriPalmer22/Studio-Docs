@@ -106,12 +106,17 @@ You can create new custom boolean flags by following these steps:
 	- Make sure the name starts with `Narrative.Flags.`
 	- Make sure the "Source" file is `DefaultGameplayTags.ini`
 
-### Add it to the Character's Collection of Dialogue
+### [!] Add an Interaction to the Character's Collection of Dialogue
 
 This is a new step that was added to make it easier to apply true or false flags to multiple dialogue interactions at once without having to open each interaction individually.
 
-1. Navigate to the `/All/Game/Avernoth/Narrative/InteractionCollections` folder. Here, 
-2. 
+1. Navigate to the `/All/Game/Avernoth/Narrative/InteractionCollections` folder. Here, you'll find the "interaction collections" for each character.
+2. Open the interaction collection for the character you want to add the interaction to. For example, if you want to add an interaction to Magnus, open `DIS_Collection_Magnus`.
+3. In the "Dialogue Interactions" section, click the `+` button to add a new interaction. In the empty slot, select the interaction you just created from the dropdown list.
+
+#### Creating a New Interaction Collection
+
+If you want to create a new interaction collection for a character that doesn't have one yet, follow these steps:
 
 
 # Testing out the Dialogue
