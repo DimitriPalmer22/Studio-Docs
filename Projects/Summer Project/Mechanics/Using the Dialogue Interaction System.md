@@ -119,8 +119,8 @@ This is a new step that was added to make it easier to apply true or false flags
 If you want to create a new interaction collection for a character that doesn't have one yet, follow these steps:
 
 1. In the same `InteractionCollections` folder, right-click and search for "Data Asset".
-2. In the data asset creation window, search for `DIS Interaction Collection`. `PDA_DIS_InteractionCollection` should come up. Click it.
-3. 
+2. In the data asset creation window, search for `DIS Interaction Collection`. `PDA_DIS_InteractionCollection` should come up. Select it.
+3. Name the new asset with the following format: `DIS_Collection_CharacterName`
 
 # Testing out the Dialogue
 
