@@ -106,6 +106,14 @@ You can create new custom boolean flags by following these steps:
 	- Make sure the name starts with `Narrative.Flags.`
 	- Make sure the "Source" file is `DefaultGameplayTags.ini`
 
+### Add it to the Character's Collection of Dialogue
+
+This is a new step that was added to make it easier to apply true or false flags to multiple dialogue interactions at once without having to open each interaction individually.
+
+1. Navigate to the `/All/Game/Avernoth/Narrative/InteractionCollections` folder. Here, 
+2. 
+
+
 # Testing out the Dialogue
 
 Open up the map titled `DialogueInteraction_Demo`. You can either search for it or go to `Avernoth/Maps/DemoMaps` and find it there.
