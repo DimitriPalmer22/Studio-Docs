@@ -8,3 +8,11 @@ At the time of writing this, I probably haven't even pushed the C++ commit yet. 
 1. Open Unreal
 2. Open the project
 3. Go to Edit > Editor Preferences
+4. Look up "Force Compilation at Startup"
+	1. This makes it so that every time you open the project and there has been a change to the C++ code, Unreal will recompile the code automatically. This is super useful for us since we will be making changes to the code frequently.
+5. Enable it
+6. Close Unreal
+
+# Step 1
+
+From this step onward,  if you have pu
