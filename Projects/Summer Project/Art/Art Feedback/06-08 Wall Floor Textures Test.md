@@ -8,6 +8,8 @@
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222749.png>)
 
+![](<../../../../_Meta/Attachments/Pasted image 20250608222807.png>)
+
 Test lighting + placeholder wood texture + brick wall & floor textures.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222017.png>)
