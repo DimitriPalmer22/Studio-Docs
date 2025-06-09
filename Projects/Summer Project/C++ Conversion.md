@@ -19,5 +19,6 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 
 1. On your computer, open the "Visual Studio Installer"
 	1. You may already have it installed. If not, you can download it from <https://visualstudio.microsoft.com/downloads/> (Download the *purple* one, NOT the blue one)
+2. 
 
 If the C++ commit has not been pushed by the time you are reading this and you want to test if the project works, close
