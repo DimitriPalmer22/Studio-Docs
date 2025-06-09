@@ -5,7 +5,7 @@ The tutorial is based off of this video, so you should watch it and follow along
 # Step 0: BEFORE Pulling the C++ Commit
 At the time of writing this, I probably haven't even pushed the C++ commit yet. But, before you pull (while you can still open the project), do this first.
 
-If you pull the C++ 
+If you pulled the C++ commit before doing this, I'm sure you'll be fine. If the project doesn't open, you'll just have to do this step at the end.
 
 1. Open Unreal
 2. Open the project
