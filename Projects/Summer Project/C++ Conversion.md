@@ -1,1 +1,1 @@
-I've been working on a separate branch to convert the project to C++, and now I 
+I've been working on a separate branch to convert the project to C++, and now I'm ready to merge it into main. The thing is, not everyone's computer is set up to work with a C++ project.
