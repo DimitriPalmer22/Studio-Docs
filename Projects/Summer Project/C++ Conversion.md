@@ -42,14 +42,13 @@ Make sure your visual studio is done installing before you do this step.
 
 1. In your file explorer, navigate to where the project is located
 2. Right click on the `.uproject` file
-3. Click "Generate Visual Studio Project Files". Be a little patient, it might seem like your computer isn't doing anything for ![](<../../_Meta/Attachments/Pasted image 20250609172024.png>)
+3. Click "Generate Visual Studio Project Files". Be a little patient, it might seem like your computer isn't doing anything for a sec. ![](<../../_Meta/Attachments/Pasted image 20250609172024.png>)
 4. If it fails to generate it will tell you with an error message. Try again a couple times. If it STILL doesn't work… ah man
 5. If it does work, then the project
 
-# Step 4: Open the Project 
+# Step 4: Open the Project
 
-1. Once
-
----
-
-If the C++ commit has not been pushed by the time you are reading this and you want to test if the project works, close
+1. Once the files are done generating, the project *should* be compiled properly
+2. Open the `.uproject` file or open up the game from the Epic Games Launcher
+3. it *should* work
+4. If not, dm me
