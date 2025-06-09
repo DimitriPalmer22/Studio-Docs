@@ -1,4 +1,4 @@
-I didn't realize these pictures were so dark. 
+I didn't realize these pictures were so dark. The next time I take pics like this, the environment will be a little brighter.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250608221736.png>)
 
