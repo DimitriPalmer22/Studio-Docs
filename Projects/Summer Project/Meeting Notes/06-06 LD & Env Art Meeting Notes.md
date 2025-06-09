@@ -20,8 +20,9 @@
 ![](<../../../_Meta/Attachments/Pasted image 20250606154427.png>)
 
 ### Aiden's Level
-- The archways along the wall would look better if the room wasn't as boxy
+- If the shape of the room was more interesting and less boxy, then the archways along the wall would look better
 - The archways in the floor don't really serve a purpose here
+	- Just because there are so many, they might make gameplay a little weird
 - The gazebo is a little weird
 	- Maybe make it a cage and raise it above the level
 	- Having the player be able to walk inside it is weird
