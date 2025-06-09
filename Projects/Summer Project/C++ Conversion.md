@@ -21,7 +21,9 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 	1. You may already have it installed. If not, you can download it from <https://visualstudio.microsoft.com/downloads/> (Download the *purple* one, NOT the blue one)
 2. If you already have Visual Studio 2022 installed, you'll see a screen like this: ![](<../../_Meta/Attachments/Pasted image 20250609160450.png>)
 	1. Click modify if you already have it installed
-3. If you don't have it installed, 
+3. If you don't have it installed, or if you clicked "modify", you should see a screen like this: ![](<../../_Meta/Attachments/Pasted image 20250609160723.png>)
+4. Here, we need to make sure all the correct components are installed.
+	1. 
 
 ---
 
