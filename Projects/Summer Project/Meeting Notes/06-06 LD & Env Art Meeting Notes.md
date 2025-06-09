@@ -23,14 +23,16 @@
 - If the shape of the room was more interesting and less boxy, then the archways along the wall would look better
 - The archways in the floor don't really serve a purpose here
 	- Just because there are so many, they might make gameplay a little weird
-- The gazebo is a little weird
+- The gazebo is a little weird for gameplay as well
 	- Maybe make it a cage and raise it above the level
-	- Having the player be able to walk inside it is weird
+		- If it were a cage, WHY would a cage be in Avernoth?
+	- Having the player be able to walk inside it is weird for gameplay. It messes with the camera, the player can collide with the pillars, enemy AI might get messed up, etc.
 
-### LD Ideas that Were Brought up
-- broken/fractured spaces in the walls/roof as the player descends further
-- the placement of stairs and doors can also get more illogical as u go to reflect the mage's paranoia
+### LD Ideas that Were Brought up in General
+- broken/fractured spaces in the walls/roof as the player descends further to reflect the mage's mental state as he was creating Avernoth
+- the placement of stairs and doors can also get more illogical as the game goes on to reflect the mage's paranoia
 - Leo brought up having some walls poking out to add detail. This would only be for smaller walls
+	- Idk if I like this idea
 
 ### Lighting
 
