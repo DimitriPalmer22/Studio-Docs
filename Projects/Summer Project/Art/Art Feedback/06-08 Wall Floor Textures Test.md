@@ -12,6 +12,8 @@
 
 Test lighting + placeholder wood texture + brick wall & floor textures.
 
+> Note: The walls with the really really small bricks are still using the placeholder
+
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222017.png>)
 
 Brick wall texture w/ 1x scale
