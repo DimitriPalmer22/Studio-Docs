@@ -15,4 +15,8 @@ At the time of writing this, I probably haven't even pushed the C++ commit yet. 
 
 # Step 1
 
-From this step onward,  if you have pu
+From this step onward, you don't need to have pulled the C++ commit, but the only way to test if really works is by opening a version of the project with C++.
+
+1. On yo
+
+If the C++ commit has not been pushed by the time you are reading this and you want to test if the project works, close
