@@ -38,7 +38,17 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 
 # Step 3: Generate Visual Studio Project Files
 
+Make sure your visual studio is done installing before you do this step.
+
 1. In your file explorer, navigate to where the project is located
+2. Right click on the `.uproject` file
+3. Click "Generate Visual Studio Project Files". Be a little patient, it might seem like your computer isn't doing anything for ![](<../../_Meta/Attachments/Pasted image 20250609172024.png>)
+4. If it fails to generate it will tell you with an error message. Try again a couple times. If it STILL doesn't work… ah man
+5. If it does work, then the project
+
+# Step 4: Open the Project 
+
+1. Once
 
 ---
 
