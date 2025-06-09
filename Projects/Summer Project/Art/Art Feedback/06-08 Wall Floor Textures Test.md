@@ -4,4 +4,12 @@ Test lighting + placeholder wood texture + brick wall & floor textures.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222017.png>)
 
+Brick wall texture w/ 1x scale
+
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222051.png>)
+
+Brick wall w/ 4x Scale
+
+![](<../../../../_Meta/Attachments/Pasted image 20250608222108.png>)
+
+Brick wall w/ 8x Scale
