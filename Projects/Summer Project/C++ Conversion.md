@@ -28,7 +28,12 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 	3. Windows Application Development
 	4. Game Development with C++
 5. In the side bar to the right, make sure the following components are checked:
-	1. windows 11 SDK
+	1. windows 11 SDK. It should be one of the ones circled in red![](<../../_Meta/Attachments/Pasted image 20250609171600.png>)
+6. Install. This is gonna take a little while
+
+# Step 2: Pull the C++ Commit
+
+1. This is exac
 
 ---
 
