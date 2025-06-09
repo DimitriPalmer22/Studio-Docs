@@ -12,6 +12,8 @@ I didn't realize these pictures were so dark. The next time I take pics like thi
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222807.png>)
 
+![](<../../../../_Meta/Attachments/Pasted image 20250608223330.png>)
+
 Test lighting + placeholder wood texture + brick wall & floor textures.
 
 > Note: The walls with the really really small bricks are still using the placeholder kit pieces, so their tiling isn't the same as the walls with the more appropriately-sized bricks.
