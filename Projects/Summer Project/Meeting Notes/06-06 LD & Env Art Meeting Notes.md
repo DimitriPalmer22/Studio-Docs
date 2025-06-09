@@ -1,6 +1,4 @@
 
-# Looking through the Levels of the Designers
-
 ### Brian's Level
 
 - The room currently feels TOO TALL
