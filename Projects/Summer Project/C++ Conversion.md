@@ -5,6 +5,8 @@ The tutorial is based off of this video, so you should watch it and follow along
 # Step 0: BEFORE Pulling the C++ Commit
 At the time of writing this, I probably haven't even pushed the C++ commit yet. But, before you pull (while you can still open the project), do this first.
 
+If you pull the C++ 
+
 1. Open Unreal
 2. Open the project
 3. Go to Edit > Editor Preferences
@@ -28,12 +30,12 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 	3. Windows Application Development
 	4. Game Development with C++
 5. In the side bar to the right, make sure the following components are checked:
-	1. windows 11 SDK. It should be one of the ones circled in red. You ONLY need one of them. Really, I recommend the newest Windows 11 SDK![](<../../_Meta/Attachments/Pasted image 20250609171600.png>)
+	1. windows 11 SDK. It should be one of the ones circled in red. You ONLY need one of them. Really, I recommend the newest Windows 11 SDK (even if you don't have Windows 11) ![](<../../_Meta/Attachments/Pasted image 20250609172849.png>)
 6. Install. This is gonna take a little while
 
 # Step 2: Pull the C++ Commit
 
-1. This is exactly what it sounds like. Pull the C++ commit from the repo.
+1. This is exactly what it sounds like. Pull the C++ commit from the repo (If it even exists yet)
 2. If the C++ has NOT been pushed yet, you can instead switch to the branch called `feature/c-plus-plus` for the rest of the steps
 
 # Step 3: Generate Visual Studio Project Files
