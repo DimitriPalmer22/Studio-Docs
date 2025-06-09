@@ -36,7 +36,7 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 # Step 2: Pull the C++ Commit
 
 1. This is exactly what it sounds like. Pull the C++ commit from the repo (If it even exists yet)
-2. If the C++ has NOT been pushed yet, you can instead switch to the branch called `feature/c-plus-plus` for the rest of the steps
+2. If the C++ has NOT been pushed yet, you can instead switch to the branch called `feature/c-plus-plus` for the rest of the steps. You don't need to do any extra fetches or pulls, just switch to this branch.
 
 # Step 3: Generate Visual Studio Project Files
 
