@@ -21,14 +21,14 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 	1. You may already have it installed. If not, you can download it from <https://visualstudio.microsoft.com/downloads/> (Download the *purple* one, NOT the blue one)
 2. If you already have Visual Studio 2022 installed, you'll see a screen like this: ![](<../../_Meta/Attachments/Pasted image 20250609160450.png>)
 	1. Click modify if you already have it installed
-3. If you don't have it installed, or if you clicked "modify", you should see a screen like this: ![](<../../_Meta/Attachments/Pasted image 20250609160723.png>)
+3. If you don't have it installed, or if you clicked "modify", you should see a screen like this: ![](<../../_Meta/Attachments/Pasted image 20250609172721.png>)
 4. Here, we need to make sure all the correct components are installed.
 	1. .Net Desktop Development
 	2. Desktop Development with C++
 	3. Windows Application Development
 	4. Game Development with C++
 5. In the side bar to the right, make sure the following components are checked:
-	1. windows 11 SDK. It should be one of the ones circled in red![](<../../_Meta/Attachments/Pasted image 20250609171600.png>)
+	1. windows 11 SDK. It should be one of the ones circled in red. You ONLY need one of them. Really, I recommend the newest Windows 11 SDK![](<../../_Meta/Attachments/Pasted image 20250609171600.png>)
 6. Install. This is gonna take a little while
 
 # Step 2: Pull the C++ Commit
