@@ -1,5 +1,13 @@
 ![](<../../../../_Meta/Attachments/Pasted image 20250608221736.png>)
 
+![](<../../../../_Meta/Attachments/Pasted image 20250608222631.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250608222649.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250608222725.png>)
+
+![](<../../../../_Meta/Attachments/Pasted image 20250608222749.png>)
+
 Test lighting + placeholder wood texture + brick wall & floor textures.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250608222017.png>)
