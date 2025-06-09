@@ -28,7 +28,7 @@ From this step onward, you don't need to have pulled the C++ commit, but the onl
 	3. Windows Application Development
 	4. Game Development with C++
 5. In the side bar to the right, make sure the following components are checked:
-	1. 
+	1. windows 11 SDK
 
 ---
 
