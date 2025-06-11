@@ -3,7 +3,7 @@
 
 - A stat is a struct that contains the following:
 	- Name - a constant integer value (can be predefined by define macros or an enum)
-	- Current value - the current value of the stat
+	- Base value - the base value of the stat
 		- public get access; private set access
 		- Setter clamps the value between the minimum and maximum values
 	- Maximum value - the maximum value of the stat
