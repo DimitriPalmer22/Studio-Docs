@@ -4,9 +4,14 @@
 - Character Stats
 - Elemental Stats
 
+### Where Are the Stats Found?
+
+- The Player & enemies
+- The Tomes
+
 # Character Stats
 
-### What Are the Stats?
+### What Are the Character Stats?
 
 - Vitality - Determines the maximum health of a character
 - Mana - Determines the maximum mana of a character
@@ -18,7 +23,8 @@
 	- For example, 1x agility may give you 10 invincibility frame, while 2x agility may give you 15 invincibility frames, and so on.
 -
 
-### Where Are Stats Found?
+# Elemental Stats
 
-- The player has [Stats](<./Stats.md>)
-- The Tomes have [Stats](<./Stats.md>)
+### What Are the Elemental Stats
+
+### Where Are the Elemental Stats Found?
