@@ -12,6 +12,9 @@
 	- Minimum value - the minimum value of the stat
 	- Description - a string that describes the stat
 
+- Stats should also contain operator overloads that either add a stat to another stat or add a numeric value to the stat
+
+
 ### What Are the Types of Stats
 
 - Character Stats
