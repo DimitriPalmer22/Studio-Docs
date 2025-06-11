@@ -2,7 +2,7 @@
 ### What is a Stat
 
 - A stat is a struct that contains the following:
-	- Name - a constant integer value (can be predefined by define macros or an enum)
+	- Name - a string that identifies the stat
 	- Base value - the base value of the stat
 		- public get access; private set access
 		- Setter clamps the value between the minimum and maximum values
@@ -13,7 +13,6 @@
 	- Description - a string that describes the stat
 
 - Stats should also contain operator overloads that either add a stat to another stat or add a numeric value to the stat
-
 
 ### What Are the Types of Stats
 
