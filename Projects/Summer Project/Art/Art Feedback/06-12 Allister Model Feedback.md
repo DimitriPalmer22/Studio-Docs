@@ -4,3 +4,6 @@ Right now, Allister's go straight all the way down, so it doesn't look like he h
 
 The thighs are nice.
 
+![](<../../../../_Meta/Attachments/Pasted image 20250612145628.png>)
+
+Something about the way the calves are exaggerated looks a little off to me. 
