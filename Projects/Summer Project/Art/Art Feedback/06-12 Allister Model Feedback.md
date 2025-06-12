@@ -11,4 +11,6 @@ Something about the way the calves are exaggerated looks a little off to me. I t
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250612150226.png>)
 
-Generally, in these models, I see the calves following a more pentagonal shape. The front of the leg is f
+Generally, in these models, I see the calves following a more pentagonal shape. The front of the leg is flatter. Then the sides connecting to the front go backwards and out a bit to make the calf seem wide. Then, they come back in at a point at the back of the leg. 
+
+![](<../../../../_Meta/Attachments/Pasted image 20250612151015.png>)
