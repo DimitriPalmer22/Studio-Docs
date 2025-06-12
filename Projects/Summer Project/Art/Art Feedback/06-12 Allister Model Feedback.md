@@ -7,8 +7,8 @@ Right now, Allister's go straight all the way down, so it doesn't look like he h
 
 The thighs are fire.
 
-Something about the way the calves are exaggerated looks a little off to me. I think it's because the calves aren't flatter from the front like the ones in the refs.
+Something about the way the calves are exaggerated looks a little off to me. I think it's because the calves aren't flatter from the front with the calf's thickness coming from the sides and back like the ones in the refs.
 
 ![](<../../../../_Meta/Attachments/Pasted image 20250612150226.png>)
 
-Here
+Generally, in these models, I see the calves following a more pentagonal shape. The front of the leg is f
