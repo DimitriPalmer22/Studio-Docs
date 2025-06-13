@@ -11,4 +11,7 @@
 - Atmosphere - should feel somewhat hellish
 	- Should feel a little bit of dread
 	- This can be helped with the skybox
-- HDRI 
+	- Sound design could help too
+- HDRI Haven for skyboxes
+
+- Andre asked Ma
