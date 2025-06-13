@@ -1,12 +1,18 @@
 ### Lighting
 
-- Areas w/ combat should be the most illuminated.
-- Side rooms / fake rooms / any non-enterable spaces should be lit, but should have more secondary and tertiary lighting
-- This will create more dramatic background
+- The area where the player should be most frequently engaged in combat should be the most illuminated.
+- Side rooms, fake rooms, and any non-enterable spaces should be lit as well to make the environment feel believable. These rooms should be darker with more secondary and tertiary lighting to create a more dramatic background
 
-- Primary lighting:
-- Secondary lighting:
-- Tertiary lighting:
+- Primary lighting: Washed out cool colors (primarily white with cool hues; blue, cyan)
+	- Wall lanterns
+	- Hanging lanterns
+	- Chandeliers (chandeliers will use crystals instead of candles for uniqueness and continuity, to keep the primary lighting consistent)
+
+- Secondary/detail lighting: Warm colors (orange, yellow, red)
+	- Candles (placed in areas where a person would want to read/study; on/near bookshelves, desks, tables, books)
+
+- Tertiary/accent lighting: More saturated cool colors (deep blues)
+	- Crystals and VFX: emissive lighting only, good to place in darker corners where light doesn't reach as well
 
 # Getting the Vibe Right
 
