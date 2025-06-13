@@ -18,3 +18,6 @@
 	- Solid amount of reference material to work on something (sound-design wise)
 	- Before we get any sounds or anything, we need to make sure the vibe is established
 	- He can probably get some demos
+
+- Matthew used FMOD. He handled implementation of sound in Realm Runner.
+	- Super good for things like detailed ambience
