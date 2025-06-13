@@ -16,4 +16,5 @@
 
 - Andre asked Matthew to put some sounds or sum in his level.
 	- Solid amount of reference material to work on something (sound-design wise)
-	- Before we get any sounds or anything
+	- Before we get any sounds or anything, we need to make sure the vibe is established
+	- He can probably get some demos
