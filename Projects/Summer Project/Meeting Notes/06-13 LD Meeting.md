@@ -21,3 +21,5 @@
 
 - Matthew used FMOD. He handled implementation of sound in Realm Runner.
 	- Super good for things like detailed ambience
+- Footsteps, some ambience, a chiller backing track of some sort
+- A list of all the stuff in the showcase
