@@ -84,7 +84,7 @@
 		- Special shop that allows the player to buy a new spell / ability for their tome.
 		- Can also buy special upgrades for their tome.
 		- No sacrifice btw.
-
+		- Use currency to determine how powerful the new spell is
 ### Starting a Run
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
 	- These questions have a LARGE list of possible responses
