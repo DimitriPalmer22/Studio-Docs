@@ -8,6 +8,10 @@
 - Secondary lighting:
 - Tertiary lighting:
 
+# Getting the Vibe Right
+
+### Skybox
+
 - change the color of the skybox
 	- The player needs to feel like they are not in a normal space (not the real world dimension)
 - Atmosphere - should feel somewhat hellish
