@@ -14,4 +14,6 @@
 	- Sound design could help too
 - HDRI Haven for skyboxes
 
-- Andre asked Ma
+- Andre asked Matthew to put some sounds or sum in his level.
+	- Solid amount of reference material to work on something (sound-design wise)
+	- Before we get any sounds or anything
