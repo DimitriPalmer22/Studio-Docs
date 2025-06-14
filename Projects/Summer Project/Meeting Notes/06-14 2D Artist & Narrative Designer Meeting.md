@@ -22,7 +22,7 @@
 # Other Stuff
 ### Magnus's Character Design
 
-- We good
+- We're good. I don't think anything really needs to change.
 
 ### Portrait Dimensions
 
