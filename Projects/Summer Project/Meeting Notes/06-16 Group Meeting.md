@@ -57,11 +57,11 @@ Friday-Sunday (if it does happen)
 ### Environmental Artist Meeting
 
 - Go over textures
-- As the week goes on, we'll add more stuff to the Miro board
+- As the week goes on, we'll add more stuff to the Miro board for models
 
 Friday Meeting @ 6pm
 
 ### Music Meeting
 
 - If I gather refs throughout the trip, I'll ask Matthew for a meeting
-- Let him know a couple days in advance
+- Let him know a couple days in advance if there needs to be a meeting
