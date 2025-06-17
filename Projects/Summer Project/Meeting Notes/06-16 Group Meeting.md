@@ -51,9 +51,8 @@ Friday @ 8pm
 - I gotta ask the Alex and Alecks if there should even be a meeting this week.
 - If anything, we can go over the design choices for the next portraits, Tarun and Hidetomo?
 
-Ask team Alex if they can work
-Friday (if it does happen)
-
+Ask team Alex if they can work throughout the week. If not, no meeting.
+Friday-Sunday (if it does happen)
 
 ### Environmental Artist Meeting
 
