@@ -44,7 +44,7 @@ So, almost all of our LDs, our 2D artists, our character artist, our programmer,
 - In this meeting, we won't be going over weekly progress that much (considering that almost every LD is out of town).
 - Instead, we'll go over the types of areas in the game and how they should be constructed.
 
-Friday @ 8pm(?)
+Friday @ 8pm
 
 ### 2D Artist + Narrative Designer
 
