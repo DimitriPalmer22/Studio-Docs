@@ -1,7 +1,7 @@
 {
-  "Components@@tab-autohide": true,
-  "Components@@status-bar-autohide": true,
-  "Components@@Ribbon-autohide": false,
+  "Components@@tab-autohide": false,
+  "Components@@status-bar-autohide": false,
+  "Components@@Ribbon-autohide": true,
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": true,
   "Appearance-light@@card-layout-open-light": true,
@@ -15,5 +15,10 @@
   "Editor@@inline-title-divider-remove": false,
   "Editor@@h1-divider-on": false,
   "Editor@@h3-divider-on": false,
-  "Editor@@text-align-justify": false
+  "Editor@@text-align-justify": false,
+  "Plugin@@DB-table-full-width-off": false,
+  "Components@@file-names-untrim": false,
+  "Components@@folder-font-bold": true,
+  "Components@@file-icon-remove": false,
+  "Components@@colorful-folder": true
 }
