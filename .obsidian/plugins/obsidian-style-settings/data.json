@@ -20,5 +20,15 @@
   "Components@@file-names-untrim": false,
   "Components@@folder-font-bold": true,
   "Components@@file-icon-remove": false,
-  "Components@@colorful-folder": true
+  "Components@@colorful-folder": true,
+  "Components@@CTA-BTN-enable": false,
+  "Components@@outline-enhanced": true,
+  "Components@@new-tab-btn-select": "new-tab-btn-default",
+  "Components@@new-tab-image-select": "new-tab-image-default",
+  "Components@@immersive-canvas": false,
+  "Components@@extra-anim-remove": false,
+  "Components@@anim-speed": 2,
+  "Components@@setting-item-title-icon-remove": false,
+  "Components@@scrollbar-hide": false,
+  "Components@@restored-scrollbars": false
 }
