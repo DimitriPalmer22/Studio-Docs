@@ -80,6 +80,7 @@ The shop is a place where the player can purchase items to help them on their jo
 	- Kinda like how in Dark Souls, the currency is souls, which you get from defeating enemies.
 - In our game, we can play into the whole magic energy thing.
 	- Whenever the player defeats an enemy, the enemy drops a couple of magical orbs that Allister absorbs.
+	- Like when you kill enemies in [Hollow Knight](https://www.youtube.com/shorts/eau5vc-uRk0)
 - We need to workshop this more.
 	- What do these orbs look like?
 	- What do they represent?
