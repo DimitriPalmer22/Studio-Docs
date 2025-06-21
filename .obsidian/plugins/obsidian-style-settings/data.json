@@ -5,5 +5,8 @@
   "Components@@nav-header-autohide": false,
   "Components@@tab-title-bar-autohide": true,
   "Appearance-light@@card-layout-open-light": true,
-  "Appearance-light@@theme-light-style-select": "theme-light-background-default"
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default",
+  "Editor@@line-hover-indicator": true,
+  "Editor@@focus-indicator-list-level": true,
+  "Editor@@focus-indicator-codeblock-line-number": true
 }
