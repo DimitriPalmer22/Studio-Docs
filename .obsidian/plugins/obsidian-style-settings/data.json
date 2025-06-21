@@ -8,5 +8,12 @@
   "Appearance-light@@theme-light-style-select": "theme-light-background-default",
   "Editor@@line-hover-indicator": true,
   "Editor@@focus-indicator-list-level": true,
-  "Editor@@focus-indicator-codeblock-line-number": true
+  "Editor@@focus-indicator-codeblock-line-number": true,
+  "Editor@@border-focus-mode": false,
+  "Editor@@editor-grid-background-pattren": false,
+  "Editor@@collapse-icon-restore": false,
+  "Editor@@inline-title-divider-remove": false,
+  "Editor@@h1-divider-on": false,
+  "Editor@@h3-divider-on": false,
+  "Editor@@text-align-justify": false
 }
