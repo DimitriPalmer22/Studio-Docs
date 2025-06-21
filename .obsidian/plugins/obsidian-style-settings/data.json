@@ -1,7 +1,9 @@
 {
-  "Components@@tab-autohide": false,
+  "Components@@tab-autohide": true,
   "Components@@status-bar-autohide": true,
   "Components@@Ribbon-autohide": false,
   "Components@@nav-header-autohide": false,
-  "Components@@tab-title-bar-autohide": true
+  "Components@@tab-title-bar-autohide": true,
+  "Appearance-light@@card-layout-open-light": true,
+  "Appearance-light@@theme-light-style-select": "theme-light-background-default"
 }
