@@ -19,7 +19,9 @@
 - These are super high-priority tasks. Who tryna do em by Sunday fr? They need this to get done so the env. artists can do their work.
 - On a weekly basis, I'm gonna have one (or more) of you guys generate a small list of props that we can use in our levels
 
-- For the props that are currently on the Miro board, 
+- *For the props that are currently on the Miro board, one of you will create in-engine size references for these props*
+- THEN, you guys will continue to set-dress with these size references placeholders.
+- Once we get the models, we'll replace the placeholders with the actual models.
 
 ### New Special Room Types & Game Design Discussion
 
