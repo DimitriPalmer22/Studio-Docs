@@ -19,6 +19,8 @@
 - These are super high-priority tasks. Who tryna do em by Sunday fr? They need this to get done so the env. artists can do their work.
 - On a weekly basis, I'm gonna have one (or more) of you guys generate a small list of props that we can use in our levels
 
+- For the props that are currently on the Miro board, 
+
 ### New Special Room Types & Game Design Discussion
 
 This week, two designers are tasked with blocking out new room types: the shop room and the upgrade room. The concepts for these aren't completely fleshed out yet, so you guys will most likely have to converse with me more to fully get the idea out. I also plan to talk about this in our weekly group meeting.
