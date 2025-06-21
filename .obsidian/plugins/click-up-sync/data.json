@@ -1,0 +1,419 @@
+{
+  "user": {
+    "id": 108016280,
+    "username": "Dimitri Palmer",
+    "email": "dimitripalmer22@gmail.com",
+    "color": "",
+    "profilePicture": null,
+    "initials": "DP",
+    "week_start_day": null,
+    "global_font_support": true,
+    "timezone": "America/New_York"
+  },
+  "token": "108016280_370361bf1fe7fddbc3761896c06f7bc5a88a04a25f81b4bb315c7a2221aa2900",
+  "teams": [
+    {
+      "id": "90131425169",
+      "name": "Avernoth Workspace",
+      "color": "#40BC86",
+      "avatar": null,
+      "members": [
+        {
+          "user": {
+            "id": 75530229,
+            "username": "Mikel",
+            "email": "mikel.sienra@gmail.com",
+            "color": "",
+            "profilePicture": null,
+            "initials": "M",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1750534669329",
+            "date_joined": "1749080766548",
+            "date_invited": "1748823850937"
+          },
+          "invited_by": {
+            "id": 108016280,
+            "username": "Dimitri Palmer",
+            "color": "",
+            "email": "dimitripalmer22@gmail.com",
+            "initials": "DP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 82262730,
+            "username": "James Draper",
+            "email": "jimmydraper55@gmail.com",
+            "color": null,
+            "profilePicture": null,
+            "initials": "JD",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1748460469044",
+            "date_joined": "1747966292417",
+            "date_invited": "1747966241589"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 82251943,
+            "username": "Matthew Cabrera",
+            "email": "mjcr0035@gmail.com",
+            "color": "#622aea",
+            "profilePicture": null,
+            "initials": "MC",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1750112361439",
+            "date_joined": "1748123127039",
+            "date_invited": "1747964761807"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 90031728,
+            "username": "Chelle Radcliffe",
+            "email": "chellerad@gmail.com",
+            "color": "#f9be34",
+            "profilePicture": "https://attachments.clickup.com/profilePictures/90031728_VXk.jpg",
+            "initials": "CR",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1748803424476",
+            "date_joined": "1748033102234",
+            "date_invited": "1747964532633"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 108073730,
+            "username": "Azalee Nelson",
+            "email": "azale.nelson@gmail.com",
+            "color": "",
+            "profilePicture": "https://attachments.clickup.com/profilePictures/108073730_6No.jpg",
+            "initials": "AN",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1749851494530",
+            "date_joined": "1747969766718",
+            "date_invited": "1747964269507"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 94142725,
+            "username": "Rae Overton",
+            "email": "raej25@yahoo.com",
+            "color": "#3e2724",
+            "profilePicture": "https://attachments.clickup.com/profilePictures/94142725_I9U.jpg",
+            "initials": "RO",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1750484413217",
+            "date_joined": "1747964413786",
+            "date_invited": "1747964269197"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 90167951,
+            "username": "Aiden R.",
+            "email": "aiden.richmond56@gmail.com",
+            "color": "",
+            "profilePicture": null,
+            "initials": "AR",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1748910952254",
+            "date_joined": "1747967112751",
+            "date_invited": "1747964268901"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 75573590,
+            "username": "Alex Kotzeva",
+            "email": "alexkotzeva6@gmail.com",
+            "color": "#e040fb",
+            "profilePicture": null,
+            "initials": "AK",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1749068982432",
+            "date_joined": "1747971367213",
+            "date_invited": "1747964268533"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 94142724,
+            "username": "Brian Rosario",
+            "email": "brosario320@hotmail.com",
+            "color": "#536cfe",
+            "profilePicture": null,
+            "initials": "BR",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1748742111298",
+            "date_joined": "1747964498731",
+            "date_invited": "1747964268197"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 75574808,
+            "username": "Alexis I",
+            "email": "funnyspoofy@gmail.com",
+            "color": "#ff897f",
+            "profilePicture": null,
+            "initials": "AI",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1748459566203",
+            "date_joined": "1748229696716",
+            "date_invited": "1747964267954"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 90129502,
+            "username": "Ashley Mendez",
+            "email": "ashleymendez0315@gmail.com",
+            "color": "",
+            "profilePicture": null,
+            "initials": "AM",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1749872211477",
+            "date_joined": "1747964895058",
+            "date_invited": "1747964267692"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 82497743,
+            "username": "Kiana Cuevas",
+            "email": "tinkerfairykc@gmail.com",
+            "color": "#006063",
+            "profilePicture": null,
+            "initials": "KC",
+            "role": 3,
+            "role_subtype": 0,
+            "role_key": "member",
+            "custom_role": null,
+            "last_active": "1749961447535",
+            "date_joined": "1747970217919",
+            "date_invited": "1747964267388"
+          },
+          "invited_by": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "color": "",
+            "email": "andre.r.powell@gmail.com",
+            "initials": "AP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 75530228,
+            "username": "Andre Powell",
+            "email": "andre.r.powell@gmail.com",
+            "color": "",
+            "profilePicture": null,
+            "initials": "AP",
+            "role": 2,
+            "role_subtype": 0,
+            "role_key": "admin",
+            "custom_role": null,
+            "last_active": "1750111205394",
+            "date_joined": "1747851704623",
+            "date_invited": "1747851699232"
+          },
+          "invited_by": {
+            "id": 108016280,
+            "username": "Dimitri Palmer",
+            "color": "",
+            "email": "dimitripalmer22@gmail.com",
+            "initials": "DP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 75530226,
+            "username": "Leonardo Santa-Zapata",
+            "email": "santazleo2004@gmail.com",
+            "color": "#4466ff",
+            "profilePicture": null,
+            "initials": "LS",
+            "role": 2,
+            "role_subtype": 0,
+            "role_key": "admin",
+            "custom_role": null,
+            "last_active": "1748841689684",
+            "date_joined": "1747852686470",
+            "date_invited": "1747851698781"
+          },
+          "invited_by": {
+            "id": 108016280,
+            "username": "Dimitri Palmer",
+            "color": "",
+            "email": "dimitripalmer22@gmail.com",
+            "initials": "DP",
+            "profilePicture": null,
+            "banned_date": null,
+            "status": "active"
+          }
+        },
+        {
+          "user": {
+            "id": 108016280,
+            "username": "Dimitri Palmer",
+            "email": "dimitripalmer22@gmail.com",
+            "color": "",
+            "profilePicture": null,
+            "initials": "DP",
+            "role": 1,
+            "role_subtype": 0,
+            "role_key": "owner",
+            "custom_role": null,
+            "last_active": "1750468126649",
+            "date_joined": "1747778888674",
+            "date_invited": "1747778888674"
+          }
+        }
+      ]
+    }
+  ]
+}
