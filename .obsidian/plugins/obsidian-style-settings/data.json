@@ -26,7 +26,7 @@
   "Components@@new-tab-btn-select": "new-tab-btn-default",
   "Components@@new-tab-image-select": "new-tab-image-default",
   "Components@@immersive-canvas": false,
-  "Components@@extra-anim-remove": false,
+  "Components@@extra-anim-remove": true,
   "Components@@anim-speed": 2,
   "Components@@setting-item-title-icon-remove": false,
   "Components@@scrollbar-hide": false,
