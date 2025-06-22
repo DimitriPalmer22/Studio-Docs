@@ -168,4 +168,4 @@ The shop is a place where the player can purchase items to help them on their jo
 
 # Closing Remarks
 
-- Ay bro, I don't wanna sound like a discord mod, but we gotta stop putting stuff in the general channel of the Discord if it doesn't really relate to the project. It's getting kinda bad
+- Ay bruh, I don't wanna sound like a discord mod, but we gotta stop putting stuff in the general channel of the Discord if it doesn't really relate to the project. It's getting kinda bad.
