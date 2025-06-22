@@ -47,7 +47,7 @@ I just wanted to give you guys some context for why I might work really hard on 
 
 The whole point of having these weekly meetings + the departmental meetings was to have everyone on the same page with the project. I want to make sure that everyone understands what we're doing, why we're doing it, and how they can contribute.
 
-One thing I realized we weren't really doing a lot of was deigning the game as a team. For the most part, I was just coming up with ideas and then telling you guys what to do. I want to change that.
+One thing I realized we weren't really doing a lot of was designing the game as a team. For the most part, I was just coming up with ideas and then telling you guys what to do. I want to change that.
 
 Really, that's mostly because I was trying to use the POC as a foundation for everyone's understanding of the game. But now that that portion of the project is done, I feel like we need to lean more into the collaborative design process.
 
