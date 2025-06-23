@@ -76,6 +76,8 @@ This week, I want to have the following meetings:
 
 - LD Meeting:
 - Narrative Meeting:
+	- Mage backstory
+	- 
 - Audio Meeting:
 - 2D Artist Meeting:
 - 3D Character Artist Meeting:
