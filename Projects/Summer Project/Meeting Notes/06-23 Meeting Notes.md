@@ -81,9 +81,14 @@ This week, I want to have the following meetings:
 	- Mage backstory
 	- Enemy designs on the Miro Board
 - Audio Meeting:
+	- Go over the music notes and stuff
+	- I should send that demo track I made beforehand
 - 2D Artist Meeting:
+	- 
 - 3D Character Artist Meeting:
+	- 
 - Environmental Artist Meeting:
+	- 
 
 # Shop Room & Upgrade Room Discussion
 
