@@ -2,14 +2,14 @@
 
 ### Where Can Different Music Tracks Play?
 
-- The reginning room
-- Shop room
-- Upgrade room
-- In the middle of combat
+- The room where the player begins from
+- The Shop room
+- The Upgrade room
+- Rooms w/ combat
 	- Normal combat rooms
 	- The larger, more intense combat rooms at the end of each floor
 - During dialogue
-- Main menu
+- Main menu screen
 
 ### Genre
 
