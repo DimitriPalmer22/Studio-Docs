@@ -1,8 +1,8 @@
-# Music Notes`
+# Music Notes
 
 ### Where Can Different Music Tracks Play?
 
-- Beginning room
+- The reginning room
 - Shop room
 - Upgrade room
 - In the middle of combat
