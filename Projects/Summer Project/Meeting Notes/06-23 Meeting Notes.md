@@ -74,7 +74,7 @@ Specifically, I want to focus on the following things:
 
 This week, I want to have the following meetings:
 
-- LD Meeting:
+- LD Meeting: Wednesday @ 8pm
 	- Go through more basic room designs so far
 	- Go through the upgrade room & shop room designs so far
 - Narrative Meeting:
