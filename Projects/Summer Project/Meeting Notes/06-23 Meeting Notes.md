@@ -87,7 +87,7 @@ This week, I want to have the following meetings:
 	- 
 - 3D Character Artist Meeting: Thursday @ 7pm
 	- 
-- Environmental Artist Meeting: 
+- Environmental Artist Meeting: Thursday @ 4pm
 	- 
 
 # Shop Room & Upgrade Room Discussion
