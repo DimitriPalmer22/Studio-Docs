@@ -83,11 +83,11 @@ This week, I want to have the following meetings:
 - Audio Meeting: Wednesday @ 6pm
 	- Go over the music notes and stuff
 	- I should send that demo track I made beforehand
-- 2D Artist Meeting:
+- 2D Artist Meeting + Chelle fr: Thursday @ 1pm
 	- 
-- 3D Character Artist Meeting:
+- 3D Character Artist Meeting: Thursday @ 7pm
 	- 
-- Environmental Artist Meeting:
+- Environmental Artist Meeting: 
 	- 
 
 # Shop Room & Upgrade Room Discussion
