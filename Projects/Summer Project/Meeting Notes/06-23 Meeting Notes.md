@@ -138,14 +138,7 @@ The shop is a place where the player can purchase items to help them on their jo
 - So, we should probably focus on the enemies themselves to theme the currency.
 	- Kinda like how in Dark Souls, the currency is souls, which you get from defeating enemies.
 - In our game, we can play into the whole magic energy thing.
-	- Whenever the player defeats an enemy, the enemy drops a couple of magical orbs that Allister absorbs.
-	- Like when you kill enemies in [Hollow Knight](https://www.youtube.com/shorts/eau5vc-uRk0)
-- We need to workshop this more.
-	- What do these orbs look like?
-	- What do they represent?
-	- What are they called?
-	- How exactly is it used as a currency? Is it just exchanged? Is it put into a vending machine??? Is it used as some type of special tool?
-- We'll talk about this more in the weekly group meeting.
+	- Whene
 
 #### Extra Idea for Currency
 - As of right now, the upgrade rooms are completely free, and the items in the shop are not the most compelling thing in the world to spend money on.
