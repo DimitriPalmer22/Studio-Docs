@@ -103,22 +103,6 @@ This week, two designers are tasked with blocking out new room types: the shop r
 Upgrade rooms are places where the player receives FREE upgrades to their tome.
 - This should address the issue of the player's strength scaling with the difficulty of the game.
 
-I currently have 2 ideas for how the upgrade room should be implemented. We'll run a poll or something in the weekly group meeting for what the upgrade room should be.
-
-##### Idea 1: Another Person Inside Avernoth
-- Inside the upgrade room, Allister finds another person.
-- This person is also someone who has been sealed within Avernoth during the current war.
-- This person has the special ability to upgrade your tome.
-	- Remember, in the [initial notes for the game](<../Game Idea 1.md>), each tome remains relatively the same throughout its lifetime. One people with special skillsets and tools are able to upgrade a tome.
-	- This person is one of those people.
-
-This idea does raise a couple concerns:
-- If the player can see this person in-game, then doesn't that mean we'd need ANOTHER character model for them?
-- Also, we would probably need more dialogue for this person.
-	- Why are they here?
-	- How are they able to survive in Avernoth?
-	- How do they manage to be found in the upgrade room(s) of every floor? Are they following Allister or are they just chilling there by coincidence?
-
 ##### Idea 2: Enchantment Table
 - The upgrade room contains an enchantment table.
 - Normally, Allister doesn't know how to use it, but one of his allies is able to walk him through the process.
