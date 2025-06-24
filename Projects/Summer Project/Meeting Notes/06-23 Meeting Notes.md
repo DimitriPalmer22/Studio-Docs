@@ -113,6 +113,8 @@ Upgrade rooms are places where the player receives FREE upgrades to their tome.
 
 The shop is a place where the player can purchase items to help them on their journey. The items the player gets in the shop are distinct from the upgrades they get within the upgrade room.
 
+The shop is more like a workshop
+
 ##### Possible Items to Purchase
 - Consumables (like how in Enter The Gungeon, you can buy keys or blanks)
 - Other Tomes (if you are displeased with the tome you have, you can purchase a new one)
@@ -133,6 +135,9 @@ The shop is a place where the player can purchase items to help them on their jo
 	- Don't allow items to infinitely restock
 
 ### Currency
+- Currency - Magic residue that the enemies drop
+	- can be used to upgrade upgrades and buy stuff from the shop
+
 - It doesn't make sense for the currency to be gold or money.
 - We know that, like most rogue-likes, the player will get currency whenever they defeat enemies / clear their current room.
 - So, we should probably focus on the enemies themselves to theme the currency.
