@@ -130,7 +130,7 @@ This idea does raise a couple concerns:
 The shop is a place where the player can purchase items to help them on their journey. The items the player gets in the shop are distinct from the upgrades they get within the upgrade room.
 
 ##### Possible Items to Purchase
-- Consumables (like how in Enter The Gungon, you can buy keys or blanks)
+- Consumables (like how in Enter The Gungeon, you can buy keys or blanks)
 - Other Tomes (if you are displeased with the tome you have, you can purchase a new one)
 - Upgrades for the player's max health
 - Upgrades for the player's max mana
