@@ -77,10 +77,10 @@ This week, I want to have the following meetings:
 - LD Meeting: Wednesday @ 8pm
 	- Go through more basic room designs so far
 	- Go through the upgrade room & shop room designs so far
-- Narrative Meeting:
+- Narrative Meeting: Thursday @ 3pm
 	- Mage backstory
 	- Enemy designs on the Miro Board
-- Audio Meeting:
+- Audio Meeting: Wednesday @ 6pm
 	- Go over the music notes and stuff
 	- I should send that demo track I made beforehand
 - 2D Artist Meeting:
