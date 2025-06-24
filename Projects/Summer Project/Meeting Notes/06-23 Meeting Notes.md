@@ -113,7 +113,7 @@ Upgrade rooms are places where the player receives FREE upgrades to their tome.
 
 The shop is a place where the player can purchase items to help them on their journey. The items the player gets in the shop are distinct from the upgrades they get within the upgrade room.
 
-The shop is more like a workshop
+The shop is more like a workshop where the player can use the magic residue to "craft" items n whatnot.
 
 ##### Possible Items to Purchase
 - Consumables (like how in Enter The Gungeon, you can buy keys or blanks)
