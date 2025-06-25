@@ -6,191 +6,79 @@
         "type": "split",
         "children": [
           {
-            "id": "64696a5bf97c8212",
-            "type": "split",
-            "dimension": 42.05989110707804,
+            "id": "6aceb855781fd0cb",
+            "type": "tabs",
             "children": [
               {
-                "id": "7e6d8a74ca81cde0",
-                "type": "tabs",
-                "dimension": 71.26288659793815,
-                "children": [
-                  {
-                    "id": "daf1351eab7023b9",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Projects/Summer Project/Game Idea 1.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Game Idea 1"
-                    }
+                "id": "a069ec327aff8174",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Avernoth Overview.excalidraw.md"
                   },
-                  {
-                    "id": "ad7712a18be4997a",
-                    "type": "leaf",
-                    "pinned": true,
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "PrivateNotes/Team Roster.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "pinned": true,
-                      "icon": "lucide-file",
-                      "title": "Team Roster"
-                    }
-                  },
-                  {
-                    "id": "abc4817d897401ac",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "Projects/Summer Project/Meeting Notes/06-20 LD Meeting.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "06-20 LD Meeting"
-                    }
-                  }
-                ]
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Avernoth Overview.excalidraw"
+                }
               },
               {
-                "id": "3d6c47e5b76a1d41",
-                "type": "tabs",
-                "dimension": 28.737113402061855,
-                "children": [
-                  {
-                    "id": "c3e15d35d89f87fb",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "PrivateNotes/Daily/2025/06-June/2025-06-20-Friday.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "2025-06-20-Friday"
-                    }
+                "id": "58f3e7cc8defaa08",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Gameplay Overview.excalidraw.md"
                   },
-                  {
-                    "id": "199ac0f5ff33fab6",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "PrivateNotes/Daily/2025/06-June/2025-06-21-Saturday.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "2025-06-21-Saturday"
-                    }
-                  },
-                  {
-                    "id": "93508cfce6f27493",
-                    "type": "leaf",
-                    "state": {
-                      "type": "markdown",
-                      "state": {
-                        "file": "PrivateNotes/Daily/2025/06-June/2025-06-22-Sunday.md",
-                        "mode": "source",
-                        "source": false,
-                        "backlinks": false
-                      },
-                      "icon": "lucide-file",
-                      "title": "2025-06-22-Sunday"
-                    }
-                  }
-                ],
-                "currentTab": 2
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Avernoth Gameplay Overview.excalidraw"
+                }
               }
-            ],
-            "direction": "horizontal"
+            ]
           },
           {
-            "id": "5aae33ab275759df",
+            "id": "2c43281ab3bfd6bf",
             "type": "tabs",
-            "dimension": 57.94010889292196,
             "children": [
               {
-                "id": "514095f413c8cde4",
+                "id": "c6bbebfa8fe4b43a",
                 "type": "leaf",
                 "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "PrivateNotes/Pending Meetings/Pending Meetings.md",
+                    "file": "PrivateNotes/GameDesign/Avernoth Overview.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
                   "pinned": true,
                   "icon": "lucide-file",
-                  "title": "Pending Meetings"
+                  "title": "Avernoth Overview"
                 }
               },
               {
-                "id": "20f0d70efb06efeb",
+                "id": "00d5a7e05c119923",
                 "type": "leaf",
+                "pinned": true,
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "Projects/Summer Project/Meeting Notes/06-16 Meeting Notes.md",
+                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Gameplay Overview.md",
                     "mode": "source",
                     "source": false,
                     "backlinks": false
                   },
+                  "pinned": true,
                   "icon": "lucide-file",
-                  "title": "06-16 Meeting Notes"
-                }
-              },
-              {
-                "id": "d0d7cadb0091bb07",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/Summer Project/Audio/Initial Music Notes.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "Initial Music Notes"
-                }
-              },
-              {
-                "id": "362b262205d6c989",
-                "type": "leaf",
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "Projects/Summer Project/Meeting Notes/06-23 Meeting Notes.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "icon": "lucide-file",
-                  "title": "06-23 Meeting Notes"
+                  "title": "Avernoth Gameplay Overview"
                 }
               }
             ],
-            "currentTab": 3
+            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -247,7 +135,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 360.5124969482422
+        "width": 360.5124969482422,
+        "collapsed": true
       },
       "right": {
         "id": "a982a26f3dec65bb",
@@ -381,7 +270,8 @@
           }
         ],
         "direction": "horizontal",
-        "width": 613.5
+        "width": 613.5,
+        "collapsed": true
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -400,8 +290,301 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "362b262205d6c989",
-      "mtime": "2025-06-25T15:41:32-04:00"
+      "active": "a069ec327aff8174",
+      "mtime": "2025-06-25T15:45:43-04:00"
+    },
+    "Avernoth Game Design": {
+      "main": {
+        "id": "4a4f38df09fecb05",
+        "type": "split",
+        "children": [
+          {
+            "id": "6aceb855781fd0cb",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "a069ec327aff8174",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Avernoth Overview.excalidraw.md"
+                  },
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Avernoth Overview.excalidraw"
+                }
+              },
+              {
+                "id": "58f3e7cc8defaa08",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "excalidraw",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Gameplay Overview.excalidraw.md"
+                  },
+                  "pinned": true,
+                  "icon": "excalidraw-icon",
+                  "title": "Avernoth Gameplay Overview.excalidraw"
+                }
+              }
+            ]
+          },
+          {
+            "id": "2c43281ab3bfd6bf",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "c6bbebfa8fe4b43a",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Avernoth Overview.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Avernoth Overview"
+                }
+              },
+              {
+                "id": "00d5a7e05c119923",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Gameplay Overview.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Avernoth Gameplay Overview"
+                }
+              }
+            ],
+            "currentTab": 1
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "86225fd26fb320b4",
+        "type": "split",
+        "children": [
+          {
+            "id": "43030a38efa774a2",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "19ddf49e548d0fdb",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical",
+                    "autoReveal": false
+                  },
+                  "icon": "lucide-folder-closed",
+                  "title": "Files"
+                }
+              },
+              {
+                "id": "349207086e416246",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  },
+                  "icon": "lucide-search",
+                  "title": "Search"
+                }
+              },
+              {
+                "id": "d0f52ec00627f39a",
+                "type": "leaf",
+                "state": {
+                  "type": "bookmarks",
+                  "state": {},
+                  "icon": "lucide-bookmark",
+                  "title": "Bookmarks"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 360.5124969482422,
+        "collapsed": true
+      },
+      "right": {
+        "id": "a982a26f3dec65bb",
+        "type": "split",
+        "children": [
+          {
+            "id": "f0096c077dea4c5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "b01921de129181dd",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PrivateNotes/Tasks.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Tasks"
+                }
+              },
+              {
+                "id": "852afb8aaa422af2",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {},
+                  "icon": "lucide-git-fork",
+                  "title": "Graph view"
+                }
+              },
+              {
+                "id": "a5cb644e5d24a41d",
+                "type": "leaf",
+                "state": {
+                  "type": "github-copilot-chat-view",
+                  "state": {},
+                  "icon": "bot-message-square",
+                  "title": "Copilot Chat"
+                }
+              },
+              {
+                "id": "25c6665745d78b36",
+                "type": "leaf",
+                "state": {
+                  "type": "git-view",
+                  "state": {},
+                  "icon": "git-pull-request",
+                  "title": "Source Control"
+                }
+              },
+              {
+                "id": "f502530dc51658c1",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-tags",
+                  "title": "Tags"
+                }
+              },
+              {
+                "id": "55e9cfbd86f79f0c",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "PrivateNotes/Pending Meetings/Week 3/06-23 Meeting Notes.md",
+                    "followCursor": false,
+                    "showSearch": false,
+                    "searchQuery": ""
+                  },
+                  "icon": "lucide-list",
+                  "title": "Outline of 06-23 Meeting Notes"
+                }
+              },
+              {
+                "id": "afaf5d99dc0f77dd",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "PrivateNotes/Pending Meetings/Week 3/06-23 Meeting Notes.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-coming-in",
+                  "title": "Backlinks for 06-23 Meeting Notes"
+                }
+              },
+              {
+                "id": "7a9ab5d05f82db5a",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "PrivateNotes/Pending Meetings/Week 3/06-23 Meeting Notes.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  },
+                  "icon": "links-going-out",
+                  "title": "Outgoing links from 06-23 Meeting Notes"
+                }
+              },
+              {
+                "id": "e6d748d680033691",
+                "type": "leaf",
+                "state": {
+                  "type": "calendar",
+                  "state": {},
+                  "icon": "calendar-with-checkmark",
+                  "title": "Calendar"
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 613.5,
+        "collapsed": true
+      },
+      "left-ribbon": {
+        "hiddenItems": {
+          "switcher:Open quick switcher": false,
+          "graph:Open graph view": false,
+          "canvas:Create new canvas": false,
+          "daily-notes:Open today's daily note": false,
+          "templates:Insert template": false,
+          "command-palette:Open command palette": false,
+          "templater-obsidian:Templater": false,
+          "obsidian-git:Open Git source control": false,
+          "omnisearch:Omnisearch": false,
+          "obsidian-excalidraw-plugin:New drawing": false,
+          "darlal-switcher-plus:Open in Headings Mode": false,
+          "darlal-switcher-plus:Open Symbols for the active editor": false,
+          "workspaces:Manage workspace layouts": false
+        }
+      },
+      "active": "a069ec327aff8174",
+      "mtime": "2025-06-25T15:47:02-04:00"
     }
   },
   "active": "Tasks and Meeting Notes"
