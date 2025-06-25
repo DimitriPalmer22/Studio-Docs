@@ -132,8 +132,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 360.5124969482422,
-        "collapsed": true
+        "width": 360.5124969482422
       },
       "right": {
         "id": "a982a26f3dec65bb",
@@ -286,8 +285,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "82462cd47b18c355",
-      "mtime": "2025-06-25T16:40:59-04:00"
+      "active": "5fa9c8d090669a33",
+      "mtime": "2025-06-25T18:02:56-04:00"
     },
     "Avernoth Game Design": {
       "main": {
@@ -597,7 +596,7 @@
         }
       },
       "active": "00d5a7e05c119923",
-      "mtime": "2025-06-25T18:01:04-04:00"
+      "mtime": "2025-06-25T18:03:02-04:00"
     }
   },
   "active": "Tasks and Meeting Notes"
