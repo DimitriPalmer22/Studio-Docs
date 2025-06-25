@@ -6,79 +6,76 @@
         "type": "split",
         "children": [
           {
-            "id": "6aceb855781fd0cb",
-            "type": "tabs",
+            "id": "4ebbeeef042a601a",
+            "type": "split",
+            "dimension": 43.399339933993396,
             "children": [
               {
-                "id": "a069ec327aff8174",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "excalidraw",
-                  "state": {
-                    "file": "PrivateNotes/GameDesign/Avernoth Overview.excalidraw.md"
-                  },
-                  "pinned": true,
-                  "icon": "excalidraw-icon",
-                  "title": "Avernoth Overview.excalidraw"
-                }
+                "id": "cb82cbcca6126b00",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0f6aa3f3d8b0c182",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Projects/Summer Project/Game Idea 1.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "Game Idea 1"
+                    }
+                  }
+                ]
               },
               {
-                "id": "58f3e7cc8defaa08",
+                "id": "6615d75f919120d1",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "5fa9c8d090669a33",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "PrivateNotes/Daily/2025/06-June/2025-06-25-Wednesday.md",
+                        "mode": "source",
+                        "source": false,
+                        "backlinks": false
+                      },
+                      "icon": "lucide-file",
+                      "title": "2025-06-25-Wednesday"
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "horizontal"
+          },
+          {
+            "id": "170ba72fe2b71309",
+            "type": "tabs",
+            "dimension": 56.600660066006604,
+            "children": [
+              {
+                "id": "82462cd47b18c355",
                 "type": "leaf",
-                "pinned": true,
                 "state": {
-                  "type": "excalidraw",
+                  "type": "markdown",
                   "state": {
-                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Gameplay Overview.excalidraw.md"
+                    "file": "Projects/Summer Project/Meeting Notes/06-23 Meeting Notes.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
                   },
-                  "pinned": true,
-                  "icon": "excalidraw-icon",
-                  "title": "Avernoth Gameplay Overview.excalidraw"
+                  "icon": "lucide-file",
+                  "title": "06-23 Meeting Notes"
                 }
               }
             ]
-          },
-          {
-            "id": "2c43281ab3bfd6bf",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "c6bbebfa8fe4b43a",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PrivateNotes/GameDesign/Avernoth Overview.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Avernoth Overview"
-                }
-              },
-              {
-                "id": "00d5a7e05c119923",
-                "type": "leaf",
-                "pinned": true,
-                "state": {
-                  "type": "markdown",
-                  "state": {
-                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Gameplay Overview.md",
-                    "mode": "source",
-                    "source": false,
-                    "backlinks": false
-                  },
-                  "pinned": true,
-                  "icon": "lucide-file",
-                  "title": "Avernoth Gameplay Overview"
-                }
-              }
-            ],
-            "currentTab": 1
           }
         ],
         "direction": "vertical"
@@ -270,8 +267,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 613.5,
-        "collapsed": true
+        "width": 613.5
       },
       "left-ribbon": {
         "hiddenItems": {
@@ -290,8 +286,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "a069ec327aff8174",
-      "mtime": "2025-06-25T15:45:43-04:00"
+      "active": "82462cd47b18c355",
+      "mtime": "2025-06-25T15:49:37-04:00"
     },
     "Avernoth Game Design": {
       "main": {
@@ -584,8 +580,8 @@
         }
       },
       "active": "a069ec327aff8174",
-      "mtime": "2025-06-25T15:47:02-04:00"
+      "mtime": "2025-06-25T15:49:34-04:00"
     }
   },
-  "active": "Tasks and Meeting Notes"
+  "active": "Avernoth Game Design"
 }
