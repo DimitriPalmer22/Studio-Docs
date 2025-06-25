@@ -287,7 +287,7 @@
         }
       },
       "active": "82462cd47b18c355",
-      "mtime": "2025-06-25T15:49:51-04:00"
+      "mtime": "2025-06-25T16:40:59-04:00"
     },
     "Avernoth Game Design": {
       "main": {
@@ -325,8 +325,26 @@
                   "icon": "excalidraw-icon",
                   "title": "Avernoth Gameplay Overview.excalidraw"
                 }
+              },
+              {
+                "id": "f02107a35564f742",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PrivateNotes/GameDesign/Gameplay/Avernoth Features.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "pinned": true,
+                  "icon": "lucide-file",
+                  "title": "Avernoth Features"
+                }
               }
-            ]
+            ],
+            "currentTab": 2
           },
           {
             "id": "2c43281ab3bfd6bf",
@@ -424,8 +442,7 @@
           }
         ],
         "direction": "horizontal",
-        "width": 360.5124969482422,
-        "collapsed": true
+        "width": 360.5124969482422
       },
       "right": {
         "id": "a982a26f3dec65bb",
@@ -579,8 +596,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "a069ec327aff8174",
-      "mtime": "2025-06-25T15:49:47-04:00"
+      "active": "00d5a7e05c119923",
+      "mtime": "2025-06-25T16:40:43-04:00"
     }
   },
   "active": "Avernoth Game Design"
