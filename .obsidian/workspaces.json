@@ -6,7 +6,7 @@
         "type": "split",
         "children": [
           {
-            "id": "38cfc0bcff5d35ee",
+            "id": "54a14c042543d523",
             "type": "split",
             "dimension": 43.399339933993396,
             "children": [
@@ -32,11 +32,11 @@
                 ]
               },
               {
-                "id": "aedebd49556e2b7c",
+                "id": "327ff136da528039",
                 "type": "tabs",
                 "children": [
                   {
-                    "id": "92038d217db6ca56",
+                    "id": "7280e997bcbce7e1",
                     "type": "leaf",
                     "state": {
                       "type": "markdown",
@@ -84,9 +84,24 @@
                   "icon": "lucide-file",
                   "title": "New tab"
                 }
+              },
+              {
+                "id": "0ce2503dd22a9439",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "PrivateNotes/Daily/2025/06-June/2025-06-26-Thursday.md",
+                    "mode": "source",
+                    "source": false,
+                    "backlinks": false
+                  },
+                  "icon": "lucide-file",
+                  "title": "2025-06-26-Thursday"
+                }
               }
             ],
-            "currentTab": 1
+            "currentTab": 2
           }
         ],
         "direction": "vertical"
@@ -297,8 +312,8 @@
           "workspaces:Manage workspace layouts": false
         }
       },
-      "active": "b93bfc807377284c",
-      "mtime": "2025-06-26T10:57:59-04:00"
+      "active": "0ce2503dd22a9439",
+      "mtime": "2025-06-26T15:54:00-04:00"
     },
     "Avernoth Game Design": {
       "main": {
@@ -659,5 +674,5 @@
       "mtime": "2025-06-26T11:03:10-04:00"
     }
   },
-  "active": "Tasks and Meeting Notes"
+  "active": "Avernoth Game Design"
 }
