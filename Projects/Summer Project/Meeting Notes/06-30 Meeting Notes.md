@@ -45,7 +45,7 @@ At the very least, literally any time you guys submit a pull request, there shou
 
 - Everything I say should be verifiable by the content of the GDD.
 - The link to the GDD has been posted in the server in the important links channel
-- There's probably a separate doc that demonstrates the gameplay loop. Oh look, here it is [[Gaemplay Over]]
+- There's probably a separate doc that demonstrates the gameplay loop & it's relation to the GDD. Oh look, here it is [GDD Walkthrough](<../../../PrivateNotes/GameDesign/GDDWalkthrough/GDD Walkthrough.md>)
 
 ### Empire Insignia
 
