@@ -32,7 +32,8 @@ This week, I want to focus more on the in-progress things you guys have been wor
 - 3D Character Artist Meeting:
 	- Go over the enemy designs & the idea behind how we'll maximize them
 - Sound Meeting
-	- Go over exact refs from the playlist & be like hmm yeah the first track should be one like this
+	- Ask about the playlist. It was pretty long and might've been a little distracted. I made a shorter one that is more focused. Would you like to use that one instead?
+	- Go over exact refs from the playlist & be like hmm yeah the first track in the game should be one like this
 
 ### Send Pictures of Your Levels More Often
 
@@ -42,8 +43,7 @@ You should be sending pictures of your levels in the Discord (either in your ind
 
 At the very least, literally any time you guys submit a pull request, there should be a couple screenshots alongside it so I can see the level design changes you've made.
 
-
-### The Miro Boards have been Updated 
+### The Miro Boards Have Been Updated
 
 ### Go Over the Gameplay Loop
 
