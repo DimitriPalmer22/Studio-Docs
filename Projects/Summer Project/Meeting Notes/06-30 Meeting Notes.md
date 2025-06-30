@@ -18,7 +18,7 @@ This week, I want to focus more on the in-progress things you guys have been wor
 	- We'll go over the game's color palette.
 - Narrative Designer Meeting:
 	- Prefer to have this one earlier in the week
-	- Make sure you feel comfortable enough with the game's concept to continue writing the story
+	- Make sure you feel comfortable enough with the game's concept to continue writing more stuff
 	- Also talk about journal entries / codex
 - Environmental Artist Meeting:
 	- During the last meeting, I think we said to hold off on the texturing of the models until color palette & texturing stuff is more established. So, we can just look over models and progress & stuff idk
