@@ -9,11 +9,6 @@
 
 - We have a Google Drive for Avernoth. It'll have documentation and any other things we need to keep track of. The link is in the `#important-links` channel on the server.
 
-### Go Over the Gameplay Loop
-
-- Everything I say should be verifiable by the content of the GDD.
-- The link to the GDD has been posted in the server in the important links channel
-
 ### Weekly Meetings
 Last week, I was hard-focusing cleaning up the game's design, so most, if not all, of the meetings were about game design / production-related things.
 
@@ -45,6 +40,12 @@ I wasn't in-call as much last week, and I probably won't be in-call as much this
 You should be sending pictures of your levels in the Discord (either in your individual threads or in the designer channel) so that I'm able to see what you guys are doing. Going into your levels during my own time is too time-consuming and usually interrupts whatever else I'm working on.
 
 At the very least, literally any time you guys submit a pull request, there should be a couple screenshots alongside it so I can see the level design changes you've made.
+
+### Go Over the Gameplay Loop
+
+- Everything I say should be verifiable by the content of the GDD.
+- The link to the GDD has been posted in the server in the important links channel
+- There's probably a separate doc that demonstrates the gameplay loop. Oh look, here it is [[Gaemplay Over]]
 
 ### Empire Insignia
 
