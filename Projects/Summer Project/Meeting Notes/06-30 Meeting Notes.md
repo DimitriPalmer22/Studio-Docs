@@ -41,6 +41,9 @@ You should be sending pictures of your levels in the Discord (either in your ind
 
 At the very least, literally any time you guys submit a pull request, there should be a couple screenshots alongside it so I can see the level design changes you've made.
 
+
+### The Miro Boards have been Updated 
+
 ### Go Over the Gameplay Loop
 
 - Everything I say should be verifiable by the content of the GDD.
