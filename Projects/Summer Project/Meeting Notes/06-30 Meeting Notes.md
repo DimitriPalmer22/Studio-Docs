@@ -21,6 +21,7 @@ This week, I want to focus more on the in-progress things you guys have been wor
 	- Prefer to have this one earlier in the week
 - Environmental Artist Meeting:
 	- During the last meeting, I think we said to hold off on the texturing of the models until color palette & texturing stuff is more established. So, we can just look over models and progress & stuff idk
+	- We'll also go over the refs some more to make sure the vision for the game's aesthetic is clear
 - Level Designer Meeting:
 	- Take a look at levels. Talk about shifting the vibe of the game
 	- Someone does lighting.
