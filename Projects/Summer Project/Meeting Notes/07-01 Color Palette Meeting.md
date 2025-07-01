@@ -1,0 +1,1 @@
+- Blanket color palette that everything should adhere
