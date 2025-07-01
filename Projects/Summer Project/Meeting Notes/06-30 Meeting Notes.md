@@ -16,7 +16,7 @@ This week, I want to focus more on the in-progress things you guys have been wor
 
 - Meeting w/ Rae & Ash: Tuesday @ 3pm.
 	- We'll go over the game's color palette.
-- Narrative Designer Meeting Maybe 8 or 9:
+- Narrative Designer Meeting Maybe 8 or 9 tmr:
 	- Prefer to have this one earlier in the week
 	- Make sure you feel comfortable enough with the game's concept to continue writing more stuff
 	- Also talk about journal entries / codex
@@ -32,7 +32,7 @@ This week, I want to focus more on the in-progress things you guys have been wor
 	- In-progress sketches for
 - 3D Character Artist Meeting Wednesday @ 2pm
 	- Go over the enemy designs & the idea behind how we'll maximize them
-- Sound Meeting
+- Sound Meeting Thursday @ 6pm.
 	- Ask about the playlist. It was pretty long and might've been a little distracted. I made a shorter one that is more focused. Would you like to use that one instead?
 	- Go over exact refs from the playlist & be like hmm yeah the first track in the game should be one like this
 
