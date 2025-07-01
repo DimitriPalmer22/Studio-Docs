@@ -1,1 +1,2 @@
 - Blanket color palette that everything should adhere
+- Instead of gathering specific low-poly refs for props, just get a master list of game refs that the artists can refernce for a low-poly style
