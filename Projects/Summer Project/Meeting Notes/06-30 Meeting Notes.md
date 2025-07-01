@@ -16,14 +16,14 @@ This week, I want to focus more on the in-progress things you guys have been wor
 
 - Meeting w/ Rae & Ash: Tuesday @ 3pm.
 	- We'll go over the game's color palette.
-- Narrative Designer Meeting:
+- Narrative Designer Meeting Maybe 8 or 9:
 	- Prefer to have this one earlier in the week
 	- Make sure you feel comfortable enough with the game's concept to continue writing more stuff
 	- Also talk about journal entries / codex
-- Environmental Artist Meeting Maybe 8 or 9:
+- Environmental Artist Meeting idk fr:
 	- During the last meeting, I think we said to hold off on the texturing of the models until color palette & texturing stuff is more established. So, we can just look over models and progress & stuff idk
 	- We'll also go over the refs some more to make sure the vision for the game's aesthetic is clear
-- Level Designer Meeting:
+- Level Designer Meeting Thu
 	- Take a look at levels. Talk about shifting the vibe of the game
 	- Someone does lighting.
 	- Mikel hard focuses the portal VFX.
