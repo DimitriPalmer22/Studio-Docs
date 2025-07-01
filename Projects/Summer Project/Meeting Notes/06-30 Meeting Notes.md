@@ -14,13 +14,13 @@ Last week, I was hard-focusing cleaning up the game's design, so most, if not al
 
 This week, I want to focus more on the in-progress things you guys have been working on so I can give you guys feedback that reinforces the design decisions we've made & the content in the GDD. So, the expectation for a lot of you is that I want you guys to show up to the meeting with at least something to talk about in terms of progress.
 
-- Meeting w/ Rae: Tuesday @ 3pm.
+- Meeting w/ Rae & Ash: Tuesday @ 3pm.
 	- We'll go over the game's color palette.
 - Narrative Designer Meeting:
 	- Prefer to have this one earlier in the week
 	- Make sure you feel comfortable enough with the game's concept to continue writing more stuff
 	- Also talk about journal entries / codex
-- Environmental Artist Meeting:
+- Environmental Artist Meeting Maybe 8 or 9:
 	- During the last meeting, I think we said to hold off on the texturing of the models until color palette & texturing stuff is more established. So, we can just look over models and progress & stuff idk
 	- We'll also go over the refs some more to make sure the vision for the game's aesthetic is clear
 - Level Designer Meeting:
