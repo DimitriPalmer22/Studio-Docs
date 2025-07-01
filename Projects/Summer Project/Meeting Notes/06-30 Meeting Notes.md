@@ -28,7 +28,7 @@ This week, I want to focus more on the in-progress things you guys have been wor
 	- Someone does lighting.
 	- Mikel hard focuses the portal VFX.
 	- Find ways to fill the space up more
-- 2D Artist Meeting prolly Thursday @ some time:
+- 2D Artist Meeting prolly Saturday @ 11 am:
 	- In-progress sketches for
 - 3D Character Artist Meeting Wednesday @ 2pm
 	- Go over the enemy designs & the idea behind how we'll maximize them
