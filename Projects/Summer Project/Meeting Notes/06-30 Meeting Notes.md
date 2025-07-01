@@ -23,12 +23,12 @@ This week, I want to focus more on the in-progress things you guys have been wor
 - Environmental Artist Meeting idk fr:
 	- During the last meeting, I think we said to hold off on the texturing of the models until color palette & texturing stuff is more established. So, we can just look over models and progress & stuff idk
 	- We'll also go over the refs some more to make sure the vision for the game's aesthetic is clear
-- Level Designer Meeting Thu
+- Level Designer Meeting Thursday @ 8pm
 	- Take a look at levels. Talk about shifting the vibe of the game
 	- Someone does lighting.
 	- Mikel hard focuses the portal VFX.
 	- Find ways to fill the space up more
-- 2D Artist Meeting:
+- 2D Artist Meeting prolly Thursday :
 	- In-progress sketches for
 - 3D Character Artist Meeting:
 	- Go over the enemy designs & the idea behind how we'll maximize them
