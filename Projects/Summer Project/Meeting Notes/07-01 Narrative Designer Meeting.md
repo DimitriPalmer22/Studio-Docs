@@ -64,4 +64,4 @@
 		- Allister's allies can also talk about their own personal abilities / personal achievements in battle
 		- Allister's allies talk about tales they heard of Allister accomplishing something amazing in the past
 
-> Note: have an integer number that counts the number of times you died for the sake of dialogue. Chelle wants to make the characters more snarky. This NEEDS to happen
+> Note: have an integer number that counts the number of times you died for the sake of dialogue. Chelle wants to make the characters more snarky about how often Allister has died. This NEEDS to happen
