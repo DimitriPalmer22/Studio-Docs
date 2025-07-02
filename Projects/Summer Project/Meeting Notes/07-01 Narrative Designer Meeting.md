@@ -43,15 +43,17 @@
 - What these things are supposed to accomplish. Why are they talking to you?
 - how often they happen
 	- When you start the run - they are always the words for setting up your tome (unless if its the first one)
-		- Ay bro, don't forget your tome
+		- "Ay bro, don't forget your tome"
+		- "Yo, I thought you were the super strong magic guy, but you died"
+		- Comment about the enemy that killed Allister in their last run
 	- (sometimes) when you clear a room
-		- Snarky comment
+		- Snarky comment about Allister having difficulty clearing rooms
 		- You've made it this far type shit
 		- Comment about the war going on in the outside world
 	- After completing the final room of an "Area"
 		- Good job, dude
 		- Comment about this area
-		- Comment about the war going on in the outside world, but like a significant event
+		- Comment about the war going on in the outside world, but like some arbitrary significant event that happened
 	- Shop room (Gargoyle)
 		- Ay bro, don't take my stuff
 		- I'm hungry, give me mana essence
