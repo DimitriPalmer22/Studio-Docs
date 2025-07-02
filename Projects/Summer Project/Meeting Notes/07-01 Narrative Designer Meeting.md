@@ -57,9 +57,11 @@
 	- Shop room (Gargoyle)
 		- Ay bro, don't take my stuff
 		- I'm hungry, give me mana essence
-		- Wanna hear about the Archmage?
+		- Wanna hear about the Archmage / the creation of Avernoth
 	- Upgrade room. The first time, its an explanation from Myra.
-		- For the subsequent times, the allies can just comment on Allister getting an upgrade. ""
+		- For the subsequent times, the allies can just comment on Allister getting an upgrade.
+			- "Finally, an upgrade room. I was getting tired of seeing you flounder around" or something.
 		- Allister's allies can also talk about their own personal abilities / personal achievements in battle
+		- Allister's allies talk about tales they heard of Allister accomplishing something amazing in the past
 
 > Note: have an integer number that counts the number of times you died for the sake of dialogue. Chelle wants to make the characters more snarky. This NEEDS to happen
