@@ -1,19 +1,32 @@
 # Narrative Designer Meeting
+
+### Mad Mage's Name
+
 - The title for the "Mad Mage" is now the "Archmage of the High Court". This is what Allister and his allies will refer to him as. His actual name can come later because I'm still not feeling anything in particular.
+
+### The Knight Enemy
+
 - The knight enemy is pretty generic. Might need to completely revise this to make it more interesting and unique.
 - Names for the different areas of the game
 	- It wont make sense for the Archmage to give exposition about what things are in his notes. Things weren't like that when he created them
 	- It would only really make sense:
 		- for things to be explained & named purely exegetically
-		- OR Allister names things himself and makes the names kinda silly or witty. The names for the areas could be something l
-	- Allister could be the one naming things
-	- 
+		- OR Allister names things himself and makes the names kinda silly or witty. The names for the areas could be something like "the beginning"
+
+### The Tome Creation Process
+
 - Which ally character is the one creating the tome / upgrading it?
-	- Tarun can be the person who walks Allister through the process of creating the tome.
-	- An idea: y'know how like in textbooks, there are questions at the end of chapters? These could be the questions that Tarun asks Allister to help him learn more about the world.
-	- Keep track of the distribution of the questions
+
+- Tarun can be the person who walks Allister through the process of creating the tome.
+- An idea: y'know how like in textbooks, there are questions at the end of chapters? These could be the questions that Tarun asks Allister to help him learn more about the world.
+- Keep track of the distribution of the questions to avoid any spells from unintentionally being too rare or too common. An excel sheet for this is ideal.
+
+### Codex
+
+### Journal Room
+
 - Talk about *journal room* / journal entries / codex
-	- codex is purely exegetic
+	- codex is purely exegetic. It is a menu that the player can open to see information about the game world, characters, enemies, spells, etc.
 	- Okay, so the journal room is FUCKING ASS.
 	- INSTEAD of that, we can have each room have the chance to spawn a "writing desk". On it is a journal entry for the player to read. Buff to int when you read because its funny / incentivizes the player to pick up the notes.
 		- If we do this, then the level designers need a checklist of things that are needed in each level (prefab these):
