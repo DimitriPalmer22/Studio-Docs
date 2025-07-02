@@ -16,7 +16,7 @@ This week, I want to focus more on the in-progress things you guys have been wor
 
 - Meeting w/ Rae & Ash: Tuesday @ 3pm.
 	- We'll go over the game's color palette.
-- Narrative Designer Meeting Maybe 8 or 9 tmr:
+- Narrative Designer Meeting Maybe 8 tmr:
 	- Prefer to have this one earlier in the week
 	- Make sure you feel comfortable enough with the game's concept to continue writing more stuff
 	- Also talk about journal entries / codex
