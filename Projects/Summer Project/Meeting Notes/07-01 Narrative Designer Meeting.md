@@ -48,7 +48,7 @@
 		- Comment about the enemy that killed Allister in their last run
 	- (sometimes) when you clear a room
 		- Snarky comment about Allister having difficulty clearing rooms
-		- You've made it this far type shit
+		- Good job on making it this far
 		- Comment about the war going on in the outside world
 	- After completing the final room of an "Area"
 		- Good job, dude
