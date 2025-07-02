@@ -1,12 +1,13 @@
 # Narrative Designer Meeting
-- The title for the "Mad Mage" is now the "Archmage of the High Court". This is what Allister and his allies will refer to him as. His actual name ca
-- Lowkey, more interesting names for enemies, too. Mainly the knight armor
-	- The name is gonna stay as Knight
+- The title for the "Mad Mage" is now the "Archmage of the High Court". This is what Allister and his allies will refer to him as. His actual name can come later because I'm still not feeling anything in particular.
+- The knight enemy is pretty generic. Might need to completely revise this to make it more interesting and unique.
 - Names for the different areas of the game
-	- It wont make sense for the mage to really give exposition about things are. They weren't like that when he was creating them
-	- It would only really make sense for things to be explained purely exegetically or Allister names things
+	- It wont make sense for the Archmage to give exposition about what things are in his notes. Things weren't like that when he created them
+	- It would only really make sense:
+		- for things to be explained & named purely exegetically
+		- OR Allister names things himself and makes the names kinda silly or witty. The names for the areas could be something l
 	- Allister could be the one naming things
-	- Could be something simple like "the beginning"
+	- 
 - Which ally character is the one creating the tome / upgrading it?
 	- Tarun can be the person who walks Allister through the process of creating the tome.
 	- An idea: y'know how like in textbooks, there are questions at the end of chapters? These could be the questions that Tarun asks Allister to help him learn more about the world.
