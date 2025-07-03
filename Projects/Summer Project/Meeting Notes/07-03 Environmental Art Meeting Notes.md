@@ -2,4 +2,6 @@
 - Decide a clearer picture of what I want each area to look like. Not just a color palette, but like a CLEAR DESCRIPTION of each area. That way the artists know what to look forward to.
 - Better communication with LD so they know what they need to be doing every sprint
 	- What props specifically
-	- If there are refs, 
+	- If there are refs, if there are multiple different ones, specify the details for each prop ref
+- Texturing, what do you guys need from me?
+	- As long as they have the solid game refs, with specific descriptions of prop textures I like
