@@ -1,2 +1,5 @@
 - More stone refs
-- Decide a clearer picture of what I want each area to look like
+- Decide a clearer picture of what I want each area to look like. Not just a color palette, but like a CLEAR DESCRIPTION of each area. That way the artists know what to look forward to.
+- Better communication with LD so they know what they need to be doing every sprint
+	- What props specifically
+	- If there are refs, 
