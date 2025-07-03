@@ -1,0 +1,2 @@
+- More stone refs
+- Decide a clearer picture of what I want each area to look like
