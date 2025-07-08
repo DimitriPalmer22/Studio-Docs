@@ -37,6 +37,10 @@ We took a look at the project in-engine and looked at what we have so far. We di
 
 ### Tasks
 
+#### Programming
+
+- I'll continue grinding away at the ginormous list of things on the programming ClickUp
+
 #### Animation
 
 - Andre and James should continue grinding away at the list of animations on the ClickUp
@@ -64,7 +68,7 @@ We took a look at the project in-engine and looked at what we have so far. We di
 - Keep working on the models you've been working on.
 - Send updates periodically.
 
-#### Narrative
+#### Narrative Designers
 
 - I'll send a list of the different dialogue interactions that should be written.
 
