@@ -74,5 +74,10 @@
 	- Screen shaking feels negative, so we should move it to when the player takes damage
 	- Add a trail like in Hades
 
-#### The Great Debate
+#### The Great Debate: What Should the Insignia Be?
 
+![](<../../../_Meta/Attachments/Pasted image 20250714230857.png>)
+
+- We needed to choose an insignia for the Musarun Empire
+- Ay, me personally, I like 1
+- The team voted 3, though
