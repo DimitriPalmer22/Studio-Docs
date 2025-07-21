@@ -59,6 +59,7 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- Area for counting the number of keys the player has (NOT functional)
 	- A section for the player's passive spells (NOT functional)
 	- A section for the player's primary and secondary spells (mostly functional)
+		- Depending on the spells the player has equipped, these icons change
 
 ##### Animation Things
 - Andre made it so Allister's cloak has cloth physics
@@ -71,6 +72,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- [Here's the link for convinience](<../Narrative/07-17 First Journal Entry Task.md>)
 
 ##### Other Small Changes
-- Camera fades in an out when going between rooms
+- Camera fades in an out when going between rooms (during which the player can't move)
+- While the player is locked on to an enemy, the reticle in the center of the screen disappears
+- The lock-on point for the enemies has been raised to chest height
 
 #### Things for This Week
