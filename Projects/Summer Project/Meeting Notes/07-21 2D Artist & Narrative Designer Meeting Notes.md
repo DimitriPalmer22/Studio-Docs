@@ -31,3 +31,5 @@
 ![](<../../../_Meta/Attachments/Pasted image 20250721113008.png>)
 
 ### Showing the game
+- Throw in the temp art for the portraits so we can size the UI things appropriately
+- For the ??? characters, we can use a silhouette for them since the player doesn't know who they are yet
