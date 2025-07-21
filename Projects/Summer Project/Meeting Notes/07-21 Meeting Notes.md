@@ -2,7 +2,7 @@
 
 ### Meeting Times
 
-> I am unavailable on Saturday.
+> I am unavailable most of Saturday. I am moving back home, and don't really know when I'm getting back. I'll most likely be available after 8 pm, though.
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
