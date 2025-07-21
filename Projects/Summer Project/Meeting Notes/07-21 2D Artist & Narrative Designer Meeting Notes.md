@@ -36,4 +36,15 @@
 
 #### UI Stuff
 
-- 
+![](<../../../_Meta/Attachments/Pasted image 20250721114037.png>)
+
+- Health bar
+- Mana bar
+- Icon for mana essence (the money)
+- Icon for a key
+- background for the spell icon
+	- These are the 
+- Spell icons
+	- Crystal Barrage spell
+	- Fireball spell 1
+	- Fireball spell 2 (bigger fireball)
