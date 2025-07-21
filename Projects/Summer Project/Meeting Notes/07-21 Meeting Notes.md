@@ -32,6 +32,7 @@
 	- Functionally, the upgrade room should be almost complete.
 		- The dialogue interaction works
 		- The upgrade screen appears, although two of the four upgrade types on the GDD are not done yet.
+	- The upgrade screen is also very ugly right now, but it is functional.
 
 ##### Spells
 - Spells can now be set to follow specific points (sockets) on the player, rather than just the player mesh.
@@ -68,5 +69,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Made a simple layout for the journal (that will be revised)
 	- Check Chelle's thread for the doc about that if you're interested
 	- [Here's the link for convinience](<../Narrative/07-17 First Journal Entry Task.md>)
+
+##### Other Small Changes
+- Camera fades in an out when going between rooms
 
 #### Things for This Week
