@@ -9,7 +9,7 @@
 | Narrative Designer + CD Meeting           |                                                                                                                                                             |
 | 2D Artist + Narrative Designer Meeting    |                                                                                                                                                             |
 | Environmental Artist Meeting              |                                                                                                                                                             |
-| LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so... |
+| LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
 |                                           |                                                                                                                                                             |
 | Sound Meeting (FMOD implementation + SDD) |                                                                                                                                                             |
 | Character Artist Meeting                  |                                                                                                                                                             |
@@ -71,7 +71,7 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Made a simple layout for the journal (that will be revised)
 	- Check Chelle's thread for the doc about that if you're interested
 	- [Here's the link for convinience](<../Narrative/07-17 First Journal Entry Task.md>)
-	- Side note: 
+	- Side note: Chelle and I also briefly talked about this in our meeting on 07-17. I added those notes to the end of the previously mentioned document as well.
 
 ##### Other Small Changes
 - Camera fades in an out when going between rooms (during which the player can't move)
