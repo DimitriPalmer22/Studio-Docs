@@ -27,7 +27,6 @@
 	- For example, the fireball spell now follows the player's hand.
 - For testing out different animation types for the spells, I threw in a "punch" spell using Mixamo animations real quick
 	- It's basically the fireball spell, but it shoots out a fireball as the player punches
-- 
 
 ##### VFX
 If you guys have been keeping up with the team-designer channel, you've most likely seen these already.
@@ -46,5 +45,11 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- Area for counting the number of keys the player has (NOT functional)
 	- A section for the player's passive spells (NOT functional)
 	- A section for the player's primary and secondary spells (mostly functional)
+
+##### Animation Things
+- Andre made it so Allister's cloak has cloth physics
+	- The clipping is a known issue, and we're having Azalee go back and increase the number of polygons in the cloak to reduce the clipping issues
+	- She'll also increase the polygon count for the scarf as well so that it has cloth physics too
+- 
 
 #### Things for This Week
