@@ -30,7 +30,7 @@
 
 ![](<../../../_Meta/Attachments/Pasted image 20250721113008.png>)
 
-### Showing the game
+### Showing the Game
 - Throw in the temp art for the portraits so we can size the UI things appropriately
 - For the ??? characters, we can use a silhouette for them since the player doesn't know who they are yet
 
@@ -43,8 +43,13 @@
 - Icon for mana essence (the money)
 - Icon for a key
 - background for the spell icon
-	- These are the 
+	- These are the
 - Spell icons
 	- Crystal Barrage spell
 	- Fireball spell 1
 	- Fireball spell 2 (bigger fireball)
+
+![](<../../../_Meta/Attachments/Pasted image 20250721114251.png>)
+- Backdrop for the text (to replace the black box that the text sits on top of)
+- Backdrop for the speaker's tag
+	- Ideally, this should be big enough to fit all of the characters' names
