@@ -4,6 +4,7 @@
 - We have some color palette ideas for Hidetomo
 - Instead of having a specific color palette now, we can figure out the patterning and stuff first, which could help determine the color palette later
 - Wrong sigil on Hidetomo's crown
+	- He has the good guy sigil, not the bad guy sigil
 
 ### Empire Logo
 - We like the 2nd logo
