@@ -2,19 +2,17 @@
 
 ### Meeting Times
 
-> I am unavailable on Saturday. 
+> I am unavailable on Saturday.
 
-- Narrative Designer + CD Meeting
-- 2D Artist + Narrative Designer Meeting
-- Environmental Artist Meeting
-- LD Meeting
-	- 
-- Sound Meeting
-	- 
-- Character Artist Meeting
-	- 
-- Animation Meeting
-	- 
+| Meeting                                | Possible Times |
+| -------------------------------------- | -------------- |
+| Narrative Designer + CD Meeting        |                |
+| 2D Artist + Narrative Designer Meeting |                |
+| Environmental Artist Meeting           |                |
+| LD Meeting                             |                |
+| Sound Meeting                          |                |
+| Character Artist Meeting               |                |
+| Animation Meeting                      |                |
 
 ### Play the Game in the Meeting
 
