@@ -28,6 +28,10 @@
 
 ##### VFX
 If you guys have been keeping up with the team-designer channel, you've most likely seen these already.
-- 
+- The crystals now have an ambient twinkle VFX around them
+	- These are the cyan twinkles that appear specifically around the crystals
+	- This is placed on the crystal blueprint, so you don't have to manually place the VFX in the level
+- The rooms in general also have ambient magical twinkles that fill the environment
+	- These are the white twinkles that are scattered around the level
 
 #### Things for This Week
