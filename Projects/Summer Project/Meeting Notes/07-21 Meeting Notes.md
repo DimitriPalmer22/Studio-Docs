@@ -25,6 +25,9 @@
 ##### Spells
 - Spells can now be set to follow specific points (sockets) on the player, rather than just the player mesh.
 	- For example, the fireball spell now follows the player's hand.
+- For testing out different animation types for the spells, I threw in a "punch" spell using Mixamo animations real quick
+	- It's basically the fireball spell, but it shoots out a fireball as the player punches
+- 
 
 ##### VFX
 If you guys have been keeping up with the team-designer channel, you've most likely seen these already.
@@ -40,9 +43,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- Health bar (functional)
 	- Mana bar (functional)
 	- Area for the player's mana essence (functional, but is purely text for right now)
-	- Area for counting the number of keys the player has (not functional)
+	- Area for counting the number of keys the player has (NOT functional)
 	- A section for the player's passive spells (NOT functional)
 	- A section for the player's primary and secondary spells (mostly functional)
-	- 
 
 #### Things for This Week
