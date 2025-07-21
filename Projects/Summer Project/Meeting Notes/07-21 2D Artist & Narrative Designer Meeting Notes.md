@@ -59,4 +59,6 @@
 
 ### Other Stuff
 
-- In the upgrade room, the crystals are just jutting out of the 
+- In the upgrade room, the crystals are just jutting out of the ground. We need more blueprints / prefabs for the crystals.
+- The UI for a power should grey out while the cooldown is active
+- Scarf physics 
