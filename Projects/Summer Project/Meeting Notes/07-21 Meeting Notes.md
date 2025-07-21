@@ -4,15 +4,15 @@
 
 > I am unavailable most of Saturday. I am moving back home, and don't really know when I'm getting back. I'll most likely be available after 8 pm, though.
 
-| Meeting                                | Possible Times |
-| -------------------------------------- | -------------- |
-| Narrative Designer + CD Meeting        |                |
-| 2D Artist + Narrative Designer Meeting |                |
-| Environmental Artist Meeting           |                |
-| LD Meeting                             |                |
-| Sound Meeting                          |                |
-| Character Artist Meeting               |                |
-| Animation Meeting                      |                |
+| Meeting                                   | Possible Times                                                              |
+| ----------------------------------------- | --------------------------------------------------------------------------- |
+| Narrative Designer + CD Meeting           |                                                                             |
+| 2D Artist + Narrative Designer Meeting    |                                                                             |
+| Environmental Artist Meeting              |                                                                             |
+| LD Meeting                                | Probably any weekday @ 8, but I'll ask Mikel for when he's available first. |
+| Sound Meeting (FMOD implementation + SDD) |                                                                             |
+| Character Artist Meeting                  |                                                                             |
+| Animation Meeting                         |                                                                             |
 
 ### Play the Game in the Meeting
 
