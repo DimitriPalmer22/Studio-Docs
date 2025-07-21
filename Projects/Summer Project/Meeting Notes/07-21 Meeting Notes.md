@@ -112,8 +112,9 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 
 ##### Level Design
 
-
-#### 
+#### Character Artists
+- Allister model progress
+- Work on enemy models
 
 #### Small Polish Things (that May or May not Get Done)
 - Throw on the spell SFX onto the crystal spell
