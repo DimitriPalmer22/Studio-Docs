@@ -18,9 +18,16 @@
 
 #### Changes Since the Last Meeting
 
+##### Main Menu
+- Brian updated the main menu concept to have a book that opens and flips pages
+- He also changed the main menu fonts
+
 ##### Spells
-- Spells can now be set to follow spec
+- Spells can now be set to follow specific points (sockets) on the player, rather than just the player mesh.
+	- For example, the fireball spell now follows the player's hand.
 
-
+##### VFX
+If you guys have been keeping up with the team-designer channel, you've most likely seen these already.
+- 
 
 #### Things for This Week
