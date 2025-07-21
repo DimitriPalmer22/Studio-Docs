@@ -100,7 +100,12 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 #### Narrative Designer
 - First, ask about the progress on the journal entry task Chelle and I talked about
 
-#### Small Polish Things
+#### Designers
+
+- Pretty up the tome creation screen's UI
+
+
+#### Small Polish Things (that May or May not Get Done)
 - Throw on the spell SFX onto the crystal spell
 - Invincibility flash after getting hit
 - Invincibility conveyance while the player is dodging
