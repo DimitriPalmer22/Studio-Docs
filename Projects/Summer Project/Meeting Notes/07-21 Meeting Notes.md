@@ -21,9 +21,10 @@ A couple weeks ago, I mentioned that the goal of the next couple weeks of work w
 
 *I want us to show the game off in the Shbeeb alumni Discord server.*
 
-We can keep our peers up to date w/ what we've been up to over the summer, and we can also get some outside feedback on the game. 
+We can keep our peers up to date w/ what we've been up to over the summer, and we can also get some outside feedback on the game.
 
-
+- ***The date for this is Sunday, August 3rd***. If anyone is uncomfortable with this date, or thinks we need to push it back, please let me know.
+- This date might seem a little soon, but I want most of the group to focus on polishing the content that is already in the game, rather than adding new  
 
 ### Play the Game in the Meeting
 
