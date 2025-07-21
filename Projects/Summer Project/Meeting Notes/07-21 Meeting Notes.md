@@ -28,7 +28,17 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 
 ### Things that Need to Be Polished for VS
 
+#### Designers
+- Find placeholder assets for any art that is not in the game currently
+	- In-game UI
+	- Dialogue boxes
+	- 
 
+#### Art
+- 
+
+#### Programming
+- Any feature that is in the GDD, but is NOT in the game currently needs to be added
 
 ### Play the Game in the Meeting
 
