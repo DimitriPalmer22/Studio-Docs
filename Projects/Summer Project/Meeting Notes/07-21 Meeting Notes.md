@@ -76,5 +76,6 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - While the player is locked on to an enemy, the reticle in the center of the screen disappears
 - The lock-on point for the enemies has been raised to chest height
 
-#### Things for This Week
+#### Feedback from the Team Looking at the Game
 
+### Things for This Week

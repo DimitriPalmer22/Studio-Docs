@@ -33,3 +33,16 @@ Some more possible ideas for future journal entries:
 ![](<../../../_Meta/Attachments/Pasted image 20250717144231.png>)
 
 ![](<../../../_Meta/Attachments/Pasted image 20250717144258.png>)
+
+# Notes From the Following Meeting
+- Curious how were going to go about the order we show the notes
+	- Each area can have a pool of notes and we can select randomly from there.
+- I also wanna give you more agency for these notes
+- Research different note types from other games
+- Implementation of the notes:
+	- Resident Evil style notes where the note itself is completely handwritten, but there is a toggle to show the note completely typed out as an overlay
+- Word count, 150 probably won't be enough
+	- Reduce the size of the title
+	- Reduce the size of the font in general
+- We should have someone write the pages
+	- Who has tweaker handwriting?
