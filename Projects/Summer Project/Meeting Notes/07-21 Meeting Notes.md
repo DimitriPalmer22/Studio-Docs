@@ -22,6 +22,12 @@
 - Brian updated the main menu concept to have a book that opens and flips pages
 - He also changed the main menu fonts
 
+##### Tome Creation & Tome Upgrades
+- After the first dialogue interaction in the starting room, the player is greeted by the tome creation screen
+	- The tome creation screen is very ugly right now, but it is mostly functional
+	- The tome creation screen was created in accordance with the GDD, so you should be able to read that to clearly understand what is going on.
+	- Each question type is func
+
 ##### Spells
 - Spells can now be set to follow specific points (sockets) on the player, rather than just the player mesh.
 	- For example, the fireball spell now follows the player's hand.
@@ -57,8 +63,5 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Made a simple layout for the journal (that will be revised)
 	- Check Chelle's thread for the doc about that if you're interested
 	- [Here's the link for convinience](<../Narrative/07-17 First Journal Entry Task.md>)
-
-##### Tome Creation & Tome Upgrades
-- After the f
 
 #### Things for This Week
