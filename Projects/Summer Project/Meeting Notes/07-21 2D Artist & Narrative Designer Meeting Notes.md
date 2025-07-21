@@ -55,7 +55,7 @@
 
 ![](<../../../_Meta/Attachments/Pasted image 20250721114251.png>)
 - Backdrop for the text (to replace the black box that the text sits on top of)
-- Backdrop for the speaker's tag
+- Backdrop for the speaker's name
 	- Ideally, this should be big enough to fit all of the characters' names
 
 ### Other Stuff
