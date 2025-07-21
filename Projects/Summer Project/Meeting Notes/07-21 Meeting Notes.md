@@ -10,6 +10,7 @@
 | 2D Artist + Narrative Designer Meeting    |                                                                                                                                                             |
 | Environmental Artist Meeting              |                                                                                                                                                             |
 | LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so... |
+|                                           |                                                                                                                                                             |
 | Sound Meeting (FMOD implementation + SDD) |                                                                                                                                                             |
 | Character Artist Meeting                  |                                                                                                                                                             |
 | Animation Meeting                         |                                                                                                                                                             |
