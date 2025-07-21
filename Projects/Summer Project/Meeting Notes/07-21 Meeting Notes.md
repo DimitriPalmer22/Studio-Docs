@@ -100,9 +100,7 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 #### Narrative Designer
 - First, ask about the progress on the journal entry task Chelle and I talked about
 
-#### Designers
-
-##### UI
+#### UI (Brian)
 - Pretty up the tome creation screen's UI
 	- Establish a solid layout
 	- Give a rough idea of what each UI element is supposed to look like (have it fit with the book theme)
