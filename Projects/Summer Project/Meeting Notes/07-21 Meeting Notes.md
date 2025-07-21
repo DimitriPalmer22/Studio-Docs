@@ -89,12 +89,16 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- Whenever the player enters a dialogue interaction, the camera goes to a new environment that looks like it is INSIDE the dialogue portal
 - Spell animation combo system
 	- Some spells allow the player to repeatedly use them and get a string of animations as opposed to just the one animation
-- Omnidirectional Dodge
 - More enemy AI revision
 	- More aggressive enemy AI
 	- Dodge functionality
 
+#### Animation
+- Omnidirectional Dodge (w/ programmer)
+- More player attack animations
+
 #### Narrative Designer
+- First, ask about the progress on the journal entry task Chelle and I talked about
 
 #### Small Polish Things
 - Throw on the spell SFX onto the crystal spell
