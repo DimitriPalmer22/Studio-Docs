@@ -15,7 +15,7 @@
 
 ### Portraits
 
-> Something that we need to revisit is the color of the portal affecting the portraits. We should probably add a blue rim light or something to the character portrits 
+> Something that we need to revisit is the color of the portal affecting the portraits. We should probably add a blue rim light or something to the character portraits to show that the characters are in the portal.
 
 - Allister is a pretty confident guy and that can come through a little more in the portrait
 	- Turn up Allister's mouth a little bit to show this
@@ -56,3 +56,7 @@
 - Backdrop for the text (to replace the black box that the text sits on top of)
 - Backdrop for the speaker's tag
 	- Ideally, this should be big enough to fit all of the characters' names
+
+### Other Stuff
+
+- In the upgrade room, the crystals are just jutting out of the 
