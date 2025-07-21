@@ -35,6 +35,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- This is placed on the crystal blueprint, so you don't have to manually place the VFX in the level
 - The rooms in general also have ambient magical twinkles that fill the environment
 	- These are the white twinkles that are scattered around the level
+- The fireball & fire trail VFX have been reworked to be more fire-y
+- Last week, I had the screen shaking whenever the player dodged. I removed that and transferred the screen shake to whenever the player gets damaged instead.
 
 ##### In-Game HUD
 - Last week, I also had Brian create a basic blockout for the in-game HUD.
@@ -50,6 +52,7 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Andre made it so Allister's cloak has cloth physics
 	- The clipping is a known issue, and we're having Azalee go back and increase the number of polygons in the cloak to reduce the clipping issues
 	- She'll also increase the polygon count for the scarf as well so that it has cloth physics too
-- 
+
+##### 
 
 #### Things for This Week
