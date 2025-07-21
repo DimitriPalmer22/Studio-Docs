@@ -53,6 +53,12 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- The clipping is a known issue, and we're having Azalee go back and increase the number of polygons in the cloak to reduce the clipping issues
 	- She'll also increase the polygon count for the scarf as well so that it has cloth physics too
 
-##### 
+##### Journal
+- Made a simple layout for the journal (that will be revised)
+	- Check Chelle's thread for the doc about that if you're interested
+	- [Here's the link for convinience](<../Narrative/07-17 First Journal Entry Task.md>)
+
+##### Tome Creation & Tome Upgrades
+- After the f
 
 #### Things for This Week
