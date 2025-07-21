@@ -19,12 +19,16 @@
 
 A couple weeks ago, I mentioned that the goal of the next couple weeks of work were aimed toward creating a "vertical slice" of the game: a small polished section of gameplay that showcases the game's mechanics, art style, and overall feel.
 
-*I want us to show the game off in the Shbeeb alumni Discord server.*
+*I want us to show the game off in the Shbeeb alumni Discord server once we hit this milestone.*
 
 We can keep our peers up to date w/ what we've been up to over the summer, and we can also get some outside feedback on the game.
 
 - ***The date for this is Sunday, August 3rd***. If anyone is uncomfortable with this date, or thinks we need to push it back, please let me know.
-- This date might seem a little soon, but I want most of the group to focus on polishing the content that is already in the game, rather than adding new  
+- This date might seem a little soon, but I want most of the group to focus on polishing the content that is already in the game, rather than adding new content.
+
+### Things that Need to Be Polished for VS
+
+
 
 ### Play the Game in the Meeting
 
