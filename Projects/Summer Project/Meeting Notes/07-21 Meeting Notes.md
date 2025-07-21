@@ -34,4 +34,15 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - The rooms in general also have ambient magical twinkles that fill the environment
 	- These are the white twinkles that are scattered around the level
 
+##### In-Game HUD
+- Last week, I also had Brian create a basic blockout for the in-game HUD.
+- It has:
+	- Health bar (functional)
+	- Mana bar (functional)
+	- Area for the player's mana essence (functional, but is purely text for right now)
+	- Area for counting the number of keys the player has (not functional)
+	- A section for the player's passive spells (NOT functional)
+	- A section for the player's primary and secondary spells (mostly functional)
+	- 
+
 #### Things for This Week
