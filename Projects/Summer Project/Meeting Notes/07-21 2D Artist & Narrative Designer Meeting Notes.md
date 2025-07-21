@@ -19,10 +19,15 @@
 	- Turn up Allister's mouth a little bit to show this
 - Alecks decided to put the crop for the portrait above Allister's waist.
 	- This is most-likely going to apply to all the normal-size portraits
+- ***How do we represent Tarun in the portraits given his small stature?***
+	- He would be way shorter in the portrait, showing off less of his design
+	- Play around with his height
 
-- Portrait Resolution: 
+- Portrait Resolution:
 	- The original image is 3500x3500
 	- Shrink them down to like 1/5 of their size to crush them
 - After looking at the portraits side by side, they look pretty visually consistent
 
 ![](<../../../_Meta/Attachments/Pasted image 20250721113008.png>)
+
+### Showing the game
