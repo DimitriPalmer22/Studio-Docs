@@ -102,8 +102,18 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 
 #### Designers
 
+##### UI
 - Pretty up the tome creation screen's UI
+	- Establish a solid layout
+	- Give a rough idea of what each UI element is supposed to look like (have it fit with the book theme)
+- Pretty up the upgrade screen's UI
+	- Establish a solid layout
+	- Give a rough idea of what each UI element is supposed to look like (have it fit with the book theme)
 
+##### Level Design
+
+
+#### 
 
 #### Small Polish Things (that May or May not Get Done)
 - Throw on the spell SFX onto the crystal spell
