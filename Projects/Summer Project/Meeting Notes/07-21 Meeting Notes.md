@@ -85,6 +85,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 #### Programmer
 - Dialogue portal transition
 	- Whenever the player enters a dialogue interaction, the camera goes to a new environment that looks like it is INSIDE the dialogue portal
+- Spell animation combo system
+	- Some spells allow the player to repeatedly use them and get a string of animations as opposed to just the one animation
 - 
 
 #### Narrative Designer
