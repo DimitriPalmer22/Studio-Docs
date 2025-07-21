@@ -15,7 +15,11 @@
 | Character Artist Meeting                  |                                                                                                                                                             |
 | Animation Meeting                         |                                                                                                                                                             |
 
-### Showing off the Game
+### Vertical Slice / Presenting the Game
+
+A couple weeks ago, I mentioned that the goal of the next couple weeks of work were aimed toward creating a "vertical slice" of the game: a small polished section of gameplay that showcases the game's mechanics, art style, and overall feel.
+
+*I want us to show the game off *
 
 ### Play the Game in the Meeting
 
