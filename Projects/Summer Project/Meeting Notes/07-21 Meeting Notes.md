@@ -16,6 +16,11 @@
 
 ### Play the Game in the Meeting
 
-#### Changes
+#### Changes Since the Last Meeting
+
+##### Spells
+- Spells can now be set to follow spec
+
+
 
 #### Things for This Week
