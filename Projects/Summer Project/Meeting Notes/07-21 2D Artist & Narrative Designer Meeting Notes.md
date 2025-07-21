@@ -43,7 +43,8 @@
 - Icon for mana essence (the money)
 - Icon for a key
 - background for the spell icon
-	- These are the
+	- These are the purple boxes on the sides
+	- The are also the pink diamonds in the bottom right corner
 - Spell icons
 	- Crystal Barrage spell
 	- Fireball spell 1
