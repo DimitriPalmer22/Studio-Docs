@@ -18,3 +18,7 @@
 - Allister is a pretty confident guy and that can come through a little more in the portrait
 	- Turn up Allister's mouth a little bit to show this
 - Alecks decided to put the crop for the portrait above Allister's waist
+
+- Magnus Portrait Resolution: 
+	- The original image is 3500x3500
+	- Shrink them down to like 1/5 of their 
