@@ -81,3 +81,10 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 > These are things the group comments on as I play the game on-stream. We don't *have* to follow these, but I'll jot them down regardless.
 
 ### Things for This Week
+
+#### Programmer
+- Dialogue portal transition
+	- Whenever the player enters a dialogue interaction, the camera goes to a new environment that looks like it is INSIDE the dialogue portal
+- 
+
+#### Narrative Designer
