@@ -15,6 +15,8 @@
 | Character Artist Meeting                  |                                                                                                                                                             |
 | Animation Meeting                         |                                                                                                                                                             |
 
+### Showing off the Game
+
 ### Play the Game in the Meeting
 
 #### Changes Since the Last Meeting
