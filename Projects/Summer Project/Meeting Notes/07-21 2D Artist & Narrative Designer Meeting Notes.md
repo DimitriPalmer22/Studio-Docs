@@ -3,7 +3,7 @@
 ### Hidetomo
 - We have some color palette ideas for Hidetomo
 - Instead of having a specific color palette now, we can figure out the patterning and stuff first, which could help determine the color palette later
-- Wrong sigil on Hidetomo
+- Wrong sigil on Hidetomo's crown
 
 ### Empire Logo
 - We like the 2nd logo
@@ -61,4 +61,4 @@
 
 - In the upgrade room, the crystals are just jutting out of the ground. We need more blueprints / prefabs for the crystals.
 - The UI for a power should grey out while the cooldown is active
-- Scarf physics 
+- Scarf physics
