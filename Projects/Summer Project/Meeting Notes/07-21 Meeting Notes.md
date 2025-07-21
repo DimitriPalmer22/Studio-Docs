@@ -77,3 +77,4 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - The lock-on point for the enemies has been raised to chest height
 
 #### Things for This Week
+
