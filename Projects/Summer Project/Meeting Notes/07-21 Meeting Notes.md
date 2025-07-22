@@ -6,7 +6,10 @@
 
 | Meeting                                   | Possible Times                                                                                                                                            |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Creative meeting w/ Matthew & Andre       | Tuesday @ 2 pm                                                                                                                                            |
 | Sound Meeting (FMOD implementation + SDD) | Tuesday @ 11 am                                                                                                                                           |
+| Narrative Designer + CD Meeting           | Thursday @ 11 am                                                                                                                                          |
+| 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
 | Environmental Artist Meeting              | Tuesday 5-10 pm?<br>Wednesday 5-10 pm?<br>Thursday 5-10 pm?                                                                                               |
 | LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
 | Character Artist Meeting                  | Thursday @ 2pm                                                                                                                                            |
