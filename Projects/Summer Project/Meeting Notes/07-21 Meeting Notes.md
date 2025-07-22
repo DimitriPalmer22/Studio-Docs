@@ -42,7 +42,7 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 - Footstep sounds
 - Every spell currently in the game should have some type of sound(s) for it firing
 	- These could be made in-house OR they could be royalty-free sounds we find online and can use as placeholders
-- 
+- The dialogue sounds (like the scribbling sounds)
 
 #### Art
 - Character portraits
