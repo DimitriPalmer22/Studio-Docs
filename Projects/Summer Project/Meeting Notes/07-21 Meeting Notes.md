@@ -12,7 +12,7 @@
 | LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
 | Creative meeting w/ Matthew & Andre       | Tuesday @ 2 pm                                                                                                                                            |
 | Sound Meeting (FMOD implementation + SDD) | Tuesday @ 11 am                                                                                                                                           |
-| Character Artist Meeting                  |                                                                                                                                                           |
+| Character Artist Meeting                  | Thursday @ 2pm                                                                                                                                            |
 | Animation Meeting                         |                                                                                                                                                           |
 
 ### Vertical Slice / Presenting the Game
