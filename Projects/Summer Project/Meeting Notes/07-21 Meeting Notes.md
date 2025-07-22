@@ -6,11 +6,11 @@
 
 | Meeting                                   | Possible Times                                                                                                                                            |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Narrative Designer + CD Meeting           | Thursday @ 11am                                                                                                                                           |
-| 2D Artist + Narrative Designer Meeting    |                                                                                                                                                           |
+| Narrative Designer + CD Meeting           | Thursday @ 11 am                                                                                                                                          |
+| 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
 | Environmental Artist Meeting              |                                                                                                                                                           |
 | LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
-|                                           |                                                                                                                                                           |
+| Creative meeting w/ Matthew & adnrew      |                                                                                                                                                           |
 | Sound Meeting (FMOD implementation + SDD) |                                                                                                                                                           |
 | Character Artist Meeting                  |                                                                                                                                                           |
 | Animation Meeting                         |                                                                                                                                                           |
