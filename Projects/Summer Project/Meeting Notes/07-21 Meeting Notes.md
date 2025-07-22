@@ -107,6 +107,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 
 > These are things the group comments on as I play the game on-stream. We don't *have* to follow these, but I'll jot them down regardless.
 
+- Less floppiness / movement in Allister's cloak when its done
+	- Also don't make the cloak go up his butt
 ### Things for This Week
 
 #### Programmer
