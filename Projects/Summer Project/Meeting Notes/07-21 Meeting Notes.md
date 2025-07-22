@@ -6,14 +6,11 @@
 
 | Meeting                                   | Possible Times                                                                                                                                            |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Narrative Designer + CD Meeting           | Thursday @ 11 am                                                                                                                                          |
-| 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
-| Environmental Artist Meeting              | Tuesday 5-10pm<br>Wenesday 5-10 pm<br>Thursday 5-10 pm                                                                                                    |
-| LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
-| Creative meeting w/ Matthew & Andre       | Tuesday @ 2 pm                                                                                                                                            |
 | Sound Meeting (FMOD implementation + SDD) | Tuesday @ 11 am                                                                                                                                           |
+| Environmental Artist Meeting              | Tuesday 5-10 pm?<br>Wednesday 5-10 pm?<br>Thursday 5-10 pm?                                                                                               |
+| LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
 | Character Artist Meeting                  | Thursday @ 2pm                                                                                                                                            |
-| Animation Meeting                         |                                                                                                                                                           |
+| Animation Meeting                         | ???                                                                                                                                                       |
 
 ### Vertical Slice / Presenting the Game
 
@@ -179,13 +176,11 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 	- Establish a solid layout
 	- Give a rough idea of what each UI element is supposed to look like (have it fit with the book theme)
 
-##### Level Design
-
 #### Character Artists
 - Allister model progress
 - Work on enemy models
 
-#### Small Polish Things (that May or May not Get Done)
+#### Small Polish Things (that May or May not Get Done immediately)
 - Throw on the spell SFX onto the crystal spell
 - Invincibility flash after getting hit
 - Invincibility conveyance while the player is dodging
