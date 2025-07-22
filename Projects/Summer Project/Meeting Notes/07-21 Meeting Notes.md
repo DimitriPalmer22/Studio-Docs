@@ -39,6 +39,10 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 		- Crystal Barrage icon
 - Make / find placeholder textures / materials for any untextured assets that are currently in the game.
 	- In the event that any of the ACTUAL textures are not done, these should look good enough to be presentable.
+- Make sure the visuals of all levels in the game are visually consistent
+	- Crystal blueprints
+	- Particle effects
+	- Lighting
 
 #### Sound
 - Footstep sounds
