@@ -134,11 +134,12 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 
 #### Animation
 - Omnidirectional Dodge (w/ programmer)
-- More attack animations 
+- More attack animations
 - Flinch
 
 #### Narrative Designer
 - First, ask about the progress on the journal entry task Chelle and I talked about
+- 2 journal entries + revised dialogue that ISN'T racist to French ppl
 
 #### UI (Brian)
 - Pretty up the tome creation screen's UI
