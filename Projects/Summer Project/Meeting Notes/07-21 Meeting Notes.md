@@ -41,7 +41,8 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 #### Sound
 
 #### Art
-- 
+- Character portraits
+	- It'd be pretty fire if we had 
 
 #### Programming
 - Any feature that is in the GDD, but is NOT in the game currently needs to be added
