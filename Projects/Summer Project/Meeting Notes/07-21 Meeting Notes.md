@@ -52,9 +52,13 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 	- The rest can be pretty rough / unfinished
 
 #### Environmental Artists
+- There was a priority list of textures was sent out a while ago. Try to get as many of those done as possible.
 
 #### Character Artists
-
+- Allister model done
+- Allister textures done
+- Minotaur model done
+- Minotaur textures done
 
 #### Programming
 - Any feature that is in the GDD, but is NOT in the game currently needs to be added
