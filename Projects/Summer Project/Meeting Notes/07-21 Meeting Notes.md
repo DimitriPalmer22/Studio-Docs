@@ -7,6 +7,7 @@
 | Meeting                                   | Possible Times                                                                                                                                            |
 | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | Sound Meeting (FMOD implementation + SDD) | Tuesday @ 11 am                                                                                                                                           |
+| Creative meeting w/ Matthew & Andre       | Tuesday @ 2 pm                                                                                                                                            |
 | Narrative Designer + CD Meeting           | Thursday @ 11 am                                                                                                                                          |
 | Character Artist Meeting                  | Thursday @ 2pm                                                                                                                                            |
 | 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
