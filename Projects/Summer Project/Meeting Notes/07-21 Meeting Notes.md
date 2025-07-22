@@ -4,16 +4,16 @@
 
 > I am unavailable most of Saturday. I am moving back home, and don't really know when I'm getting back. I'll most likely be available after 8 pm, though.
 
-| Meeting                                   | Possible Times                                                                                                                                              |
-| ----------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Narrative Designer + CD Meeting           |                                                                                                                                                             |
-| 2D Artist + Narrative Designer Meeting    |                                                                                                                                                             |
-| Environmental Artist Meeting              |                                                                                                                                                             |
+| Meeting                                   | Possible Times                                                                                                                                            |
+| ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Narrative Designer + CD Meeting           | Thursday @ 11am                                                                                                                                           |
+| 2D Artist + Narrative Designer Meeting    |                                                                                                                                                           |
+| Environmental Artist Meeting              |                                                                                                                                                           |
 | LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
-|                                           |                                                                                                                                                             |
-| Sound Meeting (FMOD implementation + SDD) |                                                                                                                                                             |
-| Character Artist Meeting                  |                                                                                                                                                             |
-| Animation Meeting                         |                                                                                                                                                             |
+|                                           |                                                                                                                                                           |
+| Sound Meeting (FMOD implementation + SDD) |                                                                                                                                                           |
+| Character Artist Meeting                  |                                                                                                                                                           |
+| Animation Meeting                         |                                                                                                                                                           |
 
 ### Vertical Slice / Presenting the Game
 
