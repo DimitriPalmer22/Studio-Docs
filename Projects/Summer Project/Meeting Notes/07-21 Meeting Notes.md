@@ -29,10 +29,16 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 ### Things that Need to Be Polished for VS
 
 #### Designers
-- Find placeholder assets for any art that is not in the game currently
+- Find placeholder assets for any 2D / UI art that is not in the game currently
 	- In-game UI
 	- Dialogue boxes
-	- 
+	- Tome creation screen
+	- Power Icons
+		- Fireball icon 1
+		- Fireball icon 2
+		- Crystal Barrage icon
+
+#### Sound
 
 #### Art
 - 
