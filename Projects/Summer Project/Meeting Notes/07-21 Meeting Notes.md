@@ -116,7 +116,11 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Upgrade menu
 - Flinch effect / stun effect on the enemies when they're hit
 - refine the enemy AI some more
-- tie the enemy attack animations 
+- tie the enemy attack animations the sockets
+- better animations for the enemy attacks
+- More crystal blueprints cuz we're just using the same one over and over
+- Decals in the level EVERYWHERE
+- Put in a placeholder for the ending room similar to the starting room. That way its not a green box
 ### Things for This Week
 
 #### Programmer
