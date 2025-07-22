@@ -42,7 +42,8 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 
 #### Art
 - Character portraits
-	- It'd be pretty fire if we had 
+	- It'd be pretty fire if we had at least one pretty complete character portrait by the deadline
+	- The rest can be pretty rough / unfinished
 
 #### Programming
 - Any feature that is in the GDD, but is NOT in the game currently needs to be added
