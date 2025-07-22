@@ -73,9 +73,11 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 - Make sure all the trail VFX work like the fire trail VFX
 - Impact VFX for when the spells hit
 - Some type of magic poof VFX for when the enemies die
-- SOme 
+- Some particles that get drawn toward the player when they get money
 
-
+#### Enemies
+- Enemy attack animations
+- Enemy AI refinement
 
 ### Play the Game in the Meeting
 
