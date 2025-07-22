@@ -31,7 +31,7 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 #### Designers
 - Find placeholder assets for any 2D / UI art that is not in the game currently
 	- In-game UI
-	- Dialogue boxes
+	- Dialogue boxes for dialogue screen
 	- Tome creation screen
 	- Power Icons
 		- Fireball icon 1
