@@ -37,7 +37,7 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 		- Fireball icon 1
 		- Fireball icon 2
 		- Crystal Barrage icon
-- Make / find placeholder textures / materials for any untextured assets that are currently in the game.
+- Make / find placeholder textures & materials for any untextured assets that are currently in the game.
 	- In the event that any of the ACTUAL textures are not done, these should look good enough to be presentable.
 - Make sure the visuals of all levels in the game are visually consistent
 	- Crystal blueprints
@@ -49,6 +49,7 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 - Every spell currently in the game should have some type of sound(s) for it firing
 	- These could be made in-house OR they could be royalty-free sounds we find online and can use as placeholders
 - The dialogue sounds (like the scribbling sounds)
+- UI Sounds
 
 #### 2D Art
 - Character portraits
@@ -149,6 +150,8 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Decals in the level EVERYWHERE
 - Put in a placeholder for the ending room similar to the starting room. That way its not a green box
 ### Things for This Week
+
+> This is not a comprehensive list of tasks
 
 #### Programmer
 - Dialogue portal transition
