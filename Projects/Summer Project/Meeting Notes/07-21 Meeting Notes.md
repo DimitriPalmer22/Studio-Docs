@@ -65,8 +65,17 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 - Minotaur model done
 - Minotaur textures done
 
-#### Programming
+#### Programming Stuff
 - Any feature that is in the GDD, but is NOT in the game currently needs to be added
+
+#### VFX
+- Impact VFX
+- Make sure all the trail VFX work like the fire trail VFX
+- Impact VFX for when the spells hit
+- Some type of magic poof VFX for when the enemies die
+- SOme 
+
+
 
 ### Play the Game in the Meeting
 
@@ -151,7 +160,7 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Put in a placeholder for the ending room similar to the starting room. That way its not a green box
 ### Things for This Week
 
-> This is not a comprehensive list of tasks
+> This is not a comprehensive list of tasks for EVERYONE.
 
 #### Programmer
 - Dialogue portal transition
