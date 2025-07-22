@@ -40,3 +40,4 @@
 
 For music, we can just have good music in the game OR we can have music that fits the theme / vibe / pace of gameplay you're going for.
 
+we're gonna go for just having good music.
