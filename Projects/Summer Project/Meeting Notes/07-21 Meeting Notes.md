@@ -109,6 +109,7 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 
 - Less floppiness / movement in Allister's cloak when its done
 	- Also don't make the cloak go up his butt
+- Put in the footstep noise
 ### Things for This Week
 
 #### Programmer
