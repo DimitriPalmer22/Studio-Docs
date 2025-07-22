@@ -113,6 +113,10 @@ If you guys have been keeping up with the team-designer channel, you've most lik
 - Put noises in the game in general
 - Put the actual character portraits
 - Character portrait background
+- Upgrade menu
+- Flinch effect / stun effect on the enemies when they're hit
+- refine the enemy AI some more
+- tie the enemy attack animations 
 ### Things for This Week
 
 #### Programmer
