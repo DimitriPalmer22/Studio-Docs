@@ -37,6 +37,8 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 		- Fireball icon 1
 		- Fireball icon 2
 		- Crystal Barrage icon
+- Make / find placeholder textures / materials for any untextured assets that are currently in the game.
+	- In the event that any of the ACTUAL textures are not done, these should look good enough to be presentable.
 
 #### Sound
 - Footstep sounds
@@ -44,10 +46,15 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 	- These could be made in-house OR they could be royalty-free sounds we find online and can use as placeholders
 - The dialogue sounds (like the scribbling sounds)
 
-#### Art
+#### 2D Art
 - Character portraits
 	- It'd be pretty fire if we had at least one pretty complete character portrait by the deadline
 	- The rest can be pretty rough / unfinished
+
+#### Environmental Artists
+
+#### Character Artists
+
 
 #### Programming
 - Any feature that is in the GDD, but is NOT in the game currently needs to be added
