@@ -2,9 +2,9 @@
 
 - Elements
 	- Neutral
-	- Fire & Earth -> Primordial?
+	- Fire & Earth -> Primordial
 	- Lightning & Wind -> Tempest
-	- Water & Ice -> Watery-Ice
+	- Water & Ice -> Glacial
 	- Light & Dark -> Twilight
 - Rarities
 	- Common
