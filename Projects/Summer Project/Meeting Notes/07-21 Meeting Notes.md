@@ -71,7 +71,6 @@ We can keep our peers up to date w/ what we've been up to over the summer, and w
 - Any feature that is in the GDD, but is NOT in the game currently needs to be added
 
 #### VFX
-- Impact VFX
 - Make sure all the trail VFX work like the fire trail VFX
 - Impact VFX for when the spells hit
 - Some type of magic poof VFX for when the enemies die
