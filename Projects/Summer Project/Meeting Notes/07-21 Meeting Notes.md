@@ -12,8 +12,8 @@
 | Narrative Designer + CD Meeting           | Thursday @ 11 am                                                                                                                                          |
 | Character Artist Meeting                  | Thursday @ 2pm                                                                                                                                            |
 | Daunte Orientation                        | Thursday @ 5pm                                                                                                                                            |
-| 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
 | Erin + Austin Orientation                 | Friday @ 1pm                                                                                                                                              |
+| 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
 | LD Meeting                                | Probably any weekday @ 8pm, but I'll ask Mikel for when he's available first. <br>Also, Leo doesn't come back from PR till like the 24th or something so… |
 | Animation Meeting                         | ???                                                                                                                                                       |
 
