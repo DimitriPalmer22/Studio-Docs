@@ -10,6 +10,7 @@
 | Creative meeting w/ Matthew & Andre       | Tuesday @ 2 pm                                                                                                                                            |
 | Narrative Designer + CD Meeting           | Thursday @ 11 am                                                                                                                                          |
 | Character Artist Meeting                  | Thursday @ 2pm                                                                                                                                            |
+| Daunte Orientation                        | Thursday @ 5pm                                                                                                                                            |
 | 2D Artist + Narrative Designer Meeting    | Sunday @ 11 am                                                                                                                                            |
 | Environmental Artist Meeting              | Wednesday @ 9pm                                                                                                                                           |
 | Orientation                               | Friday @ 1pm                                                                                                                                              |
