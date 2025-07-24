@@ -1,9 +1,8 @@
 ### Quick Project Overview
 
-### Go Over the Team Members (All 17?)
+### Go Over the Team Members (All 17)
 
-> Like 2/3 of the team is Relapse members, so most of us have worked together before / are pretty familiar. Most of the team is also
-
+> Like 2/3 of the team is Relapse members, so most of us have worked together before / are pretty familiar. 
 ##### Programmers
 - Dimitri Palmer (Lead Programmer lol)
 
