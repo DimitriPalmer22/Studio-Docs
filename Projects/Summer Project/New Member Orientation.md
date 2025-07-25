@@ -32,7 +32,7 @@
 
 ### Individual Responsibilities
 
-- You guys are the 
+- You guys are our "environmental" artists, so you'll be making props and occasionally environmental kit pieces. 
 
 ### The "Team Culture"
 
