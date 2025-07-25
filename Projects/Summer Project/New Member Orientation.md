@@ -29,11 +29,11 @@
 ##### Music
 - Matthew Cabrera (+design)
 
+### The "Team Culture"
+
 ### Individual Responsibilities
 
 - You guys are our "environmental artists", so you'll be making props and occasionally environmental kit pieces
-
-### The "Team Culture"
 
 ### ClickUp
 
