@@ -31,6 +31,8 @@
 
 ### The "Team Culture"
 
+- The team bullies me. its ok
+
 ### Individual Responsibilities
 
 - You guys are our "environmental artists", so you'll be making props and occasionally environmental kit pieces
