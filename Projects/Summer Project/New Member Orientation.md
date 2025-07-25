@@ -32,6 +32,8 @@
 
 ### Individual Responsibilities
 
+- You guys are the 
+
 ### The "Team Culture"
 
 ### ClickUp
