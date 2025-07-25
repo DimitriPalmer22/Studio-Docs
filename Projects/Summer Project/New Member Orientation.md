@@ -1,8 +1,7 @@
-### Quick Project Overview
-
 ### Go Over the Team Members (All 17)
 
-> Like 2/3 of the team is Relapse members, so most of us have worked together before / are pretty familiar. 
+> Like 2/3 of the team is Relapse members, so most of us have worked together before / are pretty familiar.
+
 ##### Programmers
 - Dimitri Palmer (Lead Programmer lol)
 
@@ -32,7 +31,7 @@
 
 ### Individual Responsibilities
 
-- You guys are our "environmental" artists, so you'll be making props and occasionally environmental kit pieces. 
+- You guys are our "environmental artists", so you'll be making props and occasionally environmental kit pieces
 
 ### The "Team Culture"
 
@@ -52,4 +51,5 @@
 - Check if the Visual Studio stuff is installed
 	- [C++ Conversion](<./C++ Conversion.md>)
 
-### Play the Game
+### Play the Game In The Meeting
+- I'll go over the game as I play
