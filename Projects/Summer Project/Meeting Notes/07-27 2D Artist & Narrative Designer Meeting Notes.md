@@ -3,7 +3,7 @@
 
 ### Aristide Portrait
 - New colors are cool BUT the shirt and pants are the same colors as Magnus'
-	- This might not be a problem, but it's something we'll have to keep in mind once we get everyone colorse
+	- This might not be a problem, but it's something we'll have to keep in mind once we get everyone colored and see how they look together
 
 ### Allister Facial Expression Adjustment
 - The current adjustment isn't confident enough
