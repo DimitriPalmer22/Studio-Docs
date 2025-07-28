@@ -20,3 +20,11 @@
 #### Changes from the Last Meeting
 
 #### Feedback from the Team
+
+### Out-of-engine Updates
+
+#### Minotaur Model
+
+#### Wraith Model
+
+### 
