@@ -27,13 +27,18 @@
 ##### Combat Updates
 - New spell type: combo spells. 
 	- We were running into an issue where the spells we had before were generally uninteresting to use / were not really that fun to play with. This is for a couple reasons. The main reason why combo spells were added was to make player input much more engaging.
+	- A lot of the Primary spells are going to follow this approach, whereas the secondary spells are still going to be the basic single-cast spells we had before.
 - There has also been some "juice" added to the game:
 	- Camera shake whenever the player gets hit by an enemy attack
 	- Hit stop whenever the player hits and enemy or an enemy hits the player
 	- Flinch animation whenever the player or enemies are hit by a spell. This animation also interrupts the casting of any spells that are currently being cast.
 
 ##### Mana Essence (The currency)
-- Before, whene
+- Before, whenever the player killed an enemy, the money counter would just go up.
+- Now, currency is a physical object.
+- Whenever the player kills an enemy, they drop mana essence orbs.
+- These orbs eventually fly toward the player after spawning
+- Also, sometimes when you clear a room, mana essence orbs will spawn in the room and fly wo
 
 #### Feedback from the Team
 
