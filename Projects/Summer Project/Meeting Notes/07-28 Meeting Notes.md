@@ -15,4 +15,8 @@
 - Last week, I told you guys that the vertical slice deadline was Sunday, August 3rd.
 - BUT, a couple things have changed since then, and I have decided that the deadline needs to be pushed back a week. Mainly, I want to give our new team members a chance to get up to speed and contribute to the vertical slice.
 
-### Play The game in the Meeting
+### Play The Game in the Meeting
+
+#### Changes from the Last Meeting
+
+#### Feedback from the Team
