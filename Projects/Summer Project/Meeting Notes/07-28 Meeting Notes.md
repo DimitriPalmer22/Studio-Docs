@@ -70,17 +70,24 @@
 
 ### Goals & Tasks
 
-Just to reiterate, we are working towards a "vertical slice" type of deal, where we show off a portion of the game that is largely representative of how we want the final product to look and feel. 
+Just to reiterate, we are working towards a "vertical slice" type of deal, where we show off a portion of the game that is largely representative of how we want the final product to look and feel.
 
 We're definitely getting there, but there is still a lot of work to do.
 
 #### Programmer
 - The shop system
 - Enemy AI revision
+- Journal things
 
 #### VFX
 - The rest of the trails (I know some have been worked on, but I haven't seen them yet)
 - Impact VFX
 - Some other "juicy" stuff I have to talk to Mikel about for conveying information to the player
 
-#
+#### Audio & Audio Implementation
+- Right now, the game is still pretty silent
+- I know some sounds have been worked on and created, but now we've gotta start actually putting them in the game
+- Same with the music
+
+#### Prop Art
+- 
