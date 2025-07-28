@@ -22,7 +22,11 @@
 ###### New Allister Model
 - The completed Allister model is now in the game
 - Scarf and robe physics are implemented (but are still being worked on)
-- The model is fully textured, but the materials used f
+- The model is fully textured, but the materials used to apply the textures are not final / need to be replaced. Right now, Allister looks a little too shiny
+
+##### Combat Updates
+- New spell type: combo spells. 
+	- We were running into an issue where the spells we had before were generally uninteresting to use / were not really that fun to play with. This is for a couple reasons. The main reason why combo spells were added was to make  
 
 #### Feedback from the Team
 
