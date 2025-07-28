@@ -43,6 +43,15 @@
 - Also, sometimes when you clear a room, mana essence orbs will spawn in the room and fly toward the player.
 - As of right now, the appearance of these orbs is completely placeholder
 
+##### Narrative Stuff
+- The portraits of the enemies have been updated in-engine with more updated versions
+- *SHOW THE PORTRAITS SO FAR*
+- no more android guy :(
+- A couple more dialogue interactions have been added, so you'll see those pop up from time to time.
+- Dialogue portal transition screen
+	- This is VERY placeholder for right now, and I highkey need someone to go in and make this look better
+	- As of right now, its a simple level with a camera in it, so it can be easily modified later.
+
 #### Feedback from the Team
 
 ### Out-of-engine Updates
