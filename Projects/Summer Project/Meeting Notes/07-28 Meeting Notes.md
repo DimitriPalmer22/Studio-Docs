@@ -19,6 +19,11 @@
 
 #### Changes from the Last Meeting
 
+###### New Allister Model
+- The completed Allister model is now in the game
+- Scarf and robe physics are implemented (but are still being worked on)
+- The model is fully textured, but the materials used f
+
 #### Feedback from the Team
 
 ### Out-of-engine Updates
