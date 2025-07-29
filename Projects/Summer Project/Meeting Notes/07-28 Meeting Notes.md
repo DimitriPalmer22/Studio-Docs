@@ -75,6 +75,9 @@
 	- Rn its giving "night sky"
 	- aurora borealis
 	- If we do this, we need more open levels and windows
+- Crystal Barrage spell
+	- Change the crystal model
+	- Also fire the crystals at different speeds and at 
 
 ### Out-of-engine Updates
 
