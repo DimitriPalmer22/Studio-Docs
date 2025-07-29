@@ -3,12 +3,12 @@
 | Meeting                                | Possible Times  |
 | -------------------------------------- | --------------- |
 | Sound Meeting                          | Tuesday @ 11 am |
-| Environmental Artist Meeting           | Friday @ 4 am   |
+| Environmental Artist Meeting           | Friday @ 4 pm   |
 | Narrative Designer + CD Meeting        | Friday @ 11 am  |
 | Character Artist Meeting               | TBA             |
 | 2D Artist + Narrative Designer Meeting | TBA             |
-| LD Meeting                             |                 |
-| Animation Meeting                      |                 |
+| LD Meeting                             | Tuesday @ 8pm   |
+| Animation Meeting                      | TBA             |
 
 ### Vertical Slice Deadline Pushed Back a Week
 
