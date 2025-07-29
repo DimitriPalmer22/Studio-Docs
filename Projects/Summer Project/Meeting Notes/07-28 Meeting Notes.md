@@ -62,6 +62,8 @@
 	- With the art style, the texturing was supposed to do a lot of the heavy lifting, but it's kinda hard to read the detail on Allister right now
 	- For characters that are farther away from the player, you should artificially increase the contrast on some things to make details easier to read.
 - Change the positions of the sockets where the fire spells spawn. They are a little too far from Allister
+- Show some rune effects or something whenever the player is casting a spell
+- 
 
 ### Out-of-engine Updates
 
