@@ -70,6 +70,10 @@
 - Lessen the hit stop just a bit
 	- Maybe restrict it to the final hits of combos only or strong spells only
 - The player needs to die lol
+- Skybox
+	- Shouldn't it be like a magical void or something
+	- Rn its giving "night sky"
+	- aurora borealis
 
 ### Out-of-engine Updates
 
