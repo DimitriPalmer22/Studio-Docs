@@ -58,6 +58,8 @@
 #### Feedback from the Team
 
 - FOV change while dodging is a little too harsh right now
+- Allister Model Stuff
+	- With the art style, the texturing was supposed to do a lot of the heavy lifting
 
 ### Out-of-engine Updates
 
