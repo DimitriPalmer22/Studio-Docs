@@ -76,8 +76,9 @@
 	- aurora borealis
 	- If we do this, we need more open levels and windows
 - Crystal Barrage spell
-	- Change the crystal model
-	- Also fire the crystals at different speeds and at 
+	- Change the crystal model / Get more crystal models in general. Not just for the spell, but also the rooms as well
+	- Also fire the crystals at different speeds and at different times
+	- Have the shape of how they spawn vary a little
 
 ### Out-of-engine Updates
 
