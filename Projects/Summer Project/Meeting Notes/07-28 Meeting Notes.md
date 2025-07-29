@@ -74,6 +74,7 @@
 	- Shouldn't it be like a magical void or something
 	- Rn its giving "night sky"
 	- aurora borealis
+	- If we do this, we need more open levels and windows
 
 ### Out-of-engine Updates
 
