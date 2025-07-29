@@ -57,6 +57,8 @@
 
 #### Feedback from the Team
 
+- FOV change while dodging is a little too harsh right now
+
 ### Out-of-engine Updates
 
 #### Minotaur Model (IN-PROGRESS)
