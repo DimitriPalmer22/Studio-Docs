@@ -114,4 +114,4 @@ We're definitely getting there, but there is still a lot of work to do.
 
 #### Prop Art
 - I was looking through the prop list and realized most of the props that need to be textured are wood-based, but we don't have a wood texture yet. It would probably be a bad idea to start on those without establishing a look for the wood first.
-	- 
+	- Rae will work on this
