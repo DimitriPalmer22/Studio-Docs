@@ -69,6 +69,7 @@
 	- Yknow to keep the pace of play up a little
 - Lessen the hit stop just a bit
 	- Maybe restrict it to the final hits of combos only or strong spells only
+- The player needs to die lol
 
 ### Out-of-engine Updates
 
