@@ -2,7 +2,7 @@
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
-| Sound Meeting                          |                |
+| Sound Meeting                          | Tuesday @ 11   |
 | Environmental Artist Meeting           |                |
 | Narrative Designer + CD Meeting        |                |
 | Character Artist Meeting               |                |
