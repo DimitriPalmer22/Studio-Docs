@@ -13,7 +13,7 @@ I'm giving you pretty much full agency over what you want to write, but if you f
 #### Task Specifications
 
 Write:
-- 2 Hidetomo dialogues - (Assume Allister has already encountered Hidetomo within Avernoth). Something like "you might've survived this far, but your luck will run out pal"
+- 2 Hidetomo dialogues - (Assume Allister has already encountered Hidetomo at least once before within Avernoth). Something like "you might've survived this far, but your luck will run out pal"
 - 2 Aristide dialogues
 - 1 Magnus dialogue
 - 1 Zythomyra dialogue
