@@ -64,12 +64,12 @@
 - Change the positions of the sockets where the fire spells spawn. They are a little too far from Allister
 - Show some rune effects or something whenever the player is casting a spell
 - Death lol
+- The player needs to die lol
 - Shorten time between the mana essence orbs spawning and flying toward the player
 	- OR have a magnetism stat that increases the speed at which the orbs fly toward the player
 	- Yknow to keep the pace of play up a little
 - Lessen the hit stop just a bit
 	- Maybe restrict it to the final hits of combos only or strong spells only
-- The player needs to die lol
 - Skybox
 	- Shouldn't it be like a magical void or something
 	- Rn its giving "night sky"
