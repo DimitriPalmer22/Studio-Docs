@@ -27,6 +27,8 @@
 - Chandelier (Refs in the Miro board)
 - Individual book (Open AND Closed)
 	- Lowkey, can we just take one of the books from the existing pile?
+- Wall lantern (Refs in the Miro board)
+- Seating stool (Refs in the Miro board)
 ### Play the Game Real Quick
 
 > Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
