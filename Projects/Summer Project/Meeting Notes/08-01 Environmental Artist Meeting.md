@@ -42,7 +42,7 @@ Rae has already made:
 - bottles
 - cauldron
 
-Kiana has already made a couple items, but I need to ask her
+Kiana has already made a couple items, but I need to ask her what they were and if she can send them.
 
 ### Play the Game Real Quick
 
