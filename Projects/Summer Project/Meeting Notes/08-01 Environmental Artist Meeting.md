@@ -49,4 +49,3 @@
 - Tapestries
 - Wall lanterns
 - Balconies
-- 
