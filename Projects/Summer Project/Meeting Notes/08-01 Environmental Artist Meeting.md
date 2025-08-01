@@ -56,3 +56,8 @@ Kiana has already made a couple items, but I need to ask her what they were and 
 - Tapestries
 - Wall lanterns
 - Balconies
+
+### The Tasks
+
+- I'll reorganize the ClickUp & update it w/ new tasks before the next meeting.
+- Once I send out the message for that, you guys can decide amongst yourselves who does which props
