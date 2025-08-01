@@ -31,6 +31,7 @@
 	- Lowkey, can we just take one of the books from the existing pile?
 - Wall lantern (Refs in the Miro board)
 - Seating stool (Refs in the Miro board)
+- Tapestry (banner hell)
 
 > Go down the list of items in the ClickUp to see what needs to be done by the new members.
 
