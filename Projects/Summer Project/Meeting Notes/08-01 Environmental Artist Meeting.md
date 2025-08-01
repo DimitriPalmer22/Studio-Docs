@@ -26,22 +26,29 @@
 ![](<../../../_Meta/Attachments/Pasted image 20250801155448.png>)
 
 - Chandelier (Refs in the Miro board)
-	- Just make the metal part, we'll place 
+	- Just make the metal part, we'll place
 - Individual book (Open AND Closed)
 	- Lowkey, can we just take one of the books from the existing pile?
 - Wall lantern (Refs in the Miro board)
 - Seating stool (Refs in the Miro board)
 - Tapestry (banner hell)
 
+#### Things that Are Already Done
+
 > Go down the list of items in the ClickUp to see what needs to be done by the new members.
 
-- vials + holder, bottles, cauldron from Rae
+Rae has already made:
+- vials + vial holder
+- bottles
+- cauldron
+
+Kiana has already made a couple items, but I need to ask her
 
 ### Play the Game Real Quick
 
 > Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
 
-##### Walls could be better
+##### Walls Could Be Better
 - Wall lanterns
 - Windows
 	- Hole punched in the wall
