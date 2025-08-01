@@ -34,6 +34,8 @@
 
 > Go down the list of items in the ClickUp to see what needs to be done by the new members.
 
+- vials + holder, bottles, cauldron
+
 ### Play the Game Real Quick
 
 > Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
