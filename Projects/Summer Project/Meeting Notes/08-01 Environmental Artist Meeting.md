@@ -29,6 +29,9 @@
 	- Lowkey, can we just take one of the books from the existing pile?
 - Wall lantern (Refs in the Miro board)
 - Seating stool (Refs in the Miro board)
+
+> Go down the list of items in the ClickUp to see what needs to be done by the new members.
+
 ### Play the Game Real Quick
 
 > Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
