@@ -1,5 +1,5 @@
 
-### Check on Daunte's Models
+### Take a Look at Daunte's Models
 - 
 
 ### Existing Models that Need to Be Textured
@@ -10,3 +10,9 @@
 - 2 Long table variations (needs wood texture)
 - 2 Short table variations (needs wood texture)
 - Pile of books
+
+### Models that Need to Be Created
+
+### Play the Game Real Quick
+
+> Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
