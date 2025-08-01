@@ -26,6 +26,7 @@
 ![](<../../../_Meta/Attachments/Pasted image 20250801155448.png>)
 
 - Chandelier (Refs in the Miro board)
+	- Just make the metal part, we'll place 
 - Individual book (Open AND Closed)
 	- Lowkey, can we just take one of the books from the existing pile?
 - Wall lantern (Refs in the Miro board)
