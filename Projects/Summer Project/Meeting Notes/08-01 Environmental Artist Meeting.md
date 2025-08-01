@@ -40,3 +40,13 @@
 ### Play the Game Real Quick
 
 > Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
+
+##### Walls could be better
+- Wall lanterns
+- Windows
+	- Hole punched in the wall
+	- A "fake" window
+- Tapestries
+- Wall lanterns
+- Balconies
+- 
