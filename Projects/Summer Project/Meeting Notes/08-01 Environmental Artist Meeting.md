@@ -34,7 +34,7 @@
 
 > Go down the list of items in the ClickUp to see what needs to be done by the new members.
 
-- vials + holder, bottles, cauldron
+- vials + holder, bottles, cauldron from Rae
 
 ### Play the Game Real Quick
 
