@@ -1,6 +1,6 @@
 
 ### Take a Look at Daunte's Models
-- 
+- Paper stacks
 
 ### Existing Models that Need to Be Textured
 
