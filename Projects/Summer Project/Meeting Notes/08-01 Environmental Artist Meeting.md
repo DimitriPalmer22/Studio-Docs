@@ -13,6 +13,10 @@
 
 ### Models that Need to Be Created
 
+- More crystal variations.
+	- Right now, we have 3 crystal variations in the game, and we're using those for everything (set dressing & the one crystal spell)
+	- Generally the shapes of the crystals we have right now are pretty inorganic.
+	- We need more organic-looking crystals.
 ### Play the Game Real Quick
 
 > Here, we're going to play through the game real quick to see what other items for sure need new models / need a placeholder real quick.
