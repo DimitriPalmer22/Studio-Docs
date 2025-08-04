@@ -18,6 +18,12 @@
 
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
+
+
+##### Camera Feedback Change
+- Idk if some of you guys saw, but last week, after the meeting, I made a video showing the camera swaying whenever Allister does an attack
+- After some feedback, I've taken that out and replaced it with a camera shake whenever the player's spell hits an enemy
+
 ##### Room Clear Notification
 - People were having trouble telling when they have defeated all the enemies in the room.
 - So, there is now a (very ugly) room clear notification that appears at the top of the screen
