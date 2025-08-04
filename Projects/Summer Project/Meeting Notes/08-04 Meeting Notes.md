@@ -45,7 +45,8 @@
 - [ ] Alexandra Kotzeva
 - [ ] Alexis Ibanez
 
-Andre Powell- [ ] James Draper
+Andre Powell
+- [ ] James Draper
 
 ### Narrative Designer
 - [ ] Chelle Radcliffe
