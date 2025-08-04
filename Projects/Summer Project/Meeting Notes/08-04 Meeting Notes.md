@@ -21,7 +21,9 @@
 ##### Enemies
 
 - Considering that both of the 3D character artist are out of town, we're *probably* going to have to stick with the placeholder enemies we have for right now and refine them
-- So, I've removed the health bar above their heads (that was there )
+- So, I've removed the health bar above their heads (that was there purely for testing purposes)
+- The enemies (and Allister) now flash red whenever they take damage.
+	- I though about having the color of the flash indicate how much health they had left (yellow = medium health, red = almost dead), but it didn
 
 ##### Imported New Models
 
