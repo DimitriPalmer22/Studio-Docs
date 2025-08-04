@@ -16,10 +16,13 @@
 
 #### Changes
 
+> This week
+
 ##### New Portraits
 
 ##### Journal Table
-- He
+- Here, Allister can read journal entries left behind by the Archmage who created Avernoth.
+- As of right now, it's a little boring visually, but it'll get there
 
 ##### 
 
