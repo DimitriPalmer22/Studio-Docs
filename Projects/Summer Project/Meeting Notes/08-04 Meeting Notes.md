@@ -39,6 +39,13 @@
 ###### Rae's Models
 ###### Kiana's Models
 
+##### Updated Allister Materials
+- Allister's materials have been updated. He is now using the master material that pretty much the rest of the game is using.
+- Now, hto support using the Alpha in his textures as a mask
+- As a result, his hair looks like hair now.
+- Also, I think his scarf is a little skinner around the neck too
+- Also, the new material
+
 ##### Updated Spell Combos
 
 - The combo system we have as of right now is very modular, and pretty much allows us to combine different hits to make different and unique combo chains
@@ -66,7 +73,7 @@
 
 ##### Nerdy Stuff
 - I enabled Screen-Space global illumination, so your performance might be a teeny tiny bit worse, but I doubt it's too bad.
-- I really only a
+- I really only added this to get some more dynamic lighting in the game, but it doesn't make that much of a difference
 
 #### Out-Of-Engine Changes
 
