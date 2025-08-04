@@ -117,6 +117,10 @@
 - [ ] Leonardo Santa-Zapata
 - [ ] Aiden Richmond
 
+- Review the lighting Aiden did
+- For any levels that have NOT been added to the pool of levels, make sure they are read  
+- Clean up the existing levels (make sure they have the correct actors)
+
 ##### VFX
 - [ ] Mikel Sienra
 
