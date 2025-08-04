@@ -14,7 +14,9 @@
 
 ### Play the Game in the Meeting
 
-###
+#### Changes
+
+#### Feedback from the Group
 
 ### What Gets Showcased in the Video We Send in the Server?
 
