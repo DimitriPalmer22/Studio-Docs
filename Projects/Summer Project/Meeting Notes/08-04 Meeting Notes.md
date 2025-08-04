@@ -18,7 +18,11 @@
 
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
-##### There is Now a very basic death 
+##### Music and SFX
+- 
+
+##### There is Now a very basic death Screen
+- When you run out of health, it shows up. yup.
 
 ##### The Shop
 - The shop is a room that spawns at least once per area
