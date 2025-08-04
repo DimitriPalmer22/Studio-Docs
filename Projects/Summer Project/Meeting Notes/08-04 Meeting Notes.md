@@ -21,8 +21,9 @@
 ##### Music and SFX
 - A whole new wave of SFX has been added
 - I also made a music track and put it in as the background music
+- [More Info Here](<../Audio/07-31 Audio Update Notes.md>)
 
-##### There is Now a very basic death Screen
+##### There is Now a Very Basic Death Screen
 - When you run out of health, it shows up. yup.
 
 ##### The Shop
