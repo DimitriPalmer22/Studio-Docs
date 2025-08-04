@@ -154,6 +154,9 @@
 - [ ] Alexandra Kotzeva
 - [ ] Alexis Ibanez
 
+- Finish up the remaining portraits
+- Highkey, i need a background image
+
 ##### Animation
 - [ ] Andre Powell
 - [ ] James Draper
