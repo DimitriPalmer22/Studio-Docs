@@ -41,10 +41,10 @@
 
 ##### Updated Allister Materials
 - Allister's materials have been updated. He is now using the master material that pretty much the rest of the game is using.
-- Now, hto support using the Alpha in his textures as a mask
+- Now, his material supports using the Alpha in his textures as an Alpha mask, so we can selectively clip out parts of his model (this can be done for other models too)
 - As a result, his hair looks like hair now.
 - Also, I think his scarf is a little skinner around the neck too
-- Also, the new material
+- Also, the old material was glossy and made it harder to read the detail on his model. This material should be a little better in that regard.
 
 ##### Updated Spell Combos
 
