@@ -7,14 +7,16 @@
 | Sound Meeting                          |                |
 | Environmental Artist Meeting           |                |
 | Narrative Designer + CD Meeting        |                |
-| Character Artist Meeting               | Uhh…           |
 | 2D Artist + Narrative Designer Meeting |                |
 | LD Meeting                             |                |
 | Animation Meeting                      |                |
+| Character Artist Meeting               | Uhh…           |
 
 ### Play the Game in the Meeting
 
 #### Changes
+
+
 
 #### Feedback from the Group
 
