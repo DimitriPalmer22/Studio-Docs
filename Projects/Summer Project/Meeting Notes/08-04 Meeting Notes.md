@@ -119,10 +119,13 @@
 
 - Review the lighting Aiden did
 - For any levels that have NOT been added to the pool of levels, make sure they are prepared properly to be added to the pool of levels 
-- With the props that have ALREADY been made and are in-engine (including the ones that aren't )
+- With the props that have ALREADY been made and are in-engine (including the ones that aren't textured yet), set-dress the levels
 
 ##### VFX
 - [ ] Mikel Sienra
+
+- More VFX.
+- Ev
 
 ##### UI
 - [ ] Brian Rosario-Diaz
