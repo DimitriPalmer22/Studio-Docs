@@ -14,17 +14,24 @@
 
 ### Play the Game in the Meeting
 
-#### Changes
+#### Changes to the Game
 
-> This week
+> This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
-##### New Portraits
+##### 
 
 ##### Journal Table
 - Here, Allister can read journal entries left behind by the Archmage who created Avernoth.
+- These have a change to rand
 - As of right now, it's a little boring visually, but it'll get there
 
-##### 
+##### New Portraits
+- A couple new portraits have been added to the game.
+- Some of these are pretty much done.
+
+#### Out-Of-Engine Changes
+
+##### Andre Animations
 
 #### Feedback from the Group
 
