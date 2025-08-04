@@ -18,12 +18,14 @@
 
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
+
+
 ##### Enemies
 
 - Considering that both of the 3D character artist are out of town, we're *probably* going to have to stick with the placeholder enemies we have for right now and refine them
 - So, I've removed the health bar above their heads (that was there purely for testing purposes)
 - The enemies (and Allister) now flash red whenever they take damage.
-	- I though about having the color of the flash indicate how much health they had left (yellow = medium health, red = almost dead), but it didn
+	- I though about having the color of the flash indicate how much health they had left (yellow = medium health, red = almost dead), but idk how I feel about it
 
 ##### Imported New Models
 
@@ -35,6 +37,11 @@
 - The combo system we have as of right now is very modular, and pretty much allows us to combine different hits to make different and unique combo chains
 - This way, we can reuse some animations but still increase the output of the number of spells
 - *This is where I show off the one spell that's a little wacky*
+
+##### Dashes
+
+- Dash animations have been revised
+- 
 
 ##### Journal Table
 - Here, Allister can read journal entries left behind by the Archmage who created Avernoth.
