@@ -22,6 +22,9 @@
 - People were having trouble telling when they have defeated all the enemies in the room.
 - So, there is now a (very ugly) room clear notification that appears at the top of the screen
 - Also, a sound plays, too
+- However, I want an even stronger in-world indication that the player has cleared the room.
+	- Any thoughts?
+	- Maybe VFX?
 
 ##### Enemies
 
@@ -57,8 +60,13 @@
 - A couple new portraits have been added to the game.
 - Some of these are pretty much done.
 
-##### New Crystal Barrage VFX
-- Trails behind the crystals
+##### VFX
+- Fireball impact VFX
+- Trails behind the crystals in the Crystal Barrage Spell
+
+##### Nerdy Stuff
+- I enabled Screen-Space global illumination, so your performance might be a teeny tiny bit worse, but I doubt it's too bad.
+- I really only a
 
 #### Out-Of-Engine Changes
 
