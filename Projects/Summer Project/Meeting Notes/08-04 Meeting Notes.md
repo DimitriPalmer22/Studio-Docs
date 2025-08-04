@@ -1,5 +1,7 @@
 ### Meeting Times
 
+> NOT Friday night.
+
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
 | Sound Meeting                          |                |
