@@ -1,6 +1,6 @@
 ### Meeting Times
 
-> I'm unavailable Friday night :(
+> I'm unavailable Saturday night :(
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
