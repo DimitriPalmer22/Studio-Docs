@@ -24,6 +24,7 @@
 - So, I've removed the health bar above their heads (that was there purely for testing purposes)
 - The enemies (and Allister) now flash red whenever they take damage.
 	- I though about having the color of the flash indicate how much health they had left (yellow = medium health, red = almost dead), but idk how I feel about it
+- Also, I've replaced their material, so they're no longer 
 
 ##### Imported New Models
 
@@ -39,7 +40,7 @@
 ##### Dashes
 
 - Dash animations have been revised
-- 
+- There's this sick twirl that Andre made, you guys should give him applause or something
 
 ##### Journal Table
 - Here, Allister can read journal entries left behind by the Archmage who created Avernoth.
