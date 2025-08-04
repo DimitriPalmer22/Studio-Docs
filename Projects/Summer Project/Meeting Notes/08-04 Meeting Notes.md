@@ -18,8 +18,6 @@
 
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
-
-
 ##### Enemies
 
 - Considering that both of the 3D character artist are out of town, we're *probably* going to have to stick with the placeholder enemies we have for right now and refine them
@@ -51,6 +49,9 @@
 ##### New Portraits
 - A couple new portraits have been added to the game.
 - Some of these are pretty much done.
+
+##### New Crystal Barrage VFX
+- Trails behind the crystals
 
 #### Out-Of-Engine Changes
 
