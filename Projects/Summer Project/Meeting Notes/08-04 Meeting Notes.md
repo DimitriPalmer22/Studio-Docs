@@ -18,8 +18,12 @@
 
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
+##### There is Now a very basic death 
+
 ##### The Shop
-- The shop is a room
+- The shop is a room that spawns at least once per area
+- Here, the player can interact with a talking magical gargoyle
+- This opens the shop menu where they can exchange mana essence (the currency) for different items
 
 ##### Camera Feedback Change
 - Idk if some of you guys saw, but last week, after the meeting, I made a video showing the camera swaying whenever Allister does an attack
