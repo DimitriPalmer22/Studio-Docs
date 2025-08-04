@@ -19,7 +19,8 @@
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
 ##### Music and SFX
-- 
+- A whole new wave of SFX has been added
+- I also made a music track and put it in as the background music
 
 ##### There is Now a very basic death Screen
 - When you run out of health, it shows up. yup.
