@@ -36,20 +36,29 @@
 - [ ] Aiden Richmond
 
 ### Artists
+
+##### Env. Artists
 - [ ] Rae Overton
 - [ ] Erin Willie
 - [ ] Austin Marmie
-- [ ] Daunte Smith(?)
+- [ ] Daunte Smith
+
+***MAKE THE TASKS IN THE CLICKUP!!!***
+
+##### Character Artists
 - [ ] Azalee Nelson
 - [ ] Mia Parent
+
+##### 2D Artists
 - [ ] Alexandra Kotzeva
 - [ ] Alexis Ibanez
 
-Andre Powell
+##### Animation
+- [ ] Andre Powell
 - [ ] James Draper
 
 ### Narrative Designer
 - [ ] Chelle Radcliffe
 
-### Music
-- [ ] Matthew Cabrera (+design)
+### Audio
+- [ ] Matthew Cabrera
