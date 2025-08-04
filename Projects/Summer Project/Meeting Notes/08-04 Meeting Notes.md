@@ -21,7 +21,7 @@
 - 
 
 ### Tasks For This Week
-### Programmers
+#### Programmers
 - [ ] Dimitri Palmer
 
 - Enemy AI Stuff
@@ -29,13 +29,13 @@
 - Implement passive spells
 - General polish
 
-### Designers
+#### Designers
 - [ ] Mikel Sienra
 - [ ] Leonardo Santa-Zapata
 - [ ] Brian Rosario-Diaz
 - [ ] Aiden Richmond
 
-### Artists
+#### Artists
 
 ##### Env. Artists
 - [ ] Rae Overton
@@ -43,7 +43,7 @@
 - [ ] Austin Marmie
 - [ ] Daunte Smith
 
-***MAKE THE TASKS IN THE CLICKUP!!!***
+- ***MAKE THE TASKS IN THE CLICKUP!!!***
 
 ##### Character Artists
 - [ ] Azalee Nelson
@@ -57,8 +57,8 @@
 - [ ] Andre Powell
 - [ ] James Draper
 
-### Narrative Designer
+#### Narrative Designer
 - [ ] Chelle Radcliffe
 
-### Audio
+#### Audio
 - [ ] Matthew Cabrera
