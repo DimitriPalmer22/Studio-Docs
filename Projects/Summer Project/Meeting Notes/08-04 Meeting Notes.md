@@ -1,10 +1,10 @@
 ### Meeting Times
 
-> NOT Friday night.
+> I'm unavailable Friday night :(
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
-| Sound Meeting                          | ``             |
+| Sound Meeting                          |                |
 | Environmental Artist Meeting           |                |
 | Narrative Designer + CD Meeting        |                |
 | Character Artist Meeting               | Uhh…           |
@@ -19,3 +19,5 @@
 ### What Gets Showcased in the Video We Send in the Server?
 
 - 
+
+### Tasks For This Week
