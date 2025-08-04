@@ -22,7 +22,7 @@
 
 ### Tasks For This Week
 #### Programmers
-- [ ] Dimitri Palmer
+- [x] Dimitri Palmer
 
 - Enemy AI Stuff
 - Implement more spells
@@ -30,10 +30,16 @@
 - General polish
 
 #### Designers
-- [ ] Mikel Sienra
+
+##### Level Design
 - [ ] Leonardo Santa-Zapata
-- [ ] Brian Rosario-Diaz
 - [ ] Aiden Richmond
+
+##### VFX
+- [ ] Mikel Sienra
+
+##### UI
+- [ ] Brian Rosario-Diaz
 
 #### Artists
 
@@ -43,7 +49,10 @@
 - [ ] Austin Marmie
 - [ ] Daunte Smith
 
-- ***MAKE THE TASKS IN THE CLICKUP!!!***
+- ***MAKE THE TASKS IN THE CLICKUP FOR THIS!!!***
+- The wood texture
+- Texture the existing props
+- Make new props
 
 ##### Character Artists
 - [ ] Azalee Nelson
