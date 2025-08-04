@@ -18,11 +18,18 @@
 
 > This week, I've tried to keep you guys a little more updated than usual by sending more videos in the Discord. You guys can check those out if you want.
 
-##### 
+##### Imported New Models
+
+###### Rae's Models
+###### Kiana's Models
+
+##### Updated Spell Combos
+
+- The combo system we have as of right now is very modular, and pretty much allows us to combine different hits to make different and unique comboc
 
 ##### Journal Table
 - Here, Allister can read journal entries left behind by the Archmage who created Avernoth.
-- These have a change to rand
+- Whenever Allister enters a room, these have a chance to spawn
 - As of right now, it's a little boring visually, but it'll get there
 
 ##### New Portraits
