@@ -16,7 +16,10 @@
 
 #### Changes
 
+##### New Portraits
+
 ##### Journal Table
+- He
 
 ##### 
 
