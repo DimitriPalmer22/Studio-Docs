@@ -100,6 +100,7 @@
 
 ### What Gets Showcased in the Video We Send in the Server?
 
+- In terms of things being "complete" or "presentable", people are only going to see what we show them, so we can strategically show only what we want to show people.
 - 
 
 ### Tasks For This Week
@@ -161,8 +162,14 @@
 - [ ] Andre Powell
 - [ ] James Draper
 
+- Enemy animations
+
 #### Narrative Designer
 - [ ] Chelle Radcliffe
 
+- 
+
 #### Audio
 - [ ] Matthew Cabrera
+
+- Work on SFX
