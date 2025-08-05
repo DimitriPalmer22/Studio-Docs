@@ -103,7 +103,7 @@
 ### What Gets Showcased in the Video We Send in the Server?
 
 - In terms of things being "complete" or "presentable", people are only going to see what we show them, so we can strategically show only what we want to show people.
-- 
+- If anyone asks "ayo who worked on this," I won't hesitate to say names, so lmk if you don't want me to do that for you specifically.
 
 ### Tasks For This Week
 #### Programmers
