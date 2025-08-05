@@ -144,7 +144,6 @@
 - [ ] Austin Marmie
 - [ ] Daunte Smith
 
-- ***MAKE THE TASKS IN THE CLICKUP FOR THIS!!!***
 - The wood texture
 - Texture the existing props
 - Make new props
