@@ -23,6 +23,9 @@
 	- Aristide
 	- Tarun
 
+- Also, when you're implementing these interactions, make sure to set the `Interaction Type` to `Area Clear` within the data asset.
+![](<../../../_Meta/Attachments/Pasted image 20250805174330.png>)
+
 ### We'll Workshop the Questions at the Start of the Game during Our Meeting
 
 > Remember those questions at the start of the game that determine the tome you get + your starting stats? Yeah, I still need to make those fit thematically.
