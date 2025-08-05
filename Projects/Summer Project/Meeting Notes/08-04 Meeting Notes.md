@@ -170,7 +170,8 @@
 #### Narrative Designer
 - [ ] Chelle Radcliffe
 
-- 
+- End of floor dialogue
+- Questions for the start of the game
 
 #### Audio
 - [ ] Matthew Cabrera
