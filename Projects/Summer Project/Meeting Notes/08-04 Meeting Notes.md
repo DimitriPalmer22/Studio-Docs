@@ -4,8 +4,8 @@
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
-| Sound Meeting                          |                |
-| Environmental Artist Meeting           |                |
+| Sound Meeting                          | Tuesday @ 11am |
+| Environmental Artist Meeting           | thursday @ 5pm |
 | Narrative Designer + CD Meeting        |                |
 | 2D Artist + Narrative Designer Meeting |                |
 | LD Meeting                             |                |
