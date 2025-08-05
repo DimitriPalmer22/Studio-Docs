@@ -98,6 +98,9 @@
 
 #### Feedback from the Group
 
+- For the next room VFX, have something shooting up from the circle
+- Send a video of the colors changing when people are hit
+
 ### What Gets Showcased in the Video We Send in the Server?
 
 - In terms of things being "complete" or "presentable", people are only going to see what we show them, so we can strategically show only what we want to show people.
