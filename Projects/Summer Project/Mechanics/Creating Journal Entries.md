@@ -9,7 +9,9 @@
 3. Open the data asset and change the following fields:
 	1. `Entry Name`: The name of the journal entry. This will be displayed in the *codex* at a later date when looking back at the entry.
 	2. `Entry Description`: A short description of the journal entry. This will be displayed in the *codex* at a later date when looking back at the entry.
-	3. `Entry Title`: The title of the journal entry. This is displayed at the top of the journal entry when viewing it in-game.
-	4. `Entry Text`: The text of the journal entry. This is the main body of the journal entry. This is where you would type the paragraphs of text
+	3. `Entry Title`: The title of the journal entry. This is displayed at the top of the journal entry when *viewing it in-game*.
+	4. `Entry Text`: The text of the journal entry. This is the main body of the journal entry that appears when *viewing the entry in-game*. This is where you would type the paragraphs of text.
 ![](<../../../_Meta/Attachments/Pasted image 20250805172843.png>)
 4. That's it, the deed is done.
+
+![](<../../../_Meta/Attachments/Pasted image 20250805173428.png>)
