@@ -7,6 +7,10 @@
 - After clearing this room, a dialogue portal will ALWAYS appear.
 - This is where the `Floor End` dialogue interactions will occur.
 
-#### 
+#### This Portion of the Task
+
+- Create 3 dialogue interaction that will play after the player clears this room.
+- The person Allister talks to in this interaction doesn't matter too much, but I'll say to write interactions for
+	- Magnus
 
 ###
