@@ -23,3 +23,5 @@
 	- Tarun
 
 ### We'll Workshop the Questions at the Start of the Game during Our Meeting
+
+- Now that I have a basis for everything that needs to be done co
