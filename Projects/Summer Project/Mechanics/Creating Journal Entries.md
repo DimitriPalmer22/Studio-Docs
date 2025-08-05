@@ -1,0 +1,1 @@
+> Since the journal entries are just t

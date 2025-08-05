@@ -1,11 +1,12 @@
 
 ### Put Existing Dialogue Interactions In-Engine
 
-- 
+- uhh yeah
 
 ### Put the Existing Journal Entries into the Game
 
-- 
+- Refer to this document for instructions on how to import journal entries into the game: [Creating Journal Entries](<../Mechanics/Creating Journal Entries.md>)
+- Put the two existing journal entries into the game
 
 ### Floor End Dialogue Interactions
 
