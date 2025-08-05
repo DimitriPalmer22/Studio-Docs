@@ -24,4 +24,7 @@
 
 ### We'll Workshop the Questions at the Start of the Game during Our Meeting
 
-- Now that I have a basis for everything that needs to be done co
+> Remember those questions at the start of the game? Yeah, I still need to make those *good*.
+
+- Now that I have a basis for everything that needs to be done concerning the questions (in terms of functionality), we can workshop the questions themselves (the style of the questions, the answers, etc.) during our meeting.
+- I'll most likely be the one writing these questions & answers for this week, but I'll most likely send you the questions so you can look them over and give feedback.
