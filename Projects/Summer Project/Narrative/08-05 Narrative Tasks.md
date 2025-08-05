@@ -10,7 +10,9 @@
 #### This Portion of the Task
 
 - Create 3 dialogue interaction that will play after the player clears this room.
-- The person Allister talks to in this interaction doesn't matter too much, but I'll say to write interactions for
+- The person Allister talks to in this interaction doesn't matter too much, but I'll say to write interactions for the characters who have mostly completed portraits:
 	- Magnus
+	- Aristide
+	- Tarun
 
-###
+### The Questions at the Start of the Game
