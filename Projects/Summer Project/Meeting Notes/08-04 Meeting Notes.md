@@ -2,15 +2,15 @@
 
 > I'm unavailable Saturday night :(
 
-| Meeting                                | Possible Times |
-| -------------------------------------- | -------------- |
-| Sound Meeting                          | Tuesday @ 11am |
-| Environmental Artist Meeting           | thursday @ 5pm |
-| Narrative Designer + CD Meeting        |                |
-| 2D Artist + Narrative Designer Meeting |                |
-| LD Meeting                             |                |
-| Animation Meeting                      |                |
-| Character Artist Meeting               | Uhh…           |
+| Meeting                                | Possible Times   |
+| -------------------------------------- | ---------------- |
+| Sound Meeting                          | Tuesday @ 11am   |
+| Environmental Artist Meeting           | thursday @ 5pm   |
+| Narrative Designer + CD Meeting        | Wednesday @ 11am |
+| 2D Artist + Narrative Designer Meeting | Friday @ 11am    |
+| LD Meeting                             |                  |
+| Animation Meeting                      |                  |
+| Character Artist Meeting               | Uhh…             |
 
 ### Play the Game in the Meeting
 
