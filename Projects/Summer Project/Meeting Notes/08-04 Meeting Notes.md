@@ -99,7 +99,7 @@
 #### Feedback from the Group
 
 - For the next room VFX, have something shooting up from the circle
-- Send a video of the colors changing when people are hit
+- Send a video of the colors changing when people are hits
 
 ### What Gets Showcased in the Video We Send in the Server?
 
