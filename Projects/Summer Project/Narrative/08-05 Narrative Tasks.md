@@ -1,6 +1,12 @@
 
 ### Put Existing Dialogue Interactions In-Engine
 
+- 
+
+### Put the Existing Journal Entries into the Game
+
+- 
+
 ### Floor End Dialogue Interactions
 
 - At the end of each "Floor" / "Area" in Avernoth, there is a room with more enemies than usual. This room also has several waves of enemies. Think of this as like a boss room; something difficult enough to cap off the area.
@@ -15,4 +21,4 @@
 	- Aristide
 	- Tarun
 
-### The Questions at the Start of the Game
+### We'll Workshop the Questions at the Start of the Game during Our Meeting
