@@ -5,11 +5,11 @@
 | Meeting                                | Possible Times   |
 | -------------------------------------- | ---------------- |
 | Sound Meeting                          | Tuesday @ 11am   |
-| Environmental Artist Meeting           | thursday @ 5pm   |
-| Narrative Designer + CD Meeting        | Wednesday @ 11am |
-| 2D Artist + Narrative Designer Meeting | Friday @ 11am    |
 | LD Meeting                             | Tuesday @ 8pm    |
-| Animation Meeting                      |                  |
+| Narrative Designer + CD Meeting        | Wednesday @ 11am |
+| Environmental Artist Meeting           | Thursday @ 5pm   |
+| 2D Artist + Narrative Designer Meeting | Friday @ 11am    |
+| Animation Meeting                      | TBA              |
 | Character Artist Meeting               | Uhh…             |
 
 ### Play the Game in the Meeting
@@ -88,14 +88,12 @@
 - Fireball impact VFX
 - Trails behind the crystals in the Crystal Barrage Spell
 
+##### Andre Animations
+- *Show this off in-call*
+
 ##### Nerdy Stuff
 - I enabled Screen-Space global illumination, so your performance might be a teeny tiny bit worse, but I doubt it's too bad.
 - I really only added this to get some more dynamic lighting in the game, but it doesn't make that much of a difference
-
-#### Out-Of-Engine Changes
-
-##### Andre Animations
-
 
 #### Feedback from the Group
 
