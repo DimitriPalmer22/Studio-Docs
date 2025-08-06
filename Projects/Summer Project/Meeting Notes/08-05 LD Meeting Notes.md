@@ -41,6 +41,7 @@
 
 ### UI
 - Journal entry
+- Questions at the start of the game
 - 
 
 ### VFX
