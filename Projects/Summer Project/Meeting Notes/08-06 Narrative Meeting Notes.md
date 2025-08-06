@@ -14,7 +14,8 @@
 
 > 3 answers per question is desired. 
 
-Let's say your eating 
+Your mentor has sent you to gather ingredients for a celebration. What are you getting?
+- Tail of 
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
