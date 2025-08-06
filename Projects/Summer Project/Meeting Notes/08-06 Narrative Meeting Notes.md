@@ -77,6 +77,8 @@ You are in a race & there is a prize. How do you approach the race?
 - neutral resistance-oriented
 - neutral attack-oriented
 
+
+
 ### Question Formats
 - *You're in this situation, what do you do?* (this is the one we want fr)
 	- You see a group of enemies, what do you do?
