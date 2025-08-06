@@ -7,7 +7,9 @@
 
 > Aiden's big outdoor level is gonna be the "Boss Room"
 
-
+- Aiden big level
+- Aiden indoor level
+- Brian's new level
 
 ### Set-dressing Using the Existing Props
 
