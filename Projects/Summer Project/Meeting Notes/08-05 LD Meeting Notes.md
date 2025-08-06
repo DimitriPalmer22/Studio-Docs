@@ -43,4 +43,5 @@
 - 
 
 ### VFX
-- An blue sparkle explosion or light or something for when the player clears the room. This is gonna emit from the   
+- An blue sparkle explosion or light or something for when the player clears the room. This is gonna emit from the the exit platform of the level.
+- A VFX for the journal table. Idk sparkles or something.
