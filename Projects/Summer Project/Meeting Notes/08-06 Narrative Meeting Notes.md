@@ -1,3 +1,9 @@
+#### Allister’s Elemental Stat Distribution
+- Fire resistance-oriented
+- Fire attack-oriented
+- neutral resistance-oriented
+- neutral attack-oriented
+
 > Create a list or a doc or a spreadsheet or something to keep track of the distribution of spells.
 
 > Are there any spells that aren't in here, but can be found elsewhere?
@@ -58,9 +64,6 @@ You are in a race & there is a prize. How do you approach the race?
 
 > Lowkey this depends on how many spells we can get, but 2-3 answers per question is the number I like here.
 
-
-
-
 ### Question 5: Bonus Question (Let's Say for now We Get an Elemental Stat Distribution Question for sure)
 
 #### Bonus Question Types
@@ -70,14 +73,6 @@ You are in a race & there is a prize. How do you approach the race?
 - Tome’s Character Stat Distribution
 - Tome’s Elemental Stat Distribution
 - Tome Passive spell
-
-#### Allister’s Elemental Stat Distribution
-- Fire resistance-oriented
-- Fire attack-oriented
-- neutral resistance-oriented
-- neutral attack-oriented
-
-
 
 ### Question Formats
 - *You're in this situation, what do you do?* (this is the one we want fr)
