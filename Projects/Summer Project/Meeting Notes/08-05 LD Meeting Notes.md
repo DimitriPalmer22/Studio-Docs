@@ -35,6 +35,12 @@
 	- A vial holder filled with vials
 
 ![](<../../../_Meta/Attachments/Pasted image 20250805201421.png>)
-### Leonardo Santa-Zapata
+### Leonardo "Leo" Santa-Zapata
 
-- Texture the 
+- Texture the uhh...
+
+### UI
+- 
+
+### VFX
+- 
