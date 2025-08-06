@@ -15,9 +15,10 @@
 
 ### Set-dressing Using the Existing Props
 
-- GO THROUG
+- GO THROUGH ALL YOUR LEVELS AND SET-DRESS USING THE EXISTING PROP ASSETS.
+- REPLACE / DELETE ALL THE PLACEHOLDER ASSETS
 
-- All the existing props are in `Avernoth/Art/Common/Props/Extraneous`
+- All the existing props are in `Avernoth/Art/Common/Props`
 
 - Barrel
 - Cauldron
