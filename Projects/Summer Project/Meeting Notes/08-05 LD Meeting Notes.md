@@ -37,12 +37,11 @@
 ![](<../../../_Meta/Attachments/Pasted image 20250805201421.png>)
 ### Leonardo "Leo" Santa-Zapata
 
-- Texture the uhh...
+- Texture the uhh…
 
 ### UI
 - Journal entry
 - Questions at the start of the game
-- 
 
 ### VFX
 - An blue sparkle explosion or light or something for when the player clears the room. This is gonna emit from the the exit platform of the level.
