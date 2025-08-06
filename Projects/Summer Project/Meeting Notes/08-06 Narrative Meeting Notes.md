@@ -14,12 +14,17 @@
 
 > 3 answers per question is desired.
 
+#### Sample Questions
+
 Your mentor has sent you to gather ingredients for a celebration. What are you getting?
 - Health -> Something hearty & filling -> potatoes idk
 - Mana -> something exciting -> something spicy w/ a lot of ingredients
 - Resilience -> an immune system thing -> foods like ginger (immunobooster)
 
-> First, get the desired stat / in-game application of the answer. Then, reason the answer out. Find a real-world analogy for the answer. Then, fit with 
+In a fight type shit. What do you do?
+- Health -> someone who doesn't dodge cuz you can take a lot of hits ->
+- Mana -> looks around and finds something in your environment -> 
+- Resilience -> blocking & wait for an opening -> 
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
