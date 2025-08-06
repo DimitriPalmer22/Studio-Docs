@@ -3,22 +3,25 @@
 > Are there any spells that aren't in here, but can be found elsewhere?
 
 ### Question 1: How Are Allister's Stats Distributed?
-- Get a more health-heavy distributed
 - Health (max health)
 - Mana (max mana)
 - Intelligence (damage)
 - Resilience (defense)
 - Agility (casting speed / dodge distance)
 
+500 points 
+
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
 - Tempest Slash (wind spell w/ 3 hits)
 
-> Probably have a list of all the possible permutations of this
+> Probably have a list of all the possible permutations of this question. Keep track of each question's answer count & the types of spells they give the player. That way, we get the desired distribution of spells.
 
 ### Question 3: Which Spell is Your Secondary Spell?
 - Crystal Barrage (neutral crystal spell)
 - Primordial Blitz (fire spell w/ multiple hits)
+
+> Probably have a list of all the possible permutations of this question. Keep track of each question's answer count & the types of spells they give the player. That way, we get the desired distribution of spells.
 
 ### Question 4: Passive Spell?
 - Boost intelligence when taking damage for 5 seconds
