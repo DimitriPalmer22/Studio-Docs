@@ -7,15 +7,19 @@
 > These are adding stats to Allister. Each of his base stats starts at 1.
 
 - Health (max health)
-- Mana (max mana) 
+- Mana (max mana)
 - Intelligence (damage)
 - Resilience (defense)
 - Agility (casting speed / dodge distance)
 
-> 3 answers per question is desired. 
+> 3 answers per question is desired.
 
 Your mentor has sent you to gather ingredients for a celebration. What are you getting?
-- Tail of 
+- Health -> Something hearty & filling -> potatoes idk
+- Mana -> something exciting -> something spicy w/ a lot of ingredients
+- Resilience -> an immune system thing -> foods like ginger (immunobooster)
+
+> First, get the desired stat / in-game application of the answer. Then, reason the answer out. Find a real-world analogy for the answer. Then, fit with 
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
