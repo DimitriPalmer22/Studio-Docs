@@ -5,6 +5,10 @@
 
 ### Which Levels Have Been Made, but Aren't in the Pool of Levels?
 
+> Aiden's big outdoor level is gonna be the "Boss Room"
+
+
+
 ### Set-dressing Using the Existing Props
 
 - All the existing props are in `Avernoth/Art/Common/Props/Extraneous`
