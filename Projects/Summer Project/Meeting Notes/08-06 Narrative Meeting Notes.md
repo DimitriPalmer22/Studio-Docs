@@ -12,7 +12,9 @@
 - Resilience (defense)
 - Agility (casting speed / dodge distance)
 
+> 3 answers per question is desired. 
 
+Let's say your eating 
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
@@ -20,16 +22,22 @@
 
 > Probably have a list of all the possible permutations of this question. Keep track of each question's answer count & the types of spells they give the player. That way, we get the desired distribution of spells.
 
+> Lowkey this depends on how many spells we can get, but 2 answers per question is the number I like here.
+
 ### Question 3: Which Spell is Your Secondary Spell?
 - Crystal Barrage (neutral crystal spell)
 - Primordial Blitz (fire spell w/ multiple hits)
 
 > Probably have a list of all the possible permutations of this question. Keep track of each question's answer count & the types of spells they give the player. That way, we get the desired distribution of spells.
 
+> Lowkey this depends on how many spells we can get, but 2 answers per question is the number I like here.
+
 ### Question 4: Passive Spell?
 - Boost intelligence when taking damage for 5 seconds
 - Boost agility when taking damage for 5 seconds
 - Boost resilience when taking damage for 5 seconds
+
+> Lowkey this depends on how many spells we can get, but 2-3 answers per question is the number I like here.
 
 ### Question 5: Bonus Question (Let's Say for now We Get an Elemental Stat Distribution Question for sure)
 
