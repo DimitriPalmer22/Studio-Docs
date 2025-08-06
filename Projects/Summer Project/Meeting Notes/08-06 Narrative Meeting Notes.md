@@ -33,6 +33,8 @@ You are in a race & there is a prize. How do you approach the race?
 - Resilience -> endurance. just keep running
 - Agility -> your speed. how quick you are
 
+> Chelle is a furry.
+
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
 - Tempest Slash (wind spell w/ 3 hits)
