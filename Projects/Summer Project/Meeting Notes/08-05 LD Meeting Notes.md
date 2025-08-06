@@ -40,6 +40,7 @@
 - Texture the uhh...
 
 ### UI
+- Journal entry
 - 
 
 ### VFX
