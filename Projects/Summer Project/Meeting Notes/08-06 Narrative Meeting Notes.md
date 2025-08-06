@@ -16,6 +16,8 @@
 
 #### Sample Questions
 
+> First, get the desired stat / in-game application of the answer. Then, reason the answer out. Find a real-world analogy for the answer. Then, fit with the game's world.
+
 Your mentor has sent you to gather ingredients for a celebration. What are you getting?
 - Health -> Something hearty & filling -> potatoes idk
 - Mana -> something exciting -> something spicy w/ a lot of ingredients
@@ -23,8 +25,13 @@ Your mentor has sent you to gather ingredients for a celebration. What are you g
 
 In a fight type shit. What do you do?
 - Health -> someone who doesn't dodge cuz you can take a lot of hits ->
-- Mana -> looks around and finds something in your environment -> 
-- Resilience -> blocking & wait for an opening -> 
+- Mana -> looks around and finds something in your environment ->
+- Resilience -> blocking & wait for an opening ->
+
+You are in a race & there is a prize. How do you approach the race?
+- Intelligence -> knowing the right time to do things (like in a sprint, like actually running fr)
+- Resilience -> endurance. just keep running
+- Agility -> your speed. how quick 
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
