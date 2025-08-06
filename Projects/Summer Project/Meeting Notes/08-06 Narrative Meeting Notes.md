@@ -3,13 +3,16 @@
 > Are there any spells that aren't in here, but can be found elsewhere?
 
 ### Question 1: How Are Allister's Stats Distributed?
+
+> These are adding stats to Allister. Each of his base stats starts at 1.
+
 - Health (max health)
-- Mana (max mana)
+- Mana (max mana) 
 - Intelligence (damage)
 - Resilience (defense)
 - Agility (casting speed / dodge distance)
 
-500 points 
+
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
