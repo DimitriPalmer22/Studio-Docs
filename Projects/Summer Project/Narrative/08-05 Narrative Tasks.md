@@ -13,8 +13,7 @@
 - At the end of each "Floor" / "Area" in Avernoth, there is a room with more enemies than usual. This room also has several waves of enemies. Think of this as like a boss room; something difficult enough to cap off the area.
 - After clearing this room, a dialogue portal will ALWAYS appear.
 - This is where the `Floor End` dialogue interactions will occur.
-- In general, the floor end interactions are allowed to be much longer than the traditional `Room Clear` interactions.
-- 
+- In general, the floor end interactions are allowed to be much longer than the traditional `Room Clear` interactions. Also, I prefer these to be conversational.
 
 #### This Portion of the Task
 
@@ -26,7 +25,6 @@
 
 - Also, when you're implementing these interactions, make sure to set the `Interaction Type` to `Area Clear` within the data asset (Ignore the fact that the image below says `Room Clear`).
 ![](<../../../_Meta/Attachments/Pasted image 20250805174330.png>)
-
 
 ### We'll Workshop the Questions at the Start of the Game during Our Meeting
 
