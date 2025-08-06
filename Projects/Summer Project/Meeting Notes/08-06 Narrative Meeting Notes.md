@@ -49,6 +49,8 @@ You are in a race & there is a prize. How do you approach the race?
 
 > Lowkey this depends on how many spells we can get, but 2 answers per question is the number I like here.
 
+> Desctr
+
 ### Question 3: Which Spell is Your Secondary Spell?
 - Crystal Barrage (neutral crystal spell)
 - Primordial Blitz (fire spell w/ multiple hits)
