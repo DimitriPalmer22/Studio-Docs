@@ -14,6 +14,8 @@
 - Flame Volley (fire spell w/ 3 hits)
 - Tempest Slash (wind spell w/ 3 hits)
 
+> Probably have a list of all the possible permutations of this
+
 ### Question 3: Which Spell is Your Secondary Spell?
 - Crystal Barrage (neutral crystal spell)
 - Primordial Blitz (fire spell w/ multiple hits)
