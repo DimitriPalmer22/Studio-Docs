@@ -31,7 +31,7 @@ In a fight type shit. What do you do?
 You are in a race & there is a prize. How do you approach the race?
 - Intelligence -> knowing the right time to do things (like in a sprint, like actually running fr)
 - Resilience -> endurance. just keep running
-- Agility -> your speed. how quick 
+- Agility -> your speed. how quick you are
 
 ### Question 2: Which Spell is Your Primary Spell?
 - Flame Volley (fire spell w/ 3 hits)
