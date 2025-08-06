@@ -11,7 +11,11 @@
 - Aiden indoor level
 - Brian's new level
 
+> MAKE SURE TO RE-SEND THE DOCS TO PREPARE THE LEVELS TO BE IN THE GAME!!!
+
 ### Set-dressing Using the Existing Props
+
+- GO THROUG
 
 - All the existing props are in `Avernoth/Art/Common/Props/Extraneous`
 
