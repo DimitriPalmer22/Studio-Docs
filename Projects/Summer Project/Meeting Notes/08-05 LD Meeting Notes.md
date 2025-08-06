@@ -14,3 +14,11 @@
 	- Potion 1
 	- Potion 2
 	- Potion 3
+- Step stool
+- Vial holder
+	- Individual vials
+	- Just the holder by itself
+	- A vial holder filled with vials
+
+![](<../../../_Meta/Attachments/Pasted image 20250805201421.png>)
+### dfdfdfdfdf
