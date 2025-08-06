@@ -43,4 +43,4 @@
 - 
 
 ### VFX
-- 
+- An blue sparkle explosion or light or something for when the player clears the room. This is gonna emit from the   
