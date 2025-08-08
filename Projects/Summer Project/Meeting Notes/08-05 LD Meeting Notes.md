@@ -43,7 +43,7 @@
 - Questions at the start of the game widget blueprints:
 	- The entire screen: `WBP_TomeQuestionScreen`
 	- The buttons for the answers: `WBP_TomeAnswerButton`
-- Room clear text widget blueprint: 
+- Room clear text widget blueprint: `WBP_RoomClear` 
 - Dialogue text widget blueprint ``
 - Journal entry widget blueprint ``
 
