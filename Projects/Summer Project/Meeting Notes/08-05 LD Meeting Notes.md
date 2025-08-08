@@ -44,8 +44,10 @@
 	- The entire screen: `WBP_TomeQuestionScreen`
 	- The buttons for the answers: `WBP_TomeAnswerButton`
 - Room clear text widget blueprint: `WBP_RoomClear` 
-- Dialogue text widget blueprint ``
-- Journal entry widget blueprint ``
+	- This widget uses the animation window to animate the text appearing on screen. You can play around with this if you want
+- Dialogue text widget blueprint `WBP_DialogueText`
+	- I reformatted this toaday
+- Journal entry widget blueprint `WBP_JournalEntry`
 
 ### VFX
 - An blue sparkle explosion or light or something for when the player clears the room. This is gonna emit from the the exit platform of the level.
