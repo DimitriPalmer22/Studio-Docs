@@ -46,7 +46,9 @@
 - Room clear text widget blueprint: `WBP_RoomClear` 
 	- This widget uses the animation window to animate the text appearing on screen. You can play around with this if you want
 - Dialogue text widget blueprint `WBP_DialogueText`
-	- I reformatted this toaday
+	- I reformatted this today in the 2D artist + narrative designer meeting.
+	- Try not to change the format of where the characters are located or where the main text box appears
+	- Also, don't
 - Journal entry widget blueprint `WBP_JournalEntry`
 
 ### VFX
