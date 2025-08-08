@@ -40,8 +40,10 @@
 - Texture the uhh…
 
 ### UI
-- Questions at the start of the game widget blueprint: ``
-- Room clear text widget blueprint ``
+- Questions at the start of the game widget blueprints:
+	- The entire screen: `WBP_TomeQuestionScreen`
+	- The buttons for the answers: `WBP_TomeAnswerButton`
+- Room clear text widget blueprint: 
 - Dialogue text widget blueprint ``
 - Journal entry widget blueprint ``
 
