@@ -43,7 +43,7 @@
 - Questions at the start of the game widget blueprints:
 	- The entire screen's widget: `WBP_TomeQuestionScreen`
 	- The buttons for the answers: `WBP_TomeAnswerButton`
-	- Note: The buttons don't a
+	- Note: The buttons are spawned in dynamically, so you won't really see in the screen until the game is played.
 - Room clear text widget blueprint: `WBP_RoomClear` 
 	- This straight up just needs to look better
 	- This widget uses the animation window to animate the text appearing on screen. You can play around with this if you want
