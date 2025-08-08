@@ -31,7 +31,7 @@
 - Passive Spell 3 (passive): When getting hit, immediately restore some mana.
 
 ### UI Icons in General
-- The mana essence icon
+- The mana essence icon (a cyan orb)
 
 ### Keyboard / Controller Icons for Inputs
 - E - Interact / next dialogue line
