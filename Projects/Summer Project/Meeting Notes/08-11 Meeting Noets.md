@@ -26,4 +26,4 @@
 
 ### Play the Game In-call
 
-#### 
+#### Changes to the Game
