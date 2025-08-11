@@ -10,6 +10,10 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
+### Vertical Slice lol
+
+
+
 ### Builds
 
 - I'll start making and sending out builds regularly since I know not everyone can just go in-engine and play the game.
