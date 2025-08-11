@@ -13,7 +13,10 @@
 ### Vertical Slice Lol
 
 - "Can you give me one more day. I'm not asking you for a week. I'm not asking you for a month. I'm not asking you for a year. Can you give me one more day."
-- The game is pretty much finished for the deadline, but some things stil
+- The game is pretty much finished for the deadline, but some things still need polishing:
+	- Bugs that primarily show up in the builds, but not in-engine
+	- UI stuff still needs to be ironed over
+- Also, if we get another day, I can lowkey plan out the playthrough a little better so I can showcase some more aspects of the game.
 
 ### Builds
 
