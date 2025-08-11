@@ -10,12 +10,17 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
-### Vertical Slice lol
+### Vertical Slice Lol
 
-
+- "Can you give me one more day. I'm not asking you for a week. I'm not asking you for a month. I'm not asking you for a year. Can you give me one more day."
+- The game is pretty much finished for the deadline, but some things stil
 
 ### Builds
 
 - I'll start making and sending out builds regularly since I know not everyone can just go in-engine and play the game.
 - At the absolute least, I'll make one a week (probably right before the weekly meeting)
 - If you ever want me to make and send out a build real quick, just ask. It literally takes less than two minutes for me to build the game.
+
+### Play the Game In-call
+
+#### 
