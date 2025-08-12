@@ -1,14 +1,14 @@
 ### Weekly Meeting Times
 
-| Meeting                                | Possible Times |
-| -------------------------------------- | -------------- |
-| LD Meeting                             | Tuesday @ 8pm  |
-| Narrative Designer + CD Meeting        |                |
-| Sound Meeting                          |                |
-| Environmental Artist Meeting           | W6pm           |
-| 2D Artist + Narrative Designer Meeting |                |
-| Animation Meeting                      |                |
-| Character Artist Meeting               |                |
+| Meeting                                | Possible Times  |
+| -------------------------------------- | --------------- |
+| LD Meeting                             | Tuesday @ 8pm   |
+| Narrative Designer + CD Meeting        | Thursday @ 11am |
+| Sound Meeting                          |                 |
+| Environmental Artist Meeting           | Wednesday @ 6pm |
+| 2D Artist + Narrative Designer Meeting | Friday @ 11am   |
+| Animation Meeting                      |                 |
+| Character Artist Meeting               | Wednesday @ 3pm |
 
 ### Vertical Slice Lol
 
