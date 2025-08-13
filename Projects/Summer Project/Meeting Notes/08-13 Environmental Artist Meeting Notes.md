@@ -17,3 +17,6 @@ Right now, we just have the small individual candles and the chandelier as light
 - Standing candelabra
 
 #### Other Things
+- Texture the barrels
+- Crates
+- Sack
