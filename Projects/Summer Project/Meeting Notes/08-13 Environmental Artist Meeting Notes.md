@@ -28,3 +28,6 @@ Right now, we just have the small individual candles and the chandelier as light
 	- Open
 	- Closed
 - Small birdcage
+- Bookshelf books
+	- Just a plane fr
+	- Another smaller plane that's the cover of the books
