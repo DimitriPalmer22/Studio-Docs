@@ -6,4 +6,4 @@ Right now, we just have the small individual candles and the chandelier as light
 - Hanging lanterns (attached to a chain)
 	- This could probably be the same body as the square wall lantern
 	- It would also be really fire if you provided another chain separately like you did for the chandelier
-- Standing candleabra
+- Standing candelabra
