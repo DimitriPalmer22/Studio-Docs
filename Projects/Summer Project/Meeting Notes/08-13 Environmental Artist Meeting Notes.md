@@ -27,7 +27,13 @@ Right now, we just have the small individual candles and the chandelier as light
 - Individual book
 	- Open
 	- Closed
-- Small birdcage
+- Birdcage
+	- Birdcage with a dome top
+	- Square birdcage
+
+> These will be used both as like floor props and hanging cages.
+
 - Bookshelf books
 	- Just a plane fr
 	- Another smaller plane that's the cover of the books
+- More crystal variations
