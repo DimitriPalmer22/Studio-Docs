@@ -5,6 +5,8 @@ After posting the video in Shbeeb's server, we got some feedback that I've lowke
 - Right now, the levels are fill with obstructions that kinda break up the flow of combat and make it harder to maneuver around the level.
 - In reality, we would want levels that are much more open. Ideally, we would take the *Elden Ring / Souls-like* approach where the arena itself is relatively open and most of the level's detailing is done on the periphery. Usually, if there are very large obstructions in the middle of the arena, they are things that directly contribute to the boss fight's design. (it also helps that a lot of smaller props in these games are destructible, but we're not doing that)
 
+### Stack of Books
+
 ### Props
 
 #### More Versatile Lighting Fixtures
