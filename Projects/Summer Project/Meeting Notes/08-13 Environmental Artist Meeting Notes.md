@@ -22,8 +22,8 @@ Right now, we just have the small individual candles and the chandelier as light
 
 #### Other Things
 - Texture the barrels
-- Crates
-- Sack
+- Model + texture Crates
+- Model + texture Sack
 - Individual book
 	- Open
 	- Closed
