@@ -26,3 +26,4 @@ Right now, we just have the small individual candles and the chandelier as light
 - Individual book
 	- Open
 	- Closed
+- Small birdcage
