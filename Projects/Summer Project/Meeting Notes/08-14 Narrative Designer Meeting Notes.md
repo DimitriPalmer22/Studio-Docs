@@ -23,3 +23,4 @@ So… I didn't write those questions & answers before sending out that video. In
 	- It's good to train the player to look around
 - Erin's black banner doesn't pop out enough
 - The colors look kinda washed out. Look into color grading.
+- Also,
