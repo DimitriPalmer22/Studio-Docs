@@ -5,26 +5,3 @@ So… I didn't write those questions & answers before sending out that video. In
 
 I'll give out the parameters for the questions and answers.
 
-### What Did Chelle Say
-
-- Not much going on in the room. The player isn't incentivized to explore it.
-- Also, the UI. Are we going for a pixel art style? Pixel art might not fit the aesthetic we're going for.
-	- Neverwinter Nights UI
-	- Rather than straight up making something pixelated, we can make something a little higher fidelity and crunch it down to match the game. The UI should be more consistent with the rest of the art.
-- Environment is still very same-y. It's just brick EVERYWHERE. The player needs a reason to stop and look if we want them to explore the environment.
-	- It's good to train the player to look around
-- Erin's black banner doesn't pop out enough
-- The colors look kinda washed out. Look into color grading.
-- Also, nothing is casting shadows
-- Shadows are also too soft, look into getting hard shadows
-- Scarf too flowy
-	- Too many polys for scarf?
-- Make enemies cooler. The designs of the enemies themselves are very basic and generic. We've gotta do more to make them seem cool and stand out.
-	- The enemies have to have a draw.
-	- Nothing to really set it apart from a different game with the same concept.
-- How sick can I make this game look in a 3 second clip?
-- Lean more into this game's uniqueness and have that affect the enemy designs.
-- The game's music is at odds with the gameplay rn.
-	- Music should be designed a little more intentionally.
-	- Maybe focus on giving prompts for the music creation so that what we get in return is a lot more thematically consistent
-- As of right now, the questions at the start of the game are kinda just there. It might be better to find some way to make them feel a part of the game's world.
