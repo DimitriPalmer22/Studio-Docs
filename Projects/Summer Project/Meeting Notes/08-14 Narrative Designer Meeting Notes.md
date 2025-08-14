@@ -7,4 +7,7 @@ So… I didn't write those questions & answers before sending out that video. In
 
 #### Gargoyle Dialogue
 
+> This is where we talk about it fr
 
+
+### 
