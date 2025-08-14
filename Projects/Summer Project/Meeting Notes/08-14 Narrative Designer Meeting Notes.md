@@ -36,3 +36,4 @@ So… I didn't write those questions & answers before sending out that video. In
 - The game's music is at odds with the gameplay rn.
 	- Music should be designed a little more intentionally.
 	- Maybe focus on giving prompts for the music creation so that what we get in return is a lot more thematically consistent
+- As of right now, the questions at the start of the game are kinda just there. It might be better to find some way to make them feel a part of the game's world.
