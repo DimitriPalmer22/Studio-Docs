@@ -25,3 +25,5 @@ So… I didn't write those questions & answers before sending out that video. In
 - The colors look kinda washed out. Look into color grading.
 - Also, nothing is casting shadows
 - Shadows are also too soft, look into getting hard shadows
+- Scarf too flowy
+	- Too many polys for scarf?
