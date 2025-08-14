@@ -27,4 +27,7 @@ So… I didn't write those questions & answers before sending out that video. In
 - Shadows are also too soft, look into getting hard shadows
 - Scarf too flowy
 	- Too many polys for scarf?
-- Make enemies cooler. The designs of the enemies themselves 
+- Make enemies cooler. The designs of the enemies themselves are very basic and generic. We've gotta do more to make them seem cool and stand out.
+	- The enemies have to have a draw.
+	- Nothing to really set it apart from a different game with the same concept.
+- How sick can I make this game look in a 3 second clip?
