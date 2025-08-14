@@ -5,15 +5,6 @@ So… I didn't write those questions & answers before sending out that video. In
 
 I'll give out the parameters for the questions and answers.
 
-#### Gargoyle Dialogue
-
-> This is where we talk about it fr
-
-### Feedback and Stuff
-
-- Level design changes
-- 
-
 ### What Did Chelle Say
 
 - Not much going on in the room. The player isn't incentivized to explore it.
