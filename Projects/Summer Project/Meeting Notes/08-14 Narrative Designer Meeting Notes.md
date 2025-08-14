@@ -16,4 +16,6 @@ So… I didn't write those questions & answers before sending out that video. In
 ### What Did Chelle Say
 
 - Not much going on in the room. The player isn't incentivized to explore it.
-- Also, the UI. Are we going for a pixel art style? Pixel art might not fit
+- Also, the UI. Are we going for a pixel art style? Pixel art might not fit the aesthetic we're going for.
+	- Neverwinter Nights UI
+	- Rather than 
