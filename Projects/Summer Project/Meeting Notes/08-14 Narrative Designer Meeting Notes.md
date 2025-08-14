@@ -27,3 +27,4 @@ So… I didn't write those questions & answers before sending out that video. In
 - Shadows are also too soft, look into getting hard shadows
 - Scarf too flowy
 	- Too many polys for scarf?
+- Make enemies cooler. The designs of the enemies themselves 
