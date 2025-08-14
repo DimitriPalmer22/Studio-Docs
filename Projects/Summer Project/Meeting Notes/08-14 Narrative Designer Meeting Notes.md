@@ -33,4 +33,5 @@ So… I didn't write those questions & answers before sending out that video. In
 - How sick can I make this game look in a 3 second clip?
 - Lean more into this game's uniqueness and have that affect the enemy designs.
 - The game's music is at odds with the gameplay rn.
-	- Music should be designed a little more intentionally
+	- Music should be designed a little more intentionally.
+	- Maybe focus on giving prompts for the music creation so that what we get in return is a lot more thematically consistent
