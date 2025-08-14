@@ -12,3 +12,8 @@ So… I didn't write those questions & answers before sending out that video. In
 ### Feedback and Stuff
 
 - Level design changes
+
+
+### What did Chelle Say
+
+- Not much going on in the room. The player 
