@@ -31,4 +31,6 @@ So… I didn't write those questions & answers before sending out that video. In
 	- The enemies have to have a draw.
 	- Nothing to really set it apart from a different game with the same concept.
 - How sick can I make this game look in a 3 second clip?
-- Lean more into this game's uniqueness
+- Lean more into this game's uniqueness and have that affect the enemy designs.
+- The game's music is at odds with the gameplay rn.
+	- Music should be designed a little more intentionally.
