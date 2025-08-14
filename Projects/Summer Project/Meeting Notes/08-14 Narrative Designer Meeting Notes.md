@@ -13,7 +13,7 @@ So… I didn't write those questions & answers before sending out that video. In
 
 - Level design changes
 
+### What Did Chelle Say
 
-### What did Chelle Say
-
-- Not much going on in the room. The player 
+- Not much going on in the room. The player isn't incentivized to explore it.
+- Also, the UI. Are we going for a pixel art style? Pixel art might not fit
