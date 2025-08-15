@@ -1,4 +1,6 @@
-For this week's tasks, 
+For this week's tasks, you will be writing more interesting text for the questions that appear at the start of the game and influence Allister's starting stats and abilities.
+
+This doc gives a brief description of what exactly each of the questions found in the video does, and then gives the effects of the answers to those questions.
 
 1. *Allister's character stats question*: Question that affects how Allister's character stats (Vitality, Mana, Intelligence, Resilience, and Agility) are randomly distributed.
 	1. Allister's stats are randomly distributed with a heavy focus on intelligence and mana
@@ -11,3 +13,4 @@ For this week's tasks,
 	1. Crystal Barrage (A *Neutral* Spell) - A powerful spell where Allister summons a large number of crystals and then shoots them all forward at a concentrated point.
 	2. Primordial Blitz (A *Primordial* Spell) - A sequence of 13 fireballs that are very rapidly fired at enemies. It should be noted that these fireballs are weaker than the ones from Flame Volley.
 4. *Allister's Passive Ability question*: Question that directly determines *one* of the passive abilities Allister starts with.
+	1. Damage Response - 
