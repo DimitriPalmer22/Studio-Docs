@@ -2,4 +2,6 @@
 	1. Allister's stats are randomly distributed with a heavy focus on intelligence and mana
 	2. Allister's stats are randomly distributed with a heavy focus on resilience and agility
 2. *Allister's Primary spell question*: Question that directly determines which spell Allister will have as his primary.
-	1. 
+	1. Flame volley (A *Primordial* Spell) - A sequence of 3 fireballs
+	2. Tempest slash (A *Tempest* Spell) - A sequence of 3 slashes of wind
+	3. Shadow ball (A *Twilight* Spell) -
