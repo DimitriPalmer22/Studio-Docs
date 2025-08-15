@@ -2,6 +2,8 @@ For this week's tasks, you will be writing more interesting text for the questio
 
 This doc gives a brief description of what exactly each of the questions found in the video does, and then gives the effects of these specific answers to those questions.
 
+As usual, if you need anything, you can always ping me.
+
 ---
 
 1. *Allister's character stats question*: Question that affects how Allister's character stats (Vitality, Mana, Intelligence, Resilience, and Agility) are randomly distributed.
