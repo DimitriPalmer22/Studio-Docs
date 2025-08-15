@@ -13,4 +13,6 @@ This doc gives a brief description of what exactly each of the questions found i
 	1. Crystal Barrage (A *Neutral* Spell) - A powerful spell where Allister summons a large number of crystals and then shoots them all forward at a concentrated point.
 	2. Primordial Blitz (A *Primordial* Spell) - A sequence of 13 fireballs that are very rapidly fired at enemies. It should be noted that these fireballs are weaker than the ones from Flame Volley.
 4. *Allister's Passive Ability question*: Question that directly determines *one* of the passive abilities Allister starts with.
-	1. Damage Response - 
+	1. Damage Response: Intelligence - If Allister takes damage, he gains a (I think 10%) increase to his intelligence stat for (I think 5) seconds, effectively increasing the damage of his spells.
+	2. Damage Response: Agility - If Allister takes damage, he gains a (I think 10%) increase to his Agility stat for (I think 5) seconds, effectively increasing the damage of his spells.
+	3. Damage Response: Resilience -
