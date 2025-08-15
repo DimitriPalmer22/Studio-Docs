@@ -16,4 +16,4 @@ This doc gives a brief description of what exactly each of the questions found i
 	1. Damage Response: Intelligence - If Allister takes damage, he gains a (I think 10%) increase to his intelligence stat for (I think 5) seconds, effectively increasing the damage of his spells.
 	2. Damage Response: Agility - If Allister takes damage, he gains a (I think 10%) increase to his Agility stat for (I think 5) seconds, effectively increasing the distance of his dodges
 	3. Damage Response: Resilience - If Allister takes damage, he gains a (I think 10%) increase to his intelligence stat for (I think 5) seconds, effectively reducing the damage he takes from enemy attacks
-5. (Note: This 5th question is NOT the same one as the video. The 5th question in the video is literally just th)
+5. (Note: This 5th question is NOT the same one as the video. The 5th question in the video is literally just the first question again.z)
