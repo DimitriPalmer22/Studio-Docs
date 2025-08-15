@@ -1,1 +1,1 @@
-1. *Character *
+1. *Allister's character stats questions*: Question that affects how Allister's character stats (Vitality, Mana, Intelligence,)
