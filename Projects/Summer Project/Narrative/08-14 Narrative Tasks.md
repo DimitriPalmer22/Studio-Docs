@@ -1,6 +1,6 @@
 For this week's tasks, you will be writing more interesting text for the questions that appear at the start of the game and influence Allister's starting stats and abilities.
 
-This doc gives a brief description of what exactly each of the questions found in the video does, and then gives the effects of the answers to those questions.
+This doc gives a brief description of what exactly each of the questions found in the video does, and then gives the effects of these specifc answers to those questions.
 
 1. *Allister's character stats question*: Question that affects how Allister's character stats (Vitality, Mana, Intelligence, Resilience, and Agility) are randomly distributed.
 	1. Allister's stats are randomly distributed with a heavy focus on intelligence and mana
@@ -16,4 +16,4 @@ This doc gives a brief description of what exactly each of the questions found i
 	1. Damage Response: Intelligence - If Allister takes damage, he gains a (I think 10%) increase to his intelligence stat for (I think 5) seconds, effectively increasing the damage of his spells.
 	2. Damage Response: Agility - If Allister takes damage, he gains a (I think 10%) increase to his Agility stat for (I think 5) seconds, effectively increasing the distance of his dodges
 	3. Damage Response: Resilience - If Allister takes damage, he gains a (I think 10%) increase to his intelligence stat for (I think 5) seconds, effectively reducing the damage he takes from enemy attacks
-5. (Note: This 5th question is NOT the same one as the video. The 5th question in the video is literally just the first question again.) *Bonus Question*
+5. (Note: This 5th question is NOT the same one as the video. The 5th question in the video is literally just the first question again.) *Allister's Elemental Question*: Question that affects how Allister's elemental affinities for both attack and defense are randomly distributed. The elements in the game are Neutral, Primordial, Tempest, and Twilight.
