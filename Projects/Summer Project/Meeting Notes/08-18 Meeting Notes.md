@@ -33,10 +33,10 @@ For the next several weeks, we'll:
 - Refine the content already within the game to better reflect the original vision
 - Ensure that any new content is strictly within the bounds of the original vision
 
-The way I see it, making sure everything fits with the idea of a high-fantasy world is largely a psychology thing.
+The way I see it, making sure everything fits with the idea of a high-fantasy world is kinda like a psychology thing. Think to yourselves:
 1. What are the things the player sees / hears / experiences? (the *Information*)
 2. How can we relate those things to the idea of a high-fantasy world? (the *Presentation*)
-3. Based 
+3. Based on how we choose to present the information, how does that affect the player's perception of the game? (the *Perception*)
 
 If we can apply this thinking to everything in the game, then we can create a much more cohesive experience for the player.
 
