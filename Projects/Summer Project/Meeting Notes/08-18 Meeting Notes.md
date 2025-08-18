@@ -27,6 +27,8 @@ You guys have two main goals:
 
 ##### Reconsidering the Level Design
 
+We need a much more structured level design philosophy to guide us in creating levels that are both fun to play and visually interesting. So far, we've just been making stuff and hoping it works. Now, we need to be more intentional about what we create.
+
 [LEVEL DESIGNERS! CLICK THIS LINK FOR LEVEL DESIGN PHILOSOPHY NOTES](<../Level Design/08-14 LD Philosophy Shift.md>)
 
 #### Narrative Designer
