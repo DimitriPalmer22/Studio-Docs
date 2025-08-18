@@ -81,15 +81,21 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 
 To keep the level design consistent and intentional, we'll use some specific vocabulary to describe the levels. This will help us communicate better about the levels and their design.
 
+#### Spaces within the Levels
 - *Immediate Playable Area* - This is the space on the ground in which you, the level designer, intend for the bulk of the combat to take place. Ideally, these are open spaces that allow the player to fight the enemies.
 - *Background Playable Area* - This is the space in the level where the player *can* walk around in, but is ONLY intended for decoration and set-dressing. There should be a clear separation between the immediate playable area and the background playable area.
-- *Inaccessible Back*
-- *Vista* - A point in the level where the player can see a large portion of the level. Typically, we use these to view the *immediate playable area* so that the player can understand the space before they enter it.
+- *Inaccessible Background* - This is the space in the level that the player cannot walk into. This is purely used for decoration and set-dressing.
+- *Vista* - A point in the level where the player can see a large portion of the level. Typically, we use these to view the *immediate playable area* so that the player can understand the space before they enter it. If your level has a vista, it should be placed within the background playable area.
+
+#### Level Concepts
+
 - *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 enemy wave, but there ***will*** be more.
 
-- *Spawn Point* - This is the point in the level where the player spawns when they first enter the level.
-- *Exit Portal* - The point in the level where the player exits the level after defeating all of the enemies.
-- *Journal Table* - Each level MUST have one of these placed somewhere obvious within the level. This is where we will deliver more lore to the player.
+#### Objects to Be Placed within the Levels
+
+- *Spawn Point* - This is the point in the level where the player spawns when they first enter the level. Absolutely must be placed within the immediate playable area.
+- *Exit Portal* - The point in the level where the player exits the level after defeating all of the enemies. Should be placed somewhere that is obvious and easily accessible from the immediate playable area.
+- *Journal Table* - Each level MUST have one of these placed somewhere obvious within the level. This is where we will deliver more lore to the player. Should be placed somewhere obvious and 
 - *Enemy Spawner* - A point in the level where enemies *can* spawn. Not every enemy spawner has to be used in every enemy wave.
 
 ### Documentation
