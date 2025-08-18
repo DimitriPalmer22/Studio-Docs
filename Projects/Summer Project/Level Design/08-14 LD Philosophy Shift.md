@@ -86,7 +86,7 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 	- Thinking of environmental hazards that can be placed on the floor. For example, a lava pit or a spike trap.
 	- Breaking up the ground texture:
 		- Stains / decals / cracks, etc.
-		- 
+		- Carpet / interesting floor pathing
 
 # Actually Making Levels
 
