@@ -89,4 +89,12 @@ Instead, we'll brainstorm *AT LEAST 5* parti thumbnails / simple diagrams of the
 > Example of a simple level diagram. I made this using Excalidraw.com
 
 ### What Goes Into These Level Diagrams?
-- First, create a [parti thumbnail](https://book.leveldesignbook.com/process/layout) for the level
+- First, create a [parti thumbnail](https://book.leveldesignbook.com/process/layout) for the level. These are good for quickly brainstorming the shape of the level and its defining features.
+![](<../../../_Meta/Attachments/Pasted image 20250818053216.png>)
+- Next, add the main features of the level:
+	- Where are the enemy spawners
+	- Where does the player spawn? Which direction does the player face when they spawn?
+	- Where are any major obstructing obstacles?
+	- Where are the traps and hazards?
+	- Where is the exit of the level?
+	- Does the level have a vista, 
