@@ -35,7 +35,9 @@ This has LESS to do with set-dressing and more to do with the actual structure o
 
 #### Narrative Designer
 
+
 #### Animators
+
 
 #### Environmental Artists
 For right now, there are still a couple of simple props we need to fill out the levels.
