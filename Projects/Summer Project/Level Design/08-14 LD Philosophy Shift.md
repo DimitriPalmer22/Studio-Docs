@@ -21,7 +21,7 @@ Make sure the game is *fun* to play. The levels need to support this.
 #### When Do These Types of Games Feel Fun?
 
 I've found that these games feel the most fun when:
-- The player is able to *skillfully* avoid damage and defeat enemies
+- The player is able to *skillfully* avoid damage and defeat enemies. Risk-reward mechanics are a big part of this.
 - The enemies pose enough of a threat to the player that there is *significant risk of death* most of the time
 - Despite the difficulty, the player never feels like the game is *unfair*.
 
@@ -37,8 +37,11 @@ I've found that the game typically feels unfair when:
 - When is it safe for the player to attack?
 - Where is the most optimal position to engage the enemies?
 
-##### What Can Happen That is Outside of the Player's Control?
-- Enemies suddenly spawn
+##### What Can Happen That is "Outside of the Player's Control"?
+- Enemies suddenly spawn behind the player without warning
+- Enemies suddenly attack the player without warning
+- Enemies can attack the player from off-screen with little indication
+- The player gets stuck on a piece of the level while moving
 
 #### Making the Levels More Gameplay Interesting
 - 
