@@ -25,6 +25,8 @@ This game takes place in a *high-fantasy world* where the player is locked away 
 
 EVERYTHING WE DO MUST COME BACK TO THESE POINTS. Everything ranging from combat to music to UI ***MUST*** reflect these points.
 
+Something I personally really messed up on was trying to get the game in a playable state as soon as possible rather than making sure the game's adhered to the original vision.
+
 #### Goals
 
 The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
