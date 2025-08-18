@@ -16,6 +16,8 @@ One challenge of designing these levels is that often times, parts of the level 
 - Lectern
 - Chest
 
+#### Abstract Magical Artifacts
+
 ### Unobstructive Props for Filling Playable Area
 
 Another issue is that the playable area of these levels will feel so large and empty that it becomes painfully distracting to the player. Small and unobstructive props can litter the playable area to make it feel more alive and less empty without obstructing the player's view / movement of the level.
@@ -59,3 +61,5 @@ Another issue is that the playable area of these levels will feel so large and e
 ![](<../../../_Meta/Attachments/Pasted image 20250818012959.png>)
 
 ![](<../../../_Meta/Attachments/Pasted image 20250818013200.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250818013300.png>)
