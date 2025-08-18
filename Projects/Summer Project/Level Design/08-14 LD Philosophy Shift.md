@@ -81,4 +81,5 @@ When we started this project, you guys told me that you wanted to *make level ma
 
 For right now, we'll hold off on making level maps.
 
-Instead, we'll be making parti thumbn
+Instead, we'll brainstorm parti thumbnails and simple diagrams of the levels we want to make. 
+- We'll do this to further understand how the levels are su
