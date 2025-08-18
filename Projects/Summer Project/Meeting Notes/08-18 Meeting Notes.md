@@ -95,8 +95,11 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 	- The dialogue portals that OCCASIONALLY appear at the end of each room
 	- The dialogue that the player enters when talking to the gargoyle in the shop
 	- The dialogue portal that ALWAYS pops up when defeating the last room in an area
+	- The dialogue interactions themselves (the UI of the two characters talking)
 
 - As of right now, the lack of any real pizazz accompanying the narrative stuff makes them feel bland and borderline intrusive.
+
+##### Why Do These Feel Intrusive?
 - We need to build the *expectation* for the player that the narrative elements are a non-negotiable core part of the game and not just something that happens on the side.
 
 #### Programmer (Me fr)
