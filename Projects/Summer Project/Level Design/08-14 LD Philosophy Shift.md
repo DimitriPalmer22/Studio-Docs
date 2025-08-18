@@ -55,6 +55,11 @@ I've found that the game typically feels unfair when:
 ##### The Enemies Need to Pose a Significant Threat to the Player
 As of right now, the enemies are far too easy to defeat. This is mostly my fault since the enemy AI is only so complex.
 
+I can't really guarantee that the enemies will pose a significant threat to the player until we have more complex enemy AI, but there are some things you guys can do to help with this.
+
+- When constructing enemy waves, make sure that the enemies are placed in such a way that they can *attack the player from multiple (2, maybe 3) angles*.
+- Try to make it so that the player is always engaging more than one enemy at a time. The player should be forced to dodge and attack multiple enemies at once.
+
 ##### Force the Player to Engage with the Enemies
 As it is now, when the player first loads into the room, the enemies are already standing around just begging to be shot at.
 - This is ***LAME***
@@ -74,4 +79,4 @@ When we started this project, you guys told me that you wanted to *make level ma
 
 For right now, we'll hold off on making level maps.
 
-Instead, we'll be making 
+Instead, we'll be making
