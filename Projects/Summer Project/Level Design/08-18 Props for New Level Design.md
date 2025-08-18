@@ -45,3 +45,8 @@ Another issue is that the playable area of these levels will feel so large and e
 - Mortar & pestle
 - Stone collection
 - Small Open box
+- Hourglass
+
+---
+
+![](<../../../_Meta/Attachments/Pasted image 20250818012647.png>)
