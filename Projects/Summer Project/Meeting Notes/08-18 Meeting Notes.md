@@ -10,6 +10,10 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
+### Goal
+
+Last week, we sent 
+
 ### Reconsidering the Level Design
 
 [LEVEL DESIGNERS! CLICK THIS LINK FOR LEVEL DESIGN PHILOSOPHY NOTES](<../Level Design/08-14 LD Philosophy Shift.md>)
