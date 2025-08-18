@@ -81,13 +81,14 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 
 To keep the level design consistent and intentional, we'll use some specific vocabulary to describe the levels. This will help us communicate better about the levels and their design.
 
-- *Immediate Playable Area* - This is the space on the ground in which you, the level designer, intend for the bulk of the combat to take place. Ideally, these are open spaces that allow the player to fight the enemies
+- *Immediate Playable Area* - This is the space on the ground in which you, the level designer, intend for the bulk of the combat to take place. Ideally, these are open spaces that allow the player to fight the enemies.
+- *Vista* - A point in the level where the player can see a large portion of the level. Typically, we use these to view the *immediate playable area* so that the player can understand the space before they enter it.
+- *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 enemy wave, but there ***will*** be more.
+
 - *Spawn Point* - This is the point in the level where the player spawns when they first enter the level.
 - *Exit Portal* - The point in the level where the player exits the level after defeating all of the enemies.
-- *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 enemy wave, but there ***will*** be more.
-- *Enemy Spawner* - A point in the level where enemies *can* spawn. Not every enemy spawner has to be used in every enemy wave.
-- *Vista* - A point in the level where the player can see a large portion of the level. Typically, we use these to view the *immediate playable area* so that the player can understand the space before they enter it.
 - *Journal Table* - Each level MUST have one of these placed somewhere obvious within the level. This is where we will deliver more lore to the player.
+- *Enemy Spawner* - A point in the level where enemies *can* spawn. Not every enemy spawner has to be used in every enemy wave.
 
 ### Documentation
 
