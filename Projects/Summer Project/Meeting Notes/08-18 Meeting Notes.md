@@ -29,7 +29,9 @@ Something I personally really messed up on was trying to get the game to be as c
 
 #### Goals
 
-The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
+For the next several weeks, we'll:
+- Refine the content already within the game to better reflect the original vision
+- Ensure that any new content is strictly within the bounds of the original vision
 
 #### Level Design + Level Art
 This section mainly concerns the *level designers*.
