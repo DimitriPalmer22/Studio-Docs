@@ -88,6 +88,7 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 	- Breaking up the ground texture:
 		- Stains / decals / cracks, etc.
 		- Carpet / interesting floor pathing
+	- Add things that make the space seem older like cobwebs
 
 # Actually Making Levels
 
