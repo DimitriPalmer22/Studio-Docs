@@ -19,7 +19,7 @@ This game was always intended to be a difficult skill-based action game with a f
 - skill expression
 - dynamic and interesting combat
 
-Right now, the game 
+Right now, the game is lacking a strong sense of identity. There's nothing really setting it apart from other games in the genre or even other games in general.
 
 This game takes place in a *high-fantasy world* where the player is locked away in a *magical realm* created by a *powerful mage*. As of right now, this isn't reflected in the game as much as I would like. For literally anything and everything in the game, think "*How can I make this more magical?*"
 
