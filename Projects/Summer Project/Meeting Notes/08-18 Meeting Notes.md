@@ -7,14 +7,17 @@
 | Sound Meeting                          | -              |
 | Environmental Artist Meeting           |                |
 | 2D Artist + Narrative Designer Meeting |                |
-| Animation Meeting                      |                |
-| Character Artist Meeting               | -              |
+| Animation Meeting                      | Tuesday @ 2pm  |
+| Character Artist Meeting               |                |
 
-### Goal
+### What is the Game Right Now?
+
+This game was always intended to be a difficult skill-based action game with a focus on combat. As of right now, the game is missing
+- real difficulty
+- skill expression
+- dynamic and interesting combat
 
 The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
-
-This game was always intended to be a skill-based action game with a focus on combat. As of right now, the game is not very fun to play, nor does it leave much room for skill expes
 
 #### Level Design + Level Art
 This section mainly concerns the *level designers*.
@@ -37,9 +40,7 @@ This has LESS to do with set-dressing and more to do with the actual structure o
 
 #### Narrative Designer
 
-
 #### Animators
-
 
 #### Environmental Artists
 For right now, there are still a couple of simple props we need to fill out the levels.
