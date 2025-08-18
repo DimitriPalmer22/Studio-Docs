@@ -100,6 +100,8 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 - As of right now, the lack of any real pizazz accompanying the narrative stuff makes them feel bland and borderline intrusive.
 
 ##### Why Do These Feel Intrusive?
+
+##### What Do We Do About It?
 - We need to build the *expectation* for the player that the narrative elements are a non-negotiable core part of the game and not just something that happens on the side.
 
 #### Programmer (Me fr)
