@@ -54,8 +54,8 @@ As it is now, when the player first loads into the room, the enemies are already
 - This lets the player start the encounter against the enemies with a clear advantage (they can attack the enemies before the enemies detect them)
 
 Here are some ideas to fix this:
-- Wait until the player gets further into the room before spawning the enemies.
-- Shrink the size of the space the player is supposed to engage the enemies from to ensure the enemies detect the player
+- Wait until the player **gets further into the room** before spawning the enemies.
+- **Shrink the size** of the space the player is supposed to engage the enemies from to ensure the enemies detect the player
 - Use traps and environmental hazards to restrict the player within the desired area
 
 #### Making the Levels More Visually Interesting
