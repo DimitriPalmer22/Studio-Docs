@@ -86,8 +86,9 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 - I'll talk to them tomorrow
 
 #### Narrative Designer
-- Implementation of the questions you just wrote (I'll eventually make a doc for this)
-- I need your help with the *presentation* of the game's narrative elements.
+1. Implementation of the questions you just wrote (I'll eventually make a doc for this)
+2. I need your help with the *presentation* of the game's narrative elements.
+
 - Right now, the game has the following narrative elements:
 	- The dialogue portal that ALWAYS pops up at the start of each run
 	- The questions screen that determines the player's spells and such
@@ -115,9 +116,10 @@ Essentially, I need you to brainstorm different ways we can present the narrativ
 - doesn't feel intrusive to the player because it flows enough with the gameplay
 
 For example:
-- how can we frame the introductory dialogue portal so that it's not just a VFX floating in the middle of the room? In fact, how could we restructure the starting room in general to make the dialogue portal feel like a natural part of the room? 
+- how can we frame the introductory dialogue portal so that it's not just a VFX floating in the middle of the room? In fact, how could we restructure the starting room in general to make the dialogue portal feel like a natural part of the room?
 - How can we make the dialogue portal asset itself seem more interesting? Should there be a consistent animation & sound whenever a dialogue portal spawns?
-- 
+
+So, for each of the narrative elements I listed above, brainstorm 1 or more ways we can present them to the player better. If anything, you could probably rewatch the video I posted in Shbeeb's server and see where the presentation falls flat.
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
