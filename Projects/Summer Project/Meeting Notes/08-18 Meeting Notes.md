@@ -14,7 +14,10 @@
 
 The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
 
+#### Level Design + Level Art
+This section mainly concerns the *level designers* & *environmental artists*.
 
+One of the main 
 
 ### Reconsidering the Level Design
 
