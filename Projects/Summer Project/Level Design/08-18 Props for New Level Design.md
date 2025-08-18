@@ -39,3 +39,9 @@ Another issue is that the playable area of these levels will feel so large and e
 - Broken pieces of wood (Where did this wood come from? A table? a Chair? A bookshelf?)
 - Broken pieces of stone (Where did this stone come from? A wall? A pillar?)
 - Broken candles
+
+### Props that Can Fill Tables
+
+- Mortar & pestle
+- Stone collection
+- Open box
