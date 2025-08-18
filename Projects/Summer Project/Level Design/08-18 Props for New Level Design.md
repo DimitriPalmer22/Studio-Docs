@@ -13,7 +13,7 @@ One challenge of designing these levels is that often times, parts of the level 
 - A single table
 - A single chair
 - A single bench
-- 
+- Lectern
 
 ### Unobstructive Props for Filling Playable Area
 
@@ -44,4 +44,4 @@ Another issue is that the playable area of these levels will feel so large and e
 
 - Mortar & pestle
 - Stone collection
-- Open box
+- Small Open box
