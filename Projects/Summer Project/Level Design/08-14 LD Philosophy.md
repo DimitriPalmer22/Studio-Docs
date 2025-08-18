@@ -18,9 +18,13 @@ Make sure the game is *fun* to play. The levels need to support this.
 1. We should make the levels more interesting in terms of gameplay (think of features and mechanics that do this).
 2. Then, use that information to determine how to make the levels more visually interesting. What props and structures do we need to support the gameplay?
 
-For this kind of game in particular, I've found that the game feels the most fun when:
-- The enemies pose enough of a threat to the player that there is significant risk of death most of the time
-- Despite the difficulty, the player never feels like the game is unfair.
+#### When Do These Types of Games Feel Fun?
+
+I've found that these games feel the most fun when:
+- The enemies pose enough of a threat to the player that there is *significant risk of death* most of the time
+- Despite the difficulty, the player never feels like the game is *unfair*.
+
+#### When Do These Games Feel Unfair?
 
 - I've found that the game typically feels unfair when
 	- The player is not given enough information to make a good decision
