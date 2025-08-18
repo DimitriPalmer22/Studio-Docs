@@ -91,9 +91,10 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 - Right now, the game has the following narrative elements:
 	- The dialogue portal that ALWAYS pops up at the start of each run
 	- The questions screen that determines the player's spells and such
-	- The journal table that OCCASIONALLY appears in each room
+	- The journal table that OCCASIONALLY appears in each room (and the accompanying journal note)
 	- The dialogue portals that OCCASIONALLY appear at the end of each room
-	- The dialogue that the player enters when talking to the gargoyle i
+	- The dialogue that the player enters when talking to the gargoyle in the shop
+	- The dialogue portal that ALWAYS pops up when defeating the last room in an area
 
 - As of right now, the lack of any real pizazz accompanying the narrative stuff makes them feel bland and borderline intrusive.
 - We need to build the *expectation* for the player that the narrative elements are a non-negotiable core part of the game and not just something that happens on the side.
