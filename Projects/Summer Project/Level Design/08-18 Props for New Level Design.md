@@ -14,6 +14,7 @@ One challenge of designing these levels is that often times, parts of the level 
 - A single chair
 - A single bench
 - Lectern
+- Chest
 
 ### Unobstructive Props for Filling Playable Area
 
@@ -50,3 +51,9 @@ Another issue is that the playable area of these levels will feel so large and e
 ---
 
 ![](<../../../_Meta/Attachments/Pasted image 20250818012647.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250818012930.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250818012944.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20250818012959.png>)
