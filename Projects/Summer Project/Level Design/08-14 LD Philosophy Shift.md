@@ -27,10 +27,13 @@ I've found that these games feel the most fun when:
 
 #### When Do These Games Feel Unfair?
 
-- I've found that the game typically feels unfair when
-	- The player is not given enough information to make a good decision
-	- The player has something happen to them that they feel is outside of their control
+I've found that the game typically feels unfair when:
+- The player is *not given enough information* to make a good decision
+- The player has something happen to them that they feel is *outside of their control*
 
 #### Making the Levels More Gameplay Interesting
+- 
 
 #### Making the Levels More Visually Interesting
+- ;
+
