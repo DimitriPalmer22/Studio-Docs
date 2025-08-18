@@ -80,6 +80,7 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 	- Adding side rooms that are unreachable by the player
 	- Adding windows that the player can see through
 	- Using scaffolding, beams, and pillars to support the roof and other high structures in the level
+	- Hanging props like chandeliers, lanterns, cages, etc.
 - Making *the floor* interesting: A constant piece of criticism we get is that the floor is boring, flat, and repetitive. We can fix this by
 	- sinking some parts of the floor lower than other parts. For example, the *immediate playable area* (see below) could be lower than the *background playable area* (see below).
 	- adding floor props that ***DO NOT OBSTRUCT*** the player's movement or vision. Think of the scattered papers or rubble
