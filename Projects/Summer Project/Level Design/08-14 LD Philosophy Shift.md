@@ -73,7 +73,7 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 - Try not to place the enemies too far from the player. Make sure the enemies are always trying to engage the player.
 
 #### Making the Levels More Visually Interesting
-- ;
+- "Hero Piece" props - These are large props that serve as the focal point of the room. These are significant and unique enough that onl
 
 # Actually Making Levels
 
@@ -93,10 +93,10 @@ To keep the level design consistent and intentional, we'll use some specific voc
 
 #### Objects to Be Placed within the Levels
 
-- *Spawn Point* - This is the point in the level where the player spawns when they first enter the level. Absolutely must be placed within the immediate playable area.
+- *Player Spawn Point* - This is the point in the level where the player spawns when they first enter the level. Should typically be placed within the background playable area.
 - *Exit Portal* - The point in the level where the player exits the level after defeating all of the enemies. Should be placed somewhere that is obvious and easily accessible from the immediate playable area.
-- *Journal Table* - Each level MUST have one of these placed somewhere obvious within the level. This is where we will deliver more lore to the player. Should be placed somewhere obvious and 
-- *Enemy Spawner* - A point in the level where enemies *can* spawn. Not every enemy spawner has to be used in every enemy wave.
+- *Journal Table* - Each level MUST have one of these placed somewhere obvious within the level. This is where we will deliver more lore to the player. Should be placed somewhere obvious and easily accessible from the immediate playable area.
+- *Enemy Spawner* - A point in the level where enemies *can* spawn. Not every enemy spawner has to be used in every enemy wave. Absolutely ***must*** be placed within the immediate playable area.
 
 ### Documentation
 
