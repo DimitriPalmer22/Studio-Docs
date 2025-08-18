@@ -83,10 +83,11 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 ![](<../../../_Meta/Attachments/Pasted image 20250818191620.png>)
 
 #### Animators
-- 
+- I'll talk to them tomorrow
 
 #### Narrative Designer
-- 
+- Implementation of the questions you just wrote (I'll eventually make a doc for this)
+- I need your 
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
