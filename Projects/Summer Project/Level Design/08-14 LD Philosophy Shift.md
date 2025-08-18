@@ -97,4 +97,5 @@ Instead, we'll brainstorm *AT LEAST 5* parti thumbnails / simple diagrams of the
 	- Where are any major obstructing obstacles?
 	- Where are the traps and hazards?
 	- Where is the exit of the level?
-	- Does the level have a vista, 
+	- Does the level have a [vista](https://book.leveldesignbook.com/process/blockout/massing/composition#vista), and if so, where is it?
+	- Where is the "*immediate playable area*"? This is the main area where the player will be fighting the enemies.
