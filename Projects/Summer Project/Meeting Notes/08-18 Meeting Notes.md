@@ -12,7 +12,9 @@
 
 ### Goal
 
-After sending out the video of our game as well as discussing
+The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
+
+
 
 ### Reconsidering the Level Design
 
