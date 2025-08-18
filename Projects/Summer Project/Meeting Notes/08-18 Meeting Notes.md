@@ -109,7 +109,12 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 - We need to develop a strong and consistent way of presenting all of these to the player.
 
 ##### Your Task
-Essentially, I need you to brainstorm different ways 
+Essentially, I need you to brainstorm different ways we can present the narrative elements in a way that
+- is consistent with the game's aesthetic
+- is somewhat interesting
+- doesn't feel intrusive to the player because it flows enough with the gameplay
+
+For example, how can we frame the introductory dialogue portal so that it's not just a VFX floating in the middle of the room? In fact, how could we restructure  
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
