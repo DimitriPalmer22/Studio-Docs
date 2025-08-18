@@ -76,3 +76,7 @@ Once we get most of those out the way, I'll start asking you guys to create:
 Focus on finishing the models for the enemies
 
 #### 2D Artists
+- 
+
+#### Programmer (Me fr)
+- 
