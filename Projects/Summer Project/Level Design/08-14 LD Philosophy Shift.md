@@ -81,4 +81,4 @@ When we started this project, you guys told me that you wanted to *make level ma
 
 For right now, we'll hold off on making level maps.
 
-Instead, we'll be making
+Instead, we'll be making parti thumbn
