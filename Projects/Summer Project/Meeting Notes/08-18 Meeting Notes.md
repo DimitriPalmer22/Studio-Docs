@@ -31,11 +31,13 @@ We need a much more structured level design philosophy to guide us in creating l
 
 [LEVEL DESIGNERS! CLICK THIS LINK FOR LEVEL DESIGN PHILOSOPHY NOTES](<../Level Design/08-14 LD Philosophy Shift.md>)
 
+This has LESS to do with set-dressing and more to do with the actual structure of the levels and how they are designed to be played.
+
 #### Narrative Designer
 
 #### Animators
 
-#### 3D Artists
+#### Environmental Artists
 For right now, there are still a couple of simple props we need to fill out the levels.
 
 Once we get most of those out the way, I'll start asking you guys to create:
@@ -43,5 +45,8 @@ Once we get most of those out the way, I'll start asking you guys to create:
 - larger 'hero piece' props that will serve as the focal point of some of the rooms
 
 [Just as a sneak peek, here are some things I've brainstormed.](<../Level Design/08-18 Props for New Level Design.md>)
+
+#### Character Artists
+
 
 #### 2D Artists
