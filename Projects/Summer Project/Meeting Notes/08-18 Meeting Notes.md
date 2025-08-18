@@ -101,7 +101,8 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 
 ##### Why Do These Feel Intrusive?
 - We haven't really done much to incorporate the dialogue into the flow of gameplay.
-- Also, we haven't done much to make any narrative stuff appealing 
+- The text itself might be engaging, but nothing outside of it in terms of presentation draws the player to it.
+- As a result, the narrative elements aren't captivating enough on their own for it to feel like they aren't interrupting the gameplay.
 
 ##### What Do We Do About It?
 - We need to build the *expectation* for the player that the narrative elements are a non-negotiable core part of the game and not just something that happens on the side.
