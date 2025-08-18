@@ -15,17 +15,19 @@
 The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
 
 #### Level Design + Level Art
-This section mainly concerns the *level designers* & *environmental artists*.
-
-One of the main 
-
-### Reconsidering the Level Design
-
-[LEVEL DESIGNERS! CLICK THIS LINK FOR LEVEL DESIGN PHILOSOPHY NOTES](<../Level Design/08-14 LD Philosophy Shift.md>)
+This section mainly concerns the *level designers*.
 
 ### Tasks
 
 #### Level Designers
+
+You guys have two main goals:
+- First, make the levels more engaging to play.
+- Then, make the levels more visually interesting to look at.
+
+##### Reconsidering the Level Design
+
+[LEVEL DESIGNERS! CLICK THIS LINK FOR LEVEL DESIGN PHILOSOPHY NOTES](<../Level Design/08-14 LD Philosophy Shift.md>)
 
 #### Narrative Designer
 
