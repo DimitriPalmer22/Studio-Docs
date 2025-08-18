@@ -31,9 +31,17 @@ I've found that the game typically feels unfair when:
 - The player is *not given enough information* to make a good decision
 - The player has something happen to them that they feel is *outside of their control*
 
+##### What Information Does the Player Need?
+- Where are the enemies?
+- When are the enemies going to attack?
+- When is it safe for the player to attack?
+- Where is the most optimal position to engage the enemies?
+
+##### What Can Happen That is Outside of the Player's Control?
+- Enemies suddenly spawn
+
 #### Making the Levels More Gameplay Interesting
 - 
 
 #### Making the Levels More Visually Interesting
 - ;
-
