@@ -12,4 +12,4 @@
 
 ### Reconsidering the Level Design
 
-[LEVEL DESIGNE](<../Level Design/08-14 LD Tasks.md>)
+[LEVEL DESIGNERS! CLICK THIS LINK FOR THE LD TASKS](<../Level Design/08-14 LD Tasks.md>)
