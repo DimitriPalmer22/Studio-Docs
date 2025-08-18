@@ -46,8 +46,10 @@ I've found that the game typically feels unfair when:
 
 #### Making the Levels More Gameplay Interesting
 
-This section a
+> This section addresses the points mentioned in [When Do These Types of Games Feel Fun?](<#When Do These Types of Games Feel Fun?>) and [When Do These Games Feel Unfair?](<#When Do These Games Feel Unfair?>).
 
+##### Force the Player to Engage with the Enemies
+As it is now, when the player first loads into the room, the enemies are already standing around just begging to be shot at. This is ***LAME*** because it allows the player 
 
 #### Making the Levels More Visually Interesting
 - ;
