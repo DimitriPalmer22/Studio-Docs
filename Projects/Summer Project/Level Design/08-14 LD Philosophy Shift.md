@@ -81,7 +81,11 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 
 To keep the level design consistent and intentional, we'll use some specific vocabulary to describe the levels. This will help us communicate better about the levels and their design.
 
-- *Immediate Playable Area* - This is the 
+- *Immediate Playable Area* - This is the space on the ground in which you, the level designer, intend for the bulk of the combat to take place.
+- *Spawn Point* - This is the point in the level where the player spawns when they first enter the level.
+- *Exit Portal* - The point in the level where the player exits the level after defeating all of the enemies.
+- *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 env
+- *Enemy Spawner* - A point in the level where enemies *can* spawn. 
 
 ### Documentation
 
