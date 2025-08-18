@@ -1,3 +1,5 @@
+# The Theory and Stuff
+
 ### Level Design Feedback
 
 These are a couple things that people (both inside and outside the team) have said about the level design that I think we should consider. We don't have to necessarily change everything in accordance with this feedback, but I think it is worth considering.
@@ -65,3 +67,9 @@ Here are some ideas to fix this:
 
 #### Making the Levels More Visually Interesting
 - ;
+
+# Actually Making Levels
+
+When we started this project, you guys told me that you wanted to *make level maps and proper documentation* for these levels so we could go about making levels the right way.
+
+For right now, we'll hold off on making level maps.
