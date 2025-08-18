@@ -73,3 +73,5 @@ Here are some ideas to fix this:
 When we started this project, you guys told me that you wanted to *make level maps and proper documentation* for these levels so we could go about making levels the right way.
 
 For right now, we'll hold off on making level maps.
+
+Instead, we'll be making 
