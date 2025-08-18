@@ -89,7 +89,8 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 - Implementation of the questions you just wrote (I'll eventually make a doc for this)
 - I need your help with the *presentation* of the game's narrative elements.
 
-- As of right now, the lack of any real pizazz accompanying the narrative stuff makes 
+- As of right now, the lack of any real pizazz accompanying the narrative stuff makes them feel bland and borderline intrusive.
+- We need to build the *expectation* for the player that the narrative elements are a non-= core part of the game and not just something that happens on the side.
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
