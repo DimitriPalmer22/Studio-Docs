@@ -58,7 +58,8 @@ As of right now, the enemies are far too easy to defeat. This is mostly my fault
 I can't really guarantee that the enemies will pose a significant threat to the player until we have more complex enemy AI, but there are some things you guys can do to help with this.
 
 - When constructing enemy waves, make sure that the enemies are placed in such a way that they can *attack the player from multiple (2, maybe 3) angles*.
-- Try to make it so that the player is always engaging more than one enemy at a time. The player should be forced to dodge and attack multiple enemies at once.
+- Try to make it so that the player is *always engaging more than one enemy at a time*. The player should be forced to dodge and attack multiple enemies at once.
+	- To do this, try to place enemies close together or place their spawns within close proximity to each other and wher
 
 ##### Force the Player to Engage with the Enemies
 As it is now, when the player first loads into the room, the enemies are already standing around just begging to be shot at.
