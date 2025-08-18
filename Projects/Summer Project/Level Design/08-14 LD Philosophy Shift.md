@@ -102,7 +102,7 @@ To keep the level design consistent and intentional, we'll use some specific voc
 
 #### Level Concepts
 
-- *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 enemy wave, but there ***will*** be more.
+- ***Enemy Wave*** - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 enemy wave, but there ***will*** be more.
 
 #### Objects to Be Placed within the Levels
 
