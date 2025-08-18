@@ -24,6 +24,7 @@ I've found that these games feel the most fun when:
 - The player is able to *skillfully* avoid damage and defeat enemies. Risk-reward mechanics are a big part of this.
 - The enemies pose enough of a threat to the player that there is *significant risk of death* most of the time
 - Despite the difficulty, the player never feels like the game is *unfair*.
+- The player is *forced to engage* with the enemies (no shooting them from outside their range or running past enemies without consequence)
 
 #### When Do These Games Feel Unfair?
 
@@ -44,7 +45,9 @@ I've found that the game typically feels unfair when:
 - The player gets stuck on a piece of the level while moving
 
 #### Making the Levels More Gameplay Interesting
-- 
+
+This section a
+
 
 #### Making the Levels More Visually Interesting
 - ;
