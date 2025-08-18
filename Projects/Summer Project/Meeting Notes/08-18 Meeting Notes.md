@@ -106,6 +106,10 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 
 ##### What Do We Do About It?
 - We need to build the *expectation* for the player that the narrative elements are a non-negotiable core part of the game and not just something that happens on the side.
+- We need to develop a strong and consistent way of presenting all of these to the player.
+
+##### Your Task
+Essentially, I need you to brainstorm different ways 
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
