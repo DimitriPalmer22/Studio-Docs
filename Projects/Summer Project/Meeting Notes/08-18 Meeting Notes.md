@@ -61,8 +61,6 @@ This has LESS to do with set-dressing and more to do with the actual structure o
 
 #### Narrative Designer
 
-#### Animators
-
 #### Environmental Artists
 For right now, there are still a couple of simple props we need to fill out the levels.
 
@@ -78,5 +76,10 @@ Once we get most of those out the way, I'll start asking you guys to create:
 #### 2D Artists
 - 
 
-#### Programmer (Me fr)
+#### Animators
 - 
+
+#### Programmer (Me fr)
+- Incorporate more skill-based gameplay
+	- Add a skill-based mechanic like a "perfect dodge"?
+	- Add a skill-based mechanic like perfectly timing your attack string inputs?
