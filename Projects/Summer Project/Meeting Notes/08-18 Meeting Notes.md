@@ -12,7 +12,7 @@
 
 ### Goal
 
-Last week, we sent 
+After sending out the video of our game as well as discussing
 
 ### Reconsidering the Level Design
 
