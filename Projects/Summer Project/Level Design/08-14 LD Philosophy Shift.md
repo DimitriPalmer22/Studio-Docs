@@ -52,15 +52,6 @@ I've found that the game typically feels unfair when:
 
 > This section addresses the points mentioned in [When Do These Types of Games Feel Fun?](<#When Do These Types of Games Feel Fun?>) and [When Do These Games Feel Unfair?](<#When Do These Games Feel Unfair?>).
 
-##### The Enemies Need to Pose a Significant Threat to the Player
-As of right now, the enemies are far too easy to defeat. This is mostly my fault since the enemy AI is only so complex.
-
-I can't really guarantee that the enemies will pose a significant threat to the player until we have more complex enemy AI, but there are some things you guys can do to help with this.
-
-- When constructing enemy waves, make sure that the enemies are placed in such a way that they can *attack the player from multiple (2, maybe 3) angles*.
-- Try to make it so that the player is *always engaging more than one enemy at a time*. The player should be forced to dodge and attack multiple enemies at once.
-	- To do this, try to place enemies close together or place their spawns within close proximity to each other and wher
-
 ##### Force the Player to Engage with the Enemies
 As it is now, when the player first loads into the room, the enemies are already standing around just begging to be shot at.
 - This is ***LAME***
@@ -70,6 +61,16 @@ Here are some ideas to fix this:
 - Wait until the player **gets further into the room** before spawning the enemies.
 - **Shrink the size** of the space the player is supposed to engage the enemies from to ensure the enemies detect the player
 - Use traps and environmental hazards to restrict the player within the desired area
+
+##### The Enemies Need to Pose a Significant Threat to the Player
+As of right now, the enemies are far too easy to defeat. This is mostly my fault since the enemy AI is only so complex.
+
+I can't really guarantee that the enemies will pose a significant threat to the player until we have more complex enemy AI, but there are some things you guys can do to help with this.
+
+- When constructing enemy waves, make sure that the enemies are placed in such a way that they can *attack the player from multiple (2, maybe 3) angles*.
+- Try to make it so that the player is *always engaging more than one enemy at a time*. The player should be forced to dodge and attack multiple enemies at once.
+	- To do this, try to place enemies close together or place their spawns within close proximity to each other and where you think the player will be
+- Try not to place the enemies too far from the player. Make sure the enemies are always trying to engage the player.
 
 #### Making the Levels More Visually Interesting
 - ;
