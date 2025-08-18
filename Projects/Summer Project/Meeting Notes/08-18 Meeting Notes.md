@@ -34,8 +34,11 @@ For the next several weeks, we'll:
 - Ensure that any new content is strictly within the bounds of the original vision
 
 The way I see it, making sure everything fits with the idea of a high-fantasy world is largely a psychology thing.
-- What are the things the player sees / hears / experiences?
-- How can we 
+1. What are the things the player sees / hears / experiences?
+2. How can we relate those things to the idea of a high-fantasy world?
+
+If we can apply this thinking to everything in the game, then we can create a much more cohesive experience for the player.
+
 #### Level Design + Level Art
 This section mainly concerns the *level designers*.
 
