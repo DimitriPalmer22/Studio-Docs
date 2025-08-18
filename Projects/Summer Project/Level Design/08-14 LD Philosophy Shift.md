@@ -84,8 +84,10 @@ To keep the level design consistent and intentional, we'll use some specific voc
 - *Immediate Playable Area* - This is the space on the ground in which you, the level designer, intend for the bulk of the combat to take place.
 - *Spawn Point* - This is the point in the level where the player spawns when they first enter the level.
 - *Exit Portal* - The point in the level where the player exits the level after defeating all of the enemies.
-- *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 env
-- *Enemy Spawner* - A point in the level where enemies *can* spawn. 
+- *Enemy Wave* - A group of enemies that spawn together at the same time. Right now, each of the rooms only has 1 enemy wave, but there ***will*** be more.
+- *Enemy Spawner* - A point in the level where enemies *can* spawn. Not every enemy spawner has to be used in every enemy wave.
+- *Vista* - A point in the level where the player can see a large portion of the level. Typically, we use these to view the *immediate playable area* so that the player can understand the space before they enter it.
+- *Journal Table* - 
 
 ### Documentation
 
