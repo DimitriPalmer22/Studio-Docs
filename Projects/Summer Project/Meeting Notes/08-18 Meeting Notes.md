@@ -19,7 +19,7 @@ This game was always intended to be a difficult skill-based action game with a f
 - skill expression
 - dynamic and interesting combat
 
-This game takes place in a high-fantasy world where the player is locked away in a magical realm created by a powerful mage. As of right now, this isn't reflected in the game as much as I would like.
+This game takes place in a *high-fantasy world* where the player is locked away in a *magical realm* created by a *powerful mage*. As of right now, this isn't reflected in the game as much as I would like. For literally anything and everything in the game, think "*How can I make this more magical?*"
 
 EVERYTHING WE DO MUST COME BACK TO THESE POINTS. Everything ranging from combat to music to UI ***MUST*** reflect these points.
 
