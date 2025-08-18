@@ -84,6 +84,9 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 	- sinking some parts of the floor lower than other parts. For example, the *immediate playable area* (see below) could be lower than the *background playable area* (see below).
 	- adding floor props that ***DO NOT OBSTRUCT*** the player's movement or vision. Think of the scattered papers or rubble
 	- Thinking of environmental hazards that can be placed on the floor. For example, a lava pit or a spike trap.
+	- Breaking up the ground texture:
+		- Stains / decals / cracks, etc.
+		- 
 
 # Actually Making Levels
 
