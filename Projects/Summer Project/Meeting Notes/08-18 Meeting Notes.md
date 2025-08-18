@@ -12,10 +12,16 @@
 
 ### What is the Game Right Now?
 
+#### Assessment of the Game
+
 This game was always intended to be a difficult skill-based action game with a focus on combat. As of right now, the game is missing
 - real difficulty
 - skill expression
 - dynamic and interesting combat
+
+This game takes place in a high-fantasy world where the player is locked away in a magical realm created by a powerful mage. As of right now
+
+#### Goals
 
 The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
 
