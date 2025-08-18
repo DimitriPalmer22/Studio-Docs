@@ -29,4 +29,6 @@ Once we get most of those out the way, I'll start asking you guys to create:
 - more abstract and unique props that'll further establish the game's visual identity
 - larger 'hero piece' props that will serve as the focal point of some of the rooms
 
+[Just as a sneak peek, here are some things I've brainstormed.](<../Level Design/08-18 Props for New Level Design.md>)
+
 #### 2D Artists

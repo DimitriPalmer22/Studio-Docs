@@ -77,6 +77,14 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 
 # Actually Making Levels
 
+### Quick Vocabulary Lesson
+
+To keep the level design consistent and intentional, we'll use some specific vocabulary to describe the levels. This will help us communicate better about the levels and their design.
+
+- *Immediate Playable Area* - This is the 
+
+### Documentation
+
 When we started this project, you guys told me that you wanted to *make level maps and proper documentation* for these levels so we could go about making levels the right way.
 
 For right now, we'll hold off on making level maps.
