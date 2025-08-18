@@ -13,3 +13,13 @@
 ### Reconsidering the Level Design
 
 [LEVEL DESIGNERS! CLICK THIS LINK FOR LEVEL DESIGN PHILOSOPHY NOTES](<../Level Design/08-14 LD Philosophy Shift.md>)
+
+### Tasks
+
+#### LDs
+
+#### Narrative Designer
+
+#### Animators
+
+#### 
