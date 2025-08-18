@@ -114,7 +114,10 @@ Essentially, I need you to brainstorm different ways we can present the narrativ
 - is somewhat interesting
 - doesn't feel intrusive to the player because it flows enough with the gameplay
 
-For example, how can we frame the introductory dialogue portal so that it's not just a VFX floating in the middle of the room? In fact, how could we restructure  
+For example:
+- how can we frame the introductory dialogue portal so that it's not just a VFX floating in the middle of the room? In fact, how could we restructure the starting room in general to make the dialogue portal feel like a natural part of the room? 
+- How can we make the dialogue portal asset itself seem more interesting? Should there be a consistent animation & sound whenever a dialogue portal spawns?
+- 
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
