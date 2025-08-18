@@ -73,10 +73,15 @@ I can't really guarantee that the enemies will pose a significant threat to the 
 - Try not to place the enemies too far from the player. Make sure the enemies are always trying to engage the player.
 
 #### Making the Levels More Visually Interesting
-- "Hero Piece" props - These are large props that serve as the focal point of the room. These props are significant and unique enough that only maybe one or two rooms should ever have a specific hero piece prop
-- Adding depth to the upper architecture & walls: When building taller levels, the walls tend to be flat. We can fix this by
+- "*Hero Piece*" props - These are large props that serve as the focal point of the room. These props are significant and unique enough that only maybe one or two rooms should ever have a specific hero piece prop
+- Adding depth to the *upper architecture & walls*: When building taller levels, the walls tend to be flat. We can fix this by
 	- Adding unreachable 2nd floors
-	- Adding Balconies that 
+	- Adding Balconies that clearly stick out and hang over the player
+	- Adding side rooms that are unreachable by the player
+	- Adding windows that the player can see through
+	- Using scaffolding, beams, and pillars to support the roof and other high structures in the level
+- Making *the floor* interesting: A constant piece of criticism we get is that the floor is boring, flat, and repetitive. We can fix this by
+	- 
 
 # Actually Making Levels
 
