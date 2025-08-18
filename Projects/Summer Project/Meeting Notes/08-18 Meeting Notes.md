@@ -16,10 +16,13 @@
 
 ### Tasks
 
-#### LDs
+#### Level Designers
 
 #### Narrative Designer
 
 #### Animators
 
-#### 
+#### 3D Artists
+For right now, there are still a couple of simple props we need to fill out the levels. Once we get most of those out the way, I'll start asking you guys to 
+
+#### 2D Artists
