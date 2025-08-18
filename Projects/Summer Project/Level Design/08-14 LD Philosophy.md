@@ -21,6 +21,7 @@ Make sure the game is *fun* to play. The levels need to support this.
 #### When Do These Types of Games Feel Fun?
 
 I've found that these games feel the most fun when:
+- The player is able to *skillfully* avoid damage and defeat enemies
 - The enemies pose enough of a threat to the player that there is *significant risk of death* most of the time
 - Despite the difficulty, the player never feels like the game is *unfair*.
 
