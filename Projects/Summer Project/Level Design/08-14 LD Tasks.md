@@ -8,3 +8,12 @@ These are a couple things that people (both inside and outside the team) have sa
 - If we want to get the environment involved:
 	- create useful cover for the player and enemies
 	- create useful ways for the player to flank
+
+#### Feedback from Me
+- Personally, I think
+
+### How Do We Make the Levels More Interesting?
+
+#### Make the Levels More Visually Interesting
+
+#### Make the Levels More Gameplay Interesting

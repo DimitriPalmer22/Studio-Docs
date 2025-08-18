@@ -11,3 +11,5 @@
 | Character Artist Meeting               |                |
 
 ### Reconsidering the Level Design
+
+[LEVEL DESIGNE](<../Level Design/08-14 LD Tasks.md>)
