@@ -12,7 +12,7 @@ These are a couple things that people (both inside and outside the team) have sa
 	- create useful ways for the player to flank
 
 #### Feedback from Me
-- Personally, I think
+- Personally, I think uh…
 
 ### How Do We Make the Levels More Interesting?
 Make sure the game is *fun* to play. The levels need to support this.
