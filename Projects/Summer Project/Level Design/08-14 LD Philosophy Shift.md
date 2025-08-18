@@ -84,11 +84,9 @@ For right now, we'll hold off on making level maps.
 Instead, we'll brainstorm *AT LEAST 5* parti thumbnails / simple diagrams of the levels we want to make.
 - We'll do this to further understand how the levels are supposed to play out BEFORE making them
 
-![](<../../../_Meta/Attachments/Pasted image 20250818052913.png>)
+![](<../../../_Meta/Attachments/Pasted image 20250818053055.png>)
 
-> Example of a simple level diagram. I made this using
+> Example of a simple level diagram. I made this using Excalidraw.com
 
 ### What Goes Into These Level Diagrams?
-
-
-
+- First, create a [parti thumbnail](https://book.leveldesignbook.com/process/layout) for the level
