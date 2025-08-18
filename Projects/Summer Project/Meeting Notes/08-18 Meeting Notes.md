@@ -14,6 +14,8 @@
 
 The goal of this next several weeks is to *refine what the game currently is* before we keep going on to the rest of the game.
 
+This game was always intended to be a skill-based action game with a focus on combat. As of right now, the game is not very fun to play, nor does it leave much room for skill expes
+
 #### Level Design + Level Art
 This section mainly concerns the *level designers*.
 
