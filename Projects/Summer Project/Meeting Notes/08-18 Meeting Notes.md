@@ -77,6 +77,9 @@ Once we get most of those out the way, I'll start asking you guys to create:
 #### Animators
 - 
 
+#### Narrative Designer
+- 
+
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
 	- Add a skill-based mechanic like a "perfect dodge"?
@@ -85,6 +88,4 @@ Once we get most of those out the way, I'll start asking you guys to create:
 	- Melee enemy combat
 	- Keep enhancing enemy AI
 	- Environmental hazard logic
-	- Attacks that go out when the enemies die (idk like an a)
-
-#### Narrative Designer
+	- Attacks that go out when the enemies die (like an explosion)
