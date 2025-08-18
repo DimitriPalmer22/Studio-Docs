@@ -73,7 +73,7 @@ Once we get most of those out the way, I'll start asking you guys to create:
 [Just as a sneak peek, here are some things I've brainstormed.](<../Level Design/08-18 Props for New Level Design.md>)
 
 #### Character Artists
-Focus on finishing the models for the enemies
+- Focus on finishing the models for the enemies
 
 #### 2D Artists
 - 
