@@ -87,7 +87,7 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 
 #### Narrative Designer
 - Implementation of the questions you just wrote (I'll eventually make a doc for this)
-- I need your 
+- I need your help with the *presentation* of the game's narrative elements.
 
 #### Programmer (Me fr)
 - Incorporate more skill-based gameplay
