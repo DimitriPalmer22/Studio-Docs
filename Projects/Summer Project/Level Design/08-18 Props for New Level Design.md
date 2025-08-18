@@ -18,6 +18,16 @@ One challenge of designing these levels is that often times, parts of the level 
 
 #### Abstract Magical Artifacts
 
+#### Big Central Set Piece Props
+
+- Fountain
+- Large statue
+- Hanging Magical Eyeball thing
+- Large magical artifact
+- Ginormous mound of crystals
+- Really large painting
+- 
+
 ### Unobstructive Props for Filling Playable Area
 
 Another issue is that the playable area of these levels will feel so large and empty that it becomes painfully distracting to the player. Small and unobstructive props can litter the playable area to make it feel more alive and less empty without obstructing the player's view / movement of the level.
@@ -42,6 +52,7 @@ Another issue is that the playable area of these levels will feel so large and e
 - Broken pieces of wood (Where did this wood come from? A table? a Chair? A bookshelf?)
 - Broken pieces of stone (Where did this stone come from? A wall? A pillar?)
 - Broken candles
+- pile of Shattered crystals
 
 ### Props that Can Fill Tables
 
