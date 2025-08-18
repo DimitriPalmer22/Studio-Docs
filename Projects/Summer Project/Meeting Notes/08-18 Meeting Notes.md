@@ -76,6 +76,8 @@ I've added a backlog of more props to the ClickUp, however, a lot of them may no
 #### 2D Artists
 - Finish any portraits that haven't been finished yet
 	- For each of the portraits that have been made, make sure they are consistent with each other.
+- Try to mock up some UI designs that are consistent with the visuals of the rest of the game
+	- The rest of the game uses low-
 
 #### Animators
 - 
