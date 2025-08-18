@@ -59,8 +59,6 @@ We need a much more structured level design philosophy to guide us in creating l
 
 This has LESS to do with set-dressing and more to do with the actual structure of the levels and how they are designed to be played.
 
-#### Narrative Designer
-
 #### Environmental Artists
 For right now, there are still a couple of simple props we need to fill out the levels.
 
@@ -83,3 +81,10 @@ Once we get most of those out the way, I'll start asking you guys to create:
 - Incorporate more skill-based gameplay
 	- Add a skill-based mechanic like a "perfect dodge"?
 	- Add a skill-based mechanic like perfectly timing your attack string inputs?
+- Make the enemies more threatening and dynamic
+	- Melee enemy combat
+	- Keep enhancing enemy AI
+	- Environmental hazard logic
+	- Attacks that go out when the enemies die (idk like an a)
+
+#### Narrative Designer
