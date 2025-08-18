@@ -26,6 +26,8 @@ I've found that these games feel the most fun when:
 - The enemies pose enough of a threat to the player that there is *significant risk of death* most of the time
 - Despite the difficulty, the player never feels like the game is *unfair*.
 
+The sense of skill expression and high level of difficulty adds a lot of replayability to these types of games. Players will want to keep trying to get better at the game.
+
 #### When Do These Games Feel Unfair?
 
 I've found that the game typically feels unfair when:
