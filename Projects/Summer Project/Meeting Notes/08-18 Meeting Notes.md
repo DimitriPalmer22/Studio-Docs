@@ -4,11 +4,11 @@
 | -------------------------------------- | -------------- |
 | LD Meeting                             |                |
 | Narrative Designer + CD Meeting        |                |
-| Sound Meeting                          |                |
+| Sound Meeting                          | -              |
 | Environmental Artist Meeting           |                |
 | 2D Artist + Narrative Designer Meeting |                |
 | Animation Meeting                      |                |
-| Character Artist Meeting               |                |
+| Character Artist Meeting               | -              |
 
 ### Goal
 
