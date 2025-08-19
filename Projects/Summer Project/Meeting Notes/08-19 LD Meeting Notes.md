@@ -36,7 +36,7 @@ How can we arrange these levels, props, and enemies to make it feel like the pla
 
 Yes.
 
-##### The Pillars / Columns are Too Circular
+##### Side Note: The Pillars / Columns are Too Circular
 
 The pillars you guys use in the levels have been too circular for too long. 
 
@@ -44,7 +44,7 @@ It's absolutely killing me.
 
 There are circles in a game where everything is supposed to be low poly.
 
-Can somebody replace the mesh 
+Can somebody replace the mesh with something that is more angular?
 
 ---
 
