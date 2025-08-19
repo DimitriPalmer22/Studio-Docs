@@ -2,7 +2,7 @@
 
 #### Reiterating the Goal
 
-Yesterday, in the big meeting, I talked about getting the game to *feel* like it takes place in a magical realm created by a powerful mage.
+Yesterday, in the big meeting, I talked about getting the game to *feel* like it takes place in a magical realm created by a powerful, but crazy mage.
 - As the game is right now, it doesn't really feel like that.
 - Yeah, the lore is written, but the game doesn't really reflect that lore.
 
@@ -28,7 +28,9 @@ Right now, we know:
 
 Let's break this question down:
 
-"How can we arrange these levels, props, and enemies to make it feel like the player is escaping a "***magical realm***" created by a ***powerful mage***?"
+"How can we arrange these levels, props, and enemies to make it feel like the player is escaping 
+- a "***magical realm***" 
+- created by a ***powerful mage***?"
 
 ---
 
