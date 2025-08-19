@@ -40,11 +40,14 @@ A magical realm is a place that is not bound by the laws of physics. It can be a
 
 ##### Created by a Powerful, But Crazy Mage
 
-
+The rooms within Avernoth are still man-made structures. However, they are not made by just any person. They were made by a crazy mage.
+- For the levels up to this point, we have not leaned hard enough into the mage who made Avernoth being crazy / ultra paranoid
 
 #### Is Our Modular Kit Too Limited?
 
 Yes.
+
+Now that we're essentially loosening up the level design philosophy, we need to make sure that the modular kit we have is flexible enough to accommodate the new direction.
 
 ##### Side Note: The Pillars / Columns are Too Circular
 
