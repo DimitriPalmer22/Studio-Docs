@@ -32,6 +32,8 @@ How can we arrange these levels, props, and enemies to make it feel like the pla
 - a "***magical realm***" 
 - created by a ***powerful, but crazy mage***?
 
+Honestly, to achieve this, I think I need to loosen up the restrictions of the old level design philosophy.
+
 ##### A Magical Realm
 
 I don't want the game to feel too grounded / too realistic. We can get a little creative with the things we see in the levels. 
