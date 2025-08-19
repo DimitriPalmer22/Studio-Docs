@@ -65,8 +65,6 @@ Once we get most of those out the way, I'll start asking you guys to create:
 
 [Just as a sneak peek, here are some things I've brainstormed.](<../Level Design/08-18 Props for New Level Design.md>)
 
-I've added a backlog of more props to the ClickUp, however, a lot of them may not have references in the Miro board.
-
 #### Character Artists
 - Focus on finishing the models for the enemies
 
