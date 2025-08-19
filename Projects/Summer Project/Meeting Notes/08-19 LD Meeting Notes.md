@@ -32,15 +32,20 @@ How can we arrange these levels, props, and enemies to make it feel like the pla
 - a "***magical realm***" 
 - created by a ***powerful, but crazy mage***?
 
+##### A Magical Realm
+A magical realm is a place that is ***not bound by the laws of physics***. It can be a place where ***anything can happen***, and ***anything can exist***.
+
+##### Created by a Powerful, But Crazy Mage
+
+
+
 #### Is Our Modular Kit Too Limited?
 
 Yes.
 
 ##### Side Note: The Pillars / Columns are Too Circular
 
-The pillars you guys use in the levels have been too circular for too long. It's absolutely killing me. 
-
-There are circles in a game where everything is supposed to be low poly.
+The pillars you guys use in the levels have been too circular for too long. It's absolutely killing me. There are legit circles in a game where everything is supposed to be low poly.
 
 Can somebody replace the mesh with something that is more angular?
 
