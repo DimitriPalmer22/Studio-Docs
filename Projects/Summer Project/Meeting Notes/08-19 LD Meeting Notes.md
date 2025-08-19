@@ -8,6 +8,10 @@ Yesterday, in the big meeting, I talked about getting the game to *feel* like it
 
 #### What is the Overall Level Design?
 
-Right now, the game doesn't feel very magical because the levels are too ***grounded***; they feel like normal medieval fantasy levels.
+Right now, the game doesn't feel very magical because the levels are too ***grounded***; they feel like normal medieval fantasy levels. That is my bad, I sent you guys in the wrong direction.
+
+
+
+---
 
 Before, we mentioned that the game is supposed to have ***3 main areas*** that progressively get more difficult
