@@ -58,6 +58,18 @@ The rooms should be designed in such a way that they reflect the mage's paranoia
 - Experiments (Special furniture pieces that need unique props) w/ papers scattered everywhere
 - Furniture turned on its side
 
+Since these rooms are man-made, we can try to think of a function for each room. This will help us decide what props to put in the room and how to arrange them. Try to think outside of just "study rooms"
+- Alchemy lab
+- Library
+- Enchanting room
+- Dining hall
+- Research lab (with a whole bunch of cages)
+- Courtyard
+- Garden?
+- Armory
+- Wand and Staff-making room
+- Resear
+
 #### Is Our Modular Kit Too Limited?
 
 Yes.
