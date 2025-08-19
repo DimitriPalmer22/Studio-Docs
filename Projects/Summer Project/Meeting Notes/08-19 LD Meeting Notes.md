@@ -45,9 +45,10 @@ A magical realm is a place that is not bound by the laws of physics. It can be a
 The rooms within Avernoth are still man-made structures. However, they are not made by just any person. They were made by a crazy mage.
 - For the levels up to this point, we have not leaned hard enough into the mage who made Avernoth being crazy / ultra paranoid
 
-The rooms should be designed in such a way that they reflect the mage's paranoia and craziness. We can do this by:
+The rooms should be designed in such a way that they reflect the mage's paranoia and craziness. The spaces we play in are supposed to characterize the mage. We can do this by:
 - Adding upside-down staircases
 - Adding paths that lead to nowhere in some places
+- 
 
 #### Is Our Modular Kit Too Limited?
 
