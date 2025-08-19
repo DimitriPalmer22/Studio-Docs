@@ -40,6 +40,9 @@ I don't want the game to feel too grounded / too realistic. We can get a little 
 
 A magical realm is a place that is not bound by the laws of physics. It can be a place where ***anything can happen***, and ***anything can exist***.
 
+How do we incorporate "magic" into the level?:
+- 
+
 ##### Created by a Powerful, But Crazy Mage
 
 The rooms within Avernoth are still man-made structures. However, they are not made by just any person. They were made by a crazy mage.
@@ -48,7 +51,8 @@ The rooms within Avernoth are still man-made structures. However, they are not m
 The rooms should be designed in such a way that they reflect the mage's paranoia and craziness. The spaces we play in are supposed to characterize the mage. We can do this by:
 - Adding upside-down staircases
 - Adding paths that lead to nowhere in some places
-- 
+- Experiments (Special furniture pieces that need unique props) w/ papers scattered everywhere
+- Furniture turned on its side
 
 #### Is Our Modular Kit Too Limited?
 
