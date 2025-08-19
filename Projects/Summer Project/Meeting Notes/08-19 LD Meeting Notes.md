@@ -68,7 +68,8 @@ Since these rooms are man-made, we can try to think of a function for each room.
 - Garden?
 - Armory
 - Wand and Staff-making room
-- Resear
+- Research room w/ papers and tables everywhere
+- Etc.
 
 #### Is Our Modular Kit Too Limited?
 
@@ -85,6 +86,8 @@ Just make sure the piece lines up with the rest of the modular kit.
 The pillars you guys use in the levels have been too circular for too long. It's absolutely killing me. There are legit circles in a game where everything is supposed to be low poly.
 
 Can somebody replace the mesh with something that is more angular?
+
+### Brainstorming Level Shapes and Designs
 
 ---
 
