@@ -45,8 +45,8 @@ How do we incorporate "magic" into the level?:
 - Floating platforms in the background of the level (if the outside is exposed enough)
 - Floating furniture and props within the room.
 - Glowing magical runes on the walls and floors as decals / decoration (Should be distinct from the exit transmutation circle)
-- 
-
+- Glowing magical crystals scattered around the room
+- Magical orbs and whatnot flying around the area
 ##### Created by a Powerful, But Crazy Mage
 
 The rooms within Avernoth are still man-made structures. However, they are not made by just any person. They were made by a crazy mage.
