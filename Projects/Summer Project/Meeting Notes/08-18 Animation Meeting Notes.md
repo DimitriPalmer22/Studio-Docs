@@ -10,4 +10,6 @@
 
 #### Melee Attack
 - We need a melee attack fr
-- 
+- Look to the elden ring melee spell attacks as a reference. Specifically:
+	- Carian Greatsword: the overall body movements and animation as a whole
+	- Carian slicer: the reference for the size of the weapon
