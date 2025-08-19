@@ -8,7 +8,7 @@
 | Environmental Artist Meeting           | Saturday @ 3pm  |
 | 2D Artist + Narrative Designer Meeting | Friday @ 11am   |
 | Animation Meeting                      | Tuesday @ 2pm   |
-| Character Artist Meeting               |                 |
+| Character Artist Meeting               | ask later fr    |
 
 ### What is the Game Right Now?
 
