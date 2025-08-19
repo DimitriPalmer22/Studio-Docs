@@ -22,15 +22,15 @@ Right now, we know:
 - **the perception** we're aiming for (we want the player to feel like they're escaping a magical realm created by a powerful mage). 
 
 ***However***: We are struggling to find a way to **present** that information to get the perception we want.
-- "How can we arrange these levels, props, and enemies to make it feel like the player is escaping a "***magical realm***" created by a ***powerful mage***?"
+- "How can we arrange these levels, props, and enemies to make it feel like the player is escaping a "***magical realm***" created by a ***powerful, but crazy mage***?"
 
 #### Getting the Presentation Down
 
 Let's break this question down:
 
-"How can we arrange these levels, props, and enemies to make it feel like the player is escaping 
+How can we arrange these levels, props, and enemies to make it feel like the player is escaping 
 - a "***magical realm***" 
-- created by a ***powerful mage***?"
+- created by a ***powerful, but crazy mage***?
 
 ---
 
