@@ -57,7 +57,7 @@ Now that we're essentially loosening up the level design philosophy, we need to 
 
 Remember, we don't *NEED* to ask the artists to model some of these objects since we can make them in-engine. We can just slap a world-space texture on whatever you make and it should look fine.
 
-Just make sure the piece lines up with the rest of the modular kit.
+Just make sure the piece lines up with the rest of the modular kit. 
 
 ##### Side Note: The Pillars / Columns are Too Circular
 
