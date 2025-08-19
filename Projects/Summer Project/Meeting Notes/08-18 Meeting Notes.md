@@ -40,9 +40,6 @@ The way I see it, making sure everything fits with the idea of a high-fantasy wo
 
 If we can apply this thinking to everything in the game, then we can create a much more cohesive experience for the player.
 
-#### Level Design + Level Art
-This section mainly concerns the *level designers*.
-
 ### Tasks
 
 #### Level Designers
