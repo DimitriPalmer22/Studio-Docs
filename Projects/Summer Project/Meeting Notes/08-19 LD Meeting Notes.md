@@ -10,6 +10,11 @@ Yesterday, in the big meeting, I talked about getting the game to *feel* like it
 
 Right now, the game doesn't feel very magical because the levels are too ***grounded***; they feel like normal medieval fantasy levels. That is my bad, I sent you guys in the wrong direction.
 
+#### Psychology of the Level Design
+
+Going back to yesterday, I gave you guys 3 bullet points to think about when adding anything to the game:
+- 
+
 
 
 ---
