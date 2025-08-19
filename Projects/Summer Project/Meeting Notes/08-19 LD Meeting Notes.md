@@ -33,7 +33,10 @@ How can we arrange these levels, props, and enemies to make it feel like the pla
 - created by a ***powerful, but crazy mage***?
 
 ##### A Magical Realm
-A magical realm is a place that is ***not bound by the laws of physics***. It can be a place where ***anything can happen***, and ***anything can exist***.
+
+I don't want the game to feel too grounded / too realistic. We can get a little creative with the things we see in the levels. 
+
+A magical realm is a place that is not bound by the laws of physics. It can be a place where ***anything can happen***, and ***anything can exist***.
 
 ##### Created by a Powerful, But Crazy Mage
 
