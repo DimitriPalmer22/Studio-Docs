@@ -38,9 +38,7 @@ Yes.
 
 ##### Side Note: The Pillars / Columns are Too Circular
 
-The pillars you guys use in the levels have been too circular for too long. 
-
-It's absolutely killing me. 
+The pillars you guys use in the levels have been too circular for too long. It's absolutely killing me. 
 
 There are circles in a game where everything is supposed to be low poly.
 
