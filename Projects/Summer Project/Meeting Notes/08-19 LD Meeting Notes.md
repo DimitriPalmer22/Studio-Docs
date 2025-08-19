@@ -41,6 +41,10 @@ I don't want the game to feel too grounded / too realistic. We can get a little 
 A magical realm is a place that is not bound by the laws of physics. It can be a place where ***anything can happen***, and ***anything can exist***.
 
 How do we incorporate "magic" into the level?:
+- Expose the sky / outside. Make windows or even take the roof off the room.
+- Floating platforms in the background of the level (if the outside is exposed enough)
+- Floating furniture and props within the room.
+- Glowing magical runes on the walls and floors as decals / decoration (Should be distinct from the exit transmutation circle)
 - 
 
 ##### Created by a Powerful, But Crazy Mage
