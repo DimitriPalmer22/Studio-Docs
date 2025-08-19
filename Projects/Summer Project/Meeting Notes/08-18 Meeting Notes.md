@@ -1,14 +1,14 @@
 ### Meeting Times
 
-| Meeting                                | Possible Times |
-| -------------------------------------- | -------------- |
-| LD Meeting                             |                |
-| Narrative Designer + CD Meeting        |                |
-| Sound Meeting                          | -              |
-| Environmental Artist Meeting           |                |
-| 2D Artist + Narrative Designer Meeting |                |
-| Animation Meeting                      | Tuesday @ 2pm  |
-| Character Artist Meeting               |                |
+| Meeting                                | Possible Times      |
+| -------------------------------------- | ------------------- |
+| LD Meeting                             | Tuesday @ 8pm       |
+| Narrative Designer + CD Meeting        | Tuesday @ 11am      |
+| Sound Meeting                          | Maybe Friday @ 11am |
+| Environmental Artist Meeting           |                     |
+| 2D Artist + Narrative Designer Meeting |                     |
+| Animation Meeting                      | Tuesday @ 2pm       |
+| Character Artist Meeting               |                     |
 
 ### What is the Game Right Now?
 
