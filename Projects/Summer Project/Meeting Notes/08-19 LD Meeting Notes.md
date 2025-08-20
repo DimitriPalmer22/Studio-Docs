@@ -92,7 +92,7 @@ Can somebody replace the mesh with something that is more angular?
 
 ### Brainstorming Level Shapes and Designs
 
-[[]]
+[Look at this fr](<../Level Design/08-14 LD Philosophy Shift.md#Documentation>)
 
 ---
 
