@@ -71,6 +71,7 @@ Since these rooms are man-made, we can try to think of a function for each room.
 - Armory
 - Wand and Staff-making room
 - Research room w/ papers and tables everywhere
+- Observatory or something
 - Etc.
 
 #### Is Our Modular Kit Too Limited?
