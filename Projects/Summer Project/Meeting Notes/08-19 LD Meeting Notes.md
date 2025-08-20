@@ -45,6 +45,7 @@ How do we incorporate "magic" into the level?:
 - Floating platforms in the background of the level (if the outside is exposed enough)
 - Floating furniture and props within the room.
 	- Floating candles
+	- A lot like that one level Brian made back in the day
 - Glowing magical runes on the walls and floors as decals / decoration (Should be distinct from the exit transmutation circle)
 - Glowing magical crystals scattered around the room
 - Magical orbs and whatnot flying around the area
