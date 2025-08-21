@@ -38,3 +38,14 @@
 	- [ ] Left piece
 
 @environmental artist. I've updated the backlog of props w/ new props we need to fill out the levels a little more. 
+
+### General Props
+Can be found in the 
+- 
+### Debris Props
+- 
+### Table Props
+- 
+### Hero Props
+- 
+In the ClickUp, they're listed under "General Props", "Debris Props", "Table Props", and "Hero Props"
