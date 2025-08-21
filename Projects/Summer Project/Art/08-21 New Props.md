@@ -1,0 +1,5 @@
+- Very tall pile of books
+- A chair
+- A bench
+- Lectern
+- Chest
