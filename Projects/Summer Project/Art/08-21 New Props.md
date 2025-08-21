@@ -15,7 +15,7 @@
 - [ ] Really large painting
 
 ### Small Unobstructive Props
-- [ ] Scrolls
+- [ ] Scrolls (rolled up)
 	- [ ] A littered pile of scrolls
 	- [ ] An individual scroll
 - [ ] A single painting (of what???)
