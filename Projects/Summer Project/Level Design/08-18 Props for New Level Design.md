@@ -9,9 +9,10 @@ One challenge of designing these levels is that often times, parts of the level 
 - [ ] A single statue
 	- [ ] Broken
 	- [ ] Intact
-- [ ] A single bookshelf
-- [ ] A single table
+- [x] A single bookshelf
+- [x] A single table
 - [ ] A single chair
+- [ ] A single stool
 - [ ] A single bench
 - [ ] Lectern
 - [ ] Chest
