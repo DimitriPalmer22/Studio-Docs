@@ -28,7 +28,7 @@
 - [ ] Mortar & pestle
 - [ ] Stone collection
 - [ ] Small Open box (for table)
-- [ ] Hourglass
+- [x] Hourglass
 
 
 ### Other
