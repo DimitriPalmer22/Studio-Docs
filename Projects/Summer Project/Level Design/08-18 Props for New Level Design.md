@@ -45,6 +45,7 @@ Another issue is that the playable area of these levels will feel so large and e
 	- [ ] A group of candles
 - [ ] A single lantern
 - [ ] A single rug
+- [ ] Modular rug / path kit?
 - [x] A single tapestry
 - [ ] A single painting
 
