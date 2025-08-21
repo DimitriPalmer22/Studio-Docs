@@ -64,12 +64,10 @@ Can be found in the Clickup under "Table Props". The references for these can al
 - Hourglass
 - Paper scroll (rolled up)
 ### Hero Props
-Can be found in the Clickup under "Hero Props". The references for these can also be found under the "Props" section in the Miro Board.
+Can be found in the Clickup under "Hero Props". The references for these can also be found under the new "Hero Props" section in the Miro Board.
 
 These props are larger and more complex than the props you've been making up to this point. Generally, the player's eyes will be drawn to these props, as they *WILL* be used as the focal points of some levels. 
 
 - Fountain
-- 
+- Ginormous mound of crystals
 
-
-In the ClickUp, they're listed under "General Props", "Debris Props", "Table Props", and "Hero Props"
