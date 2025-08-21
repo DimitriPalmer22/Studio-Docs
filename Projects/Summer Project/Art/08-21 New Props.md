@@ -38,3 +38,4 @@
 	- [ ] Corner piece
 	- [ ] Middle piece
 	- [ ] Left piece
+
