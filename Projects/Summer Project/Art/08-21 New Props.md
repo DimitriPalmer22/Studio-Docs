@@ -11,7 +11,7 @@
 - [ ] Large statue
 - [ ] Hanging Magical Eyeball thing
 - [ ] Large magical artifact
-- [ ] Ginormous mound of crystals
+- [x] Ginormous mound of crystals
 - [ ] Really large painting
 
 ### Small Unobstructive Props
