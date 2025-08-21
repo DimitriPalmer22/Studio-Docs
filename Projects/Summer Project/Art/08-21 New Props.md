@@ -27,7 +27,7 @@
 
 
 ### Other
-- [ ] Modular Rug Kit
+- [ ] Modular Rug Kit (needs a size reference)
 	- [ ] Corner piece
 	- [ ] Middle piece
 	- [ ] Left piece
