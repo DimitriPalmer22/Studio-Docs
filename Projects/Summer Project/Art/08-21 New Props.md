@@ -40,10 +40,21 @@
 @environmental artist. I've updated the backlog of props w/ new props we need to fill out the levels a little more. 
 
 ### General Props
-Can be found in the 
-- 
+Can be found in the Clickup under "General Props".
+- A very tall pile of books
+- A chair
+- A bench
+- Lectern
+- Chest
 ### Debris Props
-- 
+Can be found in the Clickup under "Debris Props". These do not have references in the Miro Board, so let me know if there's anything you need for these.
+
+Ideally, each of these piles should be small enoug
+
+- pile of shattered crystals
+- pile of broken pieces of wood
+- pile of broken pieces of brick / stone
+- pile of broken candles
 ### Table Props
 - 
 ### Hero Props
