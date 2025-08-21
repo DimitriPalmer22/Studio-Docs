@@ -29,7 +29,7 @@
 ### More Table Props
 - [ ] Mortar & pestle
 - [x] Stone collection
-- [ ] Small Open box (for table)
+- [x] Small Open box (for table)
 - [x] Hourglass
 
 
