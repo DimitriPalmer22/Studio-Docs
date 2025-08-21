@@ -6,7 +6,7 @@
 - [x] Lectern
 - [x] Chest
 
-### Big Central Piece Props ("Hero Props")
+### Big Set Piece Props ("Hero Props")
 - [ ] Fountain
 - [ ] Large statue
 - [ ] Hanging Magical Eyeball thing
