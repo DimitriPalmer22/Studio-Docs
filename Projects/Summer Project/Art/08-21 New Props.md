@@ -1,5 +1,5 @@
-- Very tall pile of books
-- A chair
-- A bench
-- Lectern
-- Chest
+- [x] Very tall pile of books
+- [x] A chair
+- [x] A bench (under chairs reference)
+- [ ] Lectern
+- [ ] Chest
