@@ -37,15 +37,15 @@ Another issue is that the playable area of these levels will feel so large and e
 - [ ] Scrolls
 	- [ ] A littered pile of scrolls
 	- [ ] An individual scroll
-- [ ] Small books
-	- [ ] A littered pile of books
-	- [ ] An individual book
+- [x] Small books
+	- [x] A littered pile of books
+	- [x] An individual book
 - [ ] Candles
-	- [ ] A single candle
+	- [x] A single candle
 	- [ ] A group of candles
 - [ ] A single lantern
 - [ ] A single rug
-- [ ] A single tapestry
+- [x] A single tapestry
 - [ ] A single painting
 
 #### Debris
