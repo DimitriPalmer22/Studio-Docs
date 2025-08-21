@@ -3,7 +3,7 @@
 - [x] Very tall pile of books
 - [x] A chair
 - [x] A bench (under chairs reference)
-- [ ] Lectern
+- [x] Lectern
 - [ ] Chest
 
 ### Big Central Piece Props
