@@ -40,14 +40,15 @@ Another issue is that the playable area of these levels will feel so large and e
 - [x] Small books
 	- [x] A littered pile of books
 	- [x] An individual book
-- [ ] Candles
+- [x] Candles
 	- [x] A single candle
-	- [ ] A group of candles
+	- [x] A group of candles
 - [ ] A single lantern
-- [ ] A single rug
-- [ ] Modular rug / path kit?
 - [x] A single tapestry
 - [ ] A single painting
+
+- [ ] A single rug
+- [ ] Modular rug / path kit?
 
 #### Debris
 - [ ] Broken pieces of wood (Where did this wood come from? A table? a Chair? A bookshelf?)
