@@ -4,10 +4,15 @@
 - [x] A chair
 - [x] A bench (under chairs reference)
 - [x] Lectern
-- [ ] Chest
+- [x] Chest
 
-### Big Central Piece Props
-- [ ] 
+### Big Central Piece Props ("Hero Props")
+- [ ] Fountain
+- [ ] Large statue
+- [ ] Hanging Magical Eyeball thing
+- [ ] Large magical artifact
+- [ ] Ginormous mound of crystals
+- [ ] Really large painting
 
 ### Small Unobstructive Props
 - [ ] Scrolls
