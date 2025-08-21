@@ -7,7 +7,7 @@
 - [x] Chest
 
 ### Big Set Piece Props ("Hero Props")
-- [ ] Fountain
+- [x] Fountain
 - [ ] Large statue
 - [ ] Hanging Magical Eyeball thing
 - [ ] Large magical artifact
@@ -39,3 +39,4 @@
 	- [ ] Middle piece
 	- [ ] Left piece
 
+@environmental artist. I've updated the backlog of props w/ new props we need to fill out the levels a little more. 
