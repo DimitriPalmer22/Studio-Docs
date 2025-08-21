@@ -21,10 +21,10 @@
 
 
 ### Debris
-- [ ] Broken pieces of wood (Where did this wood come from? A table? a Chair? A bookshelf?)
-- [ ] Broken pieces of stone (Where did this stone come from? A wall? A pillar?)
-- [ ] Broken candles
-- [ ] pile of Shattered crystals
+- [x] Broken pieces of wood (Where did this wood come from? A table? a Chair? A bookshelf?)
+- [x] Broken pieces of stone (Where did this stone come from? A wall? A pillar?)
+- [x] Broken candles
+- [x] pile of Shattered crystals
 
 ### More Table Props
 - [ ] Mortar & pestle
