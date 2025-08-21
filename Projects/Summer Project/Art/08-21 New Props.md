@@ -14,8 +14,6 @@
 - [x] Ginormous mound of crystals
 - [ ] Really large painting
 
-### Small Unobstructive Props
-- [x] Scroll (rolled up)
 
 - [ ] A single painting (of what???)
 
@@ -31,7 +29,7 @@
 - [x] Stone collection
 - [x] Small Open box (for table)
 - [x] Hourglass
-
+- [x] Scroll (rolled up)
 
 ### Other
 - [ ] Modular Rug Kit (needs a size reference)
