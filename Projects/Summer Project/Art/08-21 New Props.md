@@ -14,3 +14,20 @@
 	- [ ] A littered pile of scrolls
 	- [ ] An individual scroll
 - [ ] A single painting (of what???)
+
+
+### Debris
+
+
+### More Table Props
+- [ ] Mortar & pestle
+- [ ] Stone collection
+- [ ] Small Open box (for table)
+- [ ] Hourglass
+
+
+### Other
+- [ ] Modular Rug Kit
+	- [ ] Corner piece
+	- [ ] Middle piece
+	- [ ] Left piece

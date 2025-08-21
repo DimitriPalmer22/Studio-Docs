@@ -60,7 +60,7 @@ Another issue is that the playable area of these levels will feel so large and e
 
 - [ ] Mortar & pestle
 - [ ] Stone collection
-- [ ] Small Open box
+- [ ] Small Open box (for table)
 - [ ] Hourglass
 
 ---
