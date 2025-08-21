@@ -5,7 +5,7 @@ The levels in our game are themed around a magical library, not unlike Raya Luca
 
 One challenge of designing these levels is that often times, parts of the level will feel too open and boring. Medium / Large, obstructive props do a good job of filling up the space and do well to draw away from the emptiness of the playable area. However, sometimes we need smaller props to fill in the gaps without obstructing the player's view of the level.
 
-- [ ] An extremely large pile of books (like the ones in Elden Ring)
+- [ ] An extremely tall pile of books (like the ones in Elden Ring)
 - [ ] A single statue
 	- [ ] Broken
 	- [ ] Intact
