@@ -18,4 +18,6 @@ For each type of question you wrote last week:
 4. You *may* need to increase or decrease the number of `possible answers` depending on what you wrote for the questions.
 	1. Instead of using the + button to add answers, I recommend duplicating one of the existing answers (using the little down arrow next to the answer you want to duplicate).
 	2. To decrease the number of answers, use the same little down arrow to delete one of the possible answer choices.
-5. For each 
+5. For each possible answer, change the `Answer Text` field to the updated answer text.
+![](<../../../_Meta/Attachments/Pasted image 20250822052634.png>)
+6. Don't worry about editing any of the other values here. Things need to be rebalanced anyway, so those values will change. 
