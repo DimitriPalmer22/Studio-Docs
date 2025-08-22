@@ -16,4 +16,6 @@ For each type of question you wrote last week:
 3. Change the `Question Text` field w/ the updated question text
 ![](<../../../_Meta/Attachments/Pasted image 20250822052045.png>)
 4. You *may* need to increase or decrease the number of `possible answers` depending on what you wrote for the questions.
-5. 
+	1. Instead of using the + button to add answers, I recommend duplicating one of the existing answers (using the little down arrow next to the answer you want to duplicate).
+	2. To decrease the number of answers, use the same little down arrow to delete one of the possible answer choices.
+5. For each 
