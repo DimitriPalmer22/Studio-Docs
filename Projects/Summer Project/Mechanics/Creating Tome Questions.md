@@ -15,4 +15,5 @@ For each type of question you wrote last week:
 2. Open the question asset in that folder
 3. Change the `Question Text` field w/ the updated question text
 ![](<../../../_Meta/Attachments/Pasted image 20250822052045.png>)
-4. 
+4. You *may* need to increase or decrease the number of `possible answers` depending on what you wrote for the questions.
+5. 
