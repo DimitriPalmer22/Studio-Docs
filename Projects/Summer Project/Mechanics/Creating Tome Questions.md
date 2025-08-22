@@ -1,1 +1,1 @@
-Questions can be found in `Avernoth > Tomes > Questions > `.
+The different types questions can be found in `Avernoth > Tomes > Questions > `.
