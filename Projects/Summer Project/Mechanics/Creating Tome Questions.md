@@ -1,1 +1,1 @@
-`Avernoth > Tomes > Questions > `
+Questions can be found in `Avernoth > Tomes > Questions > `.
