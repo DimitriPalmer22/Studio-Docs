@@ -13,4 +13,6 @@ Last week, you wrote 5 questions:
 For each type of question you wrote last week:
 1. Open the corresponding folder for that question type
 2. Open the question asset in that folder
-3. 
+3. Change the `Question Text` field w/ the updated question text
+![](<../../../_Meta/Attachments/Pasted image 20250822052045.png>)
+4. 
