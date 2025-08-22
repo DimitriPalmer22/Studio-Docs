@@ -21,3 +21,6 @@ For each type of question you wrote last week:
 5. For each possible answer, change the `Answer Text` field to the updated answer text.
 ![](<../../../_Meta/Attachments/Pasted image 20250822052634.png>)
 6. Don't worry about editing any of the other values here. Things need to be rebalanced anyway, so those values will change. 
+
+
+lmk if anything blows up or is confusing. I can help you out with it.
