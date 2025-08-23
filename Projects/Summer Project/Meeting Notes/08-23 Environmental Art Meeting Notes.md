@@ -9,6 +9,7 @@
 
 ### Backlog of New Props
 
+New props have been added to the ClickUp. Let's go ahead and dis
 
 ### Abstract Magical Props and "Hero Props" 
 
