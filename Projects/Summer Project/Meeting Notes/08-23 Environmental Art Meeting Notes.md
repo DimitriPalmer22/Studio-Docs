@@ -12,4 +12,8 @@
 
 ### Future Props
 
-If you look at the new p
+As I've 
+
+If you look at the references for the new props in the Miro board, you'll probably realize that most of those new references are from Elden Ring.
+
+If we take a look at the props in Elden Ring
