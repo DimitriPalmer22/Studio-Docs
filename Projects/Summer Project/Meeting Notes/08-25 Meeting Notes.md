@@ -20,12 +20,12 @@ I was thinking about adding an updates channel as a singular place for the game'
 
 Alecks updated the game's UI to fit much closer to the in-game art-style. He used Diablo II and Neverwinter nights as references.
 
-
+The images are in his thread, so I'll show that during the meeting.
 
 #### New Levels Have Been Started
 
 
-#### 
+##### This is where I 
 
 
 #### Thoughts on New Lighting?
@@ -38,3 +38,6 @@ The lighting in some the levels has been pretty flat and a little uninteresting.
 - More contrast
 
 The only issue here is that there might be some performance issues.
+
+#### Revised Combat
+
