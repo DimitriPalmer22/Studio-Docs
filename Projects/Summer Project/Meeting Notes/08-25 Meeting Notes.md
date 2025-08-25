@@ -18,6 +18,9 @@ I was thinking about adding an updates channel as a singular place for the game'
 
 #### New UI
 
+Alecks updated the game's UI to fit much closer to the in-game art-style. He used Diablo II and Neverwinter nights as references.
+
+
 
 #### New Levels Have Been Started
 
