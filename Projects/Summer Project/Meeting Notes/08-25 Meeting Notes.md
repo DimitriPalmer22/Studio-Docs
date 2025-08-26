@@ -3,12 +3,12 @@
 | Meeting                                | Possible Times           |
 | -------------------------------------- | ------------------------ |
 | LD Meeting                             | Tuesday @ 8pm            |
-| Animation Meeting                      | lmao                     |
+| Animation Meeting                      | -                        |
 | Narrative Designer + CD Meeting        | Tuesday @ 3pm            |
 | 2D Artist + Narrative Designer Meeting | Friday @ 11am (probably) |
 | Sound Meeting                          | -                        |
-| Environmental Artist Meeting           |                          |
-| Character Artist Meeting               |                          |
+| Environmental Artist Meeting           | Friday @ 3pm             |
+| Character Artist Meeting               | Wednesday @ 3pm          |
 
 ### Updates Channel?
 
