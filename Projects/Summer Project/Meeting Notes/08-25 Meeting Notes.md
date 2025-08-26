@@ -24,7 +24,6 @@ The images are in his thread, so I'll show that during the meeting.
 
 #### New Levels Have Been Started
 
-
 ##### Mikel's Level
 
 ##### Brian's Level
