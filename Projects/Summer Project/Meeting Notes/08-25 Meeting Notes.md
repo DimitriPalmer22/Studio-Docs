@@ -54,3 +54,7 @@ yeah
 
 some vfx would be cool
 - like little puffs of smoke or something
+
+#### Why does the Portal have the Coalition Symbol in it?
+
+- This is important for the sake of tutorialization
