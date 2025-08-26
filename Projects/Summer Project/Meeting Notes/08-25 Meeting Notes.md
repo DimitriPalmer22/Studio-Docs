@@ -49,3 +49,8 @@ yeah
 
 #### Revised Combat
 
+
+#### Allister Needs Footsteps for the love of god
+
+some vfx would be cool
+- like little puffs of smoke or something
