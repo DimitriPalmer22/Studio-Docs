@@ -1,14 +1,14 @@
 ### Meeting Times
 
-| Meeting                                | Possible Times |
-| -------------------------------------- | -------------- |
-| LD Meeting                             |                |
-| Animation Meeting                      |                |
-| Narrative Designer + CD Meeting        |                |
-| 2D Artist + Narrative Designer Meeting |                |
-| Sound Meeting                          |                |
-| Environmental Artist Meeting           |                |
-| Character Artist Meeting               |                |
+| Meeting                                | Possible Times           |
+| -------------------------------------- | ------------------------ |
+| LD Meeting                             | Tuesday @ 8pm            |
+| Animation Meeting                      | lmao                     |
+| Narrative Designer + CD Meeting        | Tuesday @ 3pm            |
+| 2D Artist + Narrative Designer Meeting | Friday @ 11am (probably) |
+| Sound Meeting                          | -                        |
+| Environmental Artist Meeting           |                          |
+| Character Artist Meeting               |                          |
 
 ### Updates Channel?
 
