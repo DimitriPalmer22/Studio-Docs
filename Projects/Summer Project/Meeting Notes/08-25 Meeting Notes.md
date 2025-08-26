@@ -28,6 +28,10 @@ The images are in his thread, so I'll show that during the meeting.
 
 ##### Brian's Level
 
+#### Make a Doc for the Hero Props
+
+
+
 #### Thoughts on New Lighting?
 
 The lighting in some the levels has been pretty flat and a little uninteresting. So, literally right before the meeting, I started experimenting with some new lighting setups.
