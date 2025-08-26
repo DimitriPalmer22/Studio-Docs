@@ -30,7 +30,7 @@ The images are in his thread, so I'll show that during the meeting.
 
 #### Make a Doc for the Hero Props
 
-
+yeah
 
 #### Thoughts on New Lighting?
 
