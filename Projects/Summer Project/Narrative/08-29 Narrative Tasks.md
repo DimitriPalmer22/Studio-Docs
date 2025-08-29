@@ -11,3 +11,6 @@
 - Then, you need to go through ALL of the existing dialogue interactions that have already been implemented and see where you can add these emotions
 
 #### Creating a New Emotion Asset
+
+- Emotion assets are stored in `Avernoth > Narrative > DialogueEmotions`
+- Right click within the folder, Create a new `Data Asset` of the type 
