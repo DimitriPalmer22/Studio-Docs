@@ -1,5 +1,5 @@
 
-> Note: This isn't the backlog of things to write. Ngl, that's gonna have to come later. For now, w
+> Note: This isn't the backlog of things to write. Ngl, that's gonna have to come later. For now, we'll have to make the existing dialogue more expressive.
 
 ### Expressive Emotions in the Dialogue
 
