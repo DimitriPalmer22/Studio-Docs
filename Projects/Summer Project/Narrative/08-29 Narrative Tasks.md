@@ -1,5 +1,5 @@
 
-This isn't the backlog of things to write.
+> Note: This isn't the backlog of things to write. Ngl, that's gonna have to come later.
 
 ### Expressive Emotions in the Dialogue
 
