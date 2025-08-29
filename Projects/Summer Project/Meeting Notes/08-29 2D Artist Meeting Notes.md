@@ -1,4 +1,4 @@
-# UI Elements that Need to be 
+# UI Elements that Need to be Updated
 
 ### Reticle
 The reticle works a lot like the reticle in Kingdom Hearts. The player has two targeting modes:
