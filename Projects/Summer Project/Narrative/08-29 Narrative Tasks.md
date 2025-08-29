@@ -13,4 +13,9 @@
 #### Creating a New Emotion Asset
 
 - Emotion assets are stored in `Avernoth > Narrative > DialogueEmotions`
-- Right click within the folder, Create a new `Data Asset` of the type 
+- Right click within the folder, create a new `Data Asset`, select the `DIS Emotion` type
+![](<../../../_Meta/Attachments/Pasted image 20250829120318.png>)
+- Set the `Name` to whatever you want the name of the emotion to be.
+- Set the `Portrait Animation Name` and `Text Box Animation Name` to the same value as
+- For make sure the two checkboxes are enabled
+- 
