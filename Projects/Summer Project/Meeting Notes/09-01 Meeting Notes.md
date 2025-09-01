@@ -13,6 +13,8 @@
 ### An Update on the Goals
 
 Here, I'll go over:
-- the changes that have been made to the game recently (mainly just going ov)
+- The changes that have been made to the game recently (mainly just going over the stuff from the updates channel)
+- Short-term approaches for tackling the goals
 
-#### Making the game look more magical
+#### Making the game look more magical & more polished
+- 
