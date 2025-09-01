@@ -17,4 +17,18 @@ Here, I'll go over:
 - Short-term approaches for tackling the goals
 
 #### Making the game look more magical & more polished
-- 
+##### Props
+- We've gotten some more abstract looking props:
+	- Armillary sphere
+	- hourglass
+	- Various debris
+
+##### Level Updates
+- Brian's level
+- Mikel's level
+
+
+
+#### Making the game more fun to play
+
+####
