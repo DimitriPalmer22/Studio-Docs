@@ -1,14 +1,14 @@
 ### Meeting Notes
 
-| Meeting                                | Possible Times   |
-| -------------------------------------- | ---------------- |
-| LD Meeting                             | Tuesday @ 8pm    |
-| Narrative Designer + CD Meeting        | Wednesday @ 11am |
-| Sound Meeting                          | Thursday @ 11am  |
-| Environmental Artist Meeting           | Thursday @ 5pm   |
-| 2D Artist + Narrative Designer Meeting | Friday @ 11am    |
-| Animation Meeting                      | TBA              |
-| Character Artist Meeting               | Uhh…             |
+| Meeting                                | Possible Times |
+| -------------------------------------- | -------------- |
+| LD Meeting                             |                |
+| Narrative Designer + CD Meeting        |                |
+| Sound Meeting                          |                |
+| Environmental Artist Meeting           |                |
+| 2D Artist + Narrative Designer Meeting |                |
+| Animation Meeting                      |                |
+| Character Artist Meeting               |                |
 
 ### An Update on the Goals
 
@@ -27,7 +27,9 @@ Here, I'll go over:
 - Brian's level
 - Mikel's level
 
-
+##### Plans: VFX
+- Make Allister's footsteps look more magical. For example, in Hades, Zagreus's footsteps are fiery
+- Up to this point, we've had a lack of a clear direction and visual identity for the VFX, which is kinda holding the visuals of the game back. This'll be further discusse
 
 #### Making the game more fun to play
 
