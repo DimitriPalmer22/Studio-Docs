@@ -27,10 +27,19 @@ Here, I'll go over:
 - Brian's level
 - Mikel's level
 
+##### New UI
+- A
+
 ##### Plans: VFX
 - Make Allister's footsteps look more magical. For example, in Hades, Zagreus's footsteps are fiery
-- Up to this point, we've had a lack of a clear direction and visual identity for the VFX, which is kinda holding the visuals of the game back. This'll be further discusse
+- Up to this point, we've had a lack of a clear direction and visual identity for the VFX, which is kinda holding the visuals of the game back. This'll be further discussed in a VFX meeting, but if you guys have any ideas for refs or styles, please share them
 
 #### Making the game more fun to play
 
-####
+##### Unlocking Allister's movement
+- Before, Allister could only strafe.
+- Now, he can move in all directions while the camera is not locked onto anything.
+
+##### Skill-based dodge mechanic
+- Before, I talked about adding more skill expression to the game and possibly adding a 'perfect dodge' mechanic.
+- I've thrown it in
