@@ -28,7 +28,10 @@ Here, I'll go over:
 - Mikel's level
 
 ##### New UI
-- A
+- Alexis's new UI is in the game
+- I even added an animation for when you take damage
+- Through this, I think animating some of our static UI elements a little bit could go a long way in making the game feel more polished
+	- Also, look at the upgrade room menu, which also has an animation
 
 ##### Plans: VFX
 - Make Allister's footsteps look more magical. For example, in Hades, Zagreus's footsteps are fiery
@@ -43,3 +46,7 @@ Here, I'll go over:
 ##### Skill-based dodge mechanic
 - Before, I talked about adding more skill expression to the game and possibly adding a 'perfect dodge' mechanic.
 - I've thrown it in
+
+##### Making Combat Easier with the new Lock-On System
+- Before, if you weren't locked onto an enemy, you were free-aiming to hit your spells
+- This made the game virtually impossible to play when cr
