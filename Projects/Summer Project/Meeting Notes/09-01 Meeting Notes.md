@@ -37,7 +37,7 @@ Here, I'll go over:
 - Make Allister's footsteps look more magical. For example, in Hades, Zagreus's footsteps are fiery
 - Up to this point, we've had a lack of a clear direction and visual identity for the VFX, which is kinda holding the visuals of the game back. This'll be further discussed in a VFX meeting, but if you guys have any ideas for refs or styles, please share them
 
-#### Making the game more fun to play
+#### Making the game more fun to play / Core gameplay loop
 
 ##### Unlocking Allister's movement
 - Before, Allister could only strafe.
@@ -49,4 +49,10 @@ Here, I'll go over:
 
 ##### Making Combat Easier with the new Lock-On System
 - Before, if you weren't locked onto an enemy, you were free-aiming to hit your spells
-- This made the game virtually impossible to play when cr
+- This made the game virtually impossible to play when surrounded by enemies.
+- Now, the game automatically does a loose lock-on to the nearest enemy when you cast a spell.
+
+##### I added a restart button when you die
+- the death screen now has a restart button, allowing you to jump right back into the game
+
+##### Plans: Save Game & Roguelite mechanics
