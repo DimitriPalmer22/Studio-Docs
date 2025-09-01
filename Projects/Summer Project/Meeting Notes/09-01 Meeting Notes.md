@@ -11,3 +11,8 @@
 | Character Artist Meeting               | Uhh…             |
 
 ### An Update on the Goals
+
+Here, I'll go over:
+- the changes that have been made to the game recently (mainly just going ov)
+
+#### Making the game look more magical
