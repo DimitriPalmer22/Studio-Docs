@@ -85,6 +85,8 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 		- Aura
 		- Maybe a trail (if appropriate)
 	- Upon Impact - a release of energy
+	- Similar to how spells in elden Ring show u 
+
 
 - Melee Attacks
 	- "Sword trails" that communicate the hitbox of the attack
