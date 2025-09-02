@@ -61,6 +61,7 @@ Here, I'll go over:
 - Flurry rush from BOTW
 
 - The perfect dodge could be basic at first, but the passive abilities of the tomes can change what it does !!!
+	- - Aiden
 
 ##### I added a restart button when you die
 - the death screen now has a restart button, allowing you to jump right back into the game
