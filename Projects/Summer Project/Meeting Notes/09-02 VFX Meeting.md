@@ -10,15 +10,29 @@
 
 #### Player
 
-
 - Player Spells
+	- Charge
+	- Actually doing the attack
+	- Impact
 - Any movement ability
 	- Dodge
+	- Perfect Dodge fr
+- Taking damage
+- Healing
 
 #### Enemies
 
 - Enemy Attacks
 	- Anticipation
 	- Actually doing the attack
+	- Impact
 - Enemy deaths
+- Taking damage
+- Healing
+- Mana essence orbs
 
+### Environment
+
+#### Visually Intere
+
+- 
