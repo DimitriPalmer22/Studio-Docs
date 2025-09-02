@@ -1,14 +1,14 @@
 ### Meeting Notes
 
-| Meeting                                | Possible Times |
-| -------------------------------------- | -------------- |
-| LD Meeting                             |                |
-| Narrative Designer + CD Meeting        |                |
-| Sound Meeting                          |                |
-| Environmental Artist Meeting           |                |
-| 2D Artist + Narrative Designer Meeting |                |
-| Animation Meeting                      |                |
-| Character Artist Meeting               |                |
+| Meeting                                | Possible Times  |
+| -------------------------------------- | --------------- |
+| LD Meeting                             | Tuesday @ 8pm   |
+| Narrative Designer + CD Meeting        |                 |
+| Sound Meeting                          |                 |
+| Environmental Artist Meeting           | Saturday @ 3pm? |
+| 2D Artist + Narrative Designer Meeting |                 |
+| Animation Meeting                      |                 |
+| Character Artist Meeting               |                 |
 
 ### An Update on the Goals
 
