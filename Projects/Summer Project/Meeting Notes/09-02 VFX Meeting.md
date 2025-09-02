@@ -88,7 +88,7 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 	- Upon Impact - a release of energy
 	- Similar to how spells in Elden Ring show off the rune whenever you start casting, we could have the Tome have some type of effect come from it whenever we use a spell
 		- Have it glow or have an aura that pulses
-	- For 
+	- For spells w/ longer charge durations, the VFX should help to build anticipation before release. For example, that one spell in Elden ring that's kinda like a mortar has a VFX around the tip of the staff that comes in
 
 
 - Melee Attacks
