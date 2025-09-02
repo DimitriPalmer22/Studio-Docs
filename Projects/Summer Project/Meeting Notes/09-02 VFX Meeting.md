@@ -6,6 +6,8 @@ I want there to be more movement on-screen when the player is not doing anything
 
 - Wild and erratic motion can be used to convey to volatility and power of something. That one fire spell from Hogwarts Legacy looked cool because the trail was really wild
 
+- Any spell that has a duration should have a VFX for the duration of that spell.
+
 # Art Style of VFX
 
 - It's all magic
