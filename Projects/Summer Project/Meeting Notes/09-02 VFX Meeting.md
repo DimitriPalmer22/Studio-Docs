@@ -4,6 +4,8 @@ I want there to be more movement on-screen when the player is not doing anything
 
 - Make use of the 'heat haze' effect that distorts the screen more.
 
+- Wild and erratic motion can be used to convey to volatility and power of something. That one fire spell from Hogwarts Legacy looked cool because the trail was really wild
+
 # Art Style of VFX
 
 - It's all magic
@@ -28,6 +30,7 @@ I want there to be more movement on-screen when the player is not doing anything
 
 #### Enemies
 
+- Spawning in
 - Enemy Attacks
 	- Anticipation
 	- Actually doing the attack
