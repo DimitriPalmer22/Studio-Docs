@@ -79,9 +79,12 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 	- dust clouds
 	- screen distortion at the point of where they started their movement
 
-- Player spells
+- Player spells (Look at the bow spell in Elden Ring & the purple fireball spell in *Tenebyss*)
 	- Upon release - a release of energy
-	- The projectile itself should have 
+	- The projectile itself should have:
+		- Aura
+		- Maybe a trail (if appropriate)
+	- Upon Impact - a release of energy
 
 - Melee Attacks
 	- "Sword trails" that communicate the hitbox of the attack
