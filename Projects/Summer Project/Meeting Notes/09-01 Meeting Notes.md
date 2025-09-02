@@ -56,3 +56,5 @@ Here, I'll go over:
 - the death screen now has a restart button, allowing you to jump right back into the game
 
 ##### Plans: Save Game & Roguelite mechanics
+- I want to focus on saving data & loading it back in
+- Save data is primarily going to be for dialogue so the game can remember what the player has seen / read.
