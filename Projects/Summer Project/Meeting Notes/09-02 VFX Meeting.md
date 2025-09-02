@@ -79,5 +79,9 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 	- dust clouds
 	- screen distortion at the point of where they started their movement
 
+- Player spells
+	- Upon release - a release of energy
+	- The projectile itself should have 
+
 - Melee Attacks
-- Ranged Attacks
+	- "Sword trails" that communicate the hitbox of the attack
