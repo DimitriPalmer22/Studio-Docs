@@ -52,6 +52,12 @@ I want there to be more movement on-screen when the player is not doing anything
 
 - Room sparkle things
 
+#### Light Sources
+
+- Lanterns
+- Chandeliers
+- Candles
+- Torch? (If we're feelin torches)
 
 #### Surface Detail & Things to make things interesting
 
