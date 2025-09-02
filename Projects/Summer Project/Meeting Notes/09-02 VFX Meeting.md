@@ -8,6 +8,8 @@ I want there to be more movement on-screen when the player is not doing anything
 
 - Any spell that has a duration should have a VFX for the duration of that spell.
 
+- For any ribbon or trail, we should stray away from having the ribbon be perfectly straight. It should have some erratic motion to it.
+
 # Art Style of VFX
 
 - It's all magic
