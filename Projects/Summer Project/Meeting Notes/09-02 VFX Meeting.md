@@ -97,7 +97,6 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 		- Have it glow or have an aura that pulses
 	- For spells w/ longer charge durations, the VFX should help to build anticipation before release. For example, that one spell in Elden ring that's kinda like a mortar has a VFX around the tip of the staff that comes in
 
-
 - Melee Attacks
 	- "Sword trails" that communicate the hitbox of the attack
 	- Upon hit - a release of energy
