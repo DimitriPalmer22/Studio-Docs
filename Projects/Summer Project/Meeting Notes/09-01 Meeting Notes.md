@@ -53,6 +53,13 @@ Here, I'll go over:
 - Before, I talked about adding more skill expression to the game and possibly adding a 'perfect dodge' mechanic.
 - I've thrown it in
 
+###### Ideas:
+- Reflect some enemy attacks when perfect dodging
+- Really cool sound bite when doing that dodge deflection
+- Heal a small amount of health when doing that perfect dodge
+- Increase damage for next attack
+- Flurry rush from BOTW
+
 ##### I added a restart button when you die
 - the death screen now has a restart button, allowing you to jump right back into the game
 
