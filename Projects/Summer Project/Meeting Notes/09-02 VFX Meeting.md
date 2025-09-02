@@ -88,3 +88,6 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 
 - Melee Attacks
 	- "Sword trails" that communicate the hitbox of the attack
+	- Upon hit - a release of energy
+	- Heavier attacks should have an additional VFX thing to make them feel more impactful
+		- For example, in Tenebyss, 
