@@ -78,6 +78,7 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 	- long trails
 	- dust clouds
 	- screen distortion at the point of where they started their movement
+	- The particle effect or whatever that comes from the movement ability (like the dodge) should move in the same direction as the movement ability (it doesn't need to move at the same speed, it's just gotta be there)
 
 - Player spells (Look at the bow spell in Elden Ring & the purple fireball spell in *Tenebyss*)
 	- Upon release - a release of energy
@@ -85,7 +86,9 @@ For each "Thing" that requires VFX, how are we gonna go about consistently repre
 		- Aura
 		- Maybe a trail (if appropriate)
 	- Upon Impact - a release of energy
-	- Similar to how spells in elden Ring show u 
+	- Similar to how spells in Elden Ring show off the rune whenever you start casting, we could have the Tome have some type of effect come from it whenever we use a spell
+		- Have it glow or have an aura that pulses
+	- For 
 
 
 - Melee Attacks
