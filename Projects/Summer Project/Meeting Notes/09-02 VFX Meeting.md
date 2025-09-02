@@ -10,7 +10,7 @@ I want there to be more movement on-screen when the player is not doing anything
 - Over-the-top dramatic VFX
 - More stylized PSX look like *Tenebyss*
 
-# What types of things need VFX?
+# What types of Things need VFX?
 
 ### Characters & Combat
 
@@ -65,3 +65,11 @@ I want there to be more movement on-screen when the player is not doing anything
 #### Surface Detail & Things to make things interesting
 
 - simple shapes & circles (that move) throughout the environment to add detail
+
+
+# Design Language
+
+For each "Thing" that requires VFX, how are we gonna go about consistently representing it using VFX?
+- For example, how should *ALL* movement abilities be represented using VFX?
+
+- Movement abilities (Player or enemies): 
