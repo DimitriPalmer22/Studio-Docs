@@ -33,6 +33,18 @@
 
 ### Environment
 
-#### Visually Intere
+#### Visually Interesting
 
+- Crystals
+- Cages
+#### Interactable Props
+- Journal Table
+- Room Exit
+- Dialogue Portal
+
+#### Ambient VFX
+
+> Different environments should have different ambient VFX. i.e. an outdoors environment should not have the same vfx as the gold glowy things inside the rooms.
+
+- Room sparkle things
 - 
