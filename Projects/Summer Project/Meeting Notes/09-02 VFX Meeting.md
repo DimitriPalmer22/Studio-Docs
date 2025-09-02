@@ -1,3 +1,7 @@
+# VFX Philosophy
+
+I want there to be more movement on-screen when the player is not doing anything. This would make the game feel more alive and active.
+
 # Art Style of VFX
 
 - It's all magic
@@ -47,4 +51,8 @@
 > Different environments should have different ambient VFX. i.e. an outdoors environment should not have the same vfx as the gold glowy things inside the rooms.
 
 - Room sparkle things
-- 
+
+
+#### Surface Detail & Things to make things interesting
+
+- simple shapes & circles (that move) throughout the environment to add detail
