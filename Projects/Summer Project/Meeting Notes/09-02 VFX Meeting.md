@@ -72,4 +72,12 @@ I want there to be more movement on-screen when the player is not doing anything
 For each "Thing" that requires VFX, how are we gonna go about consistently representing it using VFX?
 - For example, how should *ALL* movement abilities be represented using VFX?
 
+> Note: Creative liberties can be taken to add more flair to the VFX, but the core design language should be consistent with what has been written here.
+
 - Movement abilities (Player or enemies): 
+	- long trails
+	- dust clouds
+	- screen distortion at the point of where they started their movement
+
+- Melee Attacks
+- Ranged Attacks
