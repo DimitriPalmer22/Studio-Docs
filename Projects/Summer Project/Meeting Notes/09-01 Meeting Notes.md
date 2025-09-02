@@ -44,14 +44,14 @@ Here, I'll go over:
 - Before, Allister could only strafe.
 - Now, he can move in all directions while the camera is not locked onto anything.
 
-##### Skill-based dodge mechanic
-- Before, I talked about adding more skill expression to the game and possibly adding a 'perfect dodge' mechanic.
-- I've thrown it in
-
 ##### Making Combat Easier with the new Lock-On System
 - Before, if you weren't locked onto an enemy, you were free-aiming to hit your spells
 - This made the game virtually impossible to play when surrounded by enemies.
 - Now, the game automatically does a loose lock-on to the nearest enemy when you cast a spell.
+
+##### Skill-based dodge mechanic
+- Before, I talked about adding more skill expression to the game and possibly adding a 'perfect dodge' mechanic.
+- I've thrown it in
 
 ##### I added a restart button when you die
 - the death screen now has a restart button, allowing you to jump right back into the game
