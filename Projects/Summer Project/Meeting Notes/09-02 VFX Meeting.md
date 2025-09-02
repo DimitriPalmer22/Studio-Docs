@@ -2,6 +2,8 @@
 
 I want there to be more movement on-screen when the player is not doing anything. This would make the game feel more alive and active.
 
+- Make use of the 'heat haze' effect that distorts the screen more.
+
 # Art Style of VFX
 
 - It's all magic
@@ -30,6 +32,7 @@ I want there to be more movement on-screen when the player is not doing anything
 	- Anticipation
 	- Actually doing the attack
 	- Impact
+	- Melee attack trails
 - Enemy deaths
 - Taking damage
 - Healing
