@@ -44,3 +44,5 @@ We need a modular fence kit that we can use to create fences for various levels.
 
 ### New Hero Prop: Astronomical Clock
 on the wall fr
+
+### New Hero Prop: Large Sundial On the floor
