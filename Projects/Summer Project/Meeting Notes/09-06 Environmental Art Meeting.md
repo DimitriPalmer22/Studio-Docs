@@ -28,6 +28,10 @@ The fences we have in the game right now:
 
 We need a modular fence kit that we can use to create fences for various levels.
 
+- More granular fences to avoid sizing issues
+- Also, make different variations of the fence pieces 
+
+
 ***LDs need to block out a kit for this first***
 
 #### Things to Look into
