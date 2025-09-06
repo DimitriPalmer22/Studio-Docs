@@ -27,3 +27,7 @@ The fences we have in the game right now:
 - Don't do much to break up the visual monotony of the game
 
 We need a modular fence kit that we can use to create fences for various levels.
+
+
+### Spiky Iron Bars For a Gate
+
