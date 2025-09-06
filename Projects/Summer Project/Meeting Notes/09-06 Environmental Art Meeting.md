@@ -34,15 +34,20 @@ We need a modular fence kit that we can use to create fences for various levels.
 - Make multiple corner pieces w/ different angles
 - Possibly use spline mesh stuffs
 
+### Gargoyle Statue for Shopkeeper
+
+
 ### Spiky Iron Bars For a Gate
 
-### Gargoyle Statue for Shopkeeper
 
 ### New Hero Prop: Super big hanging brazier
 
+
 ### New Hero Prop: Spiky Crystal Ball Thing
+
 
 ### New Hero Prop: Astronomical Clock
 on the wall fr
 
 ### New Hero Prop: Large Sundial On the floor
+Instead of numbers on the sundial, use abstract magical symbols fr
