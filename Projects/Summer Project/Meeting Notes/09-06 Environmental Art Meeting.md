@@ -66,3 +66,5 @@ Instead of numbers on the sundial, use abstract magical symbols fr
 - Look into the idea of using things other than brick for walls / floors
 
 - Stained glass
+
+- Hanging tattered drapery / cloth
