@@ -42,3 +42,5 @@ We need a modular fence kit that we can use to create fences for various levels.
 
 ### New Hero Prop: Spiky Crystal Ball Thing
 
+### New Hero Prop: Astronomical Clock
+on the wall fr
