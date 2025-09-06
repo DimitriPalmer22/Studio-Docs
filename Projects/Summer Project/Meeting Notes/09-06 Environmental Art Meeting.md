@@ -45,7 +45,7 @@ We need a modular fence kit that we can use to create fences for various levels.
 
 
 ### New Hero Prop: Super big hanging brazier
-
+Use the base from the chandelier (or don't idk)
 
 ### New Hero Prop: Spiky Crystal Ball Thing
 
