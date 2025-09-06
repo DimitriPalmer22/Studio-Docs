@@ -63,4 +63,6 @@ Instead of numbers on the sundial, use abstract magical symbols fr
 - Put chains down to give the walls like a little bit of extra texture
 	- Like a little pulley system that does nothing
 
-- Look into the idea of using things other than brick for walls / fl
+- Look into the idea of using things other than brick for walls / floors
+
+- Stained glass
