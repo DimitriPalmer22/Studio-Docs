@@ -54,7 +54,7 @@ Instead of numbers on the sundial, use abstract magical symbols fr
 
 # Note: Break up the wall textures for the love of god
 - Decals
-- Use differnt
+- Use different textures for things like pillars
 
 - Moss protruding from the walls
 - Grass protruding from the floors
