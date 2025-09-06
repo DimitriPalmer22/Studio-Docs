@@ -28,6 +28,11 @@ The fences we have in the game right now:
 
 We need a modular fence kit that we can use to create fences for various levels.
 
+***LDs need to block out a kit for this first***
+
+#### Things to Look into
+- Make multiple corner pieces w/ different angles
+- Possibly use spline mesh stuffs
 
 ### Spiky Iron Bars For a Gate
 
