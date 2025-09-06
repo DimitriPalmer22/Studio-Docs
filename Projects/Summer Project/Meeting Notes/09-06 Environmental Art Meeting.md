@@ -51,3 +51,14 @@ on the wall fr
 
 ### New Hero Prop: Large Sundial On the floor
 Instead of numbers on the sundial, use abstract magical symbols fr
+
+# Note: Break up the wall textures for the love of god
+- Decals
+- Use differnt
+
+- Moss protruding from the walls
+- Grass protruding from the floors
+- Vines
+
+- Put chains down to give the walls like a little bit of extra texture
+	- Like a little pulley system that does nothing
