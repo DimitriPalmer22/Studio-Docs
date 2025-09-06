@@ -36,3 +36,4 @@ We need a modular fence kit that we can use to create fences for various levels.
 
 ### Spiky Iron Bars For a Gate
 
+### Gargoyle Statue for Shopkeep
