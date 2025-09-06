@@ -46,16 +46,16 @@ We need a modular fence kit that we can use to create fences for various levels.
 
 ### New Hero Props: 
 #### Super big hanging brazier
-Use the base from the chandelier (or don't idk)
+- Use the base from the chandelier (or don't idk)
 
 #### Spiky Crystal Ball Thing
-The base and the crystal itself should be two separate models. The ball will be animated to rotate and bob and all sorts of wacky stuff.
+- The base and the crystal itself should be two separate models. The ball will be animated to rotate and bob and all sorts of wacky stuff.
 
 #### Astronomical Clock
-This will go on the wall fr
+- This will go on the wall fr
 
 #### Large Sundial On the floor
-Instead of numbers on the sundial, use abstract magical symbols fr
+- Instead of numbers on the sundial, use abstract magical symbols fr
 
 # Note: Break up the wall textures for the love of god
 - Decals
