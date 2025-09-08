@@ -47,7 +47,10 @@
 	- **The time-to-kill**. Are the enemies too tanky / too squishy? Does it take too long to kill enemies, or are you able to kill enemies before they really get a chance to pressure you?
 	- **How long the player spends in the room**. Is it too long / too short? Should there be more waves? Should there be more enemies per-wave?
 	- **How often you are having to dodge**. Does it feel like you need to dodge too often / not often enough? Does it feel like you really need to be a ***gamer*** in order to play this game?
-	- **How you feel about the new mana system**. Do you find yourself using your secondary spells more often? Less often? Do you feel like you are being punished for using your secondary spells?
-	- ****
+	- **How you feel about the new mana system**. Do you find yourself using your secondary spells more often? Less often? Do you feel like you are being punished for using your secondary spells? Should mana build up faster?
+	- **Secondary Spells In General**. Do they need to be buffed / nerfed.
 
 - Based on how we feel about the feedback, we can make informed design decisions going forward. 
+
+- For the people who don't work in-engine, I'll try to have a build out as soon as possible (with a readme so you know what to do / how to play / what feedback we're specifically looking for)
+	- I would've had a build out by the time I had this meeting, but a little oopsie is preventing the game from building 
