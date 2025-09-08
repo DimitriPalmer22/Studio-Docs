@@ -40,8 +40,9 @@
 - Mana builds up when you land hits with primary spells.
 - The primary spells do a little bit more damage in general
 
-#### PLAYTESTING
-- For the people who are making the levels / are in-engine, it'd be pretty fire for you guys to playtest the game and give feedback on the following:
+#### Playtesting 
+- Me personally, I feel like I am making too many *gameplay* decisions without being able to lean on the rest of the team for their opinions as well.
+- It'd be pretty fire for you guys to playtest the game and give feedback on the following:
 
 	- **The current enemy density**. Are there too many / too little enemies per-wave?
 	- **The time-to-kill**. Are the enemies too tanky / too squishy? Does it take too long to kill enemies, or are you able to kill enemies before they really get a chance to pressure you?
