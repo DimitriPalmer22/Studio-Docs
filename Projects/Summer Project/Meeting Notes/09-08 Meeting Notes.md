@@ -43,7 +43,11 @@
 #### PLAYTESTING
 - For the people who are making the levels / are in-engine, it'd be pretty fire for you guys to playtest the game and give feedback on the following:
 
-	- The current enemy density. Are there too many / too little enemies per-wave?
-	- The current enemy health. Are the enemies too tanky / too squishy? Does it take too long to kill enemies, or are you able to kill enemies before they really get a chance toi 
+	- **The current enemy density**. Are there too many / too little enemies per-wave?
+	- **The time-to-kill**. Are the enemies too tanky / too squishy? Does it take too long to kill enemies, or are you able to kill enemies before they really get a chance to pressure you?
+	- **How long the player spends in the room**. Is it too long / too short? Should there be more waves? Should there be more enemies per-wave?
+	- **How often you are having to dodge**. Does it feel like you need to dodge too often / not often enough? Does it feel like you really need to be a ***gamer*** in order to play this game?
+	- **How you feel about the new mana system**. Do you find yourself using your secondary spells more often? Less often? Do you feel like you are being punished for using your secondary spells?
+	- ****
 
 - Based on how we feel about the feedback, we can make informed design decisions going forward. 
