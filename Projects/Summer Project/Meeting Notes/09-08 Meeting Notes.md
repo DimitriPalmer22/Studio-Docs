@@ -53,4 +53,5 @@
 - Based on how we feel about the feedback, we can make informed design decisions going forward. 
 
 - For the people who don't work in-engine, I'll try to have a build out as soon as possible (with a readme so you know what to do / how to play / what feedback we're specifically looking for)
-	- I would've had a build out by the time I had this meeting, but a little oopsie is preventing the game from building 
+	- I would've had a build out by the time I had this meeting, but a little oopsie is preventing the game from building so I gotta tackle that first.
+- I WILL ping you guys when the build is out, and I WILL ask you guys to play it and ***have feedback prepared for the next meeting***.
