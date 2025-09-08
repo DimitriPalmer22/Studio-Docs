@@ -1,3 +1,16 @@
+### Meeting Notes
+
+| Meeting                                | Possible Times |
+| -------------------------------------- | -------------- |
+| LD Meeting                             |                |
+| VFX Meeting                            |                |
+| Narrative Designer + CD Meeting        |                |
+| Sound Meeting                          |                |
+| Environmental Artist Meeting           |                |
+| 2D Artist + Narrative Designer Meeting |                |
+| Animation Meeting                      |                |
+| Character Artist Meeting               |                |
+
 ### Big Change, Huge Even - Mana Rework
 - Instead of mana being a resource that depletes and refills, it is a resource that builds up as you play.
 - Primary spells will no longer cost any mana.
@@ -40,7 +53,7 @@
 - Mana builds up when you land hits with primary spells.
 - The primary spells do a little bit more damage in general
 
-#### Playtesting 
+### Playtesting 
 - It'd be pretty fire for you guys to playtest the game and give feedback on the following:
 
 	- **The current enemy density**. Are there too many / too little enemies per-wave?
