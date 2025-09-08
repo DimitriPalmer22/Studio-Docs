@@ -33,7 +33,17 @@
 
 #### How do we feel about this chat?
 - None of these changes are on the main branch yet. They are on a separate branch
-- If we feel good about this and think it is a good idea, I'll push the changes   right now.
+- If we feel good about this and think it is a good idea, I'll push the changes I have right now.
+
+##### Current Changes
+- Mana no longer passively regenerates
+- Mana builds up when you land hits with primary spells.
+- The primary spells do a little bit more damage in general
 
 #### PLAYTESTING
-- For the people who are making the levels / are in-engine, it'd be pretty fire for you guys
+- For the people who are making the levels / are in-engine, it'd be pretty fire for you guys to playtest the game and give feedback on the following:
+
+	- The current enemy density. Are there too many / too little enemies per-wave?
+	- The current enemy health. Are the enemies too tanky / too squishy? Does it take too long to kill enemies, or are you able to kill enemies before they really get a chance toi 
+
+- Based on how we feel about the feedback, we can make informed design decisions going forward. 
