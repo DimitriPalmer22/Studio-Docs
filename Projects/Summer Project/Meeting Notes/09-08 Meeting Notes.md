@@ -31,4 +31,9 @@
 - Fullscreen VFX (like a vignette or chromatic aberration) when using a secondary spell.
 - Super-armor while longer animations play out.
 
-#### PLAYTESTING PLAYTESTING PLAT}
+#### How do we feel about this chat?
+- None of these changes are on the main branch yet. They are on a separate branch
+- If we feel good about this and think it is a good idea, I'll push the changes   right now.
+
+#### PLAYTESTING
+- For the people who are making the levels / are in-engine, it'd be pretty fire for you guys
