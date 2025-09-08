@@ -41,7 +41,6 @@
 - The primary spells do a little bit more damage in general
 
 #### Playtesting 
-- Me personally, I feel like I am making too many *gameplay* decisions without being able to lean on the rest of the team for their opinions as well.
 - It'd be pretty fire for you guys to playtest the game and give feedback on the following:
 
 	- **The current enemy density**. Are there too many / too little enemies per-wave?
@@ -50,6 +49,7 @@
 	- **How often you are having to dodge**. Does it feel like you need to dodge too often / not often enough? Does it feel like you really need to be a ***gamer*** in order to play this game?
 	- **How you feel about the new mana system**. Do you find yourself using your secondary spells more often? Less often? Do you feel like you are being punished for using your secondary spells? Should mana build up faster?
 	- **Secondary Spells In General**. Do they need to be buffed / nerfed.
+	- **Does the game feel too monotonous?** How long does it take before it sinks in that you're just doing the same thing over and over again? What can we do to make the gameplay loop more engaging?
 
 - Based on how we feel about the feedback, we can make informed design decisions going forward. 
 
