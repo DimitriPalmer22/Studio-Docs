@@ -70,7 +70,7 @@
 	- I would've had a build out by the time I had this meeting, but a little oopsie is preventing the game from building so I gotta tackle that first.
 - I WILL ping you guys when the build is out, and I WILL ask you guys to play it and ***have some feedback prepared for the next meeting***.
 
-### Feedback on some a VFX thing
+### A Little Update on the VFX
 
-- Last week, Mikel and I had a VFX meeting where we discussed some ideas for the VFX.
-- That inspired me to play around with some VFX stuff over the weekend.
+- Last week, Mikel and I had a VFX meeting where we tried to establish a more consistent style / 
+- 
