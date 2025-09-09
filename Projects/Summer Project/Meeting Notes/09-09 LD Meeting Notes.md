@@ -7,5 +7,6 @@
 
 ### Play the Game!!!
 - Right now, the game *should be* pretty close to how it will feel in the final product.
-- In this meeting, WE are going to play the game. *Not just me.*
+- 
+- In this meeting, WE are going to play the game.
 - I need you guys to get into the habit of playing the game in short bursts so you can get a better feel of how the game plays.
