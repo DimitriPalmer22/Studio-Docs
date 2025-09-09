@@ -9,7 +9,7 @@
 | 2D Artist + Narrative Designer Meeting | Friday @ 11am  |
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
-|                                        |                |
+
 
 ### Big Change, Huge Even - Mana Rework
 - Instead of mana being a resource that depletes and refills, it is a resource that builds up as you play.
@@ -79,3 +79,4 @@
 - also, new particles for the shadow ball spell
 
 ### Stuff I'm gonna do for next week
+uhh
