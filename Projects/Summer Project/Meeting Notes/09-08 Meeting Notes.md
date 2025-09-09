@@ -2,13 +2,14 @@
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
-| LD Meeting                             | Tuesday 8 pm,  |
+| LD Meeting                             | Tuesday @ 8pm  |
 | Narrative Designer + CD Meeting        |                |
 | Sound Meeting                          |                |
-| Environmental Artist Meeting           |                |
-| 2D Artist + Narrative Designer Meeting |                |
+| Environmental Artist Meeting           | Saturday @ 3pm |
+| 2D Artist + Narrative Designer Meeting | Friday @ 11am  |
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
+|                                        |                |
 
 ### Big Change, Huge Even - Mana Rework
 - Instead of mana being a resource that depletes and refills, it is a resource that builds up as you play.
