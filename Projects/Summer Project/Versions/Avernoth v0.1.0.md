@@ -1,1 +1,4 @@
-- [ ] 
+- [ ] Critical hits (using new stat)
+- [ ] Send out event for when secondary is ready
+- [ ] Agility stat to change animation speed on montage spells (use a curve?)
+- [ ] Lerp for mana essence positions
