@@ -2,8 +2,7 @@
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
-| LD Meeting                             |                |
-| VFX Meeting                            |                |
+| LD Meeting                             | Tuesday 8 pm,  |
 | Narrative Designer + CD Meeting        |                |
 | Sound Meeting                          |                |
 | Environmental Artist Meeting           |                |
