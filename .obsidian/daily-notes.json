@@ -1,6 +1,6 @@
 {
   "folder": "PrivateNotes/Daily",
-  "autorun": true,
+  "autorun": false,
   "template": "_META/Templates/Daily Note Template",
   "format": "YYYY/MM-MMMM/YYYY-MM-DD-dddd"
 }
