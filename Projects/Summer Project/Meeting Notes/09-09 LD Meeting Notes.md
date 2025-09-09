@@ -1,9 +1,12 @@
 
 ### Make Sure Your Levels are ALWAYS in a Playable State
-What I mean by this is that your levels should always have the following:
+What I mean by this is that your levels should ALWAYS have the following:
 - A player spawn point
 - An exit portal
+- A journal table
 - At least one enemy wave set up
+
+The last thing we want is for you to break your level and all of a sudden the player is stuck in the level with no way out.
 
 ### Make Sure to Place Your Enemies In Your Levels
 - When making the blockout for your levels, setting up the enemy spawns is also ONE OF THE FIRST THINGS YOU SHOULD DO.
