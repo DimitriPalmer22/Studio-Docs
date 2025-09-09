@@ -78,4 +78,4 @@
 - Also, feet vfx
 - also, new particles for the shadow ball spell
 
-### 
+### Stuff I'm gonna do for next week
