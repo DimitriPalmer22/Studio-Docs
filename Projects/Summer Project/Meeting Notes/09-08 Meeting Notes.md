@@ -74,4 +74,8 @@
 
 - Last week, Mikel and I had a VFX meeting where we tried to establish a more consistent style & methodology for the game's VFX
 - You can find the notes from that meeting here: https://docs.google.com/document/d/1CotzuKCkylPIRJDt6q5vqK-lmzU9-B8RgKnVZGS5qYQ/edit?usp=sharing
-	- In there, we went over stuff like which things 
+	- In there, we went over stuff like which things which things need VFX and general ideas for how we should implement those
+- Also, feet vfx
+- also, new particles for the shadow ball spell
+
+### 
