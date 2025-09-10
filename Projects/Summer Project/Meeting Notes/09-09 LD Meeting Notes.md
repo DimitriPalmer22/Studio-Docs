@@ -23,3 +23,8 @@ What I mean by this is that your levels should ALWAYS have the following:
 - In this meeting, WE are going to play the game.
 - I need you guys to get into the habit of playing the game in short bursts so you can get a better feel of how the game plays.
 - I can't be the only one who understands how the game plays.
+
+### Feedback
+
+- The basic attacks stagger the enemies too easily
+- Maybe only the ending attack should stagger
