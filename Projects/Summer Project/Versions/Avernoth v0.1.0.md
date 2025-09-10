@@ -1,6 +1,6 @@
 - [ ] Only stagger on some hits
 - [ ] Slow down literally every player attack animation
 - [ ] Critical hits (using new stat)
-- [ ] Send out event for when secondary is ready
+- [x] Send out event for when secondary is ready
 - [ ] Agility stat to change animation speed on montage spells (use a curve?)
 - [ ] Lerp for mana essence positions
