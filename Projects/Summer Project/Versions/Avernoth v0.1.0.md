@@ -1,5 +1,5 @@
 - [ ] Only stagger on some hits
-- [ ] Slow down literally every player attack animation
+- [x] Slow down literally every player attack animation
 - [ ] Critical hits (using new stat)
 - [x] Send out event for when secondary is ready
 - [x] Agility stat to change animation speed on montage spells (use a curve?)
