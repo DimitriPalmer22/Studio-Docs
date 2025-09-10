@@ -1,4 +1,4 @@
-- [ ] Update the UI for the Questions screen to match the new UI style
+- [x] Update the UI for the Questions screen to match the new UI style
 - [ ] Music now stops when going to the main menu
 - [ ] Settings Menu does nothing
 - [ ] Dialogue should not start typing until the animation fades in
