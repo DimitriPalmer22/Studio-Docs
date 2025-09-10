@@ -1,5 +1,5 @@
 - [x] Update the UI for the Questions screen to match the new UI style
 - [x] Stops music when going to the main menu
 - [x] Settings Menu does nothing
-- [ ] Dialogue should not start typing until the animation fades in
+- [x] Dialogue should not start typing until the animation fades in
 - [x] Alli song is too loud + the new mix should be imported
