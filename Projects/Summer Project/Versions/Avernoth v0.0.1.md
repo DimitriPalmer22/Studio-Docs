@@ -2,4 +2,4 @@
 - [x] Stops music when going to the main menu
 - [ ] Settings Menu does nothing
 - [ ] Dialogue should not start typing until the animation fades in
-- [ ] Alli song is too loud + the new mix should be imported
+- [x] Alli song is too loud + the new mix should be imported
