@@ -17,7 +17,7 @@ What I mean by this is that your levels should ALWAYS have the following:
 #### Setting Up the Enemy Waves!!!
 - Don't just drag and drop enemies into the level and call it a day. That won't work with the way the wave system is set up.
 
-### Play the Game!!!
+# Play the Game!!!
 - Right now, the game *should be* pretty close to how it will feel in the final product.
 
 - In this meeting, WE are going to play the game.
