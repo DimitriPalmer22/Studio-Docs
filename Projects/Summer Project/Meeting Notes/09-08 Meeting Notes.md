@@ -79,4 +79,6 @@
 - also, new particles for the shadow ball spell
 
 ### Stuff I'm gonna do for next week
-uhh
+- [Avernoth v0.0.1](<../Versions/Avernoth v0.0.1.md>)
+- [Avernoth v0.1.0](<../Versions/Avernoth v0.1.0.md>)
+- [Avernoth v0.2.0](<../Versions/Avernoth v0.2.0.md>)
