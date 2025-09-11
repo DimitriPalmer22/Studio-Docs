@@ -1,8 +1,3 @@
-- [ ] Enhance the UI to show the player's stats while in-game
-- [ ] Mana regen proportional to how much damage you deal (based on a curve)
-- [ ] Make that one upgrade work
-- [ ] Make commands for each player stat
-
 ### Rethinking Secondary Spells
 
 Instead of having them be spells that stand completely on their own, we should make them combo better with the primary spell combo chains.
@@ -40,4 +35,6 @@ This Finisher is just an extra-powerful version of the last hit in the primary s
 ### Define How Long Each Hit Should Be
 - The game is developing a feel now
 - Combos start to feel weird if animations are too fast or too slow
-- We should define how long each hit animation of a 
+- We should define how long each hit animation of a combo should be
+	- This will help us when we start making new spells
+- From here, we can also decide how long each finisher animation should be
