@@ -1,0 +1,23 @@
+# AVERNOTH
+
+### How To Play
+Allister is trapped inside Avernoth. Use your spells to fight against the enemies you come across and to find your way out. 
+
+Avernoth is made up of a random series of *rooms*. Each room contains enemies that you must defeat to proceed to the next room. After defeating all enemies in a room, a portal will appear that will take you to the next room.
+
+
+
+### Controls
+
+| Action                    | PC                | XBOX Controller |
+| ------------------------- | ----------------- | --------------- |
+| Move                      | WASD              | Left Stick      |
+| Dodge                     | Left Shift        | A               |
+| Primary Spell             | Left Click        | X               |
+| Secondary Spell           | Right Click       | Y               |
+| Toggle Lock-on            | Middle Click or Q | Right Bumper    |
+| Cycle lock-on target      | Mouse Wheel       | Left Bumper     |
+| Interact                  | E                 | B               |
+| (Dialogue) Next Line      | E                 | A               |
+| (Dialogue) Skip to end of | X                 | Back            |
+| Pause                     | Escape or P       | Start           |
