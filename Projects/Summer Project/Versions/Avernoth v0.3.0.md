@@ -1,0 +1,2 @@
+- [ ] Critical hits (using new stat)
+- [ ] Event for critical hits
