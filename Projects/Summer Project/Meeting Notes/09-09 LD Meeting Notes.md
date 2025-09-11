@@ -29,3 +29,9 @@ What I mean by this is that your levels should ALWAYS have the following:
 - The basic attacks stagger the enemies too easily
 - Maybe only the ending attack should stagger
 - You still get hit if you dodge backwards :(
+
+---
+
+@everyone 
+
+During Monday's meeting
