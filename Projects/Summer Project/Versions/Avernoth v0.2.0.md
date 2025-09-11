@@ -19,4 +19,11 @@ https://www.youtube.com/watch?v=adFkvrsxQYo
 
 ### Revenge Counter
 
-Enemies are still being trapped in combos and we have no real way to have them react 
+Enemies are still being trapped in combos and we have no real way to have them react to the player attacking them once they get caught in a combo.
+
+We *could* implement a "Revenge Counter" system (like Kingdom Hearts), where if an enemy gets hit by a certain number of attacks in a short period of time, they will break out of the combo and retaliate with a powerful counterattack that has super armor.
+
+
+### Idea to Enhance Primary Spell
+
+With the way the current system is designed, the primary spell essentially acts as a vehicle whe
