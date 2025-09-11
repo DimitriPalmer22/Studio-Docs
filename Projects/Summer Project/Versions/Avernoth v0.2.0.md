@@ -30,4 +30,9 @@ With the way the current system is designed, the primary spell essentially acts 
 
 We don't want this. For the sake of variety in gameplay and making the primary spells more viable (maybe even for build-crafting purposes), we could have a "Finisher" system for the primary spells.
 
-Basically, there is a separate bar for the primary spells that is constantly depleting. It fills up whene
+Basically, there is a separate bar for the primary spells that is constantly depleting. It fills up whenever the player hits an enemy with a primary spell. Once the bar is full, the player can perform a "Finisher".
+
+This Finisher is just an extra-powerful version of the last hit in the primary spell combo chain. It does extra damage, staggers enemies, and has some extra flashy VFX.
+
+### Refactor the Spell System
+- 
