@@ -26,4 +26,8 @@ We *could* implement a "Revenge Counter" system (like Kingdom Hearts), where if 
 
 ### Idea to Enhance Primary Spell
 
-With the way the current system is designed, the primary spell essentially acts as a vehicle whe
+With the way the current system is designed, the primary spell essentially acts as a vehicle which has the sole purpose of charging the player's mana until they can use their secondary spell.
+
+We don't want this. For the sake of variety in gameplay and making the primary spells more viable (maybe even for build-crafting purposes), we could have a "Finisher" system for the primary spells.
+
+Basically, there is a separate bar for the primary spells that is constantly depleting. It fills up whene
