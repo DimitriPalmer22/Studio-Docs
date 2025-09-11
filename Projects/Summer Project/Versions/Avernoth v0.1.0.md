@@ -4,3 +4,6 @@
 - [x] Send out event for when secondary is ready
 - [x] Agility stat to change animation speed on montage spells (use a curve?)
 - [x] Lerp for mana essence positions
+
+# Avernoth v0.1.1
+- [ ] Fix the big white boxes for blank dialogue segments
