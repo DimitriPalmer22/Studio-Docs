@@ -7,6 +7,8 @@ Avernoth is made up of several *Areas*, each of which is composed of a random se
 
 Defeating enemies and clearing rooms earns you *mana essence*, which can be used to purchase items within the *shop room*.
 
+For this build, the end of the first area is marke
+
 ### Controls
 
 | Action                    | PC                | XBOX Controller |
