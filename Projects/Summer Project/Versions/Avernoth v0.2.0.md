@@ -13,3 +13,5 @@ Basically, each secondary can be used for two things:
 - A powerful, flashy spell that can be used alone
 
 With that being said, the secondaries can no longer be these long grand sequences that take forever to play out. They need to be quick, flashy, and impactful. They need to be fluid enough to look natural when used alongside the primary attacks.
+
+https://www.youtube.com/watch?v=adFkvrsxQYo
