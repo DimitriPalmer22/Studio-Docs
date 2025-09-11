@@ -3,7 +3,6 @@
 - [ ] Make that one upgrade work
 - [ ] Make commands for each player stat
 
-
 ### Rethinking Secondary Spells
 
 Instead of having them be spells that stand completely on their own, we should make them combo better with the primary spell combo chains.
@@ -37,3 +36,8 @@ This Finisher is just an extra-powerful version of the last hit in the primary s
 ### Refactor the Spell System
 - If all the primary spells are gonna be combos, we should refactor the spell system to reflect this.
 - Maybe I can move the spell system over to be fully C++ if this is the case?
+
+### Define How Long Each Hit Should Be
+- The game is developing a feel now
+- Combos start to feel weird if animations are too fast or too slow
+- We should define how long each hit animation of a 
