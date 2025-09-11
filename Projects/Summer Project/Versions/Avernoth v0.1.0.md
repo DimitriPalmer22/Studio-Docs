@@ -6,4 +6,4 @@
 - [x] Lerp for mana essence positions
 
 # Avernoth v0.1.1
-- [ ] Fix the big white boxes for blank dialogue segments
+- [x] Fix the big white boxes for blank dialogue segments
