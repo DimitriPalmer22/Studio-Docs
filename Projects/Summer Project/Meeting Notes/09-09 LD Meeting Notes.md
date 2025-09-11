@@ -34,4 +34,4 @@ What I mean by this is that your levels should ALWAYS have the following:
 
 @everyone 
 
-During Monday's meeting
+During Monday's meeting, I mentioned that I would be sending you guys a build of the game for you to playtest. 
