@@ -63,6 +63,7 @@
 	- **How you feel about the new mana system**. Do you find yourself using your secondary spells more often? Less often? Do you feel like you are being punished for using your secondary spells? Should mana build up faster?
 	- **Secondary Spells In General**. Do they need to be buffed / nerfed.
 	- **Does the game feel too monotonous?** How long does it take before it sinks in that you're just doing the same thing over and over again? What can we do to make the gameplay loop more engaging and varied?
+	- **Is there anything that feels especially clunky?** I want this game to feel as smooth and fluid as possible, so if there's anything that feels off, please let me know.
 
 - Based on how we feel about the feedback, we can make informed design decisions going forward. 
 
