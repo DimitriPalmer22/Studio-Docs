@@ -35,4 +35,5 @@ Basically, there is a separate bar for the primary spells that is constantly dep
 This Finisher is just an extra-powerful version of the last hit in the primary spell combo chain. It does extra damage, staggers enemies, and has some extra flashy VFX.
 
 ### Refactor the Spell System
-- 
+- If all the primary spells are gonna be combos, we should refactor the spell system to reflect this.
+- Maybe I can move the spell system over to be fully C++ if this is the case?
