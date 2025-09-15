@@ -54,10 +54,14 @@ Whenever the player earns enough mana to use their secondary spell:
 - Allister's model will flash cyan a couple times
 
 #### Every projectile has a slight AOE to it
-- This is to make it easier to hit enemies with projectiles.
-- 
+- This is to make it easier to hit enemies with projectiles, especially in groups.
 
-### Playtesting Feedback
+#### Limit Successive Dodges to 2
+- The player can only perform a max of 2 dodges before a short cooldown is applied.
+- This was to prevent dodge spam
+
+### Playtesting Feedback?
 
 
 ### What Next?
+- I'll go over the playtest notes you guys have sent and will try to address any large issues that have come up
