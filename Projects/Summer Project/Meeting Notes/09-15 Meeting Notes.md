@@ -29,6 +29,10 @@ Here's a quick refresher on the game's 5 character stats:
 - Resilience -> Affects how much damage enemy attacks do to you
 - Agility -> *Affects your casting speed*
 
+#### Update on the Spell Ideology
+- Over the past week, we've been looking into ways to essentially make the game feel more fluid and fast-paced.
+- Pretty much every primary spell will be a chain of attacks
+
 #### Transitioned Most of the Spell Stuff To C++
 - Most of the spell functionality was previously implemented in Blueprints.
 - Now it's in C++, which makes it easier to maintain and expand upon.
@@ -43,7 +47,7 @@ Whenever the player earns enough mana to use their secondary spell:
 - Allister's model will flash cyan a couple times
 
 #### New Secondary Spell?
-After 
+- After moving most of the spell stuff to C++, I make a new spell real quick to test out how easy it would be to make spells.
 
 ### Playtesting Feedback
 
