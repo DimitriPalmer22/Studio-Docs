@@ -37,4 +37,11 @@ Here's a quick refresher on the game's 5 character stats:
 - All of the spell animations have been retimed a little to be a little more balanced and feel a little better.
 - They're all a *teeny* bit slower and they should hold their end poses for a little bit longer before allowing the player to attack again.
 
+#### Indicating that You Have Enough Mana
+Whenever the player earns enough mana to use their secondary spell:
+- The spell icon in the bottom right corner will do a little hop animation
+- Allister's model will flash cyan a couple times
+
+#### 
+
 ### Playtesting Feedback
