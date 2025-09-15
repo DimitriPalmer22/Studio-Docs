@@ -67,3 +67,4 @@ Whenever the player earns enough mana to use their secondary spell:
 - I'll go over the playtest notes you guys have sent and will try to address any large issues that have come up
 - Passively drain mana over time while not comboing enemies?
 	- Reinforces aggressive playstyle
+- Animation Meeting fr
