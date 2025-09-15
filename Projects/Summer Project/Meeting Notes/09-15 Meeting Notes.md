@@ -31,7 +31,10 @@ Here's a quick refresher on the game's 5 character stats:
 
 #### Update on the Spell Ideology
 - Over the past week, we've been looking into ways to essentially make the game feel more fluid and fast-paced.
-- Pretty much every primary spell will be a chain of attacks
+- Pretty much every primary spell will be a sequence of attacks that can be chained together fluidly.
+- Pretty much every secondary spell will be a powerful single-cast ability that the primary spells can chain into.
+	- The secondary spells should, for the most part, help with AOE damage.
+	- As a reference, if you've every played Kingdom Hearts, think of the different finishers you can use in those games.
 
 #### Transitioned Most of the Spell Stuff To C++
 - Most of the spell functionality was previously implemented in Blueprints.
