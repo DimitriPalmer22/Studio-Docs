@@ -42,6 +42,10 @@ Whenever the player earns enough mana to use their secondary spell:
 - The spell icon in the bottom right corner will do a little hop animation
 - Allister's model will flash cyan a couple times
 
-#### 
+#### New Secondary Spell?
+After 
 
 ### Playtesting Feedback
+
+
+### What Next?
