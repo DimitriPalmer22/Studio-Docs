@@ -34,6 +34,7 @@ Here's a quick refresher on the game's 5 character stats:
 - Now it's in C++, which makes it easier to maintain and expand upon.
 
 #### Retimed all the Spell Animations
-- All of the spell animations have been retimed a little to be a little more bala
+- All of the spell animations have been retimed a little to be a little more balanced and feel a little better.
+- They're all a *teeny* bit slower and they should hold their end poses for a little bit longer before allowing the player to attack again.
 
 ### Playtesting Feedback
