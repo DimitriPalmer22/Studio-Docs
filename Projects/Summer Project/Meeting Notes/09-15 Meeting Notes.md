@@ -24,6 +24,11 @@
 #### Agility Stat Actually Does Something Now
 Here's a quick refresher on the game's 5 character stats:
 - Vitality -> Directly affects your max health
-- Man
+- Mana -> Directly affects your max mana
+- Intelligence -> Affects your spell damage
+- Resilience -> Affects how much damage enemy attacks do to you
+- Agility -> *Affects your casting speed*
+
+#### Transitioned most of the spell stuff YTo C++
 
 ### Playtesting Feedback
