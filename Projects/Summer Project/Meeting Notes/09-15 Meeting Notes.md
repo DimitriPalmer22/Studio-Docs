@@ -13,7 +13,15 @@
 ### Quick Recap on Last Week's Mana Rework
 
 
-### 
+### Updates Since Last Week
 
+#### Version Numbers
+- I've starting using *semantic version numbering* to keep track of the current state of the game.
+- Builds will be marked with version numbers.
+- Also, in Git / GitHub, you'll see commits *tagged* with version numbers. This is to signify that the commit will be / was used to create a build.
+- Currently, the game is on 
+
+####
+- 
 
 ### Playtesting Feedback
