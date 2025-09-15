@@ -9,3 +9,11 @@
 | 2D Artist + Narrative Designer Meeting |                |
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
+
+### Quick Recap on Last Week's Mana Rework
+
+
+### 
+
+
+### Playtesting Feedback
