@@ -1,4 +1,4 @@
-### Meeting Notes
+### Meeting Times
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
