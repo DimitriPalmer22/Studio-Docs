@@ -35,6 +35,7 @@ Here's a quick refresher on the game's 5 character stats:
 - Pretty much every secondary spell will be a powerful single-cast ability that the primary spells can chain into.
 	- The secondary spells should, for the most part, help with AOE damage.
 	- As a reference, if you've every played Kingdom Hearts, think of the different finishers you can use in those games.
+- So, each individual animation should be pretty quick and responsive. If it isn't then there should be some type of super-armor or something similar to make up for it. 
 
 #### Transitioned Most of the Spell Stuff To C++
 - Most of the spell functionality was previously implemented in Blueprints.
@@ -44,13 +45,14 @@ Here's a quick refresher on the game's 5 character stats:
 - All of the spell animations have been retimed a little to be a little more balanced and feel a little better.
 - They're all a *teeny* bit slower and they should hold their end poses for a little bit longer before allowing the player to attack again.
 
+#### New Secondary Spell?
+- After moving most of the spell stuff to C++, I make a new spell real quick to test out how easy it would be to make spells.
+
 #### Indicating that You Have Enough Mana
 Whenever the player earns enough mana to use their secondary spell:
 - The spell icon in the bottom right corner will do a little hop animation
 - Allister's model will flash cyan a couple times
 
-#### New Secondary Spell?
-- After moving most of the spell stuff to C++, I make a new spell real quick to test out how easy it would be to make spells.
 
 ### Playtesting Feedback
 
