@@ -62,10 +62,9 @@ Whenever the player earns enough mana to use their secondary spell:
 
 
 ### Playtesting Feedback?
-
-
-### What Next?
+yeah type shit
 - I'll go over the playtest notes you guys have sent and will try to address any large issues that have come up
+### What Next?
 - Passively drain mana over time while not comboing enemies?
 	- Reinforces aggressive playstyle
 - Animation Meeting fr
