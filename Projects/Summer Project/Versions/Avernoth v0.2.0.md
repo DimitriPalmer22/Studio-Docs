@@ -1,3 +1,9 @@
+- Camera controller for camera distance
+	- Base camera distance
+	- Max camera distance
+	- Float token manager for multipliers
+	- Control it using animation events
+
 ### Rethinking Secondary Spells
 
 Instead of having them be spells that stand completely on their own, we should make them combo better with the primary spell combo chains.
