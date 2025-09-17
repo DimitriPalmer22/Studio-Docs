@@ -79,8 +79,12 @@ The player's animations should:
 - The poses should be distinct and exaggerated to communicate the action clearly to the player.
 
 # Timing
+Ideally, the animations should be the perfect length BEFORE importing them in-engine. 
 
+We SHOULD NOT be changing the rate of the animations in-engine. It looks janky and awkward. Also, if some animations are sped up more than others, then the animations are no longer consistent with each other.
 
-| Standby->Action Durt |     |
-| -------------------- | --- |
-|                      |     |
+| Speed  | Standby->Action Duration | Action->Cancel Duration |
+| ------ | ------------------------ | ----------------------- |
+| Fast   |                          |                         |
+| Normal |                          |                         |
+| Slow   |                          |                         |
