@@ -30,9 +30,14 @@ The main part of the animation, where the action takes place. The "attack" part 
 
 - This is the *KEY POSE* of the animation
 - In our game, this is when our spells will fire out.
+- In games with melee combat, hit-stop will apply here to emphasize the impact of the attack and strongly emphasize the pose.
 
 #### Follow Through
 The duration at the end of the animation, where the character recovers from the action.
+
+- After the *Action* has finished registering, the pose will hang for a second before transitioning back to *Standby*.
+- During this time (before the cancel point), the player cannot control the character
+- The poes the 
 
 #### Cancel Point
 This is a frame during the Follow Through where the player can cancel the animation into another action. This is important for making the character feel responsive and allowing for combos.
