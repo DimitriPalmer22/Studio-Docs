@@ -5,19 +5,21 @@
 
 ## Takeaways
 
-### Starting Pose
+### Starting Pose, AKA Standby
 - The characters in Smash all have a distinct idle animation from which they go into all their attacks
 - Sakurai says to nail this first and to keep it consistent so the other action animations can flow from it and come back from it.
 
 ### The Parts of an Animation
 An animation can be broken down into ***four main parts***:
-- **Wind Up**
+- **Lead In**
 - **Action
 - **Follow Through**
 - **The Cancel Point**
 
-#### Wind Up
+#### Lead In, AKA Anticipation
 The duration at the beginning of the animation, where the character prepares for the action.
+
+- 
 
 #### Action
 The main part of the animation, where the action takes place. The "attack" part of an attack animation. Typically,
@@ -37,6 +39,6 @@ The player's animations should:
 ### Responsive and Quick
 When I say *Responsive*, I mean that there shouldn't be that much time between the player's input and the desired action happening on screen. This is important because it makes the player feel in control of their character. 
 
-In particular, let's say we're making an attack animation. The *Wind Up* of the attack animation should be short, so that the player can see the attack (the desired action) happening quickly after they press the button.
+In particular, let's say we're making an attack animation. The *Lead In* of the attack animation should be short, so that the player can see the attack (the desired action) happening quickly after they press the button.
 
 - Shorter animations tend to feel more responsive.
