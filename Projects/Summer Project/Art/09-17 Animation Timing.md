@@ -19,7 +19,10 @@ An animation can be broken down into ***four main parts***:
 #### Lead In, AKA Anticipation
 The duration at the beginning of the animation, where the character prepares for the action.
 
-- 
+- These start with big, unexpected movements on the first frame
+- We ***SHOULD NOT*** smoothly transition from the Standby into the Lead In. This takes too long and makes the animation feel unresponsive.
+- In Smash, you'll see characters quickly jump into the pose rather than transition into it.
+- Quicker Lead Ins feel more responsive & communicate 
 
 #### Action
 The main part of the animation, where the action takes place. The "attack" part of an attack animation. Typically,
