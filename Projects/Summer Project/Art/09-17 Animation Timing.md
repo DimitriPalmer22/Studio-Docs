@@ -68,8 +68,8 @@ The player's animations should:
 - be easy to ready
 
 ### Responsive and Quick
-When I say *Responsive*, I mean that there shouldn't be that much time between the player's input and the desired action happeni ng on screen. This is important because it makes the player feel in control of their character. 
+- Lead Ins should be quick and snappy to communicate to the player that their input was recognized.
+- Also, this game is pretty fast-paced, so the player needs quick animations to react to the action on screen as fast as possible.
 
-In particular, let's say we're making an attack animation. The *Lead In* of the attack animation should be short, so that the player can see the attack (the desired action) happening quickly after they press the button.
-
-- Shorter animations tend to feel more responsive.
+### Weighty and Satisfying
+- Follow throughs should 
