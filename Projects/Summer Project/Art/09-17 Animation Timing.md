@@ -39,6 +39,8 @@ The duration at the end of the animation, where the character recovers from the 
 - During this time (before the cancel point), the player cannot control the character
 	- This is important for making the character feel weighty and satisfying
 - The pose the character holds during the follow through should be clearly distinct from the *Standby* pose, so that the player can easily read when they are able to move again.
+- The follow through should ALWAYS ALWAYS ALWAYS ***animate*** back to the original *Standby* pose.
+	- Never just interpolate back to the standby pose from the action pose.
 
 #### Cancel Point
 This is a frame during the Follow Through where the player can cancel the animation into another action. This is important for making the character feel responsive and allowing for combos.
@@ -62,7 +64,7 @@ The player's animations should:
 - be easy to ready
 
 ### Responsive and Quick
-When I say *Responsive*, I mean that there shouldn't be that much time between the player's input and the desired action happening on screen. This is important because it makes the player feel in control of their character. 
+When I say *Responsive*, I mean that there shouldn't be that much time between the player's input and the desired action happeni ng on screen. This is important because it makes the player feel in control of their character. 
 
 In particular, let's say we're making an attack animation. The *Lead In* of the attack animation should be short, so that the player can see the attack (the desired action) happening quickly after they press the button.
 
