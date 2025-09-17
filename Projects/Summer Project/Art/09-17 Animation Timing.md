@@ -22,10 +22,14 @@ The duration at the beginning of the animation, where the character prepares for
 - These start with big, unexpected movements on the first frame
 - We ***SHOULD NOT*** smoothly transition from the Standby into the Lead In. This takes too long and makes the animation feel unresponsive.
 - In Smash, you'll see characters quickly jump into the pose rather than transition into it.
-- Quicker Lead Ins feel more responsive & communicate 
+- Quicker Lead Ins feel more responsive & communicate to the player that their input was recognized
+- These quicker lead-ins are also easier to read even though they are quicker
 
-#### Action
+#### Action, AKA the Attack
 The main part of the animation, where the action takes place. The "attack" part of an attack animation. Typically,
+
+- This is the *KEY POSE* of the animation
+- In our game, this is when our spells will fire out.
 
 #### Follow Through
 The duration at the end of the animation, where the character recovers from the action.
