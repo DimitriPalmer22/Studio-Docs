@@ -5,10 +5,15 @@
 
 ## Takeaways
 
+### Starting Pose
+	
+
 ### The Parts of an Animation
-An animation can be broken down into three parts:
+An animation can be broken down into ***four main parts***:
 - **Wind Up**: The duration at the beginning of the animation, where the character prepares for the action.
-- **Action**: The main part of the animation, where the action takes place. The "attack" part of an attack animation. Typically, this is the shortest part of the animation, possibly even a single 
+- **Action**: The main part of the animation, where the action takes place. The "attack" part of an attack animation. Typically, this is the shortest part of the animation, possibly even a single frame. 
+- **Follow Through**: The duration at the end of the animation, where the character recovers from the action.
+- **The Cancel Point**
 
 ## Animation Philosophy
 The player's animations should:
