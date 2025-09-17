@@ -37,10 +37,14 @@ The duration at the end of the animation, where the character recovers from the 
 
 - After the *Action* has finished registering, the pose will hang for a second before transitioning back to *Standby*.
 - During this time (before the cancel point), the player cannot control the character
-- The poes the 
+	- This is important for making the character feel weighty and satisfying
+- The pose the character holds during the follow through should be clearly distinct from the *Standby* pose, so that the player can easily read when they are able to move again.
 
 #### Cancel Point
 This is a frame during the Follow Through where the player can cancel the animation into another action. This is important for making the character feel responsive and allowing for combos.
+
+- This is usually a few frames before fully transitioning back to the *Standby* pose.
+- The *cancel point* should be at some clear indication that the player can move again
 
 ## Animation Philosophy
 The player's animations should:
