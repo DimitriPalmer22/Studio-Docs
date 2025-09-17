@@ -9,4 +9,7 @@ The player's animations should:
 - be weighty and satisfying
 - be easy to ready
 
-### 
+### Responsive and Quick
+When I say *Responsive*, I mean that there shouldn't be that much time between the player's input and the desired action happening on screen. This is important because it makes the player feel in control of their character. 
+
+- Shorter animations tend to feel more responsive.
