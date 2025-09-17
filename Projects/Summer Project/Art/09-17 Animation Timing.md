@@ -47,6 +47,8 @@ This is a frame during the Follow Through where the player can cancel the animat
 
 - This is usually a few frames before fully transitioning back to the *Standby* pose.
 - The *cancel point* should be at some clear indication that the player can move again
+- Practically, the part of the *Follow Through* AFTER the *cancel point* is just for show. If we wanted to, we could make this longer to look better.
+	- It's just important to indicate to the player when they gain control of their character again.
 
 
 ### Specifying An Animation
@@ -56,6 +58,8 @@ Whenever making new attack animations, you can characterize them by specifying 4
 - The attack pose
 - The attack start frame
 - The total number of frames until the attack can be canceled
+
+With these 4 things, we should know how long each portion of our animation is.
 
 ## Animation Philosophy
 The player's animations should:
