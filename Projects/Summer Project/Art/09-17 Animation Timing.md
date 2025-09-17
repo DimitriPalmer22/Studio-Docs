@@ -53,7 +53,7 @@ Whenever making new attack animations, you can characterize them by specifying 4
 - The standby pose
 - The attack pose
 - The attack start frame
-
+- The total number of frames until the attack can be canceled
 
 ## Animation Philosophy
 The player's animations should:
