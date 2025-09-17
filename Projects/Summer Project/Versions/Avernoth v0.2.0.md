@@ -3,6 +3,7 @@
 	- Max camera distance
 	- Float token manager for multipliers
 	- Control it using animation events
+- Ribbon trail twirl around the player when casting a spell
 
 ### Rethinking Secondary Spells
 
