@@ -46,6 +46,15 @@ This is a frame during the Follow Through where the player can cancel the animat
 - This is usually a few frames before fully transitioning back to the *Standby* pose.
 - The *cancel point* should be at some clear indication that the player can move again
 
+
+### Specifying An Animation
+
+Whenever making new attack animations, you can characterize them by specifying 4 things:
+- The standby pose
+- The attack pose
+- The attack start frame
+
+
 ## Animation Philosophy
 The player's animations should:
 - be responsive and quick
