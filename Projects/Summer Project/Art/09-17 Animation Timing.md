@@ -6,14 +6,23 @@
 ## Takeaways
 
 ### Starting Pose
-	
+- The characters in Smash all have a distinct idle animation from which they go into all their attacks
+- Sakurai says to nail this first and to keep it consistent so the other action animations can flow from it and come back from it.
 
 ### The Parts of an Animation
 An animation can be broken down into ***four main parts***:
-- **Wind Up**: The duration at the beginning of the animation, where the character prepares for the action.
+- **Wind Up**: 
 - **Action**: The main part of the animation, where the action takes place. The "attack" part of an attack animation. Typically, this is the shortest part of the animation, possibly even a single frame. 
 - **Follow Through**: The duration at the end of the animation, where the character recovers from the action.
-- **The Cancel Point**
+- **The Cancel Point**: This is a frame during the Follow Through where the player can cancel the animation into another action. This is important for making the character feel responsive and allowing for combos.
+
+#### Wind Up
+The duration at the beginning of the animation, where the character prepares for the action.
+#### Action
+
+#### Follow Through
+
+#### Cancel Point
 
 ## Animation Philosophy
 The player's animations should:
