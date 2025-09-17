@@ -83,8 +83,9 @@ Ideally, the animations should be the perfect length BEFORE importing them in-en
 
 We SHOULD NOT have to change the rate of the animations in-engine. It looks janky and awkward. Also, if some animations are sped up more than others, then the animations are no longer consistent with each other.
 
-| Speed  | Standby->Action Duration @30FPS | Action->Cancel Duration |
-| ------ | ------------------------------- | ----------------------- |
-| Fast   | 4-6 Frames                      |                         |
-| Normal |                                 |                         |
-| Slow   |                                 |                         |
+| Speed     | Standby->Action @ 30FPS | Action->Cancel @30FPS |
+| --------- | ----------------------- | --------------------- |
+| Too Fast! |                         |                       |
+| Fast      | 4-6 Frames              |                       |
+| Normal    | 8-10 Frames             |                       |
+| Slow      | 11-13 Frames            |                       |
