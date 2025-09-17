@@ -85,7 +85,8 @@ We SHOULD NOT have to change the rate of the animations in-engine. It looks jank
 
 | Speed     | Standby->Action @ 30FPS | Action->Cancel @30FPS |
 | --------- | ----------------------- | --------------------- |
-| Too Fast! |                         |                       |
+| TOO FAST! | <4 Frames               |                       |
 | Fast      | 4-6 Frames              |                       |
-| Normal    | 8-10 Frames             |                       |
-| Slow      | 11-13 Frames            |                       |
+| Normal    | 6-7 Frames              |                       |
+| Slow      | 9-11 Frames             |                       |
+| TOO SLOW! | >12 Frames              |                       |
