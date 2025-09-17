@@ -61,15 +61,26 @@ Whenever making new attack animations, you can characterize them by specifying 4
 
 With these 4 things, we should know how long each portion of our animation is.
 
-## Animation Philosophy
+# Animation Philosophy
 The player's animations should:
 - be responsive and quick
 - be weighty and satisfying
 - be easy to ready
 
-### Responsive and Quick
+## Responsive and Quick
 - Lead Ins should be quick and snappy to communicate to the player that their input was recognized.
 - Also, this game is pretty fast-paced, so the player needs quick animations to react to the action on screen as fast as possible.
 
-### Weighty and Satisfying
-- Follow throughs should 
+## Weighty and Satisfying
+- Follow throughs should be long enough to make the action feel impactful and satisfying.
+
+
+## Easy To Ready
+- The poses should be distinct and exaggerated to communicate the action clearly to the player.
+
+# Timing
+
+
+| Standby->Action Durt |     |
+| -------------------- | --- |
+|                      |     |
