@@ -12,7 +12,7 @@
 ### The Parts of an Animation
 An animation can be broken down into ***four main parts***:
 - **Lead In**
-- **Action
+- **Action**
 - **Follow Through**
 - **The Cancel Point**
 
