@@ -89,6 +89,6 @@ We SHOULD NOT have to change the rate of the animations in-engine. It looks jank
 | --------- | ----------------------- | --------------------- |
 | TOO FAST! | <4 Frames               |                       |
 | Fast      | 4-6 Frames              |                       |
-| Normal    | 6-7 Frames              |                       |
+| Normal    | 6-7 Frames              | 6-8 Frames            |
 | Slow      | 9-11 Frames             |                       |
 | TOO SLOW! | >12 Frames              |                       |
