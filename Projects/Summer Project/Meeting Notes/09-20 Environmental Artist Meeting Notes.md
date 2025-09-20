@@ -24,7 +24,6 @@ The fence kit is gonna have 3 pieces in it:
 	- Think of it as like laying rug on the floors, but instead of a rug, its a different floor texture
 
 ### Prop Refs
-- [ ] Astronomical clock refs in miro board now (under hero props)
 - [ ] Fence refs in miro board (you can just ctrl+f "fences")
 
 ### Notes
