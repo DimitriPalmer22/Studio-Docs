@@ -21,9 +21,9 @@ The fence kit is gonna have 3 pieces in it:
 - Then, we'll place blocks and other objects throughout the levels (additively) and put the new textures / materials on them.
 	- Think of it as like laying rug on the floors, but instead of a rug, its a different floor texture
 
-
-- [ ] Astronomical clock
-- [ ] Fences
+### Prop Refs
+- [ ] Astronomical clock refs in miro board now (under hero props)
+- [ ] Fence refs in miro board
 - [ ] Pillars?
 
 ![](<../../../_Meta/Attachments/Pasted image 20250920043407.png>)
