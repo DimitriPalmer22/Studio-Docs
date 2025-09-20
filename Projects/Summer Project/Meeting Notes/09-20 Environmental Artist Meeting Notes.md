@@ -17,8 +17,8 @@
 ### Prop Refs
 - ~~Fountain~~
 - ~~Spiky Iron Bars~~
-- Super big hanging brazier
 - ~~Spiky Crystal ball thing~~
+- ~~Super big hanging brazier~~
 - Astronomical clock
 - Fences
 
