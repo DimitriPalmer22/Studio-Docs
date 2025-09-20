@@ -5,6 +5,14 @@
 - But, we're at the point where we need a proper texture for the tables because it is painfully obvious that the texture is in world-space.
 
 ### Fences!
+The fence kit is gonna have 3 pieces in it:
+- An end / corner post
+- A middle post
+- a beam
+
+The end post & middle posts are gonna be traditionally modeled & textured pieces
+
+The beam is going to have a world-space material on it so we can stretch it and still have it look good.
 
 ### Together, we're gonna look into different stone textures for the floors and walls
 - Uhh yeah
