@@ -24,7 +24,7 @@ The fence kit is gonna have 3 pieces in it:
 	- Think of it as like laying rug on the floors, but instead of a rug, its a different floor texture
 
 ### Prop Refs
-- [ ] Fence refs in miro board (you can just ctrl+f "fences")
+- Fence refs in miro board (you can just ctrl+f "fences")
 
 ### Notes
 - If we were doing something around the perimeter, a lighter texture might be better
