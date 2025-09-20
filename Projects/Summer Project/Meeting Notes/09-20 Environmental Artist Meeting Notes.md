@@ -35,3 +35,6 @@ The fence kit is gonna have 3 pieces in it:
 ![](<../../../_Meta/Attachments/Pasted image 20250920043407.png>)
 
 ![](<../../../_Meta/Attachments/Pasted image 20250920043401.png>)
+
+### Notes
+- If we were doing something around the perimeter, lighter
