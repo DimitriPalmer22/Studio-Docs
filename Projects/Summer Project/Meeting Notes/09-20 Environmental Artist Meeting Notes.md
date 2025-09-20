@@ -13,9 +13,7 @@ The fence kit is gonna have 3 pieces in it:
 - The end post & middle posts are gonna be traditionally modeled & textured pieces
 - The beam is going to have a world-space material on it so we can stretch it and still have it look good.
 
-### Together, we're gonna look into different stone textures for the floors and walls
-- Uhh yeah
-- I didn't want to do this alone ngl
+### Look into different stone textures for the floors and walls
 - Remember the other week when we talked about breaking up the wall and floor textures? Yeah, let's do that now fr.
 
 #### I have an idea:
@@ -37,5 +35,5 @@ The fence kit is gonna have 3 pieces in it:
 ![](<../../../_Meta/Attachments/Pasted image 20250920043401.png>)
 
 ### Notes
-- If we were doing something around the perimeter, lighter
+- If we were doing something around the perimeter, a lighter texture might be better
 - Different floor texture, larger tile
