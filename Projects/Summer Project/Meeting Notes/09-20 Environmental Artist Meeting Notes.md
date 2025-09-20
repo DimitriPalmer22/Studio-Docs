@@ -23,12 +23,7 @@ The fence kit is gonna have 3 pieces in it:
 
 ### Prop Refs
 - [ ] Astronomical clock refs in miro board now (under hero props)
-- [ ] Fence refs in miro board
-- [ ] Pillars?
-
-![](<../../../_Meta/Attachments/Pasted image 20250920043407.png>)
-
-![](<../../../_Meta/Attachments/Pasted image 20250920043401.png>)
+- [ ] Fence refs in miro board (you can just ctrl+f "fences")
 
 ### Notes
 - If we were doing something around the perimeter, a lighter texture might be better
