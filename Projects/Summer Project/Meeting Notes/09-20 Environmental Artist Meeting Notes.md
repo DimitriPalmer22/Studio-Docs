@@ -19,9 +19,9 @@
 - ~~Spiky Iron Bars~~
 - ~~Spiky Crystal ball thing~~
 - ~~Super big hanging brazier~~
-- Astronomical clock
-- Fences
-- Pillars
+- [x] Astronomical clock
+- [ ] Fences
+- [ ] Pillars?
 
 ![](<../../../_Meta/Attachments/Pasted image 20250920043407.png>)
 
