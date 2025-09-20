@@ -21,3 +21,7 @@
 - ~~Spiky Crystal ball thing~~
 - Astronomical clock
 - Fences
+
+https://st.depositphotos.com/1583396/2981/i/950/depositphotos_29817171-stock-photo-stairs-castle-fantasy-backdrop.jpg
+
+https://stockcake.com/i/moonlit-palace-balcony_1623392_1201084
