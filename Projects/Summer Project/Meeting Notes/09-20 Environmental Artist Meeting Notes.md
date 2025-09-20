@@ -22,6 +22,6 @@
 - Astronomical clock
 - Fences
 
-https://st.depositphotos.com/1583396/2981/i/950/depositphotos_29817171-stock-photo-stairs-castle-fantasy-backdrop.jpg
+![](<../../../_Meta/Attachments/Pasted image 20250920043407.png>)
 
-https://stockcake.com/i/moonlit-palace-balcony_1623392_1201084
+![](<../../../_Meta/Attachments/Pasted image 20250920043401.png>)
