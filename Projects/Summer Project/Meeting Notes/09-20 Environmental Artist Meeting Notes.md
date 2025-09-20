@@ -38,3 +38,4 @@ The fence kit is gonna have 3 pieces in it:
 
 ### Notes
 - If we were doing something around the perimeter, lighter
+- Different floor texture, larger tile
