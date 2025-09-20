@@ -9,7 +9,7 @@
 - I didn't want to do this alone ngl
 - Remember the other week when we talked about breaking up the wall and floor textures? Yeah, let's do that now fr.
 
-
 #### I have an idea:
 - Create a separate set of tiled textures that will help break up the monotony of the levels
-- Then, we'll place blocks and other objects throughout 
+- Then, we'll place blocks and other objects throughout the levels (additively) and put the new textures / materials on them.
+	- Think of it as like laying rug on the floors, but instead of a rug, its a different floor texture
