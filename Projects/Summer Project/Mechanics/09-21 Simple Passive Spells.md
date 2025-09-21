@@ -27,6 +27,12 @@
 - Critical hit chance
 - Critical hit multiplier
 
+### Slot-Specific Spell Boosts
+- Primary Attack Power
+- Primary Attack Cast Speed
+- Secondary Attack Power
+- Secondary Attack Cast Speed
+
 ## List of Gameplay Events to React to
 ### Area/Floor-Based
 - Starting an area/floor
@@ -87,6 +93,8 @@
 
 ### Reward for Clearing a Room
 
+
+### Rewards for Pe
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
