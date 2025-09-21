@@ -33,6 +33,11 @@
 - Killing an enemy
 - Taking damage
 
+- Starting a dodge
+- Ending a dodge
+- Using all successive dodges
+- Performing a perfect dodge
+
 # Types of Stat Boosts
 
 ## One-Shot, Duration-based Stat Boosts
