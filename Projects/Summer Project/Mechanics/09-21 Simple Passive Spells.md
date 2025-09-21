@@ -40,3 +40,8 @@
 - An integer for max stack capacity
 - Can either be deactivated by another gameplay event or expire after a duration
 
+## Automatic Spell Cast on Event
+- Activated by a gameplay event
+- Casts a specific spell when the event occurs
+- Considered active on a case-by case basis.
+- Should not be able to be reactivated while already active or on cooldown
