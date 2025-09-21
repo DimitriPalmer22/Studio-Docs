@@ -7,17 +7,20 @@
 # Parameterizing the Spells
 
 ## List of Stats that Passives *Can* Affect
+### Character Stats
 - (Int) Intelligence
 - (Res) Resilience
 - (Agi) Agility
-
 - Mana regen
+### Reward Stats
 - Currency Multiplier
 - Room reward change multiplier
 
+### Dodging Stats
 - Additional dodges
 - Dodge Distance Multiplier
 
+### Critical Hit Stats
 - Critical hit chance
 - Critical hit multiplier
 
