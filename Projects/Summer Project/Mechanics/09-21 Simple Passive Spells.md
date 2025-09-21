@@ -22,6 +22,14 @@
 - Critical hit multiplier
 
 ## List of Gameplay Events to React to
+- Entering a new room
+- Exiting a room
+
+- Starting the spawner / "Starting" a room
+- New wave start
+- Final wave start
+- Finishing a Spawner / "Clearing" a room
+
 - Killing an enemy
 - Taking damage
 
