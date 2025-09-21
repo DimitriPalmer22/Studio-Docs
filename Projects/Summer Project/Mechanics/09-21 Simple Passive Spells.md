@@ -14,7 +14,7 @@
 - Mana regen
 ### Reward Stats
 - Currency Multiplier
-- Room reward change multiplier
+- Room reward chance multiplier
 
 ### Dodging Stats
 - Additional dodges
@@ -74,7 +74,8 @@
 | Res  |       |          |          |
 | Agi  |       |          |          |
 |      |       |          |          |
-|      |       |          |          |
+| $x   |       |          |          |
+| Rew% |       |          |          |
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
@@ -86,9 +87,14 @@
 
 | Stat | Event      | End Event | Stacks | Cooldown |
 | ---- | ---------- | --------- | ------ | -------- |
-| Int  | Room Clear | Damaged   | 5      |          |
-| Agi  | Room Clear | Damaged   | 5      |          |
-| Res  | Room Clear | Damaged   | 5      |          |
+| Int  | Room Clear | Damaged   | 5      | N/A      |
+| Agi  | Room Clear | Damaged   | 5      | N/A      |
+| Res  | Room Clear | Damaged   | 5      | N/A      |
+|      |            |           |        |          |
+| $x   |            |           |        |          |
+|      |            |           |        |          |
+|      |            |           |        |          |
+|      |            |           |        |          |
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
