@@ -7,9 +7,9 @@
 # Parameterizing the Spells
 
 ## List of Stats that Passives *Can* Affect
-- Intelligence
-- Resilience
-- Agility
+- (Int) Intelligence
+- (Res) Resilience
+- (Ag) Agility
 
 - Mana regen
 - Currency Multiplier
@@ -41,13 +41,13 @@
 - Applies a stat boost to a specific stat (using a gameplay effect)
 - Ability is considered active for the duration of the effect
 
-| Name | Stat       | Event | Duration | Cooldown |
-| ---- | ---------- | ----- | -------- | -------- |
-|      | Mana Regen |       |          |          |
-|      | Int        |       |          |          |
-|      | Res        |       |          |          |
-|      | Agil       |       |          |          |
-|      | Money Mult |       |          |          |
+| Name | Stat | Event | Duration | Cooldown |
+| ---- | ---- | ----- | -------- | -------- |
+|      | Int  |       |          |          |
+|      | Res  |       |          |          |
+|      |      |       |          |          |
+|      |      |       |          |          |
+|      |      |       |          |          |
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
