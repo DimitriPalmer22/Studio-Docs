@@ -76,6 +76,8 @@
 |      |       |          |          |
 | $x   |       |          |          |
 | Rew% |       |          |          |
+|      |       |          |          |
+|      |       |          |          |
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
@@ -92,9 +94,15 @@
 | Res  | Room Clear | Damaged   | 5      | N/A      |
 |      |            |           |        |          |
 | $x   |            |           |        |          |
+| Rew% |            |           |        |          |
 |      |            |           |        |          |
 |      |            |           |        |          |
-|      |            |           |        |          |
+
+### Active in Room Until Taking Damage
+
+
+### Active in Area Until Taking Damage
+
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
