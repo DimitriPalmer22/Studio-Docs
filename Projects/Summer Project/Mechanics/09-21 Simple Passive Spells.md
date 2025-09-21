@@ -11,7 +11,10 @@
 
 - Mana regen
 - Currency Multiplier
+- Room reward change multiplier
+
 - Additional dodges
+- Dodge Distance Multiplier
 
 - Critical hit chance
 - Critical hit multiplier
