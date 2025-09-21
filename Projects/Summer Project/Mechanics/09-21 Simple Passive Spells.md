@@ -94,8 +94,12 @@
 ### Reward for Clearing a Room
 
 
-### Rewards for Pe
+### Rewards for Perfect Dodging
 
+
+### Follow-ups for Successive Dodges
+
+ 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
 - An integer for max stack capacity
@@ -127,6 +131,12 @@ As you start a new wave, you gain a stack. Taking damage removes all stacks. Cle
 
 ### Increment on Kill Until Taking Damage
 As you kill an enemy, you gain a stack. Taking damage removes all stacks.
+
+### Rewards for Full Health
+
+
+### Rewards for Full Mana
+
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
