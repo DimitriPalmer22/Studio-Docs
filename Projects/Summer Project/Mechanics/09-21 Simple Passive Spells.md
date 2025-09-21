@@ -43,6 +43,11 @@
 
 - Landing a critical hit
 
+- Full health
+- 50% health or less
+- 25% health or less
+- Dead (with extra lives)
+
 # Types of Stat Boosts
 
 ## One-Shot, Duration-based Stat Boosts
