@@ -8,6 +8,8 @@
 
 ## List of Stats that Passives *Can* Affect
 ### Character Stats
+- Current 
+- 
 - (Int) Intelligence
 - (Res) Resilience
 - (Agi) Agility
@@ -76,6 +78,7 @@
 
 ### Apply Effect whenever starting a Spawner
 
+### Reward for Clearing a Room
 
 
 ## Stacking Semi-Permanent Stat Boosts
