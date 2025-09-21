@@ -5,7 +5,16 @@
 - Resilience, on the other hand, can be viewed as a more dynamic attribute that can be influenced by temporary buffs, debuffs, and situational factors.
 
 # List of Stats that Passives *Can* Affect
-- Intellige
+- Intelligence
+- Resilience
+- Agility
+
+- Mana regen
+- Currency Multiplier
+- Additional dodges
+
+- Critical hit chance
+- Critical hit multiplier
 
 # One-Shot, Duration-based Stat Boosts
 
