@@ -8,12 +8,13 @@
 
 ## List of Stats that Passives *Can* Affect
 ### Character Stats
-- Current 
-- 
+- Current Health
+- Current Mana
+
 - (Int) Intelligence
 - (Res) Resilience
 - (Agi) Agility
-- Mana regen
+- Mana regen (on spell hit)
 ### Reward Stats
 - Currency Multiplier
 - Room reward chance multiplier
