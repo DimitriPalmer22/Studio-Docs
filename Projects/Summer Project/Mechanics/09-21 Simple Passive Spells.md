@@ -22,14 +22,23 @@
 - Critical hit multiplier
 
 ## List of Gameplay Events to React to
+### Area/Floor-Based
+- Starting an area/floor
+- Clearing an area/floor
+
+### Room-Basad
 - Entering a new room
+- "Starting" a room
+- "Clearing" a room
 - Exiting a room
 
-- Starting the spawner / "Starting" a room
+### Spawber-Based
+- Starting the spawner
 - New wave start
 - Final wave start
-- Finishing a Spawner / "Clearing" a room
+- Finishing a Spawner
 
+### Combat-Based
 - Killing an enemy
 - Taking damage
 
