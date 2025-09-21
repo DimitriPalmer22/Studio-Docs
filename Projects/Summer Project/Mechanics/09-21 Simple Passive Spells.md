@@ -77,7 +77,13 @@
 | Res  |       |          |          |
 | Agi  |       |          |          |
 
-### Apply Effect whenever starting a Spawner
+### Apply Effect Whenever Starting a Spawner
+
+| Stat  | Event        | Duration | Cooldown |
+| ----- | ------------ | -------- | -------- |
+| cMana | SpawnerStart | N/A      | N/A      |
+|       | SpawnerStart |          |          |
+|       | SpawnerStart |          |          |
 
 ### Reward for Clearing a Room
 
