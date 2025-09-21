@@ -91,7 +91,7 @@
 |       | SpawnerStart |          |          |
 |       | SpawnerStart |          |          |
 
-### Reward for Clearing a Room
+### Rewards for Clearing a Room
 
 
 ### Rewards for Perfect Dodging
