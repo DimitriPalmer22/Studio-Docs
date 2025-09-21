@@ -9,7 +9,7 @@
 ## List of Stats that Passives *Can* Affect
 - (Int) Intelligence
 - (Res) Resilience
-- (Ag) Agility
+- (Agi) Agility
 
 - Mana regen
 - Currency Multiplier
@@ -45,7 +45,7 @@
 | ---- | ---- | ----- | -------- | -------- |
 |      | Int  |       |          |          |
 |      | Res  |       |          |          |
-|      |      |       |          |          |
+|      | Agi  |       |          |          |
 |      |      |       |          |          |
 |      |      |       |          |          |
 
