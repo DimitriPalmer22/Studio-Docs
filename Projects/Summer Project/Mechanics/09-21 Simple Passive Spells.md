@@ -1,9 +1,16 @@
+# Side Note: The difference between Vitality and Resilience
+
+- In practice, vitality (max health) and resilience (defense) often overlap in their effects on a character's survivability.
+- However, the character's max health can be seen as a more static attribute that should only be increased 
+
 # One-Shot, Duration-based Stat Boosts
 
 - Activated by a gameplay event
 - Applies a stat boost to a specific stat (using a gameplay effect)
-- Ability is considered active 
+- Ability is considered active for the duration of the effect
 
-| Stat | Duration | Cooldown |     |
-| ---- | -------- | -------- | --- |
-|      |          |          |     |
+| Stat       | Event | Duration | Cooldown | Name |
+| ---------- | ----- | -------- | -------- | ---- |
+| Mana Regen |       |          |          |      |
+| Int        |       |          |          |      |
+| Wisdom     |       |          |          |      |
