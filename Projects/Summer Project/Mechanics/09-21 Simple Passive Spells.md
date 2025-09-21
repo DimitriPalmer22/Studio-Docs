@@ -101,8 +101,10 @@
 ### Active in Room Until Taking Damage
 
 
-### Active in Area Until Taking Damage
+### Active in Area/Floor Until Taking Damage
 
+
+### Increment on Wave Until Taking Dama
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
