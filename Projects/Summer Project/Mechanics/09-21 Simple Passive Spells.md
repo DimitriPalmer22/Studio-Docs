@@ -4,7 +4,9 @@
 - However, the character's max health can be seen as a more static attribute that should only be changed relatively permanently (As should the max mana stat).
 - Resilience, on the other hand, can be viewed as a more dynamic attribute that can be influenced by temporary buffs, debuffs, and situational factors.
 
-# List of Stats that Passives *Can* Affect
+# Parameterizing the Spells
+
+## List of Stats that Passives *Can* Affect
 - Intelligence
 - Resilience
 - Agility
@@ -18,6 +20,10 @@
 
 - Critical hit chance
 - Critical hit multiplier
+
+## List of Gameplay Events to React to
+- Killing an enemy
+- Taking damage
 
 # Types of Stat Boosts
 
