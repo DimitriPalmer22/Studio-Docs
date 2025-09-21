@@ -103,9 +103,10 @@ As you go through rooms w/out taking damage, you gain stacks of a stat boost. Ta
 Only allow 1 stack. Taking damage removes the stack. Starting a new room applies the ability.
 
 ### Active in Area/Floor Until Taking Damage
-As you start the floor / get granted the ability
+As you start a new floor / get granted the ability, you gain the ability. Taking damage removes it.
 
 ### Increment on Wave Until Taking Damage
+As you start a new wave, you gain a stack. Taking damage removes all stacks. Clearing the spawner also removes all stacks.
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
