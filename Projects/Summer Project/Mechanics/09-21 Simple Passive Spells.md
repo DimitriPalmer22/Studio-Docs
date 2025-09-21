@@ -27,21 +27,31 @@
 - Applies a stat boost to a specific stat (using a gameplay effect)
 - Ability is considered active for the duration of the effect
 
-| Stat       | Event | Duration | Cooldown | Name |
-| ---------- | ----- | -------- | -------- | ---- |
-| Mana Regen |       |          |          |      |
-| Int        |       |          |          |      |
-| Res        |       |          |          |      |
-| Agil       |       |          |          |      |
-| Money Mult |       |          |          |      |
+| Name | Stat       | Event | Duration | Cooldown |
+| ---- | ---------- | ----- | -------- | -------- |
+|      | Mana Regen |       |          |          |
+|      | Int        |       |          |          |
+|      | Res        |       |          |          |
+|      | Agil       |       |          |          |
+|      | Money Mult |       |          |          |
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
 - An integer for max stack capacity
 - Can either be deactivated by another gameplay event or expire after a duration
+- Cooldown is optional
+
+| Name | Stat | Event | Max Stacks | Duration | Cooldown |
+| ---- | ---- | ----- | ---------- | -------- | -------- |
+|      |      |       |            |          |          |
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
 - Casts a specific spell when the event occurs
 - Considered active on a case-by case basis.
 - Should not be able to be reactivated while already active or on cooldown
+
+
+| Name | Event | Description |
+| ---- | ----- | ----------- |
+|      |       |             |
