@@ -1,4 +1,4 @@
-# Side Note: The difference between Vitality and Resilience
+# Side Note: The Difference Between Vitality and Resilience
 
 - In practice, vitality (max health) and resilience (defense) often overlap in their effects on a character's survivability.
 - However, the character's max health can be seen as a more static attribute that should only be changed relatively permanently (As should the max mana stat).
@@ -19,7 +19,9 @@
 - Critical hit chance
 - Critical hit multiplier
 
-# One-Shot, Duration-based Stat Boosts
+# Types of Stat Boosts
+
+## One-Shot, Duration-based Stat Boosts
 
 - Activated by a gameplay event
 - Applies a stat boost to a specific stat (using a gameplay effect)
@@ -32,3 +34,9 @@
 | Res        |       |          |          |      |
 | Agil       |       |          |          |      |
 | Money Mult |       |          |          |      |
+
+## Stacking Semi-Permanent Stat Boosts
+- Activated by a gameplay event
+- An integer for max stack capacity
+- Can either be deactivated by another gameplay event or expire after a duration
+
