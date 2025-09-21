@@ -35,7 +35,7 @@
 - "Clearing" a room
 - Exiting a room
 
-### Spawber-Based
+### Spawner-Based
 - Starting the spawner
 - New wave start
 - Final wave start
@@ -68,13 +68,13 @@
 - Applies a stat boost to a specific stat (using a gameplay effect)
 - Ability is considered active for the duration of the effect
 
-| Name | Stat | Event | Duration | Cooldown |
-| ---- | ---- | ----- | -------- | -------- |
-|      | Int  |       |          |          |
-|      | Res  |       |          |          |
-|      | Agi  |       |          |          |
-|      |      |       |          |          |
-|      |      |       |          |          |
+| Stat | Event | Duration | Cooldown |
+| ---- | ----- | -------- | -------- |
+| Int  |       |          |          |
+| Res  |       |          |          |
+| Agi  |       |          |          |
+|      |       |          |          |
+|      |       |          |          |
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
@@ -82,9 +82,13 @@
 - Can either be deactivated by another gameplay event or expire after a duration
 - Cooldown is optional
 
-| Name | Stat | Event      | End Event | Stacks | Cooldown |
-| ---- | ---- | ---------- | --------- | ------ | -------- |
-|      |      | Room Clear | Damaged   |        |          |
+### Cumulative Rewards for No-Damage Rooms
+
+| Stat | Event      | End Event | Stacks | Cooldown |
+| ---- | ---------- | --------- | ------ | -------- |
+| Int  | Room Clear | Damaged   | 5      |          |
+| Agi  | Room Clear | Damaged   | 5      |          |
+| Res  | Room Clear | Damaged   | 5      |          |
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
@@ -93,6 +97,6 @@
 - Should not be able to be reactivated while already active or on cooldown
 
 
-| Name | Event | Description |
-| ---- | ----- | ----------- |
-|      |       |             |
+| Event | Description |
+| ----- | ----------- |
+|       |             |
