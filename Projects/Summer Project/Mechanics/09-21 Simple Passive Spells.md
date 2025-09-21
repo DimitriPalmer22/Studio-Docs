@@ -38,6 +38,11 @@
 - Using all successive dodges
 - Performing a perfect dodge
 
+- Started a combo
+- Finished all hits in a combo
+
+- Landing a critical hit
+
 # Types of Stat Boosts
 
 ## One-Shot, Duration-based Stat Boosts
