@@ -73,11 +73,10 @@
 | Int  |       |          |          |
 | Res  |       |          |          |
 | Agi  |       |          |          |
-|      |       |          |          |
-| $x   |       |          |          |
-| Rew% |       |          |          |
-|      |       |          |          |
-|      |       |          |          |
+
+### Apply Effect whenever starting a Spawner
+
+
 
 ## Stacking Semi-Permanent Stat Boosts
 - Activated by a gameplay event
@@ -107,6 +106,9 @@ As you start a new floor / get granted the ability, you gain the ability. Taking
 
 ### Increment on Wave Until Taking Damage
 As you start a new wave, you gain a stack. Taking damage removes all stacks. Clearing the spawner also removes all stacks.
+
+### Increment on Kill Until Taking Damage
+As you kill an enemy, you gain a stack. Taking damage removes all stacks.
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
