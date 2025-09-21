@@ -70,9 +70,9 @@
 - Can either be deactivated by another gameplay event or expire after a duration
 - Cooldown is optional
 
-| Name | Stat | Event | Max Stacks | Duration | Cooldown |
-| ---- | ---- | ----- | ---------- | -------- | -------- |
-|      |      |       |            |          |          |
+| Name | Stat | Event      | End Event | Stacks | Cooldown |
+| ---- | ---- | ---------- | --------- | ------ | -------- |
+|      |      | Room Clear | Damaged   |        |          |
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
