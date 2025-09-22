@@ -64,4 +64,11 @@ As usual, playtest the build when you get the chance and please provide feedback
 
 #### Filling the "Void" Around the Level
 - Avernoth is supposed to be this mysterious, otherworldly place
-- But, right now, each 
+- But, right now, each room is just sitting there in a floating empty void. It looks NAKED
+- We were thinking about:
+	- Surrounding the levels with floating islands
+	- Changing the skybox (we lowkey might have to make one if we can't just find one online)
+
+#### Adding More Detail Within the Levels Themselves
+- Break up the brick texture on the floor (And change it to)
+- Make the levels 
