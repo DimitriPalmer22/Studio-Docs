@@ -18,7 +18,10 @@ I didn't send out a build lol.
 - Crystal Explosion power (looks like a shotgun blast)
 - Placeholder explosion power (invisible but does an AOE)
 - Completely changed how Primary and Secondary Spells Work (moved like everything to C++)
-- 
+- Retimed the animations for each of the primary spells so that they all feel quick and consistent
+- Flash cyan when secondary spell is ready
+- ALL projectiles have a slight AOE to them (will remove for enemies eventually)
+- Regen mana when hitting enemies with primaries
 
 #### 0.3.0
 
