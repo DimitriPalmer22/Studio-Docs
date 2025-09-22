@@ -14,7 +14,11 @@
 
 I didn't send out a build lol.
 
-#### 0.2.0
+#### 0.2.0: Primary & Secondary Rework
+- Crystal Explosion power (looks like a shotgun blast)
+- Placeholder explosion power (invisible but does an AOE)
+- Completely changed how Primary and Secondary Spells Work (moved like everything to C++)
+- 
 
 #### 0.3.0
 
