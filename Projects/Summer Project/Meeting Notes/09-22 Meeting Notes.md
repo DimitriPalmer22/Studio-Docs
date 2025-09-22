@@ -1,4 +1,4 @@
-### Meeting Times
+# Meeting Times
 
 | Meeting                                | Possible Times |
 | -------------------------------------- | -------------- |
@@ -14,8 +14,13 @@
 
 I didn't send out a build lol.
 
-### 0.2.0
+#### 0.2.0
 
-### 0.3.0
+#### 0.3.0
+
+#### The Build: 0.3.0
+As usual, playtest the build when you get the chance and please provide feedback. It could be as simple as "this is confusing" or "this doesn't feel good."
+
+
 
 #
