@@ -95,7 +95,11 @@
 
 
 ### Rewards for Perfect Dodging
-
+| Stat | Event        | Duration | Cooldown |
+| ---- | ------------ | -------- | -------- |
+| Res  | PerfectDodge | N/A      | N/A      |
+| Int  | PerfectDodge |          |          |
+| Agi  | PerfectDodge |          |          |
 
 ### Follow-ups for Successive Dodges
 
