@@ -28,7 +28,13 @@ I didn't send out a build lol.
 - Ring particles when dodging
 - Fixed Mana Essence Trail
 
-#### 0.3.0
+#### 0.3.0: Passive Spells Fr
+- Changed how the beginning questions work completely (questions screen is ugly for rn)
+	- Only 3 questions: Primary, secondary, and passive
+- UI Reacts to passive spells activating
+- Passive spells have proper cooldowns and whatnot
+- *Dynamic spell lighting*
+- Touched up a couple levels to make them more detailed & redid their lighting
 - 
 
 
