@@ -31,6 +31,14 @@ As usual, playtest the build when you get the chance and please provide feedback
 
 #### Reapproach How we Think About Passive Spells
 - Right now, there is support for the player to have *up to 3 passive spells* at a time.
-- Instead, maybe we can reward the 
+- But, honestly I've been having a hard time thinking about constantly rewarding the player throughout the run.
+- So, I though about this: What if we let the player have *unlimited* passive spells? This'll help with that whole power fantasy aspect you see in a lot of rogue-likes.
 
 #### Establish a Design Language for Passive Icons
+
+
+#### Passive Spells that Do Things
+- The passive spells in the game right now are primarily stat boosts that happen as a result of some event in the game.
+- But, I think we can do more interesting things with passive spells such as:
+	- Firing a projectile
+	- 
