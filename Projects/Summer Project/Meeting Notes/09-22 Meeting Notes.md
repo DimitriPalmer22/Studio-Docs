@@ -25,7 +25,7 @@ As usual, playtest the build when you get the chance and please provide feedback
 - Death screen font is still hard to read
 - The questions at the start of the game still don't have the interesting text that has been written already.
 
-# Upcoming Changes
+# Upcoming Changes / What Next?
 
 ### More Passive Spells!
 
@@ -71,4 +71,4 @@ As usual, playtest the build when you get the chance and please provide feedback
 
 #### Adding More Detail Within the Levels Themselves
 - Break up the brick texture on the floor (And change it to)
-- Make the levels 
+- Make the floors with the idea that you'll be using more than 1 brick texture.
