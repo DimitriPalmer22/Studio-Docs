@@ -35,10 +35,17 @@ As usual, playtest the build when you get the chance and please provide feedback
 - So, I though about this: What if we let the player have *unlimited* passive spells? This'll help with that whole power fantasy aspect you see in a lot of rogue-likes.
 
 #### Establish a Design Language for Passive Icons
-
+- We should have a consistent design language for the icons of passive spells.
+- We can start by parameterizing the passive spells:
+	- What event do they respond to (i.e when the player takes damage, when clearing a room, when doing a perfect dodge, etc.)
+	- What does the passive do (i.e increase a specific stat, heal the player, etc.)
+- Furthermore, specific stats would need consistent iconography (i.e a heart for health, a shield for resilience, etc.)
+- From there, 
 
 #### Passive Spells that Do Things
 - The passive spells in the game right now are primarily stat boosts that happen as a result of some event in the game.
 - But, I think we can do more interesting things with passive spells such as:
 	- Firing a projectile
-	- 
+	- Temporary invincibility
+	- Healing over time
+	- Etc.
