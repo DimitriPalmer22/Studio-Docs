@@ -14,7 +14,7 @@
 
 I didn't send out a build lol.
 
-#### 0.2.0: Primary & Secondary Rework
+#### 0.2.0: Primaries, Secondaries, and Combos
 - Crystal Explosion power (looks like a shotgun blast)
 - Placeholder explosion power (invisible but does an AOE)
 - Completely changed how Primary and Secondary Spells Work (moved like everything to C++)
@@ -22,8 +22,15 @@ I didn't send out a build lol.
 - Flash cyan when secondary spell is ready
 - ALL projectiles have a slight AOE to them (will remove for enemies eventually)
 - Regen mana when hitting enemies with primaries
+- Ribbon trails on Allister's hands (will reduce later)
+- *Adjusted timings to make comboing Primaries and Secondaries into each other easier*
+- VFX whenever Enemies take damage (Allister too)
+- Ring particles when dodging
+- Fixed Mana Essence Trail
 
 #### 0.3.0
+- 
+
 
 #### The Build: 0.3.0
 As usual, playtest the build when you get the chance and please provide feedback. It could be as simple as "this is confusing" or "this doesn't feel good."
