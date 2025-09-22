@@ -52,9 +52,16 @@ As usual, playtest the build when you get the chance and please provide feedback
 
 ### Even More Primary and Secondary Spells
 
-#### We Know wh
+#### We Know a Better Idea of What We Want
+- Primary spells will pretty much always be a sequence of quick attacks that can be chained together.
+- Secondary spells will always be a one-shot powerful attack that has a longer animation, but can be comboed into and out of the primary spells.
 
 #### We Have a Formula for the Animations
 - We now have a consistent ideology behind how the animations affect gameplay
 - We can use this to create more primary and secondary spells that fit within this formula
 
+### Making the Levels Look Even Better
+
+#### Filling the "Void" Around the Level
+- Avernoth is supposed to be this mysterious, otherworldly place
+- But, right now, each 
