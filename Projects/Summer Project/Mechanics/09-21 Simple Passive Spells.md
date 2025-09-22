@@ -38,7 +38,7 @@
 - Starting an area/floor
 - Clearing an area/floor
 
-### Room-Basad
+### Room-Based
 - Entering a new room
 - "Starting" a room
 - "Clearing" a room
