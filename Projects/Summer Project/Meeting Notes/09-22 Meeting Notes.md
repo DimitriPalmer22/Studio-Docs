@@ -23,4 +23,10 @@ As usual, playtest the build when you get the chance and please provide feedback
 
 
 
-#
+# Upcoming Changes
+
+### More Passive Spells!
+
+#### Reapproach How we Think About Passive Spells
+
+#### Establish a UI Language for those Icons
