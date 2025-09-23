@@ -35,7 +35,12 @@ I didn't send out a build lol.
 - Passive spells have proper cooldowns and whatnot
 - *Dynamic spell lighting*
 - Touched up a couple levels to make them more detailed & redid their lighting
-- 
+- *Smarter Camera*
+	- Zooms in and out when starting combat
+	- Follows the player more smoothly
+	- Auto-recenters during combat
+	- Players should now be able to play the game while touching their analogue stick less
+	- *Added a whole bunch of passive spells!*
 
 
 #### The Build: 0.3.0
