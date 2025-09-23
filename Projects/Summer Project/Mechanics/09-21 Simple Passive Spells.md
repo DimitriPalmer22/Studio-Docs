@@ -33,6 +33,11 @@
 - Secondary Attack Power
 - Secondary Attack Cast Speed
 
+
+## Misc. Possible Effects
+
+- An Overshield that hurts enemies / explodes if the player would take damage (Ref)
+
 ## List of Gameplay Events to React to
 ### Area/Floor-Based
 - Starting an area/floor
@@ -143,7 +148,7 @@ As you kill an enemy, you gain a stack. Taking damage removes all stacks.
 
 
 ### Combo Counter-Based Ability
-Active on pickup. No manual start / stop events. Avernoth characters have a combo counter that increments on landing hits and resets on taking damage or not landing a hit for a certain duration. This ability grants a boost to a stat based on the current combo count. Magnitude is based on a 
+Active on pickup. No manual start / stop events. Avernoth Characters have a combo counter that increments on landing hits and resets on taking damage or not landing a hit for a certain duration. This ability grants a boost to a stat based on the current combo count. Magnitude is based on a curve Asset.
 
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
