@@ -142,6 +142,9 @@ As you kill an enemy, you gain a stack. Taking damage removes all stacks.
 ### Rewards for Full Mana
 
 
+### Combo Counter-Based Ability
+Active on pickup. No manual start / stop events. Avernoth characters have a combo counter that increments on landing hits and resets on taking damage or not landing a hit for a certain duration. This ability grants a boost to a stat based on the current combo count. Magnitude is based on a 
+
 ## Automatic Spell Cast on Event
 - Activated by a gameplay event
 - Casts a specific spell when the event occurs
