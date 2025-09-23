@@ -8,4 +8,4 @@
 
 - [ ] New Questions
 - [ ] Combo Counter
-- [ ] Low-poly spheres for various things
+- [x] Low-poly spheres for various things
