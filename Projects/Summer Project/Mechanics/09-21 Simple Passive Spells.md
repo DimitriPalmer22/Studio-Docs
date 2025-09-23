@@ -36,7 +36,8 @@
 
 ## Misc. Possible Effects
 
-- An Overshield that hurts enemies / explodes if the player would take damage (Ref)
+- An Overshield that hurts enemies / explodes if the player would take damage (Ref: Electric Cherry COD Zombies)
+- Extra life, you have to kill an enemy within a certain time to actually resurrect  (Ref. Renata Glasc)
 
 ## List of Gameplay Events to React to
 ### Area/Floor-Based
