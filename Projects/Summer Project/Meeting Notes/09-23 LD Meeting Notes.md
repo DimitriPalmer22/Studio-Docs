@@ -42,4 +42,4 @@ We just need some type of movement.
 
 ## Improving Internal Backgrounds
 
-More detail liter
+More detail literally everywhere
