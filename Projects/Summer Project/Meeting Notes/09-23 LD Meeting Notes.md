@@ -17,10 +17,14 @@ This should really be where the bulk of the visual noise comes from.
 - Magical tethers between the islands
 - Sparkles and stuff on the islands idk
 
+> Issue: The islands are really hard to see if the island is 
+
 ### Non-volumetric Fog cards / Clouds
 This should help decorate things at the same altitude as the level.
 
-In t
+In terms of visuals, try to think of nebulas in space or something.
+
+
 
 ### Improved Skybox
 
