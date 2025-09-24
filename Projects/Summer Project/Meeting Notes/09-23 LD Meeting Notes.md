@@ -32,13 +32,17 @@ In terms of visuals, try to think of nebulas in space or something.
 
 ### Improved Skybox
 
-yeah
+ahaha
+https://www.youtube.com/watch?v=bXMcZfvB_Ik
 
 ### Background VFX
 
 We just need some type of movement.
 
 - Maybe like an asteroid belt or something
+- Shooting stars
+- Aurora Borealis
+- Moving Clouds
 
 ## Improving Internal Backgrounds
 
