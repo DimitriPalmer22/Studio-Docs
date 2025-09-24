@@ -52,10 +52,11 @@ More detail literally everywhere
 - Lanterns
 - Banners
 
+### Make sure you have some established theme
+- Stick to it
+- Let that inform your set-dressing decisions
+	- How dense should things be?
+	- How does the level differ from the average level in the game
 
-### Crystals???
-
-### Bro's just doing things wtf
-
-
-### Dawg this is my lead level designer
+### Uniqueness
+- How can I take the EXISTING assets and modify them (create new BPs) to make the assets my own / make this level unique
