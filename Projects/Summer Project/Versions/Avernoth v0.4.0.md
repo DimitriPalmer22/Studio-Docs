@@ -3,7 +3,7 @@
 - [ ] Make that one upgrade work
 - [ ] Make commands for each player stat
 
-- [ ] Critical hits (using new stat)
+- [x] Critical hits (using new stat)
 - [ ] Event for critical hits
 
 - [ ] New Questions
