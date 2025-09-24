@@ -8,7 +8,11 @@
 - In our case, we would have to decorate our background w/ things that are at the same height / above the current level.
 
 ### Floating Islands
-- Sim
+- Simple silhouettes
+- Details on the islands
+	- Simple buildings / structures. Things that have a string silhouette
+	- Things hanging off of the island like waterfalls and vines
+- Magical tethers between the islands
 
 ### Non-volumetric Fog cards / Clouds
 
