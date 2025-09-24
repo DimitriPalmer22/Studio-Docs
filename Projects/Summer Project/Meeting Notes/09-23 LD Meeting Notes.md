@@ -17,7 +17,11 @@ This should really be where the bulk of the visual noise comes from.
 - Magical tethers between the islands
 - Sparkles and stuff on the islands idk
 
-> Issue: The islands are really hard to see if the island is 
+> Issue: The islands are really hard to see if the island is casting a shadow on itself. What do we do about this??? There isn't anything to bounce light off of from the bottom, so the undersides of the islands are extremely dark. As a result, we had to make the skybox lighter than would otherwise need to be.
+
+For islands at the same altitude as the level, we should bring them closer and maybe put mountains on them so they poke out into the viewable horizon.
+
+Maybe some islands could have more unique s
 
 ### Non-volumetric Fog cards / Clouds
 This should help decorate things at the same altitude as the level.
