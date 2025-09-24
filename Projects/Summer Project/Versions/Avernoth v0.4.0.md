@@ -7,5 +7,5 @@
 - [ ] Event for critical hits
 
 - [ ] New Questions
-- [ ] Combo Counter
+- [x] Combo Counter
 - [x] Low-poly spheres for various things
