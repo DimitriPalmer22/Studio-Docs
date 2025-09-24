@@ -21,7 +21,7 @@ This should really be where the bulk of the visual noise comes from.
 
 For islands at the same altitude as the level, we should bring them closer and maybe put mountains on them so they poke out into the viewable horizon.
 
-Maybe some islands could have more unique s
+Maybe some islands could have more unique structure shapes on them? Like a tower or something?
 
 ### Non-volumetric Fog cards / Clouds
 This should help decorate things at the same altitude as the level.
