@@ -69,8 +69,16 @@ More detail literally everywhere
 - What do they see at first?
 
 ### If you copy-paste, I'll Kill you
-- I should not be able to recongnize that you literally copy-
+- I should not be able to recongnize that you literally copy-pasted 
 
 ### Avoid Completely Flat Surfaces
 - Segmented roofs
-- 
+- Windows
+- Open / closed doors
+
+
+# Wear & Tear
+
+### We need "natural" set dressing (Specifically for outdoor)
+- The reason Mikel had such a hard time set-dressing Aiden's level was because we don't really have a way to communicate wear and tear for outdoor levels
+- In Mikel's research lab
