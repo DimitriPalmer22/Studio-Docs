@@ -58,5 +58,19 @@ More detail literally everywhere
 	- How dense should things be?
 	- How does the level differ from the average level in the game
 
+### Think of This as a Real Place
+- If someone was actually here in this room, how would they actually use this room?
+
 ### Uniqueness
 - How can I take the EXISTING assets and modify them (create new BPs) to make the assets my own / make this level unique
+
+### Presenting the Level to the Player
+- Where does the player start
+- What do they see at first?
+
+### If you copy-paste, I'll Kill you
+- I should not be able to recongnize that you literally copy-
+
+### Avoid Completely Flat Surfaces
+- Segmented roofs
+- 
