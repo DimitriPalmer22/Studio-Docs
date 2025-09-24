@@ -28,12 +28,18 @@ This should help decorate things at the same altitude as the level.
 
 In terms of visuals, try to think of nebulas in space or something.
 
-
+- Use large billboards with some transparency
 
 ### Improved Skybox
 
+yeah
+
 ### Background VFX
 
+We just need some type of movement.
 
+- Maybe like an asteroid belt or something
 
 ## Improving Internal Backgrounds
+
+More detail liter
