@@ -1,5 +1,5 @@
 - [ ] Enhance the UI to show the player's stats while in-game?
-- [ ] Mana regen proportional to how much damage you deal (based on a curve)
+- [x] Mana regen proportional to how much damage you deal (based on a curve)
 - [ ] Make that one upgrade work
 - [ ] Make commands for each player stat
 
