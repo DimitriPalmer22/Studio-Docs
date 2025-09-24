@@ -47,3 +47,15 @@ We just need some type of movement.
 ## Improving Internal Backgrounds
 
 More detail literally everywhere
+
+### Fill Up Walls
+- Lanterns
+- Banners
+
+
+### Crystals???
+
+### Bro's just doing things wtf
+
+
+### Dawg this is my lead level designer
