@@ -9,3 +9,5 @@
 - [ ] New Questions
 - [x] Combo Counter
 - [x] Low-poly spheres for various things
+
+- [ ] Expand upon room rewards
