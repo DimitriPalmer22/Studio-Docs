@@ -4,7 +4,7 @@
 - [ ] Make commands for each player stat
 
 - [x] Critical hits (using new stat)
-- [ ] Event for critical hits
+- [x] Event for critical hits
 
 - [ ] New Questions
 - [x] Combo Counter
