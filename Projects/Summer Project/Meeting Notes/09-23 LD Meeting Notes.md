@@ -23,6 +23,8 @@ For islands at the same altitude as the level, we should bring them closer and m
 
 Maybe some islands could have more unique structure shapes on them? Like a tower or something?
 
+Add trees and stuff
+
 ### Non-volumetric Fog cards / Clouds
 This should help decorate things at the same altitude as the level.
 
@@ -81,4 +83,13 @@ More detail literally everywhere
 
 ### We need "natural" set dressing (Specifically for outdoor)
 - The reason Mikel had such a hard time set-dressing Aiden's level was because we don't really have a way to communicate wear and tear for outdoor levels
-- In Mikel's research lab
+- In Mikel's research lab, things were falling from the roofs
+- Aiden's level has no roof, so we can't do that there
+
+
+#### Things
+- Mossy Stone
+- Weeds
+- Cracked Bricks
+- Plants
+- Look up erosion and weathering fr
