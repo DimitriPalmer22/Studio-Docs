@@ -19,9 +19,9 @@
 - [-] Display debug text for spell names
 - [x] Info screen for the currently equipped spells
 
-
 - [ ] Notification subsystem + UI
-- [ ] Adjust tome API to avoid directly editing the spell arrao
+- [ ] Adjust tome API to avoid directly editing the spell array
+	- [ ] Allow for events when adding / removing spells
 
 ## v0.4.1
 - Fix button conflicts
@@ -37,5 +37,6 @@
 
 
 # v0.5.0
+- [ ] ENEMIES ffs
 - [ ] Tutorial subsystem? + UI + Save Integration
 - [ ] Very basic rune ideas / drawings?
