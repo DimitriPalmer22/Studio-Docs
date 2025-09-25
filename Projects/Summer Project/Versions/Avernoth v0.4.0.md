@@ -18,3 +18,6 @@
 - [x] Info screen for the currently equipped spells
 
 - [ ] Very basic rune ideas / drawings?
+
+- [ ] Notification subsystem + UI
+- [ ] Tutorial subsystem + UI + Save Integration
