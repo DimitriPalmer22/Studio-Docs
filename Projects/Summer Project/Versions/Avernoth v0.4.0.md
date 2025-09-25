@@ -25,6 +25,7 @@
 
 ## v0.4.1
 - Fix button conflicts
+	- Find some way to receive UI input while game is paused
 - Fix homing
 - Change font
 - Manual cooldown when finishing a combo?
