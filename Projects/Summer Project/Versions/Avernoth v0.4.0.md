@@ -21,3 +21,8 @@
 
 - [ ] Notification subsystem + UI
 - [ ] Tutorial subsystem + UI + Save Integration
+
+
+# v0.4.1
+- Fix homing
+- Change font
