@@ -15,6 +15,6 @@
 	- [ ] Health reward
 
 - [ ] Display debug text for spell names
-- [ ] Info screen for the currently equipped spells
+- [x] Info screen for the currently equipped spells
 
 - [ ] Very basic rune ideas / drawingss
