@@ -6,15 +6,16 @@
 - [x] Critical hits (using new stat)
 - [x] Event for critical hits
 
-- [ ] New Questions
+- [ ] New Questions / Throw in the questions Chelle made rq
 - [x] Combo Counter
 - [x] Low-poly spheres for various things
 
 - [x] Room rewards component
 - [ ] Expand upon room rewards
 	- [ ] Health reward
+- [ ] Make enemies dropping $ chance-based
 
-- [ ] Display debug text for spell names
+- [-] Display debug text for spell names
 - [x] Info screen for the currently equipped spells
 
 - [ ] Very basic rune ideas / drawings?
@@ -25,6 +26,7 @@
 
 
 # v0.4.1
+- Fix button conflicts
 - Fix homing
 - Change font
 - Manual cooldown when finishing a combo?
