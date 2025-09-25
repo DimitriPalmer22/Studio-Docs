@@ -14,4 +14,4 @@
 - [ ] Expand upon room rewards
 	- [ ] Health reward
 
-- [ ] 
+- [ ] Info screen for the currently equipped spells
