@@ -13,3 +13,5 @@
 - [x] Room rewards component
 - [ ] Expand upon room rewards
 	- [ ] Health reward
+
+- [ ] 
