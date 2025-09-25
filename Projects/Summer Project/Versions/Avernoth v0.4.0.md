@@ -10,4 +10,6 @@
 - [x] Combo Counter
 - [x] Low-poly spheres for various things
 
+- [x] Room rewards component
 - [ ] Expand upon room rewards
+	- [ ] Health reward
