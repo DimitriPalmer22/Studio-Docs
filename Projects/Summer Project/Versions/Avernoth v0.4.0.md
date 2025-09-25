@@ -17,4 +17,4 @@
 - [ ] Display debug text for spell names
 - [x] Info screen for the currently equipped spells
 
-- [ ] Very basic rune ideas / drawingss
+- [ ] Very basic rune ideas / drawings?
