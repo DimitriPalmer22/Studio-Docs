@@ -20,9 +20,14 @@
 - [ ] Very basic rune ideas / drawings?
 
 - [ ] Notification subsystem + UI
-- [ ] Tutorial subsystem + UI + Save Integration
+
+- [ ] Tutorial subsystem? + UI + Save Integration
 
 
 # v0.4.1
 - Fix homing
 - Change font
+
+# v0.4.2
+- Multiple menus overlapping. Fix it
+- Look into volume mixing
