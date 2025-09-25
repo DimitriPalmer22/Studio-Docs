@@ -27,6 +27,8 @@
 # v0.4.1
 - Fix homing
 - Change font
+- Manual cooldown when finishing a combo?
+	- Keep ability active & change `CanActivate` to consider a cooldown boolean
 
 # v0.4.2
 - Multiple menus overlapping. Fix it
