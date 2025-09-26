@@ -23,7 +23,7 @@
 
 ## v0.4.1
 - [ ] Improve combo counter
-- [ ] Make spells fire forward, not in the direction of the camera
+- [x] Make spells fire forward, not in the direction of the camera
 - [ ] New Questions / Throw in the questions Chelle made rq
 - [ ] Fix button conflicts
 	- [ ] Find some way to receive UI input while game is paused
