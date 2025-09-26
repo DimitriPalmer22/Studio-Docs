@@ -12,8 +12,8 @@
 - [x] Low-poly spheres for various things
 
 - [x] Room rewards component
-- [ ] Expand upon room rewards
-	- [ ] Health reward
+- [x] Expand upon room rewards
+	- [x] Health reward
 - [ ] Make enemies dropping $ chance-based
 
 - [-] Display debug text for spell names
