@@ -14,7 +14,7 @@
 - [x] Room rewards component
 - [x] Expand upon room rewards
 	- [x] Health reward
-- [ ] Make enemies dropping $ chance-based
+- [x] Make enemies dropping $ chance-based
 
 - [-] Display debug text for spell names
 - [x] Info screen for the currently equipped spells
