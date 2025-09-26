@@ -3,10 +3,8 @@
 - [x] Mana regen proportional to how much damage you deal (based on a curve)
 - [x] Make that one upgrade work
 
-
 - [x] Critical hits (using new stat)
 - [x] Event for critical hits
-
 
 - [x] Combo Counter
 - [x] Low-poly spheres for various things
@@ -32,6 +30,7 @@
 - [ ] Change font
 - [ ] Manual cooldown when finishing a combo?
 	- [ ] Keep ability active & change `CanActivate` to consider a cooldown boolean
+- [ ] Fix MikelPOC's spawning
 
 ## v0.4.2
 - [ ] Multiple menus overlapping. Fix it
