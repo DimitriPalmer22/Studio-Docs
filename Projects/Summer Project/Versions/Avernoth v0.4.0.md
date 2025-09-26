@@ -20,8 +20,8 @@
 - [x] Info screen for the currently equipped spells
 
 - [ ] Notification subsystem + UI
-- [ ] Adjust tome API to avoid directly editing the spell array
-	- [ ] Allow for events when adding / removing spells
+- [x] Adjust tome API to avoid directly editing the spell array
+	- [x] Allow for events when adding / removing spells
 
 ## v0.4.1
 - Fix button conflicts
