@@ -24,18 +24,18 @@
 	- [x] Allow for events when adding / removing spells
 
 ## v0.4.1
-- Make spells fire forward, not in the direction of the camera
+- [ ]  Make spells fire forward, not in the direction of the camera
 - [ ] New Questions / Throw in the questions Chelle made rq
-- Fix button conflicts
-	- Find some way to receive UI input while game is paused
-- Fix homing
-- Change font
-- Manual cooldown when finishing a combo?
-	- Keep ability active & change `CanActivate` to consider a cooldown boolean
+- [ ] Fix button conflicts
+	- [ ] Find some way to receive UI input while game is paused
+- [ ] Fix homing
+- [ ] Change font
+- [ ] Manual cooldown when finishing a combo?
+	- [ ] Keep ability active & change `CanActivate` to consider a cooldown boolean
 
 ## v0.4.2
-- Multiple menus overlapping. Fix it
-- Look into volume mixing
+- [ ] Multiple menus overlapping. Fix it
+- [ ] Look into volume mixing
 - [ ] Make commands for each player stat
 
 
