@@ -22,6 +22,7 @@
 	- [x] Allow for events when adding / removing spells
 
 ## v0.4.1
+- [ ] Improve combo counter
 - [ ] Make spells fire forward, not in the direction of the camera
 - [ ] New Questions / Throw in the questions Chelle made rq
 - [ ] Fix button conflicts
@@ -42,3 +43,4 @@
 - [ ] ENEMIES ffs
 - [ ] Tutorial subsystem? + UI + Save Integration
 - [ ] Very basic rune ideas / drawings?
+- [ ] Only show active spells
