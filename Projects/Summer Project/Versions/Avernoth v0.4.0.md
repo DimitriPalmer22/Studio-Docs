@@ -7,7 +7,7 @@
 - [x] Critical hits (using new stat)
 - [x] Event for critical hits
 
-- [ ] New Questions / Throw in the questions Chelle made rq
+
 - [x] Combo Counter
 - [x] Low-poly spheres for various things
 
@@ -19,12 +19,13 @@
 - [-] Display debug text for spell names
 - [x] Info screen for the currently equipped spells
 
-- [ ] Notification subsystem + UI
+- [x] Notification subsystem + UI
 - [x] Adjust tome API to avoid directly editing the spell array
 	- [x] Allow for events when adding / removing spells
 
 ## v0.4.1
 - Make spells fire forward, not in the direction of the camera
+- [ ] New Questions / Throw in the questions Chelle made rq
 - Fix button conflicts
 	- Find some way to receive UI input while game is paused
 - Fix homing
