@@ -24,6 +24,7 @@
 	- [x] Allow for events when adding / removing spells
 
 ## v0.4.1
+- Make spells fire forward, not in the direction of the camera
 - Fix button conflicts
 	- Find some way to receive UI input while game is paused
 - Fix homing
