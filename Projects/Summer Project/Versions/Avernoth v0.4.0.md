@@ -94,3 +94,12 @@
 
 ## New Skybox
 - Mikel made a new skybox. Yippee
+
+## Passive Spells
+- A lot of passive spells have been added to the game, too many to list here.
+- There's a spreadsheet in the docs folder of the google drive if you wanna read about them for yourself
+- I think we're lowkey gonna be handing out passive spells like candy in-game so look out for that
+
+## More Primary and Secondary Attack Animations
+- Andre has made a couple new attack animations and reworked most of the existing ones
+- New pri
