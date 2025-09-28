@@ -69,3 +69,12 @@
 - There is now a combo counter on-screen
 - It'll definitely look a little different in the future, but for now, it works
 - This is useful for any passive spells that depend on your current hit count
+
+## Input Changes
+- The game now uses directional input to determine where spells are fired
+- So, if you want to switch targets while mid-combo, you can do that by using the movement keys
+- Note: I'm still tweaking the values so it may not feel as responsive as it needs to
+
+## Camera Changes
+- When not in battle, the camera is pretty much the same
+- When in combat, the camera zooms out so you can see much more of the  
