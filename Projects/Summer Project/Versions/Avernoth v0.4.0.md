@@ -55,9 +55,17 @@
 - Here you can see a quick overview of your currently equipped spells and their descriptions
 - As of right now, its kinda barebones, but it should be functional
 
-## 
+## Upgrades
+- The empower upgrade now actually works.
+- You can get a new passive spell by spending some mana essence
+- Note: I know the description of the upgrade says "500 mana essence" while the upgrade actually costs 100. This will be fixed in a future update.
 
 ## Critical hits
 - Allister has a new stat for critical hit change (default 5%) and a new stat for critical hit damage multiplier (default 1.5x).
 - *Most* spells can critically hit, but not all (i.e. the crystal spells)
 - Enemies cannot critically hit Allister.
+
+## Combo Counter
+- There is now a combo counter on-screen
+- It'll definitely look a little different in the future, but for now, it works
+- This is useful for any passive spells that depend on your current hit count
