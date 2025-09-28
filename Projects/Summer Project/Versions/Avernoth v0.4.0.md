@@ -73,7 +73,7 @@
 ## Input Changes
 - The game now uses directional input to determine where spells are fired
 - So, if you want to switch targets while mid-combo, you can do that by using the movement keys
-- Note: I'm still tweaking the values so it may not feel as responsive as it needs to
+- Note: I'm still tweaking the values so it may not feel as polished as it needs to
 
 ## Camera Changes
 - When not in battle, the camera is pretty much the same
@@ -86,3 +86,7 @@
 - Before, rooms ALWAYS gave a reward. Now they have a chance to
 - Before, rooms would only give mana essence as a reward. Now, they can also drop like 10 health.
 
+## Notifications
+- There is now a notification system in the game that allows for temporary messages to be displayed on-screen
+- Right now, there are 2 notification types: Announcements and Spell notifications
+- Announcements are large banners displayed at the top of the screen for several seconds. Right now, they are used to display whenever Allister enters a new part of Avern
