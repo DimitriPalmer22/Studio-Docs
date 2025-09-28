@@ -102,4 +102,5 @@
 
 ## More Primary and Secondary Attack Animations
 - Andre has made a couple new attack animations and reworked most of the existing ones
-- New pri
+- New primary spell: A string of stomps that looks like earth bending. Will eventually be used for a new primordial attack
+- New secondary spell: A downward slashing kick
