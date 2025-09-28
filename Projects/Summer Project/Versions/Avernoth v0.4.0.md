@@ -87,6 +87,10 @@
 - Before, rooms would only give mana essence as a reward. Now, they can also drop like 10 health.
 
 ## Notifications
-- There is now a notification system in the game that allows for temporary messages to be displayed on-screen
+- There is now a notification system in the game that allows for temporary messages to be displayed on-screen. This allows us to communicate more info to the player outside of dialogue.
 - Right now, there are 2 notification types: Announcements and Spell notifications
-- Announcements are large banners displayed at the top of the screen for several seconds. Right now, they are used to display whenever Allister enters a new part of Avern
+- Announcements are large banners displayed at the top of the screen for several seconds. Right now, they are used to display whenever Allister enters a new part of Avernoth.
+- Spell notifications are used when Allister acquires a new spell. They appear at the bottom center of the screen.
+
+## New Skybox
+- Mikel made a new skybox. Yippee
