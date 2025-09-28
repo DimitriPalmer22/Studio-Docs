@@ -50,6 +50,14 @@
 
 # Avernoth v0.4.0
 
+## Spells Screen
+- Press I on the keyboard (this button may change in the future idk) to open up the spells screen
+- Here you can see a quick overview of your currently equipped spells and their descriptions
+- As of right now, its kinda barebones, but it should be functional
+
+## 
+
 ## Critical hits
 - Allister has a new stat for critical hit change (default 5%) and a new stat for critical hit damage multiplier (default 1.5x).
-- 
+- *Most* spells can critically hit, but not all (i.e. the crystal spells)
+- Enemies cannot critically hit Allister.
