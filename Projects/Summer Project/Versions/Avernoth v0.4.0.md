@@ -77,4 +77,12 @@
 
 ## Camera Changes
 - When not in battle, the camera is pretty much the same
-- When in combat, the camera zooms out so you can see much more of the  
+- When in combat, the camera zooms out so you can see much more of the arena 
+
+## Room Rewards & Enemy Drops
+- Allister has a new stat: Fortune
+- This determines how likely you are to get a reward from a room / how likely an enemy is to drop mana essence
+- Before, enemies ALWAYS dropped mana essence. Now they have a chance to
+- Before, rooms ALWAYS gave a reward. Now they have a chance to
+- Before, rooms would only give mana essence as a reward. Now, they can also drop like 10 health.
+
