@@ -44,3 +44,12 @@
 - [ ] Tutorial subsystem? + UI + Save Integration
 - [ ] Very basic rune ideas / drawings?
 - [ ] Only show active spells
+
+
+# Update Message
+
+# Avernoth v0.4.0
+
+## Critical hits
+- Allister has a new stat for critical hit change (default 5%) and a new stat for critical hit damage multiplier (default 1.5x).
+- 
