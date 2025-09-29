@@ -93,7 +93,11 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 ### In Combat & Combat-Related Things
 
 #### Balancing Primary & Secondary Spells
-- One thing I want to avoid is the player mind
+- One thing I want to avoid is the player mindlessly pressing the primary spell button over and over again until they beat the game
+- So, we need to make sure that the secondary spells are powerful and fun enough to use that the player actually wants to use them
+
+Here's an idea:
+- I want the primary spells to c
 
 #### Melee Enemies
 
