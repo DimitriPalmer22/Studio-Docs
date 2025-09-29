@@ -24,8 +24,8 @@ Right now, you can *sorta* do a full playthrough of the game:
 ## Goals for v0.5.0:
 
 For v0.5.0, we're focusing on:
-- Presentation - Remove a lot of that 'testing' feel from the game
-- Polishing game design - 
+- *Presentation & P* - Remove a lot of that 'testing' feel from the game
+- *Game Essence* - Understand what would make the game fun to play and iterate on that 
 
 ### Outside of Combat
 
@@ -58,12 +58,16 @@ When the player starts the game, they get 3 questions:
 
 #### Economy & Currency
 
+
 ### In Combat & Combat-Related Things
 
 #### Balancing Primary & Secondary Spells
 
+
 #### Melee Enemies
 
+
 #### Make the Enemies Feel More Fair
+
 
 # Environmental Artists
