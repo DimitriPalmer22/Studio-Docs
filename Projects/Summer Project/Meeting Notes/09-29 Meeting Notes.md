@@ -117,9 +117,10 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 	- Or do they wait until the end of their primary attack combo for a more powerful effect and risk potentially dropping their combo somehow?
 
 #### Melee Enemies
-
+- I'll focus on creating variations of enemies w/ melee attack animations
 
 #### Make the Enemies Feel More Fair
+- One reason why the enemies feel so unfair is that they can hit you from off-screen
 
 
 # Environmental Artists
