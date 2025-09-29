@@ -10,8 +10,13 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
+### Q 
+
 # Goals for 0.5.0
-I want to have the struc
+As of right now, the game is getting more complete
+
+- Iterate again on the design of the beginning area
+
 
 
 # Environmental Artists
