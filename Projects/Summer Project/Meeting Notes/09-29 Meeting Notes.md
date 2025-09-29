@@ -121,6 +121,8 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 
 #### Make the Enemies Feel More Fair
 - One reason why the enemies feel so unfair is that they can hit you from off-screen
-
+	- I'll make so that they're less aggressive when off-screen
+- Also, they're not smart enough to realize that the player is currently being attacked by several other enemies at once.
+	- I'll try to make it so that only a couple enemies are aggressively attacking the player at once. The other enemies will be less aggressive until some of the other enemies are defeated.
 
 # Environmental Artists
