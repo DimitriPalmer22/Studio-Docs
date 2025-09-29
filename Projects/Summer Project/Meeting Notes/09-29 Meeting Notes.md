@@ -137,16 +137,17 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 - Also, they're not smart enough to realize that the player is currently being attacked by several other enemies at once.
 	- I'll try to make it so that only a couple enemies are aggressively attacking the player at once. The other enemies will be less aggressive until some of the other enemies are defeated.
 
-# Environmental Artists
-
-## The Brick
-
-
-## Other Props
+# 2D Art
 
 ### Rune Icons Lol
 
 Create stylized versions of these: https://www.flaticon.com/free-icons/rune
+
+# Environmental Art
+
+## Da Brick
+
+## Other Props
 
 ![](<../../../_Meta/Attachments/Pasted image 20250929191650.png>)
 
@@ -156,6 +157,7 @@ Extrude the outer parts of the opening to give the arch more depth
 ### Another Archway Model
 ![](<../../../_Meta/Attachments/Pasted image 20250929191839.png>)
 
+- As detailed by this drawing, archways without the upper corner parts would be pretty fire.
 
 ### Props for Outdoor Environments
 - foliage 
@@ -163,7 +165,6 @@ Extrude the outer parts of the opening to give the arch more depth
 - rocks
 - vines (they'll be used for the playable level space as well as to hang off of the floating islands)
 - Flowers? Avernoth flowers? Magical flowers 100 emoji
-
 
 ### More Floating Island Models
 - ...yeah
