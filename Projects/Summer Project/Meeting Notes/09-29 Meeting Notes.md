@@ -21,7 +21,11 @@ Right now, you can *sorta* do a full playthrough of the game:
 - Get upgrades from the upgrade room
 - Buy stuff from the shop room
 
-## Goals for 0.5.0
+## Goals for v0.5.0:
+
+For v0.5.0, we're focusing on:
+- Presentation - Remove a lot of that 'testing' feel from the game
+- Polishing game design - 
 
 ### Outside of Combat
 
@@ -32,7 +36,7 @@ The beginning area
 - is the very first area of the game players see
 - is gonna be the area where players see when they restart a run
 
-So, the visual design and functionality of the room is very important and should be refined further.
+So, the visual design and functionality of the room is very important and should be refined further. Maybe we could even split it up into multiple rooms?
 
 ##### Beginning Questions
 When the player starts the game, they get 3 questions:
