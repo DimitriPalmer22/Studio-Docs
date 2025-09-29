@@ -28,6 +28,11 @@ Right now, you can *sorta* do a full playthrough of the game:
 #### Beginning Area
 
 ##### Iterate again on the design of the beginning area
+The beginning area
+- is the very first area of the game players see
+- is gonna be the area where players see when they restart a run
+
+So, the visual design and functionality of the room is very important and should be refined further.
 
 ##### Beginning Questions
 When the player starts the game, they get 3 questions:
