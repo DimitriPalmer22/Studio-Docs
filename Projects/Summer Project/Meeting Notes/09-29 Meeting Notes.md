@@ -158,5 +158,8 @@ Extrude the outer parts of the opening to give the arch more depth
 
 
 ### Props for Outdoor Environments
-- foliage lol
-- 
+- foliage 
+- trees
+- rocks
+- Do it for the vine
+- Flowers? Avernoth flowers? Magical flowers 100 emoji
