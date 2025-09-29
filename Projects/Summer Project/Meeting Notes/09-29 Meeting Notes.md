@@ -23,6 +23,7 @@ Right now, you can *sorta* do a full playthrough of the game:
 - Eventually reach a "boos room" (that only has 1 enemy in it lol)
 - Keep doing that until you reach the "End of the game" room (which is currently just a placeholder room)
 
+The "Skeleton" of the game is taking shape, but we need to flesh it out with meaningful content.
 
 ## Goals for v0.5.0:
 
