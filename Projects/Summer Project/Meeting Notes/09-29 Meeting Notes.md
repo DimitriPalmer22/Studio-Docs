@@ -150,6 +150,10 @@ Create stylized versions of these: https://www.flaticon.com/free-icons/rune
 
 ![](<../../../_Meta/Attachments/Pasted image 20250929191650.png>)
 
-
+## Idea: Replace the Modular Kit parts w/ more detailed versions
 
 ### Better Archway Model
+Extrude the outer parts of the opening to give
+
+### Another Archway Model
+![](<../../../_Meta/Attachments/Pasted image 20250929191839.png>)
