@@ -23,6 +23,7 @@ Right now, you can *sorta* do a full playthrough of the game:
 - Eventually reach a "boos room" (that only has 1 enemy in it lol)
 - Keep doing that until you reach the "End of the game" room (which is currently just a placeholder room)
 
+
 ## Goals for v0.5.0:
 
 For v0.5.0, we're focusing on:
@@ -61,7 +62,9 @@ When the player starts the game, they get 3 questions:
 - Right now, the upgrade room is *very* similar functionally to a standard shop in a video game: go in -> spend money -> come out.
 	- This is cool and all, but there isn't much in the room that thematically tells the player "hey, this is the upgrade room where we **improve your tome**"
 - We at the very least need to *distinguish it visually from the shop room* so that players don't get confused
-- Rather than 
+- Rather than
+
+- Also do the same lighting adjustments that are present in other levels
 
 ##### Reward the Player for Playing Well + Risk/Reward
 The shop has 3 tiers of upgrades, each with different prices. Here's the though process behind that decision:
