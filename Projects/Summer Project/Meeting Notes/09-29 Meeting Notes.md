@@ -108,7 +108,10 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 
 ##### Some Type of Statistical Upgrade @ the End of Each Floor
 - Right now we have ways to give the player spells, but no consistent way to consistently increase the player's stats as they progress
-- We need a way to upgrade 
+- We need a way to upgrade the player's stats when they clear the floor
+	- More questions?
+	- A menu?
+	- Some type of special thing spawns in that you interact with???
 
 ### In Combat & Combat-Related Things
 
