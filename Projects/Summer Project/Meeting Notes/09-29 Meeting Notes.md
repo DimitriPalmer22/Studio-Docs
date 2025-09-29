@@ -96,8 +96,11 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 - One thing I want to avoid is the player mindlessly pressing the primary spell button over and over again until they beat the game
 - So, we need to make sure that the secondary spells are powerful and fun enough to use that the player actually wants to use them
 
-Here's an idea:
-- I want the primary spells to c
+##### New Mechanic Idea?
+- I want the player to get used to chaining their primary attacks into secondary attacks
+- So, let's say the player's primary attack sequence is 4 hits.
+- My new mechanic idea is that if the player uses their secondary spell right after their 4th primary attack, the secondary spell will be more powerful (maybe even have an added effect or something).
+- This way, the secondary attacks retain 
 
 #### Melee Enemies
 
