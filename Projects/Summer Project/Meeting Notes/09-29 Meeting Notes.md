@@ -126,3 +126,8 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 	- I'll try to make it so that only a couple enemies are aggressively attacking the player at once. The other enemies will be less aggressive until some of the other enemies are defeated.
 
 # Environmental Artists
+
+## The Brick
+
+
+## Other Props
