@@ -30,7 +30,9 @@ Right now, you can *sorta* do a full playthrough of the game:
 
 #### Shop
 
+
 #### Upgrade Room
+
 
 #### Economy & Currency
 
@@ -38,7 +40,8 @@ Right now, you can *sorta* do a full playthrough of the game:
 
 #### Balancing Primary & Secondary Spells
 
-####
+#### Melee Enemies
 
+#### Make the Enemies Feel More Fair
 
 # Environmental Artists
