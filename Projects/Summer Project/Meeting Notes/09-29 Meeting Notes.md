@@ -100,7 +100,10 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 - I want the player to get used to chaining their primary attacks into secondary attacks
 - So, let's say the player's primary attack sequence is 4 hits.
 - My new mechanic idea is that if the player uses their secondary spell right after their 4th primary attack, the secondary spell will be more powerful (maybe even have an added effect or something).
-- This way, the secondary attacks retain 
+- This way, the secondary attacks retain their utility if used by themselves
+- Players now have a *risk / reward factor* for deciding when to use their secondary spell
+	- Do they use it right away for a quick burst of damage?
+	- Or do they wait until the end of their primary attack combo for a more powerful effect and risk potentially dropping their combo somehow?
 
 #### Melee Enemies
 
