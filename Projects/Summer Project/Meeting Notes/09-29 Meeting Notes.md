@@ -79,6 +79,14 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 
 
 
+
+#### Telling the Player Where to Go Next
+
+- One thing I *DO NOT LIKE* about our game is how our exit portals are currently used to tell the player where to go (they don't)
+- In other roguelike games like The Binding of Isaac or Enter the Gungeon:
+	- the rooms have doors
+	- So, as soon
+
 ### In Combat & Combat-Related Things
 
 #### Balancing Primary & Secondary Spells
