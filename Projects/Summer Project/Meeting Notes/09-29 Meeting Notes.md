@@ -144,3 +144,6 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 
 ## Other Props
 
+### Rune Icons Lol
+
+Create stylized versions of these: https://www.flaticon.com/free-icons/rune
