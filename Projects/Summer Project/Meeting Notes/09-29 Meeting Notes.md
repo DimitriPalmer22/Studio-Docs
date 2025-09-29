@@ -30,8 +30,16 @@ Right now, you can *sorta* do a full playthrough of the game:
 ##### Iterate again on the design of the beginning area
 
 ##### Beginning Questions
-- When the player starts the game, they get 3 questions:
-- 
+When the player starts the game, they get 3 questions:
+- One for their primary spell
+- One for their secondary spell
+- One for 1 or more passive spells
+
+- However, the current questions we have are still placeholder (boring text)
+- Chelle made a couple questions a while ago, but they've never been implemented into the game. We should probably do that.
+- Outside of that, we should probably make some more questions to add more variety to the game.
+
+- Furthermore, the UI for those beginning questions is still placeholder. We should probably iterate on that.
 
 #### Shop
 
