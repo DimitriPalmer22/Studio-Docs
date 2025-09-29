@@ -93,7 +93,7 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 ### In Combat & Combat-Related Things
 
 #### Balancing Primary & Secondary Spells
-
+- One thing I want to avoid is the player mind
 
 #### Melee Enemies
 
