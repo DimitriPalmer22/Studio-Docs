@@ -10,13 +10,25 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
-### Q 
+# The Game
 
-# Goals for 0.5.0
-As of right now, the game is getting more complete
+## Current State of the Game
+Week by week, the game is getting more and more complete. As of right now
+
+## Goals for 0.5.0
+
 
 - Iterate again on the design of the beginning area
 
+### Outside of Combat
+
+#### Shop
+
+### In Combat & Combat-Related Things
+
+#### Balancing Primary & Secondary Spells
+
+####
 
 
 # Environmental Artists
