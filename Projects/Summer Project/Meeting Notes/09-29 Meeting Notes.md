@@ -56,6 +56,11 @@ When the player starts the game, they get 3 questions:
 
 #### Economy & Currency
 
+- I want the player to be rewarded for playing well (not taking damage / clearing rooms quickly)
+- I want the player to also consciously make decisions about how they're spending their money (the shop or the upgrade room)
+	- This is another one of those risk / reward things
+	- Do they increase their power in the upgrade room or increase their su
+
 #### Upgrade Room
 
 ##### Visual Design of the Upgrade Room Needs Iteration
