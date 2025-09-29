@@ -101,6 +101,15 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 	- Having a dimmer version of the circle on the floor might not even be enough ngl
 	- Maybe we should have doorways in our game and place to portals next to those doorways?
 
+#### Clearing a Floor
+
+##### Make the Big Rooms Feel More Special
+- ...yeah
+
+##### Some Type of Statistical Upgrade @ the End of Each Floor
+- Right now we have ways to give the player spells, but no consistent way to consistently increase the player's stats as they progress
+- We need a way to upgrade 
+
 ### In Combat & Combat-Related Things
 
 #### Balancing Primary & Secondary Spells
