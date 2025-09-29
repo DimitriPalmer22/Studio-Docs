@@ -85,7 +85,11 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 - One thing I *DO NOT LIKE* about our game is how our exit portals are currently used to tell the player where to go (they don't)
 - In other roguelike games like The Binding of Isaac or Enter the Gungeon:
 	- the rooms have doors
-	- So, as soon
+	- So, as soon as the player enters a room, they immediately know where they'll have to go next once they complete the room.
+	- In our game, the player does NOT know where they need to go ahead of time.
+	- So, if they're looking the other direction when the exit portal pops up, they might not even see it right away.
+
+- We need some *visual indication of where the exit portal is* BEFORE it turns on and lights up.
 
 ### In Combat & Combat-Related Things
 
