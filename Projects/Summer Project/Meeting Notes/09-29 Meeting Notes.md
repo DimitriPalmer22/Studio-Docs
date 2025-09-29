@@ -57,9 +57,11 @@ When the player starts the game, they get 3 questions:
 
 #### Upgrade Room
 
-##### Design of the Upgrade Room Needs Iteration
-- Right now, the upgrade room is *very* similar functionally to a standard shop in a video game: go in -> spend money -> come out
-- W
+##### Visual Design of the Upgrade Room Needs Iteration
+- Right now, the upgrade room is *very* similar functionally to a standard shop in a video game: go in -> spend money -> come out.
+	- This is cool and all, but there isn't much in the room that thematically tells the player "hey, this is the upgrade room where we **improve your tome**"
+- We at the very least need to *distinguish it visually from the shop room* so that players don't get confused
+- Rather than 
 
 ##### Reward the Player for Playing Well + Risk/Reward
 The shop has 3 tiers of upgrades, each with different prices. Here's the though process behind that decision:
