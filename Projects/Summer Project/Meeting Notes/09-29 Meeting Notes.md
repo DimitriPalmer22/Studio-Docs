@@ -52,13 +52,19 @@ When the player starts the game, they get 3 questions:
 
 - Furthermore, the UI for those beginning questions is still placeholder. We should probably iterate on that.
 
+#### Economy & Currency
+
+
 #### Shop
 
+##### Reward the Player for Playing Well
+The shop has 3 tiers of upgrades, each with different prices
+
+##### Upgrades Need to be More Interesting
 
 #### Upgrade Room
 
 
-#### Economy & Currency
 
 
 ### In Combat & Combat-Related Things
