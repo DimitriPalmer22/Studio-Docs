@@ -154,7 +154,7 @@ Create stylized versions of these: https://www.flaticon.com/free-icons/rune
 ### Revised Archway Model
 Extrude the outer parts of the opening to give the arch more depth like in the image above.
 
-- I don't think the texture can be wor
+- I don't think the texture can be world space if we do this im ngl.
 
 ### Another Archway Model
 ![](<../../../_Meta/Attachments/Pasted image 20250929191839.png>)
