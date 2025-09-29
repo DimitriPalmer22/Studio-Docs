@@ -57,6 +57,10 @@ When the player starts the game, they get 3 questions:
 
 #### Upgrade Room
 
+##### Design of the Upgrade Room Needs Iteration
+- Right now, the upgrade room is *very* similar functionally to a standard shop in a video game: go in -> spend money -> come out
+- W
+
 ##### Reward the Player for Playing Well + Risk/Reward
 The shop has 3 tiers of upgrades, each with different prices. Here's the though process behind that decision:
 
