@@ -147,3 +147,9 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 ### Rune Icons Lol
 
 Create stylized versions of these: https://www.flaticon.com/free-icons/rune
+
+![](<../../../_Meta/Attachments/Pasted image 20250929191650.png>)
+
+
+
+### Better Archway Model
