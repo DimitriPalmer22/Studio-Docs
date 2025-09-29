@@ -10,4 +10,8 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
-# 
+# Goals for 0.5.0
+
+
+
+# Environmental Artists
