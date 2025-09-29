@@ -62,7 +62,6 @@ When the player starts the game, they get 3 questions:
 - Right now, the upgrade room is *very* similar functionally to a standard shop in a video game: go in -> spend money -> come out.
 - We at the very least need to *distinguish it visually from the shop room* so that players don't get confused
 - There isn't much in the room that thematically tells the player "hey, this is the upgrade room where we **improve your tome**"
-	- Thematically, 
 
 - Also do the same lighting adjustments that are present in other levels
 
