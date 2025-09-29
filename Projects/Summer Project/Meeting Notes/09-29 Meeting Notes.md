@@ -20,6 +20,8 @@ Right now, you can *sorta* do a full playthrough of the game:
 - Go through rooms and fight enemies
 - Get upgrades from the upgrade room
 - Buy stuff from the shop room
+- Eventually reach a "boos room" (that only has 1 enemy in it lol)
+- 
 
 ## Goals for v0.5.0:
 
