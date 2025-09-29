@@ -24,7 +24,7 @@ Right now, you can *sorta* do a full playthrough of the game:
 ## Goals for v0.5.0:
 
 For v0.5.0, we're focusing on:
-- *Presentation & P* - Remove a lot of that 'testing' feel from the game
+- *Presentation & Polish* - Remove a lot of that 'testing' feel from the game
 - *Game Essence* - Understand what would make the game fun to play and iterate on that 
 
 ### Outside of Combat
