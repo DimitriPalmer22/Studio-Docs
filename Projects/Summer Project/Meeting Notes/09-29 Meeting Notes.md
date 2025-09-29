@@ -55,14 +55,17 @@ When the player starts the game, they get 3 questions:
 #### Economy & Currency
 
 
-#### Shop
+#### Upgrade Room
 
-##### Reward the Player for Playing Well
-The shop has 3 tiers of upgrades, each with different prices
+##### Reward the Player for Playing Well + Risk/Reward
+The shop has 3 tiers of upgrades, each with different prices. Here's the though process behind that decision:
+
+- I want the player to be guaranteed an upgrade every time they enter the upgrade room
+- The better you play, the more money you make.
 
 ##### Upgrades Need to be More Interesting
 
-#### Upgrade Room
+#### Shop
 
 
 
