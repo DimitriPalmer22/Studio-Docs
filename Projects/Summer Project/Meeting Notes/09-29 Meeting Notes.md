@@ -13,7 +13,13 @@
 # The Game
 
 ## Current State of the Game
-Week by week, the game is getting more and more complete. As of right now
+Week by week, the game is getting more and more complete. As of right now, a lot of the main components of the game are taking shape, but some things still need to be iterated on.
+
+Right now, you can *sorta* do a full playthrough of the game:
+- Start at the beginning area & Choose your spells based on the questions you get
+- Go through rooms and fight enemies
+- Get upgrades from the upgrade room
+- Buy stuff from the shop room
 
 ## Goals for 0.5.0
 
@@ -23,6 +29,10 @@ Week by week, the game is getting more and more complete. As of right now
 ### Outside of Combat
 
 #### Shop
+
+#### Upgrade Room
+
+#### Economy & Currency
 
 ### In Combat & Combat-Related Things
 
