@@ -150,7 +150,7 @@ Create stylized versions of these: https://www.flaticon.com/free-icons/rune
 
 ![](<../../../_Meta/Attachments/Pasted image 20250929191650.png>)
 
-### Better Archway Model
+### Revised Archway Model
 Extrude the outer parts of the opening to give the arch more depth
 
 ### Another Archway Model
