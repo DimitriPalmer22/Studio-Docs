@@ -23,10 +23,15 @@ Right now, you can *sorta* do a full playthrough of the game:
 
 ## Goals for 0.5.0
 
-
-- Iterate again on the design of the beginning area
-
 ### Outside of Combat
+
+#### Beginning Area
+
+##### Iterate again on the design of the beginning area
+
+##### Beginning Questions
+- When the player starts the game, they get 3 questions:
+- 
 
 #### Shop
 
