@@ -6,7 +6,7 @@
 | Narrative Designer + CD Meeting        |                |
 | Sound Meeting                          |                |
 | Environmental Artist Meeting           | Saturday @ 3pm |
-| 2D Artist + Narrative Designer Meeting |                |
+| 2D Artist + Narrative Designer Meeting | Friday @ 11am  |
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
@@ -20,7 +20,7 @@ Right now, you can *sorta* do a full playthrough of the game:
 - Go through rooms and fight enemies
 - Get upgrades from the upgrade room
 - Buy stuff from the shop room
-- Eventually reach a "boos room" (that only has 1 enemy in it lol)
+- Eventually reach a "boss room" (that only has 1 enemy in it lol)
 - Keep doing that until you reach the "End of the game" room (which is currently just a placeholder room)
 
 The "Skeleton" of the game is taking shape, but we need to flesh it out with meaningful content.
