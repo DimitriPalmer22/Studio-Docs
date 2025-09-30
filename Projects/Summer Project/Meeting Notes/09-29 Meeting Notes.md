@@ -153,8 +153,6 @@ Create stylized versions of these: https://www.flaticon.com/free-icons/rune
 
 # Environmental Art
 
-## Da Brick
-
 ## Other Props
 
 ![](<../../../_Meta/Attachments/Pasted image 20250929191650.png>)
@@ -178,3 +176,5 @@ Extrude the outer parts of the opening to give the arch more depth like in the i
 
 ### More Floating Island Models
 - ...yeah
+
+## Da Brick
