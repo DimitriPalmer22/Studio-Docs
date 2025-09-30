@@ -105,6 +105,9 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 - We need some *visual indication of where the exit portal is* BEFORE it turns on and lights up.
 	- Having a dimmer version of the circle on the floor might not even be enough ngl
 	- Maybe we should have doorways in our game and place to portals next to those doorways?
+	- Beam of light 
+		- Have the rest of the room dim
+		- Have the beam be less extreme as you get closer
 
 #### Clearing a Floor
 
