@@ -91,6 +91,7 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 ##### We Need Better Shop Items
 
 ##### Also, No dupes in the shop
+- As an alternative, have one of the buttons have more than 1 item
 
 #### Telling the Player Where to Go Next
 
