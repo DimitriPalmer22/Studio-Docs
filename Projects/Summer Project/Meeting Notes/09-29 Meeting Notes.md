@@ -90,6 +90,8 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 
 ##### We Need Better Shop Items
 
+##### Also, No dupes in the shop
+
 #### Telling the Player Where to Go Next
 
 - One thing I *DO NOT LIKE* about our game is how our exit portals are currently used to tell the player where to go (they don't)
