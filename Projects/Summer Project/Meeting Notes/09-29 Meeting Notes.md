@@ -172,7 +172,7 @@ Extrude the outer parts of the opening to give the arch more depth like in the i
 - trees
 - rocks
 - vines (they'll be used for the playable level space as well as to hang off of the floating islands)
-- Flowers? Avernoth flowers? Magical flowers 100 emoji
+- Flowers 
 
 ### More Floating Island Models
 - ...yeah
