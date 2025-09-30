@@ -86,6 +86,8 @@ The shop has 3 tiers of upgrades, each with different prices. Here's the though 
 
 #### Shop
 
+##### Layout of the shop needs to be redesigned
+
 ##### We Need Better Shop Items
 
 #### Telling the Player Where to Go Next
