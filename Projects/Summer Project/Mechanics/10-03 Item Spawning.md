@@ -21,6 +21,8 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 ## An Even Better Solution
 
 - Spawn the item on the dead body of the last-killed enemy.
+- This way, the player *will* see it when it spawns.
+- The player can choose to pick it up or not (given it isn't directly on the exit portal, but let's j)
 
 
 # What Rewards Can Drop?
