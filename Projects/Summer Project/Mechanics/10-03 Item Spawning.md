@@ -6,12 +6,6 @@
 
 # Solutions
 
-## Ugh Solution
-
-Legit, I can't think of a way to spawn items intelligently without deliberately creating spawn volumes in each level. Yeah, this works, but:
-- someone would have to go back into old levels to do this (potentially causing merge conflicts)
-- this is yet another thing the LDs would have to make sure is in the levels and set up properly
-
 ## An Actual Solution
 
 - Spawn items @ the end portal
@@ -22,8 +16,8 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 
 - Spawn the item on the dead body of the last-killed enemy.
 - This way, the player *will* see it when it spawns.
-- The player can choose to pick it up or not (given it isn't directly on the exit portal, but let's j)
-
+- The player can choose to pick it up or not (given it isn't directly on the exit portal, but let's just hope that doesn't happen bruh)
+	- Prevent the portal from being interactable if the item does intersect with it.
 
 # What Rewards Can Drop?
 
