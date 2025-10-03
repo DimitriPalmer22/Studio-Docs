@@ -28,6 +28,7 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 ## Collectibles
 - Recover health
 - Money
+- Consumable item thing for survivability
 
 ## Upgrade Runes (Flat stat increases)
 
@@ -45,3 +46,5 @@ Types of statistic upgrade runes:
 ### Misc. Stat Rune
 - Any stat attribute that does not fit within the other two categories
 - I.E. Crit chance, crit damage, fortune, etc.
+
+## Passive Effect
