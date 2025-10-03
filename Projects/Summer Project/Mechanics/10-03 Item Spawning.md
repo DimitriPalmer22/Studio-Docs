@@ -30,7 +30,7 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 - Money
 - KEY for going into the "harder rooms"
 - *Consumable item thing for survivability* (Ideas)
-	- Protection rune - Fill up the proejct
+	- Protection rune - Fill up the protection rune meter in the top left. This will give you a shield that will block hits until it is depleted.
 
 ## Upgrade Runes (Flat stat increases)
 
