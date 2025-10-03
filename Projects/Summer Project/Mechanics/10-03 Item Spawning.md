@@ -30,8 +30,7 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 - Money
 - KEY for going into the "harder rooms"
 - *Consumable item thing for survivability* (Ideas)
-	- Protection rune - for the first instance of damage you would take, it is negated. This item is consumed on use.
-	- 
+	- Protection rune - Fill up the proejct
 
 ## Upgrade Runes (Flat stat increases)
 
