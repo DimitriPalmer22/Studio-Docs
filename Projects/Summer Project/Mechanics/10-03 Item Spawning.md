@@ -23,4 +23,17 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 - Spawn the item on the dead body of the last-killed enemy.
 
 
-# What Rew
+# What Rewards Can Drop?
+
+## Collectibles
+
+## Upgrade Runes (Flat stat increases)
+
+Types of statistic upgrade runes:
+
+### Character Stat Rune
+
+### Elemental Stat Rune
+- As of right now, the only way to increase elemental stats
+- The ones that drop will only apply to the currently equipped elements (of your primary and secondary)
+- This way,
