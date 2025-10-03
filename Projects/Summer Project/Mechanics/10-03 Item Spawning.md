@@ -48,3 +48,4 @@ Types of statistic upgrade runes:
 - I.E. Crit chance, crit damage, fortune, etc.
 
 ## Passive Effect
+- A passive effect from the pool of passive effects that can be found in the world
