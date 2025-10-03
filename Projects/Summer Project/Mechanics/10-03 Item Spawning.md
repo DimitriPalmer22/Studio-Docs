@@ -16,3 +16,7 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 - Spawn items @ the end portal
 - Make sure the player *interacts* with the object?
 	- ehhh what if they don't want to pick it up? This essentially forces the player to do whatever the game wants it to?
+
+# An Even Better Solution
+
+- Spawn the item on the dead body of the last-killed enemy.
