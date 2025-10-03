@@ -26,14 +26,22 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 # What Rewards Can Drop?
 
 ## Collectibles
+- Recover health
+- Money
 
 ## Upgrade Runes (Flat stat increases)
 
 Types of statistic upgrade runes:
 
 ### Character Stat Rune
+- Basic increase to one of your character stats
 
 ### Elemental Stat Rune
 - As of right now, the only way to increase elemental stats
 - The ones that drop will only apply to the currently equipped elements (of your primary and secondary)
-- This way,
+- This way, you can't get a primordial rune when you don't have a primordial spell equipped
+- Also introduces a harsher decision for changing out your current spells
+
+### Misc. Stat Rune
+- Any stat attribute that does not fit within the other two categories
+- I.E. Crit chance, crit damage, fortune, etc.
