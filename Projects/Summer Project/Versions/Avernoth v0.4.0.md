@@ -42,7 +42,7 @@
 # v0.5.0
 - [ ] ENEMIES ffs
 - [ ] Tutorial subsystem? + UI + Save Integration
-- [ ] Very basic rune ideas / drawings?
+- [x] Very basic rune ideas / drawings?
 - [ ] Only show active spells
 
 
