@@ -29,6 +29,7 @@ Legit, I can't think of a way to spawn items intelligently without deliberately 
 - Recover health
 - Money
 - Consumable item thing for survivability
+- KEY for going into the "harder rooms"
 
 ## Upgrade Runes (Flat stat increases)
 
