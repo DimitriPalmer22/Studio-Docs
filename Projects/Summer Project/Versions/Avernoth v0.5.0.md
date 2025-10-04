@@ -36,7 +36,10 @@ I made a VFX asset for runes that I threw on:
 
 ### Timer in The Top Right Corner
 - There's now a timer in the top right corner that shows how long you've been playing this run
-- Future mechanics will rely on this timer. For right now, though,
+- Future mechanics will rely on this timer. For right now, though, it's just for show.
+
+### Test: Using a Secondary @ the End of Your Primary Combo Increases it's Damage
+- I wanted to encourage the player to more intentionally combo their primary attacks into their secondary a
 
 [10-03 Item Spawning](<../Mechanics/10-03 Item Spawning.md>)
 
