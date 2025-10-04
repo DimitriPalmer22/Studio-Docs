@@ -4,6 +4,10 @@
 	- Mikel tried making a fully outdoor level, and it would've required too many brand new assets to look *decent*
 
 # Ok, Ok, New Props
+
+These Props are in the ClickUp
+
+
 - Standing brazier (the ones in Aiden’s level)
 - Candle holder 
 - Weapon rack
@@ -27,3 +31,5 @@
 - Instead, it might be a better idea to have a strong theme for multiple rooms.
 	- This way, we can easily reuse props and assets between rooms.
 	- Also, we can make sure we exhaust all the ideas for a theme before moving on to the next one.
+
+# Runes EVERYWHERE
