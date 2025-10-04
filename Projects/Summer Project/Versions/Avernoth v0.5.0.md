@@ -45,7 +45,7 @@ I made a VFX asset for runes that I threw on:
 - So, after you've completed your primary attack chain, if you use your secondary attack quickly, you get a boost to your secondary attack's damage
 - You'll know you did it right if you see a VFX asset spinning under the player
 
-### Primary Attack Buff
+### Primary Attack Buff / Enemies Nerfed a Little
 - All primary attack spells have been buffed a little bit
 - I tried to keep their time-to-kill about the same as each other
 
