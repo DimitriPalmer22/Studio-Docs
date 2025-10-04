@@ -1,7 +1,6 @@
 # v0.5.0
 - [x] ENEMIES ffs
 - [x] Very basic rune ideas / drawings?
-- [ ] Only show active spells
 
 ### Melee Enemies
 - I made a variant of the knight enemy that has a melee animation. I wasn't lying this time I actually did it.
@@ -24,5 +23,6 @@
 
 [10-03 Item Spawning](<../Mechanics/10-03 Item Spawning.md>)
 
-
+# Maybe?
+- [ ] Only show active spells
 - [ ] Tutorial subsystem? + UI + Save Integration
