@@ -1,6 +1,5 @@
 # v0.5.0
-- [ ] ENEMIES ffs
-- [ ] Tutorial subsystem? + UI + Save Integration
+- [x] ENEMIES ffs
 - [x] Very basic rune ideas / drawings?
 - [ ] Only show active spells
 
@@ -19,4 +18,11 @@
 - Stat Upgrade  - 40% chance
 - New Passive Spell - 10% chance
 
+- These rewards have a chance to drop on after you kill the final enemy in the room. The item will spawn on the enemy's body.
+- Their chance to drop is based on how many rooms it has been since you last took damage & how fast you completed this room.
+
+
 [10-03 Item Spawning](<../Mechanics/10-03 Item Spawning.md>)
+
+
+- [ ] Tutorial subsystem? + UI + Save Integration
