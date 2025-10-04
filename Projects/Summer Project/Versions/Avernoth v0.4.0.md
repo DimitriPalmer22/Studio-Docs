@@ -38,14 +38,6 @@
 - [ ] Look into volume mixing
 - [ ] Make commands for each player stat
 
-
-# v0.5.0
-- [ ] ENEMIES ffs
-- [ ] Tutorial subsystem? + UI + Save Integration
-- [x] Very basic rune ideas / drawings?
-- [ ] Only show active spells
-
-
 # Update Message
 
 # Avernoth v0.4.0
