@@ -20,6 +20,10 @@
 - These rewards have a chance to drop on after you kill the final enemy in the room. The item will spawn on the enemy's body.
 - Their chance to drop is based on how many rooms it has been since you last took damage & how fast you completed this room.
 
+### Cooler Slow-motion Effect when Clearing Rooms
+- The slow-motion effect when you clear a room is now more dramatic
+- The bloom increases
+- Time slows down even more dramatically when clearing a boss room
 
 [10-03 Item Spawning](<../Mechanics/10-03 Item Spawning.md>)
 
