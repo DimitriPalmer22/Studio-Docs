@@ -9,6 +9,9 @@
 
 ### Boss Room Update
 - Boss rooms are now timed
+- Every X seconds, a new wave of enemies spawns (regardless of if you've defeated the previous wave)
+- If you defeat a wave before the next one spawns, the next wave spawns immediately
+- The more waves you defeat before the timer is up, the better reward you get
 
 ### More Rewards for Completing Rooms
 - Restore health - 10% chance
