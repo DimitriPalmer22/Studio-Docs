@@ -39,7 +39,9 @@ I made a VFX asset for runes that I threw on:
 - Future mechanics will rely on this timer. For right now, though, it's just for show.
 
 ### Test: Using a Secondary @ the End of Your Primary Combo Increases it's Damage
-- I wanted to encourage the player to more intentionally combo their primary attacks into their secondary a
+- I wanted to encourage the player to more intentionally combo their primary attacks into their secondary attacks
+- So, after you've completed your primary attack chain, if you use your secondary attack quickly, you get a boost to your secondary attack's damage
+- You'll know you did it right if you see a VFX asset spinning under the player
 
 [10-03 Item Spawning](<../Mechanics/10-03 Item Spawning.md>)
 
