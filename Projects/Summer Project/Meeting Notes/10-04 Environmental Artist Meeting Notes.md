@@ -36,3 +36,5 @@ These Props are in the ClickUp under "Forge / Armory Props" & "Other Props lol"
 One of the ways I want to make the game feel more magical is to have magical runes everywhere.
 
 ![](<../../../_Meta/Attachments/Pasted image 20251004144631.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20251004144808.png>)
