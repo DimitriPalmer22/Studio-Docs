@@ -12,6 +12,9 @@
 - If you defeat a wave before the next one spawns, the next wave spawns immediately
 - The more waves you defeat before the timer is up, the better reward you get
 
+Boss Room Rewards:
+- Tier 1 (Completed No Extra Waves): Passive Spell Pickup & 
+
 ### More Rewards for Completing Rooms
 - Restore health - 10% chance
 - Mana Essence (Money) - 40% chance
