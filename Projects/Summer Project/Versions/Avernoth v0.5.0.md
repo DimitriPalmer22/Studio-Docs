@@ -20,6 +20,14 @@
 - These rewards have a chance to drop on after you kill the final enemy in the room. The item will spawn on the enemy's body.
 - Their chance to drop is based on how many rooms it has been since you last took damage & how fast you completed this room.
 
+### Rune VFX
+I made a VFX asset for runes that I threw on:
+- the upgrade room (WIP)
+- the shop room statue
+- the things at the beginning of the game that give you the questions
+- the stat increase pickups
+- the passive spell pickups
+
 ### Cooler Slow-motion Effect when Clearing Rooms
 - The slow-motion effect when you clear a room is now more dramatic
 - The bloom increases
