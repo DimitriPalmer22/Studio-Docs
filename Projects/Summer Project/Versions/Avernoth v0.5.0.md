@@ -13,25 +13,30 @@
 
 ### More Rewards for Completing Rooms
 - Restore health - 10% chance
-- Money - 40% chance
-- Stat Upgrade  - 40% chance
-- New Passive Spell - 10% chance
+- Mana Essence (Money) - 40% chance
+- Stat Upgrade Pickup  - 40% chance
+- New Passive Spell Pickup - 10% chance
 
 - These rewards have a chance to drop on after you kill the final enemy in the room. The item will spawn on the enemy's body.
 - Their chance to drop is based on how many rooms it has been since you last took damage & how fast you completed this room.
+- The chances of each item are still being balanced!
 
 ### Rune VFX
 I made a VFX asset for runes that I threw on:
 - the upgrade room (WIP)
-- the shop room statue
-- the things at the beginning of the game that give you the questions
+- the shop room statue (WIP)
+- the things at the beginning of the game that give you the questions (WIP)
 - the stat increase pickups
-- the passive spell pickups
+- the passive spell pickups (WIP)
 
 ### Cooler Slow-motion Effect when Clearing Rooms
 - The slow-motion effect when you clear a room is now more dramatic
 - The bloom increases
 - Time slows down even more dramatically when clearing a boss room
+
+### Timer in The Top Right Corner
+- There's now a timer in the top right corner that shows how long you've been playing this run
+- Future mechanics will rely on this timer. For right now, though,
 
 [10-03 Item Spawning](<../Mechanics/10-03 Item Spawning.md>)
 
