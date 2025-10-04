@@ -13,7 +13,9 @@
 - The more waves you defeat before the timer is up, the better reward you get
 
 Boss Room Rewards:
-- Tier 1 (Completed No Extra Waves): Passive Spell Pickup & 
+- Tier 1 (Completed No Extra Waves): Passive Spell Pickup & 50 money
+- Tier 2 (Completed Some Extra Waves): Passive Spell Pickup & 100 money
+- Tier 3 (Completed A lot of Extra Waves): Passive Spell Pickup & Stat Upgrade Pickup & 150 money
 
 ### More Rewards for Completing Rooms
 - Restore health - 10% chance
