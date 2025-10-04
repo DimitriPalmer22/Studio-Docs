@@ -19,3 +19,7 @@
 - Cool weapon Hero Prop
 
 ![](<../../../_Meta/Attachments/Mikel Drawing.png>)
+
+# Wow, These Props Are All for a Very Specific Theme, Aren't They?
+
+- Here's something that's been a problem. Our LDs have kinda been struggling for ideas for their rooms. They've 
