@@ -3,7 +3,8 @@
 - [x] Very basic rune ideas / drawings?
 
 ### Melee Enemies
-- I made a variant of the knight enemy that has a melee animation. I wasn't lying this time I actually did it.
+- I made a variant of the knight enemy that has a melee attack animation. 
+- I wasn't lying this time I actually did it.
 
 ### Boss Room Update
 - Boss rooms are now timed
