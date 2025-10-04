@@ -5,8 +5,7 @@
 
 # Ok, Ok, New Props
 
-These Props are in the ClickUp
-
+These Props are in the ClickUp under "Forge / Armory Props" & "Other Props lol"
 
 - Standing brazier (the ones in Aiden’s level)
 - Candle holder 
@@ -20,8 +19,9 @@ These Props are in the ClickUp
 - “Workbench”
 - Shields
 - Shield rack
-- “Runic” forge/anvil
 - Cool weapon Hero Prop
+
+- “Runic” forge/anvil - Lowkey, this might be an asset we use for the "Upgrade Room"
 
 ![](<../../../_Meta/Attachments/Mikel Drawing.png>)
 
@@ -33,3 +33,4 @@ These Props are in the ClickUp
 	- Also, we can make sure we exhaust all the ideas for a theme before moving on to the next one.
 
 # Runes EVERYWHERE
+One of the ways I want to make the game feel more magical is to have magical runes everywhere.
