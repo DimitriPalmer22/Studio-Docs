@@ -2,6 +2,7 @@
 - [x] ENEMIES ffs
 - [x] Very basic rune ideas / drawings?
 
+# Avernoth v0.5.0
 ### Melee Enemies
 - I made a variant of the knight enemy that has a melee attack animation. 
 - I wasn't lying this time I actually did it.
