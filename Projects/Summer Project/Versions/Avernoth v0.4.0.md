@@ -1,12 +1,12 @@
 # v0.4.0
 - [-] Enhance the UI to show the player's stats while in-game?
 - [x] Mana regen proportional to how much damage you deal (based on a curve)
-- [ ] Make that one upgrade work
+- [x] Make that one upgrade work
 
-- [ ] Critical hits (using new stat)
-- [ ] Event for critical hits
+- [x] Critical hits (using new stat)
+- [x] Event for critical hits
 
-- [ ] Combo Counter
+- [x] Combo Counter
 - [ ] Low-poly spheres for various things
 
 - [ ] Room rewards component
