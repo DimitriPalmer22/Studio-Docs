@@ -1,25 +1,25 @@
 # v0.4.0
 - [-] Enhance the UI to show the player's stats while in-game?
 - [x] Mana regen proportional to how much damage you deal (based on a curve)
-- [x] Make that one upgrade work
+- [ ] Make that one upgrade work
 
-- [x] Critical hits (using new stat)
-- [x] Event for critical hits
+- [ ] Critical hits (using new stat)
+- [ ] Event for critical hits
 
-- [x] Combo Counter
-- [x] Low-poly spheres for various things
+- [ ] Combo Counter
+- [ ] Low-poly spheres for various things
 
-- [x] Room rewards component
-- [x] Expand upon room rewards
-	- [x] Health reward
-- [x] Make enemies dropping $ chance-based
+- [ ] Room rewards component
+- [ ] Expand upon room rewards
+	- [ ] Health reward
+- [ ] Make enemies dropping $ chance-based
 
 - [-] Display debug text for spell names
-- [x] Info screen for the currently equipped spells
+- [ ] Info screen for the currently equipped spells
 
-- [x] Notification subsystem + UI
-- [x] Adjust tome API to avoid directly editing the spell array
-	- [x] Allow for events when adding / removing spells
+- [ ] Notification subsystem + UI
+- [ ] Adjust tome API to avoid directly editing the spell array
+	- [ ] Allow for events when adding / removing spells
 
 ## v0.4.1
 - [ ] Improve combo counter
