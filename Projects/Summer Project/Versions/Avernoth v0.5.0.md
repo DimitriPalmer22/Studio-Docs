@@ -61,13 +61,15 @@ I made a VFX asset for runes that I threw on:
 - [ ] Only show active spells
 - [ ] Tutorial subsystem? + UI + Save Integration
 
-
-# v0.5.1
+# Fixes
+### v0.5.1
 - [x] Reset run when clicking new run button
 - [x] UI Soft Lock Fix
+
+### v0.5.2
 - [ ] Notification system for pickups
 - [ ] Interaction text for the different pickups
 - [ ] Dialogue UI initial hidden bug fix
 
-# v0.5.2
+### v0.5.3
 - [ ] Spell Icons - Only show active / recently activated
