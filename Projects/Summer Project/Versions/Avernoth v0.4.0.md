@@ -9,13 +9,13 @@
 - [x] Combo Counter
 - [x] Low-poly spheres for various things
 
-- [ ] Room rewards component
-- [ ] Expand upon room rewards
-	- [ ] Health reward
-- [ ] Make enemies dropping $ chance-based
+- [x] Room rewards component
+- [x] Expand upon room rewards
+	- [x] Health reward
+- [x] Make enemies dropping $ chance-based
 
 - [-] Display debug text for spell names
-- [ ] Info screen for the currently equipped spells
+- [x] Info screen for the currently equipped spells
 
 - [ ] Notification subsystem + UI
 - [ ] Adjust tome API to avoid directly editing the spell array
