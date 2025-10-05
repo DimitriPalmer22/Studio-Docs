@@ -60,3 +60,7 @@ I made a VFX asset for runes that I threw on:
 # Maybe?
 - [ ] Only show active spells
 - [ ] Tutorial subsystem? + UI + Save Integration
+
+
+# v0.5.1
+- [ ] UI Soft
