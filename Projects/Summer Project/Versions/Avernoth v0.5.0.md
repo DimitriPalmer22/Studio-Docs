@@ -73,4 +73,5 @@ I made a VFX asset for runes that I threw on:
 - [x] Cheat commands
 
 ### v0.5.3
+- [ ] Tune camera
 - [ ] Spell Icons - Only show active / recently activated
