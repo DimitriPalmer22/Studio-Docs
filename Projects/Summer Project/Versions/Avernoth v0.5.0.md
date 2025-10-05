@@ -17,11 +17,11 @@ Boss Room Rewards:
 - Tier 2 (Completed Some Extra Waves): Passive Spell Pickup & 100 money
 - Tier 3 (Completed A lot of Extra Waves): Passive Spell Pickup & Stat Upgrade Pickup & 150 money
 
-### More Rewards for Completing Rooms
+### More Rewards for Completing Standard Rooms
 - Restore health - 10% chance
 - Mana Essence (Money) - 40% chance
-- Stat Upgrade Pickup  - 40% chance
-- New Passive Spell Pickup - 10% chance
+- *Stat Upgrade Pickup (New)* - 40% chance
+- *New Passive Spell Pickup (New)* - 10% chance
 
 - These rewards have a chance to drop on after you kill the final enemy in the room. The item will spawn on the enemy's body.
 - Their chance to drop is based on how many rooms it has been since you last took damage & how fast you completed this room.
