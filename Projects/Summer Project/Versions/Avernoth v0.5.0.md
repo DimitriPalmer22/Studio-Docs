@@ -63,4 +63,6 @@ I made a VFX asset for runes that I threw on:
 
 
 # v0.5.1
-- [ ] UI Soft
+- [x] Reset run when clicking new run button
+- [ ] UI Soft Lock Fix
+- [ ] 
