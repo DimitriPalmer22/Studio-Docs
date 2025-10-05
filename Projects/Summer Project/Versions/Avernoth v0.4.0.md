@@ -17,9 +17,9 @@
 - [-] Display debug text for spell names
 - [x] Info screen for the currently equipped spells
 
-- [ ] Notification subsystem + UI
-- [ ] Adjust tome API to avoid directly editing the spell array
-	- [ ] Allow for events when adding / removing spells
+- [x] Notification subsystem + UI
+- [x] Adjust tome API to avoid directly editing the spell array
+	- [x] Allow for events when adding / removing spells
 
 ## v0.4.1
 - [ ] Improve combo counter
