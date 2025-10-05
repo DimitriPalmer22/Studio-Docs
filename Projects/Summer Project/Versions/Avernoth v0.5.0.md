@@ -64,8 +64,10 @@ I made a VFX asset for runes that I threw on:
 
 # v0.5.1
 - [x] Reset run when clicking new run button
-- [ ] UI Soft Lock Fix
+- [x] UI Soft Lock Fix
 - [ ] Notification system for pickups
+- [ ] Interaction text for the different pickups
+- [ ] Dialogue UI initial hidden bug fix
 
 # v0.5.2
 - [ ] Spell Icons - Only show active / recently activated
