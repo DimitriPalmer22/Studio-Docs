@@ -28,11 +28,12 @@ Every time Allister enters a new area of Avernoth (the areas are separated by th
 
 
 ## Tutorial Stuff
+I wanna start considering all the brand new concepts and content the player is encountering as they play the game. It's kinda hard for me to do this because I've been working on the game for so long that I forget what it's like to be brand new to it. So, I might need some insight here.
 
 ### Intro Room
 
 #### Introduce the Dialogue Portal
-
+One thing I think would be a nice touch is having the dialogue portal 
 
 ####
 
