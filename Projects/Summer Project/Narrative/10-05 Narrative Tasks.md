@@ -130,7 +130,7 @@ I wanna start considering all the brand new concepts and content the player is e
 #### The Exit Portal
 - The exit portal should not be available until after the player answers the questions.
 - It should also appear in a position where the player would naturally be facing anyway
-- Positioning t
+- Positioning the exit portal near a landmark that would naturally draw the attention of the player would be a good idea.
 
 
 ### Beyond the Intro Room
