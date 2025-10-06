@@ -85,10 +85,13 @@ I want to rework how the beginning of each run works a little bit due to some fe
 
 - The intro to the game feels very dense right now.
 - With the introduction dialogue AND the questions back to back, there is a lot for the player to take in all at once and not much time to breathe.
+- Also, the layout of the room doesn't lend itself well to the flow of the sequence. Having to turn around after answering the questions to leave the room is a little awkward.
 
 ### The Way I Want it To Be
 
 ![](<../../../_Meta/Attachments/Pasted image 20251006035357.png>)
+
+- The player sta
 
 ## Journal Tables
 Right now, the implementation of the journal tables feel... underwhelming. Players walk up to it, read a note, and that's it.
@@ -104,7 +107,7 @@ Right now, the implementation of the journal tables feel... underwhelming. Playe
 
 # Things that Are Not a Priority
 
-These are just some things you can keep in mind for later. If you have an idea or suggestion randomly, you can hit me up ab 
+These are just some things you can keep in mind for later. If you have an idea or suggestion randomly, you can hit me up about it. 
 
 ## Area Names?
 Every time Allister enters a new area of Avernoth (the areas are separated by the "boss rooms"), a title card appears in the middle of the screen for a few seconds, showing the name of the area. I'm ngl I have absolutely no idea what to do with these.
