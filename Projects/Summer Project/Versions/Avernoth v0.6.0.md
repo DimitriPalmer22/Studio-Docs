@@ -7,6 +7,9 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 
 - [ ] Stat for how many rooms since last dialogue portal
 - [ ] Control the pacing of the dialogue more consistently
+	- [ ] Curve for chance of dialogue portal spawning based on rooms since last dialogue portal
+	- [ ] Bool flag for always getting a dialogue portal on the room manager (should be used for boss room BP)
+- [ ] Certain dialogue flags ALWAYS trigger a dialogue, regardless of the number of rooms since the previous dialogue 
 
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
