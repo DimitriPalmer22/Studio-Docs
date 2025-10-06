@@ -39,6 +39,8 @@ Right now, dialogue portals spawn in two situations:
 
 This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I don't think we have a real reason for it (other than it being easy to implement at the time).
 
+#### New Portal Spawn Opportunities
+
 I think it'd be a lot better if we were more *flexible* and *dynamic* with how we allowed Allister's allies to communicate with him.
 
 For example, let's say this is the player's first time encountering a journal table. As Allister approaches it (before even interacting with the table), the player is forced into an *important dialogue interaction* detailing the significance of the journal tables in Avernoth. This way, the player understands why they should care about the journal tables before they even interact with one. 
@@ -49,7 +51,9 @@ This would effectively help w/ two separate problems:
 - Finding a way to *dynamically deliver story content* to the player
 - Finding a way to *tutorialize information* within the game's narrative
 
-Now that I think about it, we could even change how the existing 
+#### Rethinking the Room Clear Portal Spawns
+
+As it is right now, portals sometimes spawn on the room's exit portal 
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
