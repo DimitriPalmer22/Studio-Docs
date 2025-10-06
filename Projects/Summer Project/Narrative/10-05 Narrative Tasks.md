@@ -30,8 +30,7 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 - This is the type of stuff that can be skipped if the player isn't interested in it.
 - The dialogue interactions that randomly spawn at the ends of rooms are probably best suited for this type of dialogue.
 - Although they should still somewhat follow the principle of acknowledging the player's actions, they don't need to be as strict about it.
-	- Ex: The player clears a room -> Allister's allies make a joke about how easy that was
-	- Ex: The player enters a new area of Avernoth -> Allister's allies make a comment about how different this area is from the last one
+	- Ex: The player clears a room -> Allister's allies make a joke about how easy that was OR talk about how it relates to their pasts
 
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
@@ -50,8 +49,8 @@ This would effectively help w/ two separate problems:
 - Finding a way to *dynamically deliver story content* to the player
 - Finding a way to *tutorialize information* within the game's narrative
 
-### Avoid Long Exposition Dumps
-
+### Avoid Long Unbroken Conversations
+- One thing I've seen a little of thr
 
 ### Give the Story to the Player As They Go
 
