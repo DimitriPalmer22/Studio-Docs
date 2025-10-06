@@ -14,6 +14,8 @@
 
 ## Current State of the Game
 
+[Avernoth v0.5.0 Notes](<../Versions/Avernoth v0.5.0.md>)
+
 ### Melee Enemies
 
 ### Boss Room Update
@@ -26,10 +28,20 @@
 
 ### Dialogue
 
+### Gameplay
+
+#### Shield Mechanic
+
+#### Room Mechanics
+
+#### Variation in Primary Spells
+
+#### Do Something With the Timer
+
 ### Levels!!!
 
-### Shield Mechanic
+#### Implement Newly Made Levels
 
-### Room Mechanics
+#### Start Working on More Level Designs
 
-### Variation in Primary Spells
+#### Apply Different Wall and Floor Materials
