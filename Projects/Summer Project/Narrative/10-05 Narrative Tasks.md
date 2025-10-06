@@ -1,5 +1,7 @@
 
-# You Said you wanted to show me something Paul Made in Regards to the Portal?
+#
+
+You Said you wanted to show me something Paul Made in Regards to the Portal?
 yeah ^
 
 # Things that Are Not a Priority
@@ -18,7 +20,7 @@ Every time Allister enters a new area of Avernoth (the areas are separated by th
 ### Area 3
 
 
-## Tutorial Stuff (Nah not yet)
+## Tutorial Stuff
 
 ### Intro Room
 
