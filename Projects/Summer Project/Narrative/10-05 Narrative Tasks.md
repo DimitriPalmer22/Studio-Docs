@@ -4,6 +4,13 @@
 ## You Said you wanted to show me something Paul Made in Regards to the Portal?
 yeah ^
 
+## Questions @ the Start of each Run
+I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
+
+### The Way It Is Currently
+
+### The Way I Want it To Be
+
 # Things that Are Not a Priority
 
 ## Area Names?
