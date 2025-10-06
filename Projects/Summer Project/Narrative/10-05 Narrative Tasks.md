@@ -5,7 +5,7 @@ yeah ^
 
 ## Changing the Way we Think About Dialogue
 
-> A lot of the stuff here is prett
+> We'll probably need to have a long conversation about the stuff in this doc.
 
 My intention was for this game to have a narrative that was interesting enough to keep players invested in the world and characters while they played the game. Not just because I wanted to make a good game, but because I also wanted to give you a chance to show more of your writing. But, if we want to do that, then we have to make sure we give the narrative as much love as the rest of the game.
 
@@ -122,10 +122,11 @@ Right now, the implementation of the journal tables feel... underwhelming. Playe
 
 Tackling how we want to approach delivering the narrative to the player should take priority over anything else.
 
-### The Intro Sequence
+### The Biology of the Intro Sequence and the Player's Very First Run
 - The main bit of feedback I got about the initial intro dialogue is that it's way too long.
 - When reading it straight up, it looked fine, but having to click through it all at once was a lot.
-- I think if you wanted to skip through all the pieces of dialogue, it would take 24 button presses
+- I think if you wanted to skip through all the pieces of dialogue, it would take 24 button presses. 
+- 
 
 # Things that Are Not a Priority
 
