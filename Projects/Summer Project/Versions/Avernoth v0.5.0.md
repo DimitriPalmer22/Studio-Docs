@@ -67,12 +67,12 @@ I made a VFX asset for runes that I threw on:
 - [x] UI Soft Lock Fix
 
 ### v0.5.2
-- [ ] Notification system for pickups
 - [x] Interaction text for the different pickups
 - [x] Dialogue UI initial hidden bug fix
 - [x] Cheat commands
-- [ ] Interface for UI and exiting
+- [x] Interface for UI and exiting
 
 ### v0.5.3
+- [ ] Notification system for pickups
 - [ ] Tune camera
 - [ ] Spell Icons - Only show active / recently activated
