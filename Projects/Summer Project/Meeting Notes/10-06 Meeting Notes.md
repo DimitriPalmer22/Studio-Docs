@@ -14,4 +14,22 @@
 
 ## Current State of the Game
 
+### Melee Enemies
+
+### Boss Room Update
+
+### Different Rewards for Completing Standard Rooms
+
+### Rune VFX
+
 ## Goals for v0.6.0
+
+### Dialogue
+
+### Levels!!!
+
+### Shield Mechanic
+
+### Room Mechanics
+
+### Variation in Primary Spells
