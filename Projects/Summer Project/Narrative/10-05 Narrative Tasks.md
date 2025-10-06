@@ -4,7 +4,7 @@ yeah ^
 # Things That Should Probably Be Addressed Sooner Rather than Later
 
 ## Changing the Way we Think About Dialogue
-My intention was for this game to have a narrative that was interesting enough to keep players invested in the world and characters while they played the game. Not just because I wanted to make a good game, but because I also wanted to give you a chance to show more of your wriin
+My intention was for this game to have a narrative that was interesting enough to keep players invested in the world and characters while they played the game. Not just because I wanted to make a good game, but because I also wanted to give you a chance to show more of your writing. But, if we want to do that, then we have to make sure we give the narrative as much love as the rest of the game.
 
 I've got a couple concerns with how the dialogue is currently implemented:
 - Interrupts the flow of gameplay w/out feeling significant
