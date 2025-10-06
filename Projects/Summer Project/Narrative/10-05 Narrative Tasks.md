@@ -9,9 +9,14 @@ I've got a couple concerns with how the dialogue is currently implemented:
 - A little difficult to follow the story because there hasn't been any real plan on how to intentionally present the story to the player
 
 ### Important Dialogue vs. Fluff Dialogue
-Not all dialogue is created equal, and we shouldn't try to present all dialogue the same way.
+Not all dialogue is created equal, and we shouldn't try to present all dialogue the same way. I think it'd be beneficial to think of the different types of dialogue in our game in two separate ways:
 
-- Important dialogue is stuff that the player really needs to know in order to understand the story, the world, or their character.
+#### Important Dialogue
+- Important dialogue is stuff that the player really needs to know in order to understand the story, the world, or their character. 
+- There should be a clear indication to the player that this dialogue is important or at least more significant than other dialogue.
+	- Kinda like how in a lot of RPGs, dialogue from important quest lines are 
+
+#### Fluff Dialogue
 
 ### Avoid Long Exposition Dumps
 
