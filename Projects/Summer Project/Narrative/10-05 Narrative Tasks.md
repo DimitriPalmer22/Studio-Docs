@@ -6,7 +6,14 @@ yeah ^
 ## Changing the Way we Think About Dialogue
 One of my earlier concerns w/ the project was that the dialogue could eventually feel like it is interrupting the flow of gameplay.
 
-### Avoid Long Exposition Dumps / Give it to them as they Go
+### Important Dialogue vs. Fluff Dialogue
+
+
+### Avoid Long Exposition Dumps
+
+
+### Give the Story to the Player As They Go
+
 
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
@@ -15,7 +22,6 @@ I want to rework how the beginning of each run works a little bit due to some fe
 
 ### The Way I Want it To Be
 
-## Important Dialogue vs. Fluff Dialogue
 
 
 
