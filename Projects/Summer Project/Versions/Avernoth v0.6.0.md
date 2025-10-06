@@ -37,3 +37,7 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Boost money reward from completing rooms
 
 ### Boss Rewards
+- [ ] Reward for completing boss room within a certain time
+- [ ] Reward for completing boss room without taking health damage
+
+## 
