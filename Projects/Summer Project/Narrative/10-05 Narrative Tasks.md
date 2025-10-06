@@ -27,7 +27,7 @@ Right now, dialogue portals spawn in two situations:
 - At the end of a room when you clear it
 - In pre-determined places like the upgrade room
 
-This is *boring and limited* 
+This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I think it'd be a lot better if we were more *flexible* with how we allowed Allister's allies to communicate with him.
 
 ### Avoid Long Exposition Dumps
 
