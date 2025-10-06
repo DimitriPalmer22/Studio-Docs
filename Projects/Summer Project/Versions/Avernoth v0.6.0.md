@@ -15,6 +15,15 @@ LDs have been making new blockouts that *should* be functional (but not the pret
 
 - [ ] Add new levels to the game
 
-Rework the level generation system to accomodate for new generation structure.
+Rework the level generation system to accommodate for new generation structure.
 
 - [ ] Refactor level generation system (Linked List Approach)
+- [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
+
+## Rewards
+- [ ] Balance existing stat rewards 
+- [ ] Balance percentage chances of each reward type
+- [ ] Boost money reward from completing rooms
+
+## Shield Mechanic
+- [ ] Turn the orb in the top left into a shield meter
