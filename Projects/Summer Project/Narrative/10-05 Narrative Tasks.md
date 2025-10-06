@@ -4,7 +4,9 @@ yeah ^
 # Things That Should Probably Be Done Sooner Rather than Later
 
 ## Changing the Way we Think About Dialogue
-One of my earlier concerns w/ the project was that the dialogue could eventually feel like it is interrupting the flow of gameplay.
+I've got a couple concerns with how the dialogue is currently implemented:
+- Interrupts the flow of gameplay w/out feeling significant
+- A little difficult to follow the story because there hasn't been any real plan on how to intentionally present the story to the player
 
 ### Important Dialogue vs. Fluff Dialogue
 Not all dialogue is created equal, and we shouldn't try to present all dialogue the same way.
