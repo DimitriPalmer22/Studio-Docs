@@ -94,6 +94,7 @@ Right now, the implementation of the journal tables feels... underwhelming. Play
 ### Allister Should Say Something
 - After reading the note, having a forced dialogue interaction would be pretty rad.
 - The dialogue interaction should acknowledge the contents of the journal entry.
+- It might be best for Allister to monologue here. The allies are supposed to be in the middle of a war or something. It wouldn't make too too much sense for them to actively be reading along with him.
 
 ### Giving the Player Something To Work Toward
 - Also, a cool little psychological thing I wanna try is giving the player a goal to work toward. Having a popup like *X journal pages found* after reading a journal entry would give players  
