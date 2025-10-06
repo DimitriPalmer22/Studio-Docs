@@ -39,7 +39,7 @@ Right now, dialogue portals spawn in two situations:
 - At the end of a room AFTER you clear it
 - In pre-determined places like the upgrade room
 
-This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I don't think we have a real reason for it (other than it being easy to implement at the time).
+This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I don't think we have a real reason for it (other than it being easy to implement at the time I was making the dialogue stuff).
 
 #### New Portal Spawn Opportunities
 
@@ -78,6 +78,9 @@ This would effectively help w/ two separate problems:
 	- And THEN the start of the run
 - During all of these points, there are opportunities for Zagreus to have conversations with the other characters or even make remarks to himself.
 - I'm not saying we need to go this far, but I do think it's worth considering *breaking up the starting sequence into more than 1 room*.
+
+### What Exactly Should We (You lol) Do?
+- Mocking up a 
 
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
