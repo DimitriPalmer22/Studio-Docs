@@ -5,6 +5,7 @@
 
 Right now, dialogue portals spawn completely randomly. I want there to be at least some semblance of pacing to it. Ex: the chance of getting a dialogue portal is largely determined on how long it's been since the last dialogue portal spawned.
 
+- [ ] Stat for how many rooms since last dialogue portal
 - [ ] Control the pacing of the dialogue more consistently
 
 ## Small Change to the Shop
