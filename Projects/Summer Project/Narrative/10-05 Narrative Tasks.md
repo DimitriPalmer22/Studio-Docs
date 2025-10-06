@@ -67,11 +67,11 @@ This would effectively help w/ two separate problems:
 #### Distinguishing Between Important and Fluff Dialogue
 The player MUST be able to tell the difference between important and fluff dialogue. 
 
-I have an Idea:
+I have an idea:
 - *Important Dialogue Interactions* can be mandatory. Like, they are automatically given the interaction without having to actively press a button to engage with it.
 - *Fluff Dialogue Interactions* can be optional. The player has to actively press a button (like right bumper or something) to engage with it.
 - This way, the player can choose to skip fluff dialogue if they aren't interested in it, but they can't skip important dialogue.
-- Fluff dialogue portals can appear on Allister's shoulder, and a button prompt appears for the player to engage with it.
+- Having the player walk out of their way to read dialogue from some physically placed portal can take too much time, especially if the player feels it isn't exactly relevant to the main story. Fluff dialogue portals can appear on Allister's shoulder, and a button prompt can appear for the player to engage with it.
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
