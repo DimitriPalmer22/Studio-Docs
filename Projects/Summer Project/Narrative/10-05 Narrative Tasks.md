@@ -27,9 +27,13 @@ Right now, dialogue portals spawn in two situations:
 - At the end of a room AFTER you clear it
 - In pre-determined places like the upgrade room
 
-This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I think it'd be a lot better if we were more *flexible* and *dynamic* with how we allowed Allister's allies to communicate with him.
+This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I don't think we have a real reason for it (other than it being easy to implement at the time).
 
-For example, let's say this is the player's first time encountering a journal table. As Allister approaches it (before even interacting with the table), the player is forced into an *important dialogue interaction* detailing how the  
+I think it'd be a lot better if we were more *flexible* and *dynamic* with how we allowed Allister's allies to communicate with him.
+
+For example, let's say this is the player's first time encountering a journal table. As Allister approaches it (before even interacting with the table), the player is forced into an *important dialogue interaction* detailing the significance of the journal tables in Avernoth. This way, the player understands why they should care about the journal tables before they even interact with one. 
+
+As for how this would be represented visually, we could probably have a mini portal appear from Allister's tome or on his shoulder or something.
 
 ### Avoid Long Exposition Dumps
 
