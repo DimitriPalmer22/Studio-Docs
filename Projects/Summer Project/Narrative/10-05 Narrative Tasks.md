@@ -89,7 +89,11 @@ I want to rework how the beginning of each run works a little bit due to some fe
 
 
 ## Journal Tables
-Right now, the implementation of the journal tables feels... underwhelming.
+Right now, the implementation of the journal tables feels... underwhelming. Players walk up to it, read a note, and that's it.
+
+### Allister or the Allies should Say Something
+- After reading the note, having a forced dialogue interaction would be pretty rad.
+- Also, a cool little psychological thing I wanna try is giving the player a goal to work toward. Maybe having a popup like 
 
 # Things that Are Not a Priority
 
