@@ -125,7 +125,12 @@ I wanna start considering all the brand new concepts and content the player is e
 
 #### Getting to the Questions
 - Getting the questions should be more of a grand occasion for the player.
-- 
+
+
+#### The Exit Portal
+- The exit portal should not be available until after the player answers the questions.
+- It should also appear in a position where the player would naturally be facing anyway
+- Positioning t
 
 
 ### Beyond the Intro Room
