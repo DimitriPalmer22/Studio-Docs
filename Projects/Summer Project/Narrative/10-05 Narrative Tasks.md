@@ -1,5 +1,5 @@
 
-## You Said you wanted to show me something Paul Made in Regards to the Portal?
+## You Said you wanted to show me something Paul Made (Relating to the Portal)?
 yeah ^
 # Things That Should Probably Be Addressed Sooner Rather than Later
 
@@ -37,7 +37,7 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
 - At the end of a room AFTER you clear it
-- In pre-determined places like the upgrade room
+- In pre-determined places like the upgrade room or the starting room
 
 This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I don't think we have a real reason for it (other than it being easy to implement at the time I was making the dialogue stuff).
 
