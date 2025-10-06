@@ -32,11 +32,13 @@
 
 #### Shield Mechanic
 
-#### Room Mechanics
+#### Meaningful Player Decisions
 
-#### Variation in Primary Spells
+##### Room Mechanics (Alternate Room Paths)
 
-#### Do Something With the Timer
+##### Variation in Primary Spells
+
+##### Do Something With the Timer
 
 ### Levels!!!
 
@@ -45,3 +47,9 @@
 #### Start Working on More Level Designs
 
 #### Apply Different Wall and Floor Materials
+
+### 2D Art Stuff
+
+#### Yo, I don't think the Myra portrait was ever sent
+
+### 3D Art Stuff
