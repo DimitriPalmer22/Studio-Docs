@@ -7,7 +7,9 @@ yeah ^
 One of my earlier concerns w/ the project was that the dialogue could eventually feel like it is interrupting the flow of gameplay.
 
 ### Important Dialogue vs. Fluff Dialogue
+Not all dialogue is created equal, and we shouldn't try to present all dialogue the same way.
 
+- Important dialogue is stuff that the player really needs to know in order to understand the story, the world, or their character.
 
 ### Avoid Long Exposition Dumps
 
