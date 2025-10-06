@@ -56,6 +56,7 @@ This would effectively help w/ two separate problems:
 - As it is right now, portals sometimes spawn on the room's exit portal. The player cannot leave the room without interacting with the dialogue portal first. 
 - This is kinda annoying because it forces the player to stop and listen to whatever Allister's allies have to say, even if it's not important. This leads to players who don't care skipping all dialogue, which is not what we want.
 - Instead, I think giving players the choice to engage with the dialogue portals would be a lot better.
+- It might be a good idea to have the portal spawn on Allister's tome or shoulder and have it indicate that the player can interact with it if they want to.
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
@@ -85,6 +86,10 @@ I want to rework how the beginning of each run works a little bit due to some fe
 
 
 
+
+
+## Journal Tables
+Right now, the implementation of the journal tables feels... underwhelming.
 
 # Things that Are Not a Priority
 
