@@ -91,7 +91,11 @@ I want to rework how the beginning of each run works a little bit due to some fe
 
 ![](<../../../_Meta/Attachments/Pasted image 20251006035357.png>)
 
-- The player sta
+- The player starts their run in the "starting room".
+- After the screen fades from black and Allister wakes up, a dialogue portal spawns in front of him.
+- The player interacts with the dialogue portal to hear the main portion of the introduction dialogue.
+- The player then leaves the room through the exit portal.
+- The player enters the "question room". *This is an opportunity for more dialogue*
 
 ## Journal Tables
 Right now, the implementation of the journal tables feel... underwhelming. Players walk up to it, read a note, and that's it.
