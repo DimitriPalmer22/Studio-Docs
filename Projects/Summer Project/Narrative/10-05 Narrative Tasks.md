@@ -83,9 +83,12 @@ I want to rework how the beginning of each run works a little bit due to some fe
 ### The Way It Is Currently
 ![](<../../../_Meta/Attachments/Pasted image 20251006034311.png>)
 
+- The intro to the game feels very dense right now.
+- With the 
+
 ### The Way I Want it To Be
 
-
+![](<../../../_Meta/Attachments/Pasted image 20251006035357.png>)
 
 ## Journal Tables
 Right now, the implementation of the journal tables feels... underwhelming. Players walk up to it, read a note, and that's it.
