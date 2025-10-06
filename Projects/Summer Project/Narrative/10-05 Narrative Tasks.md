@@ -51,12 +51,11 @@ This would effectively help w/ two separate problems:
 - Finding a way to *dynamically deliver story content* to the player
 - Finding a way to *tutorialize information* within the game's narrative
 
-#### Rethinking the Room Clear Portal Spawns
+#### Rethinking the "Room Clear" Portal Spawns
 
 - As it is right now, portals sometimes spawn on the room's exit portal. The player cannot leave the room without interacting with the dialogue portal first. 
-- This is kinda annoying because it forces the player to stop and listen to whatever Allister's allies have to say, even if it's not important. This leads to players who don't care 
-
-I think having the choice to engage with these might be a little more natural feeling
+- This is kinda annoying because it forces the player to stop and listen to whatever Allister's allies have to say, even if it's not important. This leads to players who don't care skipping all dialogue, which is not what we want.
+- Instead, I think giving players the choice to engage with the dialogue portals would be a lot better.
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
