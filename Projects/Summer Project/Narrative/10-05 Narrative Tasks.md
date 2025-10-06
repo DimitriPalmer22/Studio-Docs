@@ -1,8 +1,11 @@
 
-# Things That Should Probably Be Done Sooner Rather than Later
-
 ## You Said you wanted to show me something Paul Made in Regards to the Portal?
 yeah ^
+# Things That Should Probably Be Done Sooner Rather than Later
+
+## Dialogue Pacing
+One of my earlier concerns w/ the project was that the dialogue could eventually feel like it is interrupting the flow of gameplay.
+
 
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
@@ -10,6 +13,10 @@ I want to rework how the beginning of each run works a little bit due to some fe
 ### The Way It Is Currently
 
 ### The Way I Want it To Be
+
+## Important Dialogue vs. Fluff Dialogue
+
+
 
 # Things that Are Not a Priority
 
