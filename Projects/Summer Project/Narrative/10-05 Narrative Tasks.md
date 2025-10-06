@@ -39,8 +39,9 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 
 
 #### Distinguishing Between Important and Fluff Dialogue
-- The player MUST be able to tell the difference between important and fluff dialogue.
-- I think an easy way 
+The player MUST be able to tell the difference between important and fluff dialogue. I have an Idea:
+- *Important Dialogue Interactions* can be mandatory. Like, they are automatically given the interaction without having to actively press a button to engage with it.
+- *Fluff Dialogue Interactions* can be optional. The player has to actively press a button (like right bumper or something) to
 
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
