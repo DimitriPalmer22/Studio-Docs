@@ -26,6 +26,10 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Refactor level generation system (Linked List Approach)
 - [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
 
+Mikel has been playing around with some new materials for the walls and floors.
+
+- [ ] Update wall and floor materials EVERYWHERE
+
 ## Shield Mechanic
 - [ ] Add a new stat: shield
 - [ ] Change the damage calculation to use shield first, then health

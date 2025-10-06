@@ -73,6 +73,7 @@ I made a VFX asset for runes that I threw on:
 - [x] Interface for UI and exiting
 
 ### v0.5.3
+- [x] Fixed white screen when transitioning rooms
 - [ ] Change the spell holders in the bottom right
 - [ ] Notification system for pickups
 - [ ] Tune camera
