@@ -22,10 +22,18 @@ Rework the level generation system to accommodate for new generation structure.
 
 ## Shield Mechanic
 - [ ] Add a new stat: shield
-- [ ] Change
+- [ ] Change the damage calculation to use shield first, then health
+- [ ] Differentiate events for:
+	- [ ] Taking damage to shield
+	- [ ] Taking damage to health
+	- [ ] Taking damage in general
 - [ ] Turn the orb in the top left into a shield meter
 
 ## Rewards
+
+### Standard Room Rewards
 - [ ] Balance existing stat rewards 
 - [ ] Balance percentage chances of each reward type
 - [ ] Boost money reward from completing rooms
+
+### Boss Rewards
