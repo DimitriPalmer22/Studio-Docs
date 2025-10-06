@@ -1,7 +1,7 @@
 
-#
+# Things That Should Probably Be Done Sooner Rather than Later
 
-You Said you wanted to show me something Paul Made in Regards to the Portal?
+## You Said you wanted to show me something Paul Made in Regards to the Portal?
 yeah ^
 
 # Things that Are Not a Priority

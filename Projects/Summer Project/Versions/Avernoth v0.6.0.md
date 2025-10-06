@@ -9,8 +9,8 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 - [ ] Control the pacing of the dialogue more consistently
 	- [ ] Curve for chance of dialogue portal spawning based on rooms since last dialogue portal
 	- [ ] Bool flag for always getting a dialogue portal on the room manager (should be used for boss room BP)
-- [ ] Forced interactions will trig
-- [ ] Used for a tutorial sequence in the player's first run
+- [ ] New bool flag on dialogue interactions for overriding the chance to spawn (ALWAYS Spawn)
+	- [ ] Used for a tutorial sequence at the beginning of the game
 
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
