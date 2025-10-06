@@ -42,7 +42,9 @@ The implementation of the game's dialogue requires a huge overhaul. It's been ne
 
 #### Meaningful Player Decisions
 
-##### Room Mechanics (Alternate Room Paths)
+##### Alternate Room Paths
+- Let the player choose between two exits at the end of a room
+- This way, 
 
 ##### Variation in Primary Spells
 
