@@ -64,7 +64,8 @@ This would effectively help w/ two separate problems:
 	- The little area next to Zagreus's room (that has Nyx somtimes)
 	- The bedroom
 	- The training area
-	- And THEN
+	- And THEN the start of the run
+- During all of these points, there are opportunities for Zagreus to have conversations with the other characters or even make remarks to himself.
 
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
