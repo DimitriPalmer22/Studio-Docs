@@ -49,6 +49,8 @@ This would effectively help w/ two separate problems:
 - Finding a way to *dynamically deliver story content* to the player
 - Finding a way to *tutorialize information* within the game's narrative
 
+Now that I think about it, we could even change how the existing 
+
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
 - Considering the fact that this game is targeting an audience that is more invested in the action of the game than the story, I think it's important to keep this in mind
@@ -66,6 +68,7 @@ This would effectively help w/ two separate problems:
 	- The training area
 	- And THEN the start of the run
 - During all of these points, there are opportunities for Zagreus to have conversations with the other characters or even make remarks to himself.
+- I'm not saying we need to go this far, but I do think it's worth considering *breaking up the starting sequence into more than 1 room*.
 
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
