@@ -95,7 +95,11 @@ I want to rework how the beginning of each run works a little bit due to some fe
 - After the screen fades from black and Allister wakes up, a dialogue portal spawns in front of him.
 - The player interacts with the dialogue portal to hear the main portion of the introduction dialogue.
 - The player then leaves the room through the exit portal.
-- The player enters the "question room". *This is an opportunity for more dialogue*
+- The player enters the "question room". *This is an opportunity for more dialogue.* Something short, though.
+- The player approaches the question rune and answers the questions.
+- They then leave the room through the exit portal.
+- The player enters the first room of the run. Loading in the first room of the run is *another opportunity for more dialogue*. Again, something short.
+- Considering that the play
 
 ## Journal Tables
 Right now, the implementation of the journal tables feel... underwhelming. Players walk up to it, read a note, and that's it.
