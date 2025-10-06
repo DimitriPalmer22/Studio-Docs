@@ -21,7 +21,8 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 - Also, the way I see it, *important dialogue interactions* should be delivered as feedback for the player's actions and should acknowledge what the player is doing.
 	- Ex: The player encounters a journal table for the first time -> Allister's allies explain the significance of journal tables in Avernoth
 	- Ex: The player enters a new area of Avernoth for the first time -> Allister's allies explain the significance of this area in Avernoth
-	- Ex: The player enters -> Allister's allies explain the significance of this boss in Avernoth
+	- Ex: The player enters a "boss room" for the first time -> Allister's allies explain that "the mana here is more dense" or something
+- The reasoning behind the feedback idea comes from a video I watched from Masahiro Sakurai, where he explains that action games should always have some type of feedback for button presses. I think the same type of reasoning can be applied in this scenario.
 
 #### Fluff Dialogue
 
