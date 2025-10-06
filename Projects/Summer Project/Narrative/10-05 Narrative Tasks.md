@@ -33,9 +33,13 @@ I wanna start considering all the brand new concepts and content the player is e
 ### Intro Room
 
 #### Introduce the Dialogue Portal
-One thing I think would be a nice touch is having the dialogue portal 
+- One thing I think would be a nice touch is having the dialogue portal spawn in the intro room a teeny bit after the screen fades from black.
+- This draws the player's attention to it and makes sure they don't miss it.
+- Maybe the initial room should be pretty simple so the player can focus on the dialogue portal.
 
-####
+#### Getting to the Questions
+- Getting the questions should be more of a grand occasion for the player.
+- 
 
 
 ### Beyond the Intro Room
