@@ -120,7 +120,9 @@ Right now, the implementation of the journal tables feel... underwhelming. Playe
 Tackling how we want to approach delivering the narrative to the player should take priority over anything else.
 
 ### The Intro Sequence
-- The main bit of feedback I got about the
+- The main bit of feedback I got about the initial intro dialogue is that it's way too long.
+- When reading it straight up, it looked fine, but having to click through it all at once was a lot.
+- 
 
 # Things that Are Not a Priority
 
