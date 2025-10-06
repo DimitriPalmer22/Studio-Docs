@@ -79,9 +79,6 @@ This would effectively help w/ two separate problems:
 - During all of these points, there are opportunities for Zagreus to have conversations with the other characters or even make remarks to himself.
 - I'm not saying we need to go this far, but I do think it's worth considering *breaking up the starting sequence into more than 1 room*.
 
-### What Exactly Should We (You lol) Do?
-- Mocking up a 
-
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
 
@@ -117,6 +114,13 @@ Right now, the implementation of the journal tables feel... underwhelming. Playe
 ### Giving the Player Something To Work Toward
 - Also, a cool little psychological thing I wanna try is giving the player a goal to work toward. Having a popup like *X journal pages found* after reading a journal entry would give players  
 - Players might want to learn what happens when all the journal entries are found.
+
+## What Exactly Should We (You lol) Do?
+
+Tackling how we want to approach delivering the narrative to the player should take priority over anything else.
+
+### The Intro Sequence
+- The main bit of feedback I got about the
 
 # Things that Are Not a Priority
 
