@@ -38,11 +38,6 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 	- Ex: The player clears a room -> Allister's allies make a joke about how easy that was OR talk about how it relates to their pasts
 
 
-#### Distinguishing Between Important and Fluff Dialogue
-The player MUST be able to tell the difference between important and fluff dialogue. I have an Idea:
-- *Important Dialogue Interactions* can be mandatory. Like, they are automatically given the interaction without having to actively press a button to engage with it.
-- *Fluff Dialogue Interactions* can be optional. The player has to actively press a button (like right bumper or something) to
-
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
 - At the end of a room AFTER you clear it
@@ -68,6 +63,15 @@ This would effectively help w/ two separate problems:
 - This is kinda annoying because it forces the player to stop and listen to whatever Allister's allies have to say, even if it's not important. This leads to players who don't care skipping all dialogue, which is not what we want.
 - Instead, I think giving players the choice to engage with the dialogue portals would be a lot better.
 - It might be a good idea to have the portal spawn on Allister's tome or shoulder and have it indicate that the player can interact with it if they want to.
+
+#### Distinguishing Between Important and Fluff Dialogue
+The player MUST be able to tell the difference between important and fluff dialogue. 
+
+I have an Idea:
+- *Important Dialogue Interactions* can be mandatory. Like, they are automatically given the interaction without having to actively press a button to engage with it.
+- *Fluff Dialogue Interactions* can be optional. The player has to actively press a button (like right bumper or something) to engage with it.
+- This way, the player can choose to skip fluff dialogue if they aren't interested in it, but they can't skip important dialogue.
+- Fluff dialogue portals can appear on Allister's shoulder, and a button prompt appears for the player to engage with it.
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
