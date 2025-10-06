@@ -22,7 +22,12 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 #### Fluff Dialogue
 
 
-### Updating 
+### Updating How Allister's Allies can Communicate w/ Him
+Right now, dialogue portals spawn in two situations:
+- At the end of a room when you clear it
+- In pre-determined places like the upgrade room
+
+This is *boring and limited* 
 
 ### Avoid Long Exposition Dumps
 
