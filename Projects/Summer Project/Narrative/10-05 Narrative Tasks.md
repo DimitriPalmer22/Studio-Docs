@@ -15,9 +15,14 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 - Important dialogue is stuff that the player really needs to know in order to understand the story, the world, or their character. 
 - There should be a clear indication to the player that this dialogue is important or at least more significant than other dialogue.
 	- Kinda like how in a lot of RPGs, dialogue lines from important quest lines are usually voiced, but lines from side quests or random NPCs are usually not voiced. The player knows to pay more attention when they hear a voice.
-- 
+- I might even consider making these *UNSKIPPABLE* or something
+- For these, it'd probably be best to map out all the important information we want Allister's allies to convey to him
+	- For example, entering a new area of Avernoth for the first time, encountering a journal table for the first time, etc.
 
 #### Fluff Dialogue
+
+
+### Updating 
 
 ### Avoid Long Exposition Dumps
 
