@@ -91,9 +91,13 @@ I want to rework how the beginning of each run works a little bit due to some fe
 ## Journal Tables
 Right now, the implementation of the journal tables feels... underwhelming. Players walk up to it, read a note, and that's it.
 
-### Allister or the Allies should Say Something
+### Allister Should Say Something
 - After reading the note, having a forced dialogue interaction would be pretty rad.
-- Also, a cool little psychological thing I wanna try is giving the player a goal to work toward. Maybe having a popup like 
+- The dialogue interaction should acknowledge the contents of the journal entry.
+
+### Giving the Player Something To Work Toward
+- Also, a cool little psychological thing I wanna try is giving the player a goal to work toward. Having a popup like *X journal pages found* after reading a journal entry would give players  
+- Players might want to learn what happens when all the journal entries are found.
 
 # Things that Are Not a Priority
 
