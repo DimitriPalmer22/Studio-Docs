@@ -20,10 +20,12 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Refactor level generation system (Linked List Approach)
 - [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
 
+## Shield Mechanic
+- [ ] Add a new stat: shield
+- [ ] Change
+- [ ] Turn the orb in the top left into a shield meter
+
 ## Rewards
 - [ ] Balance existing stat rewards 
 - [ ] Balance percentage chances of each reward type
 - [ ] Boost money reward from completing rooms
-
-## Shield Mechanic
-- [ ] Turn the orb in the top left into a shield meter
