@@ -1,7 +1,7 @@
 
 ## You Said you wanted to show me something Paul Made in Regards to the Portal?
 yeah ^
-# Things That Should Probably Be Done Sooner Rather than Later
+# Things That Should Be Addressed Sooner Rather than Later
 
 ## Changing the Way we Think About Dialogue
 I've got a couple concerns with how the dialogue is currently implemented:
@@ -99,7 +99,7 @@ I want to rework how the beginning of each run works a little bit due to some fe
 - The player approaches the question rune and answers the questions.
 - They then leave the room through the exit portal.
 - The player enters the first room of the run. Loading in the first room of the run is *another opportunity for more dialogue*. Again, something short.
-- Considering that the play
+- Considering that the player has to go through this sequence whenever they restart the game, *we want restarts to be quick*. Get the player back into the game as quick as possible while keeping the narrative within the flow of the game.
 
 ## Journal Tables
 Right now, the implementation of the journal tables feel... underwhelming. Players walk up to it, read a note, and that's it.
