@@ -144,7 +144,7 @@ Tackling how we want to approach delivering the narrative to the player should t
 These are just some things you can keep in mind for later. If you have an idea or suggestion randomly, you can hit me up about it. 
 
 ## Area Names?
-Every time Allister enters a new area of Avernoth (the areas are separated by the "boss rooms"), a title card appears in the middle of the screen for a few seconds, showing the name of the area. I'm ngl I have absolutely no idea what to do with these.
+Every time Allister enters a new area of Avernoth (the areas are separated by the "boss rooms"), a title card appears in the middle of the screen for a few seconds, showing the name of the area. I'm ngl I have absolutely no idea what to do with these since there isn't a super strong theming from area to area. That might change as we get more levels though...
 
 ![](<../../../_Meta/Attachments/Pasted image 20251005224813.png>)
 
