@@ -81,7 +81,7 @@ This would effectively help w/ two separate problems:
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
 
 ### The Way It Is Currently
-
+![](<../../../_Meta/Attachments/Pasted image 20251006034311.png>)
 
 ### The Way I Want it To Be
 
