@@ -69,7 +69,7 @@ I made a VFX asset for runes that I threw on:
 ### v0.5.2
 - [ ] Notification system for pickups
 - [x] Interaction text for the different pickups
-- [ ] Dialogue UI initial hidden bug fix
+- [x] Dialogue UI initial hidden bug fix
 - [x] Cheat commands
 - [ ] Interface for UI and exiting
 
