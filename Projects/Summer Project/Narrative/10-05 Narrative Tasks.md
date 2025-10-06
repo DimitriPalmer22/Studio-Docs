@@ -37,6 +37,11 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 - Although they should still somewhat follow the principle of acknowledging the player's actions, they don't need to be as strict about it.
 	- Ex: The player clears a room -> Allister's allies make a joke about how easy that was OR talk about how it relates to their pasts
 
+
+#### Distinguishing Between Important and Fluff Dialogue
+- The player MUST be able to tell the difference between important and fluff dialogue.
+- I think an easy way 
+
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
 - At the end of a room AFTER you clear it
@@ -174,3 +179,4 @@ I wanna start considering all the brand new concepts and content the player is e
 
 #### "Boss" Room
 
+#### The Start of a New Area
