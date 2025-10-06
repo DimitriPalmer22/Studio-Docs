@@ -1,6 +1,5 @@
 
-## You Said you wanted to show me something Paul Made (Relating to the Portal)?
-yeah ^
+> You Said you wanted to show me something Paul Made (Relating to the Portal)?
 # Things That Should Probably Be Addressed Sooner Rather than Later
 
 ## Changing the Way we Think About Dialogue
