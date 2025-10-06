@@ -118,7 +118,7 @@ Right now, the implementation of the journal tables feel... underwhelming. Playe
 - Also, a cool little psychological thing I wanna try is giving the player a goal to work toward. Having a popup like *X journal pages found* after reading a journal entry would give players  
 - Players might want to learn what happens when all the journal entries are found.
 
-## What Exactly Should We (You lol) Do?
+## !! What Exactly Should We (You lol) Do? !!
 
 Tackling how we want to approach delivering the narrative to the player should take priority over anything else.
 
@@ -126,7 +126,8 @@ Tackling how we want to approach delivering the narrative to the player should t
 - The main bit of feedback I got about the initial intro dialogue is that it's way too long.
 - When reading it straight up, it looked fine, but having to click through it all at once was a lot.
 - I think if you wanted to skip through all the pieces of dialogue, it would take 24 button presses. 
-- 
+- Finding a better way to pace this sequence is top priority.
+- If we can't nail this, then it might be difficult to get players invested in the story for the rest of the game.
 
 # Things that Are Not a Priority
 
@@ -157,7 +158,6 @@ I wanna start considering all the brand new concepts and content the player is e
 #### Getting to the Questions
 - Getting the questions should be more of a grand occasion for the player.
 
-
 #### The Exit Portal
 - The exit portal should not be available until after the player answers the questions.
 - It should also appear in a position where the player would naturally be facing anyway
@@ -165,3 +165,12 @@ I wanna start considering all the brand new concepts and content the player is e
 
 
 ### Beyond the Intro Room
+
+#### Journal Table
+
+#### Upgrade Room
+
+#### Shop Room
+
+#### "Boss" Room
+
