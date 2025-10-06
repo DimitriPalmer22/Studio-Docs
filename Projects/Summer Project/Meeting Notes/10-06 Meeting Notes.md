@@ -24,9 +24,17 @@
 
 ### Rune VFX
 
+### Cooler Slow-motion Effect when Clearing Rooms
+
+### Timer in The Top Right Corner
+
+### Using a Secondary @ the End of Your Primary Combo Increases it's Damage
+
 ## Goals for v0.6.0
 
 ### Dialogue
+
+The implementation of the game's dialogue requires a huge overhaul. It's been neglected for too long.
 
 ### Gameplay
 
