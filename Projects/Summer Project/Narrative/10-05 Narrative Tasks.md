@@ -31,4 +31,10 @@ Every time Allister enters a new area of Avernoth (the areas are separated by th
 
 ### Intro Room
 
+#### Introduce the Dialogue Portal
+
+
+####
+
+
 ### Beyond the Intro Room
