@@ -21,6 +21,8 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 
 #### Fluff Dialogue
 
+- Fluff dialogue is stuff that adds flavor to the world and characters but isn't strictly necessary for the player to understand the story.
+- This is the type of stuff that can be skipped if the player isn't interested in it.
 
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
@@ -34,6 +36,10 @@ I think it'd be a lot better if we were more *flexible* and *dynamic* with how w
 For example, let's say this is the player's first time encountering a journal table. As Allister approaches it (before even interacting with the table), the player is forced into an *important dialogue interaction* detailing the significance of the journal tables in Avernoth. This way, the player understands why they should care about the journal tables before they even interact with one. 
 
 As for how this would be represented visually, we could probably have a mini portal appear from Allister's tome or on his shoulder or something.
+
+This would effectively help w/ two separate problems:
+- Finding a way to *dynamically deliver story content* to the player
+- Finding a way to *tutorialize information* within the game's narrative
 
 ### Avoid Long Exposition Dumps
 
