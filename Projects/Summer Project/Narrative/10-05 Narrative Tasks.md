@@ -14,7 +14,8 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 #### Important Dialogue
 - Important dialogue is stuff that the player really needs to know in order to understand the story, the world, or their character. 
 - There should be a clear indication to the player that this dialogue is important or at least more significant than other dialogue.
-	- Kinda like how in a lot of RPGs, dialogue from important quest lines are 
+	- Kinda like how in a lot of RPGs, dialogue lines from important quest lines are usually voiced, but lines from side quests or random NPCs are usually not voiced. The player knows to pay more attention when they hear a voice.
+- 
 
 #### Fluff Dialogue
 
