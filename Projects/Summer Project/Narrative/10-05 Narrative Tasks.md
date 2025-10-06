@@ -1,9 +1,11 @@
 
 ## You Said you wanted to show me something Paul Made in Regards to the Portal?
 yeah ^
-# Things That Should Be Addressed Sooner Rather than Later
+# Things That Should Probably Be Addressed Sooner Rather than Later
 
 ## Changing the Way we Think About Dialogue
+My intention was for this game to have a narrative that was interesting enough to keep players invested in the world and characters while they played the game. Not just because I wanted to make a good game, but because I also wanted to give you a chance to show more of your wriin
+
 I've got a couple concerns with how the dialogue is currently implemented:
 - Interrupts the flow of gameplay w/out feeling significant
 - A little difficult to follow the story because there hasn't been any real plan on how to intentionally present the story to the player
