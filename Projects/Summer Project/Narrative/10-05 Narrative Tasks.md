@@ -122,7 +122,7 @@ Tackling how we want to approach delivering the narrative to the player should t
 ### The Intro Sequence
 - The main bit of feedback I got about the initial intro dialogue is that it's way too long.
 - When reading it straight up, it looked fine, but having to click through it all at once was a lot.
-- 
+- I think if you wanted to skip through all the pieces of dialogue
 
 # Things that Are Not a Priority
 
