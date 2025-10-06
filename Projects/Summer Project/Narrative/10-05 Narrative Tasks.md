@@ -84,7 +84,7 @@ I want to rework how the beginning of each run works a little bit due to some fe
 ![](<../../../_Meta/Attachments/Pasted image 20251006034311.png>)
 
 - The intro to the game feels very dense right now.
-- With the 
+- With the introduction dialogue AND
 
 ### The Way I Want it To Be
 
