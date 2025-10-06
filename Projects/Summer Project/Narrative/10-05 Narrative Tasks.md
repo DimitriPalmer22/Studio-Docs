@@ -3,6 +3,8 @@
 yeah ^
 
 # Area Names?
+Every time Allister enters a new area of Avernoth (the areas are separated by the "boss rooms"), a title card appears in the middle of the screen for a few seconds, showing the name of the area.
+
 ![](<../../../_Meta/Attachments/Pasted image 20251005224813.png>)
 
 ## Area 1
