@@ -18,11 +18,16 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 - I might even consider making these *UNSKIPPABLE* or something
 - For these, it'd probably be best to map out all the important information we want Allister's allies to convey to him
 	- For example, entering a new area of Avernoth for the first time, encountering a journal table for the first time, etc.
+- Also, the way I see it, *important dialogue interactions* should be delivered as feedback for the player's actions and should acknowledge what the player is doing.
+	- Ex: The player encounters a journal table for the first time -> Allister's allies explain the significance of journal tables in Avernoth
+	- Ex: The player enters a new area of Avernoth for the first time -> Allister's allies explain the significance of this area in Avernoth
+	- Ex: The player enters -> Allister's allies explain the significance of this boss in Avernoth
 
 #### Fluff Dialogue
 
 - Fluff dialogue is stuff that adds flavor to the world and characters but isn't strictly necessary for the player to understand the story.
 - This is the type of stuff that can be skipped if the player isn't interested in it.
+- The dialogue interactions that randomly spawn at the ends of rooms are probably best suited for this type of dialogue.
 
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
