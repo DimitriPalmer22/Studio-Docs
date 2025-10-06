@@ -51,11 +51,16 @@ This would effectively help w/ two separate problems:
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
-- Considering the fact that this game is targeting an audience that 
+- Considering the fact that this game is targeting an audience that is more invested in the action of the game than the story, I think it's important to keep this in mind
+- So, what do we do?
 
 ### Give the Story to the Player As They Go
 - With just a little bit of movement or action in between these conversations, players seem to be a lot more willing to sit through them.
 	- For me personally, It's kinda like being more willing to watch 3 20-minute YouTube videos vs. a single 1-hour YouTube video.
+- This is one of the main reasons why I'm inclined to split the starting sequence (Wake up & read dialogue -> answer questions for spells) into more than 1 room. It gives us more opportunities to break up the dialogue into smaller chunks.
+- In Hades, you have 
+	- The pool Zagreus wakes up in
+	- The little 
 
 ## Questions @ the Start of each Run
 I want to rework how the beginning of each run works a little bit due to some feedback I got when I got the designers to play the game.
