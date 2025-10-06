@@ -24,10 +24,12 @@ Not all dialogue is created equal, and we shouldn't try to present all dialogue 
 
 ### Updating How Allister's Allies can Communicate w/ Him
 Right now, dialogue portals spawn in two situations:
-- At the end of a room when you clear it
+- At the end of a room AFTER you clear it
 - In pre-determined places like the upgrade room
 
-This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I think it'd be a lot better if we were more *flexible* with how we allowed Allister's allies to communicate with him.
+This is *boring and limited*. It also begs the question, "Why do portals only spawn in these places?" I think it'd be a lot better if we were more *flexible* and *dynamic* with how we allowed Allister's allies to communicate with him.
+
+For example, let's say this is the player's first time encountering a journal table. As Allister approaches it (before even interacting with the table), the player is forced into an *important dialogue interaction* detailing how the  
 
 ### Avoid Long Exposition Dumps
 
