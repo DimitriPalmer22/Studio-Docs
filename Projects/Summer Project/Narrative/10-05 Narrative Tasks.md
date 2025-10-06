@@ -53,7 +53,10 @@ This would effectively help w/ two separate problems:
 
 #### Rethinking the Room Clear Portal Spawns
 
-As it is right now, portals sometimes spawn on the room's exit portal 
+- As it is right now, portals sometimes spawn on the room's exit portal. The player cannot leave the room without interacting with the dialogue portal first. 
+- This is kinda annoying because it forces the player to stop and listen to whatever Allister's allies have to say, even if it's not important. This leads to players who don't care 
+
+I think having the choice to engage with these might be a little more natural feeling
 
 ### Avoid Long Unbroken Conversations
 - One thing I've seen a little of through playtesting is just how little tolerance players can have for long portions of dialogue
