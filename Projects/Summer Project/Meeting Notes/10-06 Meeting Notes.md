@@ -50,6 +50,8 @@
 
 ### 2D Art Stuff
 
-#### Yo, I don't think the Myra portrait was ever sent
+#### Yo, I don't think the Myra portrait was ever sent lol
+
+#### Hey, Remember those Runes? 
 
 ### 3D Art Stuff
