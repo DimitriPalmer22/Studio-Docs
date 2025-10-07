@@ -3,6 +3,9 @@
 
 ## Dialogue Pacing
 
+- [ ] Function in Old Data Asset to Create new, matching data assets
+- [ ] Make a new, idential UI that works with the new dialogue struct
+
 Right now, dialogue portals spawn completely randomly. I want there to be at least some semblance of pacing to it. Ex: the chance of getting a dialogue portal is largely determined on how long it's been since the last dialogue portal spawned.
 
 - [ ] Stat for how many rooms since last dialogue portal
