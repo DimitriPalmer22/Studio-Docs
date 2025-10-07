@@ -44,11 +44,14 @@ The implementation of the game's dialogue requires a huge overhaul. It's been ne
 
 ##### Alternate Room Paths
 - Let the player choose between two exits at the end of a room
-- This way, 
+- This way, the player can choose to take on a harder room for a better reward
 
 ##### Variation in Primary Spells
+- All the primary spells literally behave the same
+- If we gave Allister a gun instead of the primary spells, the game would literally play the exact same
 
 ##### Do Something With the Timer
+
 
 ### Levels!!!
 
