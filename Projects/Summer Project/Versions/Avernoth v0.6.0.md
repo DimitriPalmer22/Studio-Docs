@@ -4,7 +4,7 @@
 ## Dialogue Pacing
 
 - [x] Function in Old Data Asset to Create new, matching data assets
-- [ ] Function to check if a dialogue interaction is valid
+- [x] Function to check if a dialogue interaction is valid
 - [ ] Make a new, identical UI that works with the new dialogue struct
 - [ ] In the new UI, have the UI purely control the dialogue flow
 - [ ] Gather and store all dialogue interactions
