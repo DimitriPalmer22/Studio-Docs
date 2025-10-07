@@ -5,7 +5,7 @@
 
 - [x] Function in Old Data Asset to Create new, matching data assets
 - [x] Function to check if a dialogue interaction is valid
-- [ ] Gather and store all dialogue interactions
+- [x] Gather and store all dialogue interactions
 - [ ] Make a new, identical UI that works with the new dialogue struct
 - [ ] In the new UI, have the UI purely control the dialogue flow
 
