@@ -51,7 +51,7 @@ The implementation of the game's dialogue requires a huge overhaul. It's been ne
 - If we gave Allister a gun instead of the primary spells, the game would literally play the exact same
 
 ##### Do Something With the Timer
-
+- Maybe give the player a reward for completing each "boss room" under a certain time?
 
 ### Levels!!!
 
