@@ -45,6 +45,7 @@ The implementation of the game's dialogue requires a huge overhaul. It's been ne
 ##### Alternate Room Paths
 - Let the player choose between two exits at the end of a room
 - This way, the player can choose to take on a harder room for a better reward
+- The different rune symbols can be used to denote what type of room is next
 
 ##### Variation in Primary Spells
 - All the primary spells literally behave the same
