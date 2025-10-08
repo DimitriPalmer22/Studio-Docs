@@ -22,6 +22,9 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 - [x] Journal table dialogue reaction.
 	- [x] Each journal entry has a corresponding dialogue interaction asset
 
+- [ ] Proximity-based components w/ pre-set dialogue interactions (that have their own conditions) for tutorial purposes
+	- [ ] Must check if the dialogue UI is already open and will hold off until it's closed
+
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
 
