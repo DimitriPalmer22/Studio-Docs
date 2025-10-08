@@ -28,6 +28,7 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 	- [x] Room event-based component w/ enum for which room event should trigger it (enter, start, clear, or exit)
 	- [ ] Gameplay event-based component - List of event + dialogue interaction pairs that will trigger when the event fires
 BUGS:
+- Consider how to validate and invalidate tutorials (just use the tags lol)
 - Getting a dynamic dialogue interaction while you have an optional one is gonna remove the optional one. Keep this as a feature?
 - Can still control player while the animation for the dynamic dialogue is playing
 
