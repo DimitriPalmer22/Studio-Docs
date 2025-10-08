@@ -26,7 +26,7 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 	- [ ] Must check if the dialogue UI is already open and will hold off until it's closed
 	- [ ] Proximity-based component w/ pre-set dialogue interactions (that have their own conditions) for tutorial purposes
 	- [ ] Room event-based component w/ enum for which room event should trigger it (enter, start, clear, or exit)
-	- [ ] Gameplay event-based component - List of event + dialogue interaction pairs
+	- [ ] Gameplay event-based component - List of event + dialogue interaction pairs that will trigger when the event fires
 	
 
 ## Small Change to the Shop
