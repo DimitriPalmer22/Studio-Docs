@@ -22,12 +22,14 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 - [x] Journal table dialogue reaction.
 	- [x] Each journal entry has a corresponding dialogue interaction asset
 
-- [ ] Tutorial component base class?
+- [x] Tutorial component base class?
 	- [ ] Must check if the dialogue UI is already open and will hold off until it's closed
-	- [ ] Proximity-based component w/ pre-set dialogue interactions (that have their own conditions) for tutorial purposes
-	- [ ] Room event-based component w/ enum for which room event should trigger it (enter, start, clear, or exit)
+	- [x] Proximity-based component w/ pre-set dialogue interactions (that have their own conditions) for tutorial purposes
+	- [x] Room event-based component w/ enum for which room event should trigger it (enter, start, clear, or exit)
 	- [ ] Gameplay event-based component - List of event + dialogue interaction pairs that will trigger when the event fires
-	
+BUGS:
+- Getting a dynamic dialogue interaction while you have an optional one is gonna remove the optional one. Keep this as a feature?
+- Can still control player while the animation for the dynamic dialogue is playing
 
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
