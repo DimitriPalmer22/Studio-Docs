@@ -6,8 +6,8 @@
 - [x] Function in Old Data Asset to Create new, matching data assets
 - [x] Function to check if a dialogue interaction is valid
 - [x] Gather and store all dialogue interactions
-- [ ] Make a new, identical UI that works with the new dialogue struct
-	- [ ] In the new UI, have the UI purely control the dialogue flow
+- [x] Make a new, identical UI that works with the new dialogue struct
+	- [x] In the new UI, have the UI purely control the dialogue flow
 
 Right now, dialogue portals spawn completely randomly. I want there to be at least some semblance of pacing to it. Ex: the chance of getting a dialogue portal is largely determined on how long it's been since the last dialogue portal spawned.
 
