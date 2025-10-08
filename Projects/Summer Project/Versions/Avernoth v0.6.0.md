@@ -19,7 +19,8 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 
 - [ ] Used for a tutorial sequence at the beginning of the game
 
-- [ ] Journal table 
+- [ ] Journal table dialogue reaction.
+	- [ ] Each journal entry has a corresponding dialogue interaction asset
 
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
