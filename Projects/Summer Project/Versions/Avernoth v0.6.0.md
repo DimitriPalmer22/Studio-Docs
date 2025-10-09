@@ -98,3 +98,8 @@ Choose at least two powers from that one document we made and implement them fun
 
 ## Major Dialogue Update
 
+### Dialgoue UI Update
+- Characters bob up and down a little while in the dialogue screen
+- The dialogue UI now supports rich text, allowing us to have more control over the appearance of individual words & characters
+
+## Dialogue Typers
