@@ -106,4 +106,8 @@ Choose at least two powers from that one document we made and implement them fun
 There are now three types of dialogue interactions:
 - **Static Dialogue Interactions** - These are the dialogue interactions that we've always had. The player walks up to a portal (or some other object that activates dialogue) and presses the interact button to start the dialogue interaction. These are mainly for the shop and upgrade room.
 - **Dynamic Dialogue Interactions** - Instead of Allister having to walk up to some object to interact with it, a little dialogue portal appears next to Allister and the dialogue starts automatically. These are mainly for key story beats and tutorial purposes. Anything that we want to make sure the player sees would most likely be a dynamic dialogue interaction. 
-- **Optional Dialogue Interactions** - Similar to the te
+- **Optional Dialogue Interactions** - Similar to the dynamic dialogue interactions, a little dialogue portal appears next to Allister. However, the player has the option to ignore it and continue playing. The player would have to press a dedicated button (T for right now) to start the dialogue interaction. These are mainly for flavor text and lore purposes. The room clear dialogue interactions are an example of optional dialogue interactions.
+
+## Tutorialization
+Using the new dynamic dialogue interactions, we can now tutorialize the game a lot better. As of right now, there are a couple scenarios in which tutorial dialogue can pop up:
+- The player gets close to an object that requires a tutorial (like the )
