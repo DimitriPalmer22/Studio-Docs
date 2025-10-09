@@ -102,28 +102,28 @@ Choose at least two powers from that one document we made and implement them fun
 - Characters bob up and down a little while in the dialogue screen
 - ***The dialogue UI now supports rich text***, allowing us to have more control over the appearance of individual words & characters. It's a *teeny* bit wonky right now, so there are some quirks to work through. But, it should be good enough to use for formatting individual words.
 
-## Dialogue Types
+### Per-Character Talking Sounds
+- Added support for each character having their own "talking" sound effect.
+- The game is still using the same old placeholder sound, but every character's sound is pitched differently to give them some
+
+### Dialogue Types
 There are now three types of dialogue interactions:
 - **Static Dialogue Interactions** - These are the dialogue interactions that we've always had. The player walks up to a portal (or some other object that activates dialogue) and presses the interact button to start the dialogue interaction. These are mainly for the shop and upgrade room.
 - **Dynamic Dialogue Interactions** - Instead of Allister having to walk up to some object to interact with it, a little dialogue portal appears next to Allister and the dialogue starts automatically. These are mainly for key story beats and tutorial purposes. Anything that we want to make sure the player sees would most likely be a dynamic dialogue interaction. 
 - **Optional Dialogue Interactions** - Similar to the dynamic dialogue interactions, a little dialogue portal appears next to Allister. However, the player has the option to ignore it and continue playing. The player would have to press a dedicated button (Q for right now) to start the dialogue interaction. These are mainly for flavor text and lore purposes. The room clear dialogue interactions are an example of optional dialogue interactions.
 
-## Tutorialization
+### Tutorialization
 Using the new dynamic dialogue interactions, we can now tutorialize the game a lot better. As of right now, there are a couple scenarios in which tutorial dialogue can pop up:
 - The player approaches an object that requires a tutorial (like the journal table)
 - The player enters a room
 - The player clears all the enemies in a room
 - The player exits a room (the dialogue won't start until the player loads into the next room)
 
-## Journal Table Update
+### Journal Table Update
 - Now, each journal table entry has an accompanying dialogue interaction that plays after the player finishes reading the entry. 
 - This should help give the journal table feel more integrated into the world and story of Avernoth. 
 
-## Better Pacing of Room Clear Dialogue
+### Better Pacing of Room Clear Dialogue
 - Before, the change of getting room clear dialogue after clearing a room was completely random.
 - Now, the chance of getting room clear dialogue is based on how many rooms it's been since the last time you got room clear dialogue.
 - If it's been like 6 rooms since the last time you got a room clear dialogue, then getting one is guaranteed.
-
-## Per-Character Talking Sound
-- Added support for each character having their own "talking" sound effect.
-- The game is still using the same old placeholder sound, but every character's sound is pitched differently to give them some variety.
