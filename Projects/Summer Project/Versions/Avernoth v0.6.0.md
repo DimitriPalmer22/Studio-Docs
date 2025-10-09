@@ -105,4 +105,4 @@ Choose at least two powers from that one document we made and implement them fun
 ## Dialogue Types
 There are now three types of dialogue interactions:
 - **Static Dialogue Interactions** - These are the dialogue interactions that we've always had. The player walks up to a portal (or some other object that activates dialogue) and presses the interact button to start the dialogue interaction. These are mainly for the shop and upgrade room.
-- **Dynamic Dialogue Interactions** - These dialogue interactions spawn randomly after clearing a room. The chance of one spawning is based on how many rooms it's been since the last dynamic dialogue interaction. These are mainly for flavor and world-building.
+- **Dynamic Dialogue Interactions** - These dialogue interactions automatically open the dialogue UI without the player having 
