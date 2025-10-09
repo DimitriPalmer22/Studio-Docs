@@ -105,4 +105,5 @@ Choose at least two powers from that one document we made and implement them fun
 ## Dialogue Types
 There are now three types of dialogue interactions:
 - **Static Dialogue Interactions** - These are the dialogue interactions that we've always had. The player walks up to a portal (or some other object that activates dialogue) and presses the interact button to start the dialogue interaction. These are mainly for the shop and upgrade room.
-- **Dynamic Dialogue Interactions** - These dialogue interactions automatically open the dialogue UI without the player having 
+- **Dynamic Dialogue Interactions** - Instead of Allister having to walk up to some object to interact with it, a little dialogue portal appears next to Allister and the dialogue starts automatically. These are mainly for key story beats and tutorial purposes. Anything that we want to make sure the player sees would most likely be a dynamic dialogue interaction. 
+- **Optional Dialogue Interactions** - Similar to the te
