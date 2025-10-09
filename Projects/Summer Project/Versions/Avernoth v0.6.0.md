@@ -27,7 +27,7 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 	- [ ] Gameplay event-based component - List of event + dialogue interaction pairs that will trigger when the event fires
 
 - [ ] Rich text boxes
-- [ ] Interact in-battle flag
+- [x] Interact in-battle flag
 - [ ] Button prompt for the optional dialogue stuff
 - [ ] Small demonstration / tutorial sequence to show off the capabilities of the new system
 
