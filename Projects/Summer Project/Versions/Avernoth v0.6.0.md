@@ -104,7 +104,7 @@ Choose at least two powers from that one document we made and implement them fun
 
 ### Per-Character Talking Sounds
 - Added support for each character having their own "talking" sound effect.
-- The game is still using the same old placeholder sound, but every character's sound is pitched differently to give them some
+- The game is still using the same old placeholder sound, but every character's sound is pitched differently to give them some uniqueness
 
 ### Dialogue Types
 There are now three types of dialogue interactions:
