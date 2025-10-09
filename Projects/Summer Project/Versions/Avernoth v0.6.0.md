@@ -117,3 +117,10 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 
 
 ## Journal Table Update
+- Now, each journal table entry has an accompanying dialogue interaction that plays after the player finishes reading the entry. 
+- This should help give the journal table feel more integrated into the world and story of Avernoth. 
+
+## Better Pacing of Room Clear Dialogue
+- Before, the change of getting room clear dialogue after clearing a room was completely random.
+- Now, the chance of getting room clear dialogue is based on how many rooms it's been since the last time you got room clear dialogue.
+- It should be 
