@@ -100,7 +100,7 @@ Choose at least two powers from that one document we made and implement them fun
 
 ### Dialgoue UI Update
 - Characters bob up and down a little while in the dialogue screen
-- ***The dialogue UI now supports rich text***, allowing us to have more control over the appearance of individual words & characters
+- ***The dialogue UI now supports rich text***, allowing us to have more control over the appearance of individual words & characters. It's a *teeny* bit wonky right now, so there are some quirks to work through.
 
 ## Dialogue Types
 There are now three types of dialogue interactions:
