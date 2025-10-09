@@ -115,7 +115,6 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - The player clears all the enemies in a room
 - The player exits a room (the dialogue won't start until the player loads into the next room)
 
-
 ## Journal Table Update
 - Now, each journal table entry has an accompanying dialogue interaction that plays after the player finishes reading the entry. 
 - This should help give the journal table feel more integrated into the world and story of Avernoth. 
@@ -124,3 +123,7 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - Before, the change of getting room clear dialogue after clearing a room was completely random.
 - Now, the chance of getting room clear dialogue is based on how many rooms it's been since the last time you got room clear dialogue.
 - If it's been like 6 rooms since the last time you got a room clear dialogue, then getting one is guaranteed.
+
+## Per-Character Talking Sound
+- Added support for each character having their own "talking" sound effect.
+- The game is still using the same old placeholder sound, but every character's sound is pitched differently to give them some variety.
