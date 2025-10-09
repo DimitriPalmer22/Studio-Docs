@@ -43,17 +43,23 @@ BUGS:
 LDs have been making new blockouts that *should* be functional (but not the prettiest yet). I need to add them to the game.
 
 - [x] Add new levels to the persistent level
-- [ ] Add new level assets to the game
-
-Rework the level generation system to accommodate for new generation structure.
-
-- [ ] Refactor level generation system (Linked List Approach)
-- [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
+- [ ] Add new level data assets to the game
 
 Mikel has been playing around with some new materials for the walls and floors.
 
 - [x] Update wall materials 
 - [ ] Update floor materials
+
+Spiffy the levels a little
+- [ ] Add cobwebs to the walls
+- [ ] Add decals to the game
+
+## Alternate Floor Structure
+
+Rework the level generation system to accommodate for new generation structure.
+
+- [ ] Refactor level generation system (Linked List Approach)
+- [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
 
 ## Shield Mechanic
 - [ ] Add a new stat: shield
