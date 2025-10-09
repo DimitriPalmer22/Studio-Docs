@@ -33,8 +33,8 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 
 BUGS:
 - [x] Consider how to validate and invalidate tutorials (just use the tags lol)
-- Getting a dynamic dialogue interaction while you have an optional one is gonna remove the optional one. Keep this as a feature?
-- [ ] Can still control player while the animation for the dynamic dialogue is playing
+- [x] Getting a dynamic dialogue interaction while you have an optional one is gonna remove the optional one. Keep this as a feature?
+- [x] Can still control player while the animation for the dynamic dialogue is playing
 - [x] Interaction queue?
 
 ## Small Change to the Shop
