@@ -56,6 +56,11 @@ Spiffy the levels a little
 
 ## Alternate Floor Structure
 
+Keys are something new in the game
+- [ ] Add a new attribute to the player's attributes for the key
+- [ ] Make the UI element for keys visible again
+- [ ] Event for spending a key
+
 Rework the level generation system to accommodate for new generation structure.
 
 - [ ] Refactor level generation system (Linked List Approach)
