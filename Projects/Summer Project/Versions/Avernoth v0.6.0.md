@@ -93,3 +93,8 @@ Rework the level generation system to accommodate for new generation structure.
 Choose at least two powers from that one document we made and implement them functionally
 
 ## Work Some More On Enemy AI
+
+# Update
+
+## Major Dialogue Update
+
