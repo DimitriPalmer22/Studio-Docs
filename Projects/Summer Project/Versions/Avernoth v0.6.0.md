@@ -17,8 +17,6 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 	- [x] Bool flag for always getting a dialogue portal on the room manager (should be used for boss room BP)
 - [x] New bool flag on dialogue interactions for overriding the chance to spawn (ALWAYS Spawn)
 
-- [ ] Used for a tutorial sequence at the beginning of the game
-
 - [x] Journal table dialogue reaction.
 	- [x] Each journal entry has a corresponding dialogue interaction asset
 
@@ -28,6 +26,7 @@ Right now, dialogue portals spawn completely randomly. I want there to be at lea
 	- [x] Room event-based component w/ enum for which room event should trigger it (enter, start, clear, or exit)
 	- [ ] Gameplay event-based component - List of event + dialogue interaction pairs that will trigger when the event fires
 
+- [ ] Button prompt for the optional dialogue stuff
 - [ ] Small demonstration / tutorial sequence to show off the capabilities of the new system
 
 BUGS:
@@ -43,7 +42,8 @@ BUGS:
 
 LDs have been making new blockouts that *should* be functional (but not the prettiest yet). I need to add them to the game.
 
-- [ ] Add new levels to the game
+- [x] Add new levels to the persistent level
+- [ ] Add new level assets to the game
 
 Rework the level generation system to accommodate for new generation structure.
 
@@ -52,7 +52,8 @@ Rework the level generation system to accommodate for new generation structure.
 
 Mikel has been playing around with some new materials for the walls and floors.
 
-- [ ] Update wall and floor materials EVERYWHERE
+- [x] Update wall materials 
+- [ ] Update floor materials
 
 ## Shield Mechanic
 - [ ] Add a new stat: shield
