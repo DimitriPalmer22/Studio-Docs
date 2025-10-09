@@ -100,7 +100,7 @@ Choose at least two powers from that one document we made and implement them fun
 
 ### Dialgoue UI Update
 - Characters bob up and down a little while in the dialogue screen
-- The dialogue UI now supports rich text, allowing us to have more control over the appearance of individual words & characters
+- ***The dialogue UI now supports rich text***, allowing us to have more control over the appearance of individual words & characters
 
 ## Dialogue Types
 There are now three types of dialogue interactions:
@@ -110,4 +110,10 @@ There are now three types of dialogue interactions:
 
 ## Tutorialization
 Using the new dynamic dialogue interactions, we can now tutorialize the game a lot better. As of right now, there are a couple scenarios in which tutorial dialogue can pop up:
-- The player gets close to an object that requires a tutorial (like the )
+- The player approaches an object that requires a tutorial (like the journal table)
+- The player enters a room
+- The player clears all the enemies in a room
+- The player exits a room (the dialogue won't start until the player loads into the next room)
+
+
+## Journal Table Update
