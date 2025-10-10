@@ -91,6 +91,8 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Reward for completing boss room within a certain time
 - [ ] Reward for completing boss room without taking health damage
 
+### Rarity System For Passive Spells
+
 ## At Least Two Attack Things From The Doc
 
 Choose at least two powers from that one document we made and implement them functionally
