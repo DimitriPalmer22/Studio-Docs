@@ -69,13 +69,16 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
 
 ## Shield Mechanic
-- [ ] Add a new stat: shield
-- [ ] Change the damage calculation to use shield first, then health
-- [ ] Differentiate events for:
-	- [ ] Taking damage to shield
-	- [ ] Taking damage to health
-	- [ ] Taking damage in general
-- [ ] Turn the orb in the top left into a shield meter
+- [x] Add a new stat: shield
+- [x] Change the damage calculation to use shield first, then health
+- [x] Differentiate events for:
+	- [x] Taking damage to shield
+	- [x] Taking damage to health
+	- [x] Taking damage in general
+- [x] Turn the orb in the top left into a shield meter
+- [ ] Shield shop item
+- [ ] Shield item pickup
+- [ ] Shield item tutorial
 
 ## Rewards
 
