@@ -77,7 +77,7 @@ Rework the level generation system to accommodate for new generation structure.
 	- [x] Taking damage in general
 - [x] Turn the orb in the top left into a shield meter
 - [ ] Shield shop item
-- [ ] Shield item pickup
+- [x] Shield item pickup
 - [ ] Shield item tutorial
 
 ## Rewards
