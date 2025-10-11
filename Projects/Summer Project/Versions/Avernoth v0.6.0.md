@@ -59,8 +59,10 @@ Spiffy the levels a little
 ## Alternate Floor Structure
 
 Keys are something new in the game
-- [ ] Add a new attribute to the player's attributes for the key
+- [x] Add a new attribute to the player's attributes for the key
 - [ ] Key pickup
+	- [ ] Add to enemy reward pools
+- [ ] Key shop item
 - [ ] Make the UI element for keys visible again
 - [ ] Event for spending a key
 
