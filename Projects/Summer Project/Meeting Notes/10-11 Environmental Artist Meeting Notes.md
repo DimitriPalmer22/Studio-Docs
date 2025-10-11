@@ -6,30 +6,14 @@
 
 ## Area 2
 Preparing for battle if it comes to it (spells, weapons, armor)
--  Forge / Armory
+- Forge / Armory
 - Training Area / Training hall
 
 ## Area 3
-
-
-### Types of Levels
-
-- Area 2: 
-    
-- Area 2: 
-    
-- Area 3: Outdoors wtf goin on type shit
-    
-- Area 3: Indoors wtf goin on type shit
-    
-- Area 3: Amalgamation of the things in the previous areas
-    
-
-## 3 areas
-
-Area 2 () - 
-
-Area 3 (Abstract / open roof) -
+- Abstract outdoors areas
+- Abstract indoors areas
+- Amalgamation of the items found in the previous areas
+- Expose the levels to be more open
 
 # New Feature: "Challenge Rooms"
 - In the game, the player can pick up "keys"
@@ -37,4 +21,3 @@ Area 3 (Abstract / open roof) -
 - Challenge rooms are more difficult, but have better rewards.
 - They'll be darker, more purple variations of existing room designs
 
-#
