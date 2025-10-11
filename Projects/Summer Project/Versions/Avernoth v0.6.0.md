@@ -65,6 +65,7 @@ Keys are something new in the game
 - [x] Key shop item
 - [x] Make the UI element for keys visible again
 - [ ] Event for spending a key
+	- [ ] Create a component that listens to the attribute event in the attribute set and fires off whenever a set attribute is changed. Expose the attribute tags to the BP so I can change them in-engine.
 
 Rework the level generation system to accommodate for new generation structure.
 
