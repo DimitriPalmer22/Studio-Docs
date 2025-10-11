@@ -99,6 +99,10 @@ Choose at least two powers from that one document we made and implement them fun
 
 ## Work Some More On Enemy AI
 
+# Bugs
+- [ ] Dialogue portal collision still on after turning off
+- [ ] Journal table spawn chance is still 100%
+
 # Update
 
 ## Major Dialogue Update
