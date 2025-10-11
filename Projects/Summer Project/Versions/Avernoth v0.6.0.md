@@ -69,9 +69,11 @@ Keys are something new in the game
 
 Rework the level generation system to accommodate for new generation structure.
 
-- [ ] Button to enter alternate room
-- [ ] Refactor level generation system (Linked List Approach)
+- [x] Button to enter alternate room
+- [x] Refactor level generation system
 - [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
+- [ ] UI to show the player when they can go to an alternate room
+- [ ] Tutorial / story stuff for alternate room
 
 ## Shield Mechanic
 - [x] Add a new stat: shield
