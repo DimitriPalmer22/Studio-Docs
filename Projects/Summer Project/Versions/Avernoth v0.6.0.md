@@ -105,6 +105,7 @@ Choose at least two powers from that one document we made and implement them fun
 - [ ] Maybe enemies shouldn't spawn health on death. Reserve that to room completion?
 - [ ] Optional portal not disappearing after room exit
 - [ ] Boost money amount?
+- [ ] Journal tables spawning with no entries
 
 # Update
 
