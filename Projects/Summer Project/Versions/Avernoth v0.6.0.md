@@ -90,6 +90,7 @@ Rework the level generation system to accommodate for new generation structure.
 ## Interaction System Improvements
 - [x] Alternate interaction button
 - [ ] In-world button prompt for interaction
+- [ ] Make the interaction component a scene component so I can use that for positioning on the button prompt
 
 ## Rewards
 
