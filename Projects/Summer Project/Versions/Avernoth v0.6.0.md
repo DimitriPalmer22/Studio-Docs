@@ -87,6 +87,10 @@ Rework the level generation system to accommodate for new generation structure.
 - [x] Shield item pickup
 - [ ] Shield item tutorial
 
+## Interaction System Improvements
+- [x] Alternate interaction button
+- [ ] In-world button prompt for interaction
+
 ## Rewards
 
 ### Standard Room Rewards
