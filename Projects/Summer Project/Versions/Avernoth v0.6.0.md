@@ -95,6 +95,7 @@ Rework the level generation system to accommodate for new generation structure.
 ### Boss Rewards
 - [ ] Reward for completing boss room within a certain time
 - [ ] Reward for completing boss room without taking health damage
+- [ ] Tutorialize this somehow
 
 ### Rarity System For Passive Spells
 
