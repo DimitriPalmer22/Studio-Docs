@@ -103,6 +103,8 @@ Choose at least two powers from that one document we made and implement them fun
 - [ ] Dialogue portal collision still on after turning off
 - [ ] Journal table spawn chance is still 100%
 - [ ] Maybe enemies shouldn't spawn health on death. Reserve that to room completion?
+- [ ] Optional portal not disappearing after room exit
+- [ ] Boost money amount?
 
 # Update
 
