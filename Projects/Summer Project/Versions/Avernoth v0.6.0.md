@@ -112,6 +112,7 @@ Choose at least two powers from that one document we made and implement them fun
 - [ ] Boss rooms sometimes getting stuck after clearing out all enemies in the room.
 - [ ] Rotate character sprites to face the opposite way
 - [ ] Some levels don't have the skybox
+- [ ] Dialogue portal needs to use the post processing manager instead of its own post processing
 
 # Update
 
