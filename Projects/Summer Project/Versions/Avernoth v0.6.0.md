@@ -60,14 +60,15 @@ Spiffy the levels a little
 
 Keys are something new in the game
 - [x] Add a new attribute to the player's attributes for the key
-- [ ] Key pickup
-	- [ ] Add to enemy reward pools
-- [ ] Key shop item
-- [ ] Make the UI element for keys visible again
+- [x] Key pickup
+	- [x] Add to enemy reward pools
+- [x] Key shop item
+- [x] Make the UI element for keys visible again
 - [ ] Event for spending a key
 
 Rework the level generation system to accommodate for new generation structure.
 
+- [ ] Button to enter alternate room
 - [ ] Refactor level generation system (Linked List Approach)
 - [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
 
