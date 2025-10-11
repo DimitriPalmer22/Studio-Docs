@@ -60,6 +60,7 @@ Spiffy the levels a little
 
 Keys are something new in the game
 - [ ] Add a new attribute to the player's attributes for the key
+- [ ] Key pickup
 - [ ] Make the UI element for keys visible again
 - [ ] Event for spending a key
 
