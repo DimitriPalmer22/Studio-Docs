@@ -121,6 +121,7 @@ Choose at least two powers from that one document we made and implement them fun
 - [ ] Some levels don't have the skybox
 - [ ] Dialogue portal needs to use the post processing manager instead of its own post processing
 - [ ] Double shop menu
+- [x] "+-" on currency UI
 
 # Update
 
