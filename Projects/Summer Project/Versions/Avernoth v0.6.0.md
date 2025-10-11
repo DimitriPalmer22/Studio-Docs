@@ -107,6 +107,8 @@ Choose at least two powers from that one document we made and implement them fun
 - [ ] Optional portal not disappearing after room exit
 - [ ] Boost money amount?
 - [ ] Journal tables spawning with no entries
+- [ ] Pickups (like the stat upgrade pickup) need to auto-destroy on room exit
+- [ ] Boss rooms sometimes getting st uck
 
 # Update
 
