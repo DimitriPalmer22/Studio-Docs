@@ -108,7 +108,7 @@ Choose at least two powers from that one document we made and implement them fun
 ## Work Some More On Enemy AI
 
 # Bugs
-- [ ] Dialogue portal collision still on after turning off
+- [x] Dialogue portal collision still on after turning off
 - [ ] Journal table spawn chance is still 100%
 - [ ] Maybe enemies shouldn't spawn health on death. Reserve that to room completion?
 - [ ] Enemies drop rewards a little too often
