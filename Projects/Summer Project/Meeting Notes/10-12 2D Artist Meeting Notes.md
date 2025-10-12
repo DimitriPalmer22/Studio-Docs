@@ -23,13 +23,18 @@ Let's see em
 
 Keyboard and gamepad button prompts should be made in the same style as the rest of the UI.
 
-> Here, I show off the new interact button UI (go to the shop).
 
-## Marketing Materials Will be a Thing
+| Action | PC  |
+| ------ | --- |
+|        |     |
+
+
+## Marketing Materials Will Eventually be a Thing
 
 I wanna be DONE with this game sometime next month. So, at some point, we'll need to start looking into marketing materials.
 
-> You don't have to do this right now, though
-## Hidetomo
+You don't have to do this right now, though
+
+## Hidetomo Portrait
 
 
