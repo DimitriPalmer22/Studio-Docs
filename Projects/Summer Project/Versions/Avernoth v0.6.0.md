@@ -115,6 +115,7 @@ Choose at least two powers from that one document we made and implement them fun
 
 # Bugs
 - [x] Dialogue portal collision still on after turning off
+- [ ] Make sure room has been entered before allowing trigger collisions
 - [ ] Journal table spawn chance is still 100%
 - [ ] Maybe enemies shouldn't spawn health on death. Reserve that to room completion?
 - [ ] Enemies drop rewards a little too often
