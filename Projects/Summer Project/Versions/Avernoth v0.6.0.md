@@ -171,7 +171,11 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - Right now, I'm having the LDs focus on functional blockouts to ensure that gameplay is good while we finish the art for the levels
 
 ## "Choosing" Rooms to Go into
-- 
+- Before, the layout of the game was completely linear and boring. I wanted to give the player more *meaningful choices*
+- New item: "keys" (the thematic representation of these keys is still being worked on). You can see your "key" count in the top left corner of the UI next to the money
+- At the end of each room, if you have a key, you can choose to spend it to go into an alternate "*challenge room*". These rooms are harder, but they give better rewards.
+- Challenge rooms will be modified versions of EXISTING levels that are made more difficult
+- As of right now, there are no dedicated challenge rooms, but the functionali
 
 ## Shield Mechanic
 
