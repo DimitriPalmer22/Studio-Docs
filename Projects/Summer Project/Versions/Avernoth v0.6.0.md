@@ -163,11 +163,12 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - The characters bob up and down while the dialogue UI is open
 - Each individual character has their own talking sound (Still placeholder tho)
 
-## New Rooms
+## Levels!!!
+- The look of the levels has changed significantly. Mikel made new wall and floor materials that should be updated pretty much everywhere.
 - LDs have been making new blockouts that should be functional, but aren't completely set-dressed yet
-- Over the past week, I think we've got like 4-5 new levels
+- Over the past week, I think we've gotten like 4-5 new levels
 - They are NOT in the rotation of levels yet, though
-- Right now
+- Right now, I'm having the LDs focus on functional blockouts to ensure that gameplay is good while we finish the art for the levels
 
 ## "Choosing" Rooms to Go into
 - 
