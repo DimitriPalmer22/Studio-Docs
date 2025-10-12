@@ -100,38 +100,11 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Balance percentage chances of each reward type
 - [ ] Boost money reward from completing rooms
 
-### Boss Rewards
-- [ ] Reward for completing boss room within a certain time
-- [ ] Reward for completing boss room without taking health damage
-- [ ] Tutorialize this somehow
-
-## Floor End Rooms
-- Distribute rewards to player
-	- Questions?
-	- Shop opportunity?
-	- Tome stuff?
-- Plot stuff
-- Healing items
-- Room with a really big portal at the end of it
-
-## Enemy Status Effects
-- Shield
-- Enraged or something (attack faster & move faster)
-- Sturdy or something (no flinch)
-
-## Rethink Passive Effects Again
-- Simple Passive effects that you can just add on
-- Passive effects that specifically augment something (only 1 per-slot)
-	- For example, you can only have 1 Primary Spell Augment passive effect at a time. Same for secondaries.
-	- This way, we can add some unique effects that really change how a spell works
-
 ### Rarity System For Passive Spells
 
 ## At Least Two Attack Things From The Doc
 
 Choose at least two powers from that one document we made and implement them functionally
-
-## Work Some More On Enemy AI
 
 # Bugs
 - [x] Dialogue portal collision still on after turning off
