@@ -23,14 +23,14 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 
 ---
 
-# The Character's Stats
+## The Character's Stats
 - Vitality (Health)
 - Maximum Mana 
 - Intelligence (Damage)
 - Resilience (Defense)
 - Agility (Attack Speed)
 
-# Pickups
+## Pickups
 - Passive Spell Pickup
 - Money Pickup
 - Shield
