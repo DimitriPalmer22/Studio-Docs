@@ -6,8 +6,6 @@
 
 ## Shop Item Images
 
-> Here, I go to the shop.
-
 - [ ] Restore health
 - [ ] Restore shield
 - [ ] *"Key"* (As of right now, this item is FUNCTIONALLY a key. As for what it is thematically within the game's world, I still don't know).
