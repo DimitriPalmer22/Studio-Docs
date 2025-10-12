@@ -159,11 +159,18 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - Dialogue portals no longer spawn directly on the exit of the room when clearing a room. This interrupted gameplay too much.
 - Now, a tiny little portal appears next to Allister, and the player can *choose* to read the dialogue (there is a button prompt for this) or to ignore it and continue playing.
 - *Mandatory* dialogue interactions will play automatically
-- Journal tables now have accompanying dialogue after the player reads the 
+- Journal tables now have accompanying dialogue after the player reads the journal entry
+- The characters bob up and down while the dialogue UI is open
+- Each individual character has their own talking sound (Still placeholder tho)
 
 ## New Rooms
+- LDs have been making new blockouts that should be functional, but aren't completely set-dressed yet
+- Over the past week, I think we've got like 4-5 new levels
+- They are NOT in the rotation of levels yet, though
+- Right now
 
 ## "Choosing" Rooms to Go into
+- 
 
 ## Shield Mechanic
 
