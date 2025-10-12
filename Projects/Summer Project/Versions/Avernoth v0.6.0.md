@@ -105,6 +105,13 @@ Rework the level generation system to accommodate for new generation structure.
 - [ ] Reward for completing boss room without taking health damage
 - [ ] Tutorialize this somehow
 
+## Floor End Rooms
+- Distribute rewards to player
+	- Questions?
+	- Shop opportunity?
+- Plot stuff
+- Heal items
+
 ### Rarity System For Passive Spells
 
 ## At Least Two Attack Things From The Doc
