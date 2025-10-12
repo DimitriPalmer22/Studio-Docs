@@ -23,5 +23,9 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 
 ---
 
-# The Character's 
+# The Character's Stats
+- Vitality (Health)
+- Maximum Mana
+- Intelligence (Damage)
+- Resilience (Defense)
 - 
