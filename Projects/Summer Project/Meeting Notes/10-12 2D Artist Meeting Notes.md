@@ -15,7 +15,13 @@ Keyboard and gamepad button prompts should be made in the same style as the rest
 
 - Restore health
 - Restore shield
-- *"Key"* (As of right now, this item is FUNCTIONALLY a key. As f)
+- *"Key"* (As of right now, this item is FUNCTIONALLY a key. As for what it is thematically within the game's world, I still don't know).
+- Upgrades to each of the character's stats
+	- Vitality (Max health)
+	- Max mana
+	- Intelligence (Spell Damage)
+	- Resilience (Defense)
+	- Agility (Spell Casting Speed)
 
 
 ## Marketing Materials Will be a Thing
