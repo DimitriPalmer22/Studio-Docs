@@ -175,8 +175,11 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - New item: "keys" (the thematic representation of these keys is still being worked on). You can see your "key" count in the top left corner of the UI next to the money
 - At the end of each room, if you have a key, you can choose to spend it to go into an alternate "*challenge room*". These rooms are harder, but they give better rewards.
 - Challenge rooms will be modified versions of EXISTING levels that are made more difficult
-- As of right now, there are no dedicated challenge rooms, but the functionali
+- As of right now, there are no dedicated challenge rooms, but the functionality of choosing rooms is there and (mostly) working
 
 ## Shield Mechanic
+- A shield meter has been added to the game.
+- That fancy looking orb in the top left is actually used for something now!
+- The shield meter fills up when you pick up shield 
 
 ## Interaction System Improvements
