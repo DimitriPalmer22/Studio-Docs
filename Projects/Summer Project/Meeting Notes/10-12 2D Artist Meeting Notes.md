@@ -7,4 +7,9 @@
 
 Keyboard and gamepad button prompts should be made in the same style as the rest of the UI.
 
-> Here: I show off th
+> Here: I show off the new interact button UI.
+
+
+## Marketing Materials will be a Thing
+
+## Hidetomo
