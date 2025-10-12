@@ -119,6 +119,12 @@ Rework the level generation system to accommodate for new generation structure.
 - Enraged or something (attack faster & move faster)
 - Sturdy or something (no flinch)
 
+## Rethink Passive Effects Again
+- Simple Passive effects that you can just add on
+- Passive effects that specifically augment something (only 1 per-slot)
+	- For example, you can only have 1 Primary Spell Augment passive effect at a time. Same for secondaries.
+	- This way, we can add some unique effects that really change how a spell works
+
 ### Rarity System For Passive Spells
 
 ## At Least Two Attack Things From The Doc
