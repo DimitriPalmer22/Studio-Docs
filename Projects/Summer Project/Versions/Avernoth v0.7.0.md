@@ -1,5 +1,9 @@
 # Feature Updates
 
+## Knockback (NECESSARY)
+- [ ] Prevent movement input while being knocked back
+- [ ] Spells apply knockback based on how strong they are relative to their 
+
 ## Enemy AI Improvements
 
 - [ ] Enemy AI struct in C++ for better organization
