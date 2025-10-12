@@ -156,3 +156,11 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - Before, the change of getting room clear dialogue after clearing a room was completely random.
 - Now, the chance of getting room clear dialogue is based on how many rooms it's been since the last time you got room clear dialogue.
 - If it's been like 6 rooms since the last time you got a room clear dialogue, then getting one is guaranteed.
+
+
+
+# Update Text
+
+## Dialogue Update
+
+##
