@@ -23,6 +23,7 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 
 ---
 
+# Ideas for Runes
 ## The Character's Stats
 - Vitality (Health)
 - Maximum Mana 
@@ -34,3 +35,11 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 - Passive Spell Pickup
 - Money Pickup
 - Shield
+
+## Characters
+- Magnus
+- Tarun
+- Zythomyra
+- Hidetomo
+
+## Things
