@@ -1,8 +1,9 @@
 # Feature Updates
 
 ## Knockback (NECESSARY)
+Right now, the player is constantly backpedaling because they don't have a way to generate space between themselves and enemies. Adding knockback will help with this.
 - [ ] Prevent movement input while being knocked back
-- [ ] Spells apply knockback based on how strong they are relative to their 
+- [ ] Spells apply knockback based on how far they have traveled (tie to the damage falloff curve)
 
 ## Enemy AI Improvements
 
