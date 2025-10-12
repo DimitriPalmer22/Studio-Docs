@@ -21,3 +21,7 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 - Challenge rooms are more difficult, but have better rewards.
 - They'll be darker, more purple variations of existing room designs
 
+---
+
+# The Character's 
+- 
