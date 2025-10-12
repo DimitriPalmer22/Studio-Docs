@@ -39,3 +39,6 @@ Right now, the player is constantly backpedaling because they don't have a way t
 - [ ] Reward for completing boss room within a certain time
 - [ ] Reward for completing boss room without taking health damage
 - [ ] Tutorialize this somehow
+
+## Small Change to the Shop
+- [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.

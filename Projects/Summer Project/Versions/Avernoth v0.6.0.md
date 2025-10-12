@@ -37,8 +37,6 @@ BUGS:
 - [x] Can still control player while the animation for the dynamic dialogue is playing
 - [x] Interaction queue?
 
-## Small Change to the Shop
-- [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
 
 ## Levels
 
@@ -50,7 +48,7 @@ LDs have been making new blockouts that *should* be functional (but not the pret
 Mikel has been playing around with some new materials for the walls and floors.
 
 - [x] Update wall materials 
-- [ ] Update floor materials
+- [x] Update floor materials
 
 Spiffy the levels a little
 - [ ] Add cobwebs to the walls
@@ -161,6 +159,8 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 
 # Update Text
 
-## Dialogue Update
+## Dialogue Overhaul
 
-##
+## New Levels
+
+## "Choosing" Rooms to Go into
