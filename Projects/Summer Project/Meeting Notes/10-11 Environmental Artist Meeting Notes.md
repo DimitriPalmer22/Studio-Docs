@@ -25,7 +25,12 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 
 # The Character's Stats
 - Vitality (Health)
-- Maximum Mana
+- Maximum Mana 
 - Intelligence (Damage)
 - Resilience (Defense)
-- 
+- Agility (Attack Speed)
+
+# Pickups
+- Passive Spell Pickup
+- Money Pickup
+- Shield
