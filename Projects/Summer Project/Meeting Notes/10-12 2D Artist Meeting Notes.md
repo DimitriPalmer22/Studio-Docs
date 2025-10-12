@@ -1,7 +1,8 @@
 
 # Runes
 
-Let's see em
+- White PNGs with transparent backgrounds
+- Maybe some slightly transparent edges to soften up the look a little 
 
 ## Shop Item Images
 
@@ -26,7 +27,6 @@ Keyboard and gamepad button prompts should be made in a similar style to the res
 | Interact      | E   | B    |
 | Alt. Interact | Q   | LT   |
 
-
 ## Marketing Materials Will Eventually be a Thing
 
 I wanna be DONE with this game sometime next month. So, at some point, we'll need to start looking into marketing materials.
@@ -35,4 +35,4 @@ You don't have to do this right now, though
 
 ## Hidetomo Portrait
 
-
+yuh
