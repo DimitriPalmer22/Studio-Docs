@@ -3,14 +3,6 @@
 
 Let's see em
 
-# Button Prompt Images
-
-> Side note: I didn't forget to add the new spell UI in the bottom right corner, it was just last on my list of things to do.
-
-Keyboard and gamepad button prompts should be made in the same style as the rest of the UI.
-
-> Here, I show off the new interact button UI (go to the shop).
-
 ## Shop Item Images
 
 > Here, I go to the shop.
@@ -25,6 +17,13 @@ Keyboard and gamepad button prompts should be made in the same style as the rest
 	- Resilience (Defense)
 	- Agility (Spell Casting Speed)
 
+# Button Prompt Images
+
+> Side note: I didn't forget to add the new spell UI in the bottom right corner, it was just last on my list of things to do.
+
+Keyboard and gamepad button prompts should be made in the same style as the rest of the UI.
+
+> Here, I show off the new interact button UI (go to the shop).
 
 ## Marketing Materials Will be a Thing
 
