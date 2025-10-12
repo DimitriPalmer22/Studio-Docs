@@ -71,9 +71,10 @@ Rework the level generation system to accommodate for new generation structure.
 
 - [x] Button to enter alternate room
 - [x] Refactor level generation system
-- [ ] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
-- [ ] UI to show the player when they can go to an alternate room
+- [x] Experiment w/ giving the player alternate exit choices (to take on harder rooms)
+- [x] UI to show the player when they can go to an alternate room
 - [ ] Tutorial / story stuff for alternate room
+- [ ] Rewards for alternate rooms
 
 ## Shield Mechanic
 - [x] Add a new stat: shield
