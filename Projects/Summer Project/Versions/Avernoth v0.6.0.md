@@ -114,6 +114,11 @@ Rework the level generation system to accommodate for new generation structure.
 - Healing items
 - Room with a really big portal at the end of it
 
+## Enemy Status Effects
+- Shield
+- Enraged or something (attack faster & move faster)
+- Sturdy or something (no flinch)
+
 ### Rarity System For Passive Spells
 
 ## At Least Two Attack Things From The Doc
