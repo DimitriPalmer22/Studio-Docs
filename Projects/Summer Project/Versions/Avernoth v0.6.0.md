@@ -184,6 +184,9 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - The shield will absorb damage before your health does
 - The player's defensive stats DO NOT affect damage calculation on the shield.
 - Why a shield?: Part of the game's current reward calculation system is tied to how long it has been since the player has taken damage to their *HEALTH*. The shield acts as a buffer to prevent the player from taking damage to their health, which should help them get better rewards.
-- Also, I needed
+- Also, I needed something else to put in the shop.
 
 ## Interaction System Improvements
+- The interaction system has been refined a little bit
+- Now, instead of the interact prompt popping up at the bottom of the screen, it appears either on Allister or on the object that you can interact with
+- Also, there are button prompts shown for interactions now
