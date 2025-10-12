@@ -183,6 +183,7 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 - The shield meter fills up when you pick up shield orbs from killing enemies or from buying them in the shop
 - The shield will absorb damage before your health does
 - The player's defensive stats DO NOT affect damage calculation on the shield.
+- When the shield breaks, there is a pretty cool effect to go with it
 - Why a shield?: Part of the game's current reward calculation system is tied to how long it has been since the player has taken damage to their *HEALTH*. The shield acts as a buffer to prevent the player from taking damage to their health, which should help them get better rewards.
 - Also, I needed something else to put in the shop.
 
