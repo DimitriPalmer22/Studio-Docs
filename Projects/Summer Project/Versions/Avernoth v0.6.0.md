@@ -109,8 +109,10 @@ Rework the level generation system to accommodate for new generation structure.
 - Distribute rewards to player
 	- Questions?
 	- Shop opportunity?
+	- Tome stuff?
 - Plot stuff
-- Heal items
+- Healing items
+- Room with a really big portal at the end of it
 
 ### Rarity System For Passive Spells
 
