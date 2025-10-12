@@ -7,15 +7,15 @@ Let's see em
 
 > Here, I go to the shop.
 
-- Restore health
-- Restore shield
-- *"Key"* (As of right now, this item is FUNCTIONALLY a key. As for what it is thematically within the game's world, I still don't know).
+- [ ] Restore health
+- [ ] Restore shield
+- [ ] *"Key"* (As of right now, this item is FUNCTIONALLY a key. As for what it is thematically within the game's world, I still don't know).
 - Upgrades to each of the character's stats
-	- Vitality (Max health)
-	- Max mana
-	- Intelligence (Spell Damage)
-	- Resilience (Defense)
-	- Agility (Spell Casting Speed)
+	- [ ] Vitality (Max health)
+	- [ ] Max mana
+	- [ ] Intelligence (Spell Damage)
+	- [ ] Resilience (Defense)
+	- [ ] Agility (Spell Casting Speed)
 
 # Button Prompt Images
 
