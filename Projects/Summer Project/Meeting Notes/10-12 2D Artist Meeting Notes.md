@@ -7,11 +7,15 @@
 
 Keyboard and gamepad button prompts should be made in the same style as the rest of the UI.
 
-> Here: I show off the new interact button UI.
+> Here, I show off the new interact button UI (go to the shop).
 
 ## Shop Item Images
 
-> Here, I go to the 
+> Here, I go to the shop.
+
+- Restore health
+- Restore shield
+- *"Key"* (As of right now, this item is FUNCTIONALLY a key. As f)
 
 
 ## Marketing Materials Will be a Thing
