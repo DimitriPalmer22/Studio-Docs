@@ -42,3 +42,7 @@ Right now, the player is constantly backpedaling because they don't have a way t
 
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
+
+## At Least Two Attack Things From The Doc
+
+Choose at least two powers from that one document we made and implement them functionally

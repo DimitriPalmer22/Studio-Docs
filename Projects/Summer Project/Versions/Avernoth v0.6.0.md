@@ -100,10 +100,6 @@ Rework the level generation system to accommodate for new generation structure.
 
 ### Rarity System For Passive Spells
 
-## At Least Two Attack Things From The Doc
-
-Choose at least two powers from that one document we made and implement them functionally
-
 # Bugs
 - [x] Dialogue portal collision still on after turning off
 - [ ] Make sure room has been entered before allowing trigger collisions
@@ -161,6 +157,10 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 
 ## Dialogue Overhaul
 
-## New Levels
+## New Rooms
 
 ## "Choosing" Rooms to Go into
+
+## Shield Mechanic
+
+## Interaction System Improvements
