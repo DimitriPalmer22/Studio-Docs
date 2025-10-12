@@ -157,7 +157,9 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 
 ## Dialogue Overhaul
 - Dialogue portals no longer spawn directly on the exit of the room when clearing a room. This interrupted gameplay too much.
-- Now, a tiny little portal appears next to 
+- Now, a tiny little portal appears next to Allister, and the player can *choose* to read the dialogue (there is a button prompt for this) or to ignore it and continue playing.
+- *Mandatory* dialogue interactions will play automatically
+- Journal tables now have accompanying dialogue after the player reads the 
 
 ## New Rooms
 
