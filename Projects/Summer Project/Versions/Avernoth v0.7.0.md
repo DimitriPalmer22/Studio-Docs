@@ -1,5 +1,8 @@
 # Feature Updates
 
+## Interaction Priority System
+- [ ] If more than 1 item is currently with selection range, but one of them has higher priority than the other, immediately consider the higher priority option
+
 ## Spell C++ Classes
 - [ ] Data asset for sound info so the attenuation settings can be placed somewhere other than my details panel
 	- [ ] This should also fix the concurrent sounds issue

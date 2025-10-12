@@ -153,9 +153,11 @@ Using the new dynamic dialogue interactions, we can now tutorialize the game a l
 
 
 
-# Update Text
+# Avernoth Update v0.6.0
 
 ## Dialogue Overhaul
+- Dialogue portals no longer spawn directly on the exit of the room when clearing a room. This interrupted gameplay too much.
+- Now, a tiny little portal appears next to 
 
 ## New Rooms
 
