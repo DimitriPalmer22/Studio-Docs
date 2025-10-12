@@ -1,5 +1,8 @@
 # Feature Updates
 
+## Spell C++ Classes
+- [ ] Data asset for sound info so the attenuation settings can be placed somew
+
 ## Knockback (NECESSARY)
 Right now, the player is constantly backpedaling because they don't have a way to generate space between themselves and enemies. Adding knockback will help with this.
 - [ ] Prevent movement input while being knocked back
