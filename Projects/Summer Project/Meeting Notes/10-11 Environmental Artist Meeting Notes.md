@@ -42,4 +42,8 @@ Preparing for battle if it comes to it (spells, weapons, armor)
 - Zythomyra
 - Hidetomo
 
-## Things
+## Things The Player can Interact With
+- Journal Table
+- Dialogue portal
+- Shop room
+- Upgrade room
