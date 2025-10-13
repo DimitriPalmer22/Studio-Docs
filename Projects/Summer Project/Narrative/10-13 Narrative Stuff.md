@@ -23,7 +23,8 @@ This interaction has 14 lines whereas the other upgrade room interactions have 7
 
 # Writing New Dialogue for the Very First Run
 
-The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through.
+- The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through. 
+- All of these interactions are mandatory, so it is very important to not make them too long.
 
 ### Entering a Standard Enemy Room for the First Time
-Upon loading into the first standard room of the run, a quick interaction should play out explaining that there
+Upon loading into the first standard room of the run, a quick interaction should play out explaining that there is imminent danger. After this, the player walks deeper into the room 
