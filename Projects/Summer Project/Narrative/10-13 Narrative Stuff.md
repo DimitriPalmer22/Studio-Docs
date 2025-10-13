@@ -30,4 +30,8 @@ This interaction has 14 lines whereas the other upgrade room interactions have 7
 - Condition: Upon loading into the first standard room of the run (so, any room after the beginning room(s) of the game)
 - Description: A quick interaction should play out explaining that there is imminent danger. After this, the player regains control, walks deeper into the room, and fights enemies.
 
-### 
+### Clearing a Room for the First Time
+- Condition: Upon defeating all enemies in the first standard room of the run (so, right after the above interaction)
+- Description: A quick interaction should play out explaining that the player has cleared the room and can now proceed to the next room. They'll probably need to keep doing this to escape.
+
+### -
