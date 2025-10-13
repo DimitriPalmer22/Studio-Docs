@@ -14,5 +14,8 @@
 
 ## Current State of the Game / v0.6.0 Changes
 
+### Dialogue Update
+- The dialogue system has been heavily reworked t o
+
 
 ## Goals for v0.7.0:
