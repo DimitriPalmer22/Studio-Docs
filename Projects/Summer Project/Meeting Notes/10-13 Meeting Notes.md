@@ -34,10 +34,16 @@
 
 ## Goals for v0.7.0:
 
-## Code: Hard-Focus on Combat & Enemies
+### Code: Hard-Focus on Combat & Enemies
 
-## LD: Keep working on Levels
-Ideally, you should have something new by the LD meeting again so we can go through and review it
+### LD: Keep working on Levels
+Ideally, you should have something new by the LD meeting again so we can go through and review it.
 
-## Narrative: Some "Tutorial" Dialogue
-Ideally, we have some "tutorial" interactions 
+### Narrative: Some "Tutorial" Dialogue
+Ideally, we have some "tutorial" interactions for the player to go through during their first run of the game. This should help us establish a good pace for the dialogue in the game.
+
+### 2D Artist: Keep working on Stuff
+- Runes
+- Hidetomo portrait
+
+### d
