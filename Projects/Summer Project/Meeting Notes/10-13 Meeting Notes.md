@@ -22,7 +22,11 @@
 
 ### Levels
 - The materials for the levels have been updated like a lot, so the game looks *very* different now.
-- We've also got
+- We've also got a couple new levels in the game.
 
+### New Mechanic: Choosing which room to go into
+- After clearing a room, the player can now choose to enter a "challenge room" (if they have a "key")
+- Challenge rooms have better rewards
+- However, they are more difficult and take longer to finish
 
 ## Goals for v0.7.0:
