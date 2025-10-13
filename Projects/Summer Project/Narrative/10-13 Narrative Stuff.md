@@ -43,7 +43,7 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 - The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through. 
 - All of these interactions are mandatory, so it is very important to not make them too long.
 
-> Note
+> Note: I am considering making these interactions completely unskippable. Specifically, the player won't be able to press the `skip` button to go straight to the end of the interaction. This is to ensure that the player actually reads the dialogue. However, they will still be able to press the `confirm` button to quickly finish the current line of text and move onto the next line of text.
 
 ### Entering a Standard Enemy Room for the First Time
 - Condition: Upon loading into the first standard room of the run (so, any room after the beginning room(s) of the game)
