@@ -14,7 +14,8 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 # Rewriting Some Old Dialogue 
 
 ### Beginning Dialogue
---
+
+> Note: After thinking about it some more, I *still* need to modify the implementation of the dialogue specifically for the beginning sequence, so 
 
 ### DDI_EnchantAristide1
 This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade. 
