@@ -24,7 +24,7 @@ This interaction has 14 lines whereas the other upgrade room interactions have 7
 ### DDI_MagnustFirstDeath2
 This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY needs to be broken up. It's 27 lines long.
 
-# Writing New Dialogue for the Very First Run
+# Writing New "First" Dialogue
 
 - The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through. 
 - All of these interactions are mandatory, so it is very important to not make them too long.
@@ -69,4 +69,4 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 
 ### Clearing a "Boss Room" for the First Time
 - Condition: Upon defeating the waves of enemies in a boss room for the first time
-- Description: Hidetomo comes to talk to Allister (Assume this is our first time meeting him). 
+- Description: Hidetomo comes to talk to Allister (Assume this is our first time meeting him). Hidetomo remarks that although Allister has made decent progress, there is still no hope of escaping Avernoth.
