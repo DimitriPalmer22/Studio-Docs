@@ -19,12 +19,14 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 
 ### Beginning Dialogue
 
-> Note: After thinking about it some more, I *still* need to modify the implementation of the dialogue system specifically for the beginning sequence (respawning & getting very specific dialogue at very specific points), so this will need to wait a *little* longer.
+> Note: Literally as I was writing this, I realized I *still* need to modify the implementation of the dialogue system specifically for the beginning sequence (respawning & getting very specific dialogue at very specific points). So, this will need to wait a *little* longer.
 
 ### DDI_EnchantAristide1
 This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade. 
 
 This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
+
+I wanna try this idea
 
 ### DDI_MagnustFirstDeath2
 
