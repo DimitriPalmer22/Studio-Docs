@@ -33,3 +33,5 @@
 - Shield meter in the top left
 
 ## Goals for v0.7.0:
+
+## Hard-Focus on Combat & Enemies
