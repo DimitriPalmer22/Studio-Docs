@@ -17,7 +17,7 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 
 # Rewriting Some Old Dialogue 
 
-Here are a couple interactions that I think need to be rewritten or at least broken up into smaller chunks. There are probably more, but I'll have t
+Here are a couple interactions that I think need to be rewritten or at least broken up into smaller chunks. There are probably more, but I'll have to comb through all of the game's dialogue to find them.
 
 ### Beginning Dialogue
 
@@ -79,7 +79,7 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 
 ### Entering a "Boss Room" for the First Time
 - Condition: Upon loading into a boss room for the first time
-- Description: 
+- Description: One or more of Allister's allies remarks that this room is different than the rest. Allister should be extra careful. 
 
 ### Clearing a "Boss Room" for the First Time
 - Condition: Upon defeating the waves of enemies in a boss room for the first time
