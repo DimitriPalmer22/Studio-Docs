@@ -36,7 +36,11 @@
 
 ### Code: Hard-Focus on Combat & Enemies
 - Last week, I said I wanted some variety in the player's spells, but I didn't have time to implement that. There is a list of spell ideas I will be working on, though.
-- 
+- KNOCKBACK
+- More enemy AI stuff
+- Artificially create enemy variety
+	- Give them shields and stuff
+	- Give them status effects that modify their behavior a little
 
 ### LD: Keep working on Levels
 Ideally, you should have something new by the LD meeting again so we can go through and review it.
