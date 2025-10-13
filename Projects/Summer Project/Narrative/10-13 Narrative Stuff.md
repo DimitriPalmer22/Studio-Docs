@@ -56,3 +56,11 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 - Description: Allister explains that he isn't exactly sure how to use this table. One of his allies responds with "Don't worry, I got you. You can spend mana essence here to upgrade your abilities. I'll walk you through the process."
 
 ### Encountering A Shop Room for the First Time
+
+***Let's hold off on this one for right now.***
+
+- Condition: Upon loading into a shop room for the first time. 
+- Description:
+- Note: The shop room ALWAYS spawns after the upgrade room (not immediately after, but it is guaranteed to spawn at some point after the upgrade room). So, the player will have already gone through the above two interactions before this one.
+
+### 
