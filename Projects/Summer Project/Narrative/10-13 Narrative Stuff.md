@@ -37,4 +37,5 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 - Condition: Upon defeating all enemies in the first standard room of the run (so, right after the above interaction)
 - Description: A quick interaction should play out explaining that the player has cleared the room and can now proceed to the next room. They'll probably need to keep doing this to escape.
 
-### 
+### Encountering a Journal Table for the First Time
+- Condition: A journal table randomly spawns in one of the rooms. This interaction plays once the player walks within a certain distance of the journal table for the first time (This interaction will only play if the player has cleared the enemies in the room).
