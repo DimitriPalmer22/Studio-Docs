@@ -30,7 +30,7 @@ This interaction has 14 lines whereas the other upgrade room interactions have 7
 
 I wanna try this idea: Instead of thinking about the length of these interactions in terms of the total number of words, try to *also* think about the *total number of inputs* the player would have to make to get through the interaction if they were reading it in-game.
 
-Me personally, instead of letting the text write all the way out, I press the `confirm` button to quickly finish the current line of text. Then, I press `confirm` again to move onto the next line of text. So, the number of inputs I need to get through the interaction as quick as possible while still reading everything is 2x the number of lines of text. 
+Me personally, instead of letting the text write all the way out, I press the `confirm` button to quickly finish the current line of text. Then, I press `confirm` again to move onto the next line of text. So, the number of inputs I need to get through the interaction as quick as possible while still reading everything is 2x the number of lines of text. Once they get to a certain number of button presses, the player becomes fatigued and more likely to skip through the dialogue entirely. 
 
 ### DDI_MagnustFirstDeath2
 
