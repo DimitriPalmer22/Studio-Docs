@@ -10,7 +10,10 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 	- the naming convention for the dialogue assets
 
 ### Rich Text
--
+- The rich text implementation is still a little jank, so it isn't exactly ready for use yet.
+- However, it'd be pretty useful if you though of a couple specific things you'd want to use rich text for to make the dialogue more expressive (e.g. bolding certain words, changing the color of certain words, etc.)
+- I'll see what I can do to get those in.
+- One thing for sure I want to look into is making people's names very obvious (italicizing, bolding, changing color, etc.). We should pick one of these and stick with it consistently.
 
 # Rewriting Some Old Dialogue 
 
