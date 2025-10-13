@@ -46,4 +46,6 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 - Description: One of Allister's allies briefly informs him of the mage who wrote the journal entry. However, not much is known about this mage. Perhaps we can find out more.
 
 ### Entering the Upgrade Room for the First Time
-- Condition: Upon loading into an upgrade
+- Condition: Upon loading into an upgrade room for the first time
+- Description: Allister is confused by the sudden change in scenery. One of his allies is like, "it looks like this is a place where we can upgrade our abilities. Let's see if we can find anything useful here." The player then regains control and (hopefully) interacts with the table to upgrade abilities
+- 
