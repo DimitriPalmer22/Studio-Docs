@@ -48,4 +48,9 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 ### Entering the Upgrade Room for the First Time
 - Condition: Upon loading into an upgrade room for the first time
 - Description: Allister is confused by the sudden change in scenery. One of his allies is like, "it looks like this is a place where we can upgrade our abilities. Let's see if we can find anything useful here." The player then regains control and (hopefully) interacts with the table to upgrade abilities
-- 
+
+> Note: There is a chance this "table" becomes a "magical workbench" or something based on future art assets.
+
+### Interacting with the Upgrade Table for the First Time
+- Condition: Upon interacting with the upgrade table for the first time (before opening up the upgrade UI)
+- Description: Allister explains that he isn't exactly sure how to use this table. One of his allies responds with ""
