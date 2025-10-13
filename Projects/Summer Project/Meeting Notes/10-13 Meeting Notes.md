@@ -19,7 +19,6 @@
 - It should allow us to more naturally present story elements without disrupting the flow of gameplay.
 - We just need to fill the game with more dialogue content now.
 
-
 ### Levels
 - The materials for the levels have been updated like a lot, so the game looks *very* different now.
 - We've also got a couple new levels in the game.
