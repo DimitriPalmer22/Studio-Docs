@@ -63,4 +63,10 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 - Description:
 - Note: The shop room ALWAYS spawns after the upgrade room (not immediately after, but it is guaranteed to spawn at some point after the upgrade room). So, the player will have already gone through the above two interactions before this one.
 
-### 
+### Entering a "Boss Room" for the First Time
+- Condition: Upon loading into a boss room for the first time
+- Description: 
+
+### Clearing a "Boss Room" for the First Time
+- Condition: Upon defeating the waves of enemies in a boss room for the first time
+- Description: Hidetomo comes to talk to Allister (Assume this is our first time meeting him). 
