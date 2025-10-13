@@ -70,7 +70,7 @@ This refers to what type of interaction is currently going on. For example, is t
 5. *False Flags*: A list of custom boolean flags that MUST all be false for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
 6. *True Flags*: A list of custom boolean flags that MUST all be true for this interaction to play. These are used to determine if the interaction can be played based on the current state of the game. For every flag that you want to add, click the checkmark next to it.
 
-##### Updating Flags
+##### Updating Flags (THIS SECTION IS UNDER CONSTRUCTION)
 
 1. *Set to True After*: A list of custom boolean flags that you want to be set to true after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
 2. *Set to False After*: A list of custom boolean flags that you want to be set to false after this interaction is played. This is mainly used for *forced* interactions to make sure they are not played again. For every flag that you want to add, click the checkmark next to it.
@@ -90,7 +90,7 @@ Dialogue characters are stored as assets, so you only have to create one for eac
 	1. Right now, only the name is available to set.
 	2. Eventually, the portrait will be here as well.
 
-### Creating New Custom Boolean Flags
+### Creating New Custom Boolean Flags (THIS SECTION IS UNDER CONSTRUCTION)
 
 Custom boolean flags are used to determine if a dialogue interaction can be played based on the current state of the game. By default, these flags are ALL false, and need to be set to true either through gameplay or by completing dialogue interactions.
 
@@ -105,32 +105,3 @@ You can create new custom boolean flags by following these steps:
 - Name the flag whatever you want
 	- Make sure the name starts with `Narrative.`
 	- Make sure the "Source" file is `DefaultGameplayTags.ini`
-
-### [!] Add an Interaction to the Character's Collection of Dialogue
-
-This is a new step that was added to make it easier to apply true or false flags to multiple dialogue interactions at once without having to open each interaction individually.
-
-1. Navigate to the `/All/Game/Avernoth/Narrative/InteractionCollections` folder. Here, you'll find the "interaction collections" for each character.
-2. Open the interaction collection for the character you want to add  the interaction to. For example, if you want to add an interaction to Magnus, open `DIS_Collection_Magnus`.
-3. In the "Dialogue Interactions" section, click the `+` button to add a new interaction. In the empty slot, select the interaction you just created from the dropdown list.
-
-#### Creating a New Interaction Collection
-
-If you want to create a new interaction collection for a character that doesn't have one yet, follow these steps:
-
-1. In the same `InteractionCollections` folder, right-click and search for "Data Asset".
-2. In the data asset creation window, search for `DIS Interaction Collection`. `PDA_DIS_InteractionCollection` should come up. Select it.
-3. Name the new asset with the following format: `DIS_Collection_CharacterName`
-
-# Testing out the Dialogue
-
-Open up the map titled `DialogueInteraction_Demo`. You can either search for it or go to `Avernoth/Maps/DemoMaps` and find it there.
-
-When you play this level, there is a big white block behind the player and to the right. Walk up to this and press `E` to interact with it. This will play one of the valid dialogue interactions.
-
-If you want to test out a specific dialogue interaction, there is currently no way to set up specific flags, set up the current area, or set up the current interaction type in-editor or in-game. This will come eventually. So, if you want to see a specific interaction, I recommend:
- - temporarily removing all flags
- - temporarily allowing the interaction to play in all areas
- - temporarily allowing the interaction to play in all interaction types
- - setting the interaction to be forced
- - setting the forced priority to a high number (like 100,000)
