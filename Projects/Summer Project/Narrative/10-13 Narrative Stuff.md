@@ -79,7 +79,7 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 
 ### Entering a "Boss Room" for the First Time
 - Condition: Upon loading into a boss room for the first time
-- Description: One or more of Allister's allies remarks that this room is different than the rest. Allister should be extra careful. 
+- Description: One or more of Allister's allies remarks that this room seems different than the rest and that Allister be extra careful. Allister says something about sensing more residual mana in the air than usual. The player then regains control and prepares to fight the waves of enemies.
 
 ### Clearing a "Boss Room" for the First Time
 - Condition: Upon defeating the waves of enemies in a boss room for the first time
