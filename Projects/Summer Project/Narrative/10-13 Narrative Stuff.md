@@ -43,6 +43,8 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 - The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through. 
 - All of these interactions are mandatory, so it is very important to not make them too long.
 
+> Note
+
 ### Entering a Standard Enemy Room for the First Time
 - Condition: Upon loading into the first standard room of the run (so, any room after the beginning room(s) of the game)
 - Description: A quick interaction should play out explaining that there is imminent danger. After this, the player regains control, walks deeper into the room, and fights enemies.
