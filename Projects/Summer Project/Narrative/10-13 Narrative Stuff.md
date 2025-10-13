@@ -10,6 +10,10 @@ This is a document containing a list of items that need to be written / rewritte
 # Rewriting Old Dialogue 
 
 ### Beginning Dialogue
+--
+
+### DDI_EnchantAristide1
+
 
 # Writing New Dialogue
 ### 
