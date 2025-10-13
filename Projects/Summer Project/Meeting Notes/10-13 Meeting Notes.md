@@ -47,7 +47,7 @@ Ideally, we have some "tutorial" interactions for the player to go through durin
 - Hidetomo portrait
 
 ### Env. Artists: Crank out Props
-- Just keep working on the existing prop list
+- Just keep working on the existing prop list 
 Mikel I gotta 
 
 ### More Music?
