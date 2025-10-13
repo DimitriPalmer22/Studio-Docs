@@ -34,4 +34,10 @@
 
 ## Goals for v0.7.0:
 
-## Hard-Focus on Combat & Enemies
+## Code: Hard-Focus on Combat & Enemies
+
+## LD: Keep working on Levels
+Ideally, you should have something new by the LD meeting again so we can go through and review it
+
+## Narrative: Some "Tutorial" Dialogue
+Ideally, we have some "tutorial" interactions 
