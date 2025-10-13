@@ -11,7 +11,7 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 	- the very first step of creating a dialogue asset
 	- the naming convention for the dialogue assets
 
-# Rewriting Old Dialogue 
+# Rewriting Some Old Dialogue 
 
 ### Beginning Dialogue
 --
