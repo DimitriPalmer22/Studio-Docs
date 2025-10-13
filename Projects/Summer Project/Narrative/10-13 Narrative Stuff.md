@@ -23,6 +23,12 @@ Here are a couple interactions that I think need to be rewritten or at least bro
 
 > Note: Literally as I was writing this, I realized I *still* need to modify the implementation of the dialogue system specifically for the beginning sequence (respawning & getting very specific dialogue at very specific points). So, this will need to wait a *little* longer.
 
+### DDI_MagnustFirstDeath2
+
+> Again, I'll need to wait on this one until I modify the dialogue system to better accommodate the beginning sequence.
+
+This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY needs to be broken up. It's 27 lines long.
+
 ### DDI_EnchantAristide1
 This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade. 
 
@@ -32,13 +38,7 @@ I wanna try this idea: Instead of thinking about the length of these interaction
 
 Me personally, instead of letting the text write all the way out, I press the `confirm` button to quickly finish the current line of text. Then, I press `confirm` again to move onto the next line of text. So, the number of inputs I need to get through the interaction as quick as possible while still reading everything is 2x the number of lines of text. Once they get to a certain number of button presses, the player becomes fatigued and more likely to skip through the dialogue entirely. 
 
-### DDI_MagnustFirstDeath2
-
-> Again, I'll need to wait on this one until I modify the dialogue system to better accommodate the beginning sequence.
-
-This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY needs to be broken up. It's 27 lines long.
-
-# Writing New "First" Dialogue
+# Writing New "First" Dialogues
 
 - The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through. 
 - All of these interactions are mandatory, so it is very important to not make them too long.
