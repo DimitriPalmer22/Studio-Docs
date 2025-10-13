@@ -39,3 +39,8 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 
 ### Encountering a Journal Table for the First Time
 - Condition: A journal table randomly spawns in one of the rooms. This interaction plays once the player walks within a certain distance of the journal table for the first time (This interaction will only play if the player has cleared the enemies in the room).
+- Description: One of Allister's allies (idk maybe Tarun? He seems like a book kinda guy) points out the journal table and the note on it. The player then walks over to the table and reads the note.
+
+### After Reading the First Journal Entry
+- Condition: After reading the first journal entry and closing the journal entry UI (This interaction plays immediately after the above interaction)
+- 
