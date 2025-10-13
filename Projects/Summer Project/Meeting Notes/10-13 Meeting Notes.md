@@ -46,4 +46,7 @@ Ideally, we have some "tutorial" interactions for the player to go through durin
 - Runes
 - Hidetomo portrait
 
-### d
+### Env. Artists: Crank out Props
+Mikel I gotta 
+
+### More Music?
