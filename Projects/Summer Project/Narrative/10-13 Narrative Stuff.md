@@ -21,6 +21,9 @@ This interaction takes place in the upgrade room. It feels pretty long for an in
 
 This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
 
+### DDI_MagnustFirstDeath2
+This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY ne
+
 # Writing New Dialogue for the Very First Run
 
 - The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through. 
@@ -34,4 +37,4 @@ This interaction has 14 lines whereas the other upgrade room interactions have 7
 - Condition: Upon defeating all enemies in the first standard room of the run (so, right after the above interaction)
 - Description: A quick interaction should play out explaining that the player has cleared the room and can now proceed to the next room. They'll probably need to keep doing this to escape.
 
-### -
+### 
