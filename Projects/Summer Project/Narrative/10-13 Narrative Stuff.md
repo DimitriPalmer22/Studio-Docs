@@ -1,5 +1,3 @@
-> NOTE: 
-
 # Important Notes
 
 ### Dialogue Test Level?
@@ -11,11 +9,14 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 	- the very first step of creating a dialogue asset
 	- the naming convention for the dialogue assets
 
+### Rich Text
+-
+
 # Rewriting Some Old Dialogue 
 
 ### Beginning Dialogue
 
-> Note: After thinking about it some more, I *still* need to modify the implementation of the dialogue specifically for the beginning sequence, so 
+> Note: After thinking about it some more, I *still* need to modify the implementation of the dialogue system specifically for the beginning sequence (respawning & getting very specific dialogue at very specific points), so this will need to wait a *little* longer.
 
 ### DDI_EnchantAristide1
 This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade. 
@@ -23,6 +24,9 @@ This interaction takes place in the upgrade room. It feels pretty long for an in
 This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
 
 ### DDI_MagnustFirstDeath2
+
+> Again, I'll need to wait on this one until I modify the dialogue system to better accommodate the beginning sequence.
+
 This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY needs to be broken up. It's 27 lines long.
 
 # Writing New "First" Dialogue
