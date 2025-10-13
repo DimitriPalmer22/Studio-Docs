@@ -27,4 +27,7 @@ This interaction has 14 lines whereas the other upgrade room interactions have 7
 - All of these interactions are mandatory, so it is very important to not make them too long.
 
 ### Entering a Standard Enemy Room for the First Time
-Upon loading into the first standard room of the run, a quick interaction should play out explaining that there is imminent danger. After this, the player walks deeper into the room 
+- Condition: Upon loading into the first standard room of the run (so, any room after the beginning room(s) of the game)
+- Description: A quick interaction should play out explaining that there is imminent danger. After this, the player regains control, walks deeper into the room, and fights enemies.
+
+### 
