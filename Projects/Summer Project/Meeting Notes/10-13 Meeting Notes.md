@@ -28,4 +28,8 @@
 - Challenge rooms have better rewards
 - However, they are more difficult and take longer to finish
 
+### New Mechanic: Shield
+- The player can now get a shield that absorbs damage
+- Shield meter in the top left
+
 ## Goals for v0.7.0:
