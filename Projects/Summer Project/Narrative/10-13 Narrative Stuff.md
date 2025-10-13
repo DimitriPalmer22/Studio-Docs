@@ -17,10 +17,13 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 --
 
 ### DDI_EnchantAristide1
-This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade.  
+This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade. 
+
+This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
 
 # Writing New Dialogue for the Very First Run
 
-The player's first run isn't going to be scripted or anything, but there are severa
+The player's first run isn't going to be scripted or anything, but there are several key interactions the player must go through.
 
-### 
+### Entering a Standard Enemy Room for the First Time
+Upon loading into the first standard room of the run, a quick interaction should play out explaining that there
