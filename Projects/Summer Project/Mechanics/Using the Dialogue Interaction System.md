@@ -45,7 +45,7 @@ This refers to what type of interaction is currently going on. For example, is t
 2. Either find an appropriate folder or create a new folder to put your interaction in
 3. In this folder, right-click and search "data asset"
 4. In the data asset creation window, search for `Dynamic Dialogue Interaction Asset`. `Dynamic Dialogue Interaction Asset` should come up. Click it
-5. Name the new asset with the following format: `DIS_Interaction_InteractionName`
+5. Name the new asset with the following format: `DDI_InteractionName`
 6. Open the new data asset
 7. Set the attributes of the Dialogue Interaction
 
@@ -103,7 +103,7 @@ You can create new custom boolean flags by following these steps:
 - Click the dropdown for `Narrative` and then Click on `Flags`. This selects the `Flags` category as the parent for all the new flags you create.
 - Then, click the `+` button at the top left to create a new flag
 - Name the flag whatever you want
-	- Make sure the name starts with `Narrative.Flags.`
+	- Make sure the name starts with `Narrative.`
 	- Make sure the "Source" file is `DefaultGameplayTags.ini`
 
 ### [!] Add an Interaction to the Character's Collection of Dialogue
