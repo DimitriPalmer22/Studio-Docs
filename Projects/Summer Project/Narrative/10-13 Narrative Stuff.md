@@ -1,4 +1,4 @@
-This is a document containing a list of items that need to be written / rewritten to fit the new dialogue implementation
+> Note: For the sake of letting you get a feel of how the dialogue you write will look & feel in-game, let me know if you want me to set something up. It'd be pretty easy and quick for me to do.
 
 # !! NOTE: I Have Very *Slightly* Changed How You Add New Dialogue!!
 
@@ -13,7 +13,7 @@ This is a document containing a list of items that need to be written / rewritte
 --
 
 ### DDI_EnchantAristide1
-This interaction feels pretty long for 
+This interaction takes place in the upgrade room. It feels pretty long for an interaction the player MUST go through to get an upgrade.  
 
 # Writing New Dialogue for the Very First Run
 ### 
