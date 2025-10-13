@@ -53,4 +53,6 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 
 ### Interacting with the Upgrade Table for the First Time
 - Condition: Upon interacting with the upgrade table for the first time (before opening up the upgrade UI)
-- Description: Allister explains that he isn't exactly sure how to use this table. One of his allies responds with ""
+- Description: Allister explains that he isn't exactly sure how to use this table. One of his allies responds with "Don't worry, I got you. You can spend mana essence here to upgrade your abilities. I'll walk you through the process."
+
+### Encountering A Shop Room for the First Time
