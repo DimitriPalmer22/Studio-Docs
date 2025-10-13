@@ -43,4 +43,7 @@ This is the interaction that plays when Allister dies and resurrects for the fir
 
 ### After Reading the First Journal Entry
 - Condition: After reading the first journal entry and closing the journal entry UI (This interaction plays immediately after the above interaction)
-- Description: One of Allister's allies briefly informs him of the mage who wrote the journal entry. However, not much is known about this mage. Perha
+- Description: One of Allister's allies briefly informs him of the mage who wrote the journal entry. However, not much is known about this mage. Perhaps we can find out more.
+
+### Entering the Upgrade Room for the First Time
+- Condition: Upon loading into an upgrade
