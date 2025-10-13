@@ -4,7 +4,7 @@
 - [ ] If more than 1 item is currently with selection range, but one of them has higher priority than the other, immediately consider the higher priority option
 
 ## Spell C++ Classes
-- [ ] Data asset for sound info so the attenuation settings can be placed somewhere other than my details panel
+- [x] Data asset for sound info so the attenuation settings can be placed somewhere other than my details panel
 	- [ ] This should also fix the concurrent sounds issue
 - [ ] Function Library for common spell functions (spawn projectile, spawn impact effect, etc)
 
@@ -14,8 +14,8 @@ Right now, the player is constantly backpedaling because they don't have a way t
 	- [ ] Knockback duration is based on the length of the flinch animation
 	- [ ] Create a UObject class to pass flinch data around
 	- [ ] Face the direction of the knockback
-- [ ] Prevent movement input while being knocked back
-- [ ] Spells apply knockback based on how far they have traveled (tie to the damage falloff curve)
+- [x] Prevent movement input while being knocked back
+- [ ] Projectile Spells apply knockback based on how far they have traveled (tie to the damage falloff curve)
 
 ## Enemy AI Improvements
 
