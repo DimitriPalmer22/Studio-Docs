@@ -22,7 +22,7 @@ This interaction takes place in the upgrade room. It feels pretty long for an in
 This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
 
 ### DDI_MagnustFirstDeath2
-This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY ne
+This is the interaction that plays when Allister dies and resurrects for the first time. This DEFINITELY needs to be broken up. It's 27 lines long.
 
 # Writing New Dialogue for the Very First Run
 
