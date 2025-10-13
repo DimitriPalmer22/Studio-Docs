@@ -35,6 +35,8 @@
 ## Goals for v0.7.0:
 
 ### Code: Hard-Focus on Combat & Enemies
+- Last week, I said I wanted some variety in the player's spells, but I didn't have time to implement that. There is a list of spell ideas I will be working on, though.
+- 
 
 ### LD: Keep working on Levels
 Ideally, you should have something new by the LD meeting again so we can go through and review it.
