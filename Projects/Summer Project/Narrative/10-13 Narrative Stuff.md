@@ -26,7 +26,9 @@ This interaction takes place in the upgrade room. It feels pretty long for an in
 
 This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
 
-I wanna try this idea
+I wanna try this idea: Instead of thinking about the length of these interactions in terms of the total number of words, try to think about the total number of inputs the player would have to make to get through the interaction if they were reading it in-game.
+
+Me personally, instead of letting the text write all the way out, I press the `confirm` button to quickly finish the currnent line of text. Then, I press `confirm` again to move onto the next line of text. So, the number of inputs I need to get through the interaction as quick as possible 
 
 ### DDI_MagnustFirstDeath2
 
