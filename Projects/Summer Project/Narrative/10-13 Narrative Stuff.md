@@ -2,8 +2,7 @@ This is a document containing a list of items that need to be written / rewritte
 
 # Rewriting Old Dialogue 
 
-## 
+### Beginning Dialogue
 
-# Beginning Dialogue
-
-## 
+# Writing New Dialogue
+### 
