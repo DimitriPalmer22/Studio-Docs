@@ -17,6 +17,8 @@ For the sake of letting you get a feel of how the dialogue you write will look &
 
 # Rewriting Some Old Dialogue 
 
+Here are a couple interactions that I think need to be rewritten or at least broken up into smaller chunks. There are probably more, but I'll have t
+
 ### Beginning Dialogue
 
 > Note: Literally as I was writing this, I realized I *still* need to modify the implementation of the dialogue system specifically for the beginning sequence (respawning & getting very specific dialogue at very specific points). So, this will need to wait a *little* longer.
@@ -26,9 +28,9 @@ This interaction takes place in the upgrade room. It feels pretty long for an in
 
 This interaction has 14 lines whereas the other upgrade room interactions have 7-8 lines.
 
-I wanna try this idea: Instead of thinking about the length of these interactions in terms of the total number of words, try to think about the total number of inputs the player would have to make to get through the interaction if they were reading it in-game.
+I wanna try this idea: Instead of thinking about the length of these interactions in terms of the total number of words, try to *also* think about the *total number of inputs* the player would have to make to get through the interaction if they were reading it in-game.
 
-Me personally, instead of letting the text write all the way out, I press the `confirm` button to quickly finish the currnent line of text. Then, I press `confirm` again to move onto the next line of text. So, the number of inputs I need to get through the interaction as quick as possible 
+Me personally, instead of letting the text write all the way out, I press the `confirm` button to quickly finish the current line of text. Then, I press `confirm` again to move onto the next line of text. So, the number of inputs I need to get through the interaction as quick as possible while still reading everything is 2x the number of lines of text. 
 
 ### DDI_MagnustFirstDeath2
 
