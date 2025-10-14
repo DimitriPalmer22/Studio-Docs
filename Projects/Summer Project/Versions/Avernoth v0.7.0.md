@@ -25,6 +25,9 @@ Right now, the player is constantly backpedaling because they don't have a way t
 ### Key Concept: Revenge Meter & Revenge Counter
 With stun locks and knockback, it can be very easy to virtually render an enemy as useless by trapping them in a combo. Enemies should be given at least one opportunity to engage with the player (given they are not immediately killed)
 
+#### Revenge Meter
+- As enemies take damage,
+
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
