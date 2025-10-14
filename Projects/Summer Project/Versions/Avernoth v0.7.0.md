@@ -22,6 +22,9 @@ Right now, the player is constantly backpedaling because they don't have a way t
 - [ ] Enemy AI struct in C++ for better organization
 - [ ] C++ library for common enemy functions
 
+### Key Concept: Revenge Meter & Revenge Counter
+With stun locks and knockback, it can be very easy to virtually render an enemy as useless by trapping them in a combo.
+
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
