@@ -6,7 +6,7 @@
 ## Spell C++ Classes
 - [x] Data asset for sound info so the attenuation settings can be placed somewhere other than my details panel
 	- [ ] This should also fix the concurrent sounds issue
-- [ ] Function Library for common spell functions (spawn projectile, spawn impact effect, etc)
+- [x] Function Library for common spell functions (spawn projectile, spawn impact effect, etc)
 
 ## Knockback (NECESSARY)
 Right now, the player is constantly backpedaling because they don't have a way to generate space between themselves and enemies. Adding knockback will help with this.
