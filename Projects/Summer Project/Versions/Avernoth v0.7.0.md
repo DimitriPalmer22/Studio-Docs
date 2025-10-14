@@ -10,8 +10,8 @@
 
 ## Knockback (NECESSARY)
 Right now, the player is constantly backpedaling because they don't have a way to generate space between themselves and enemies. Adding knockback will help with this.
-- [ ] Combine flinch and knockback into one system
-	- [ ] Knockback duration is based on the length of the flinch animation
+- [x] Combine flinch and knockback into one system
+	- [x] Knockback duration is based on the length of the flinch animation
 	- [ ] Create a UObject class to pass flinch data around
 	- [ ] Face the direction of the knockback
 - [x] Prevent movement input while being knocked back
