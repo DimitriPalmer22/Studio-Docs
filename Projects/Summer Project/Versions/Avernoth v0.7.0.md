@@ -43,6 +43,8 @@ Move the enemy toward their desired combat range. For melee enemies, this is clo
 ##### Revenge Counter Type: Attack
 Perform a specific attack animation. This should probably be paired with super armor or invincibility. 
 
+### Key Concept: GOAP & Action Queuing
+
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
