@@ -36,7 +36,8 @@ An "Action" can be represented by a UObject class that contains functions for:
 #### Action Queue
 - Each enemy has an action queue as well as a "current action"
 - This way, we can queue up a series of actions for the enemy to perform for an overall goal.
-- Some acti
+- Some events will clear the action queue (like being stunned or knocked back)
+- Some actions will pause the action cue / current action until completion (like successfully dodging an attack)
 
 ### Key Concept: Revenge Meter & Revenge Counter
 With stun locks and knockback, it can be very easy to virtually render an enemy as useless by trapping them in a combo. Enemies should be given at least one opportunity to engage with the player (given they are not immediately killed)
