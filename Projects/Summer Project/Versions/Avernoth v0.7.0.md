@@ -31,10 +31,16 @@ With stun locks and knockback, it can be very easy to virtually render an enemy 
 
 #### Revenge Counter
 - Depending on the enemy type, the counter will be different. It could be one ability or it could be multiple abilities that activate at once.
+- A visual effect NEEDS to accompany the activation of the counter so the player knows something is happening.
 
-####
+##### Revenge Counter Type: Invincibility / Super Armor
 Generally, they should either make the enemy briefly invincible or have super armor to eliminate flinching. This way, they can attempt to engage with the player.
-- 
+
+##### Revenge Counter Type: Movement
+Move the enemy toward their desired combat range. For melee enemies, this is closer toward the player. For ranged enemies, this is farther away from the player.
+
+##### Revenge Counter Type: Attack
+Perform a specific attack animation. This should probably be paired with super armor or invincibility. 
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
