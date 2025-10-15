@@ -26,7 +26,10 @@ Right now, the player is constantly backpedaling because they don't have a way t
 With stun locks and knockback, it can be very easy to virtually render an enemy as useless by trapping them in a combo. Enemies should be given at least one opportunity to engage with the player (given they are not immediately killed)
 
 #### Revenge Meter
-- As enemies take damage,
+- As enemies take damage, they build up a "Revenge Meter"
+- When the meter fills up, the enemy activates a "*Revenge Counter*"
+
+#### Re
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
