@@ -28,6 +28,7 @@ With stun locks and knockback, it can be very easy to virtually render an enemy 
 #### Revenge Meter
 - As enemies take damage, they build up a "Revenge Meter"
 - When the meter fills up, the enemy activates a "*Revenge Counter*"
+- This is a hidden value, so the player doesn't know how close they are to triggering it
 
 #### Revenge Counter
 - Depending on the enemy type, the counter will be different. It could be one ability or it could be multiple abilities that activate at once.
