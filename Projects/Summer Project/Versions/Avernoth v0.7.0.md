@@ -30,6 +30,8 @@ With stun locks and knockback, it can be very easy to virtually render an enemy 
 - When the meter fills up, the enemy activates a "*Revenge Counter*"
 
 #### Revenge Counter
+- Depending on the enemy type, the counter will be different. It could be one ability or it could be 
+- 
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
