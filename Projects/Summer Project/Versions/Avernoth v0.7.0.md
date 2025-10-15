@@ -21,6 +21,22 @@ Right now, the player is constantly backpedaling because they don't have a way t
 
 - [ ] Enemy AI struct in C++ for better organization
 - [ ] C++ library for common enemy functions
+### Key Concept: GOAP & Action Queuing
+
+#### What is an Action?
+
+An "Action" can be represented by a UObject class that contains functions for:
+- What to do when entering the state
+- What to do while in the state (tick)
+- What to do when exiting the state
+- When the action is considered "complete"
+	- Success?
+	- Fail?
+
+#### Action Queue
+- Each enemy has an action queue as well as a "current action"
+- This way, we can queue up a series of actions for the enemy to perform for an overall goal.
+- Some acti
 
 ### Key Concept: Revenge Meter & Revenge Counter
 With stun locks and knockback, it can be very easy to virtually render an enemy as useless by trapping them in a combo. Enemies should be given at least one opportunity to engage with the player (given they are not immediately killed)
@@ -43,15 +59,6 @@ Move the enemy toward their desired combat range. For melee enemies, this is clo
 ##### Revenge Counter Type: Attack
 Perform a specific attack animation. This should probably be paired with super armor or invincibility. 
 
-### Key Concept: GOAP & Action Queuing
-
-An "Action" can be represented by a UObject class that contains functions for:
-- What to do when entering the state
-- What to do while in the state (tick)
-- What to do when exiting the state
-- When the action is considered "complete"
-	- Success?
-	- Fail?
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
