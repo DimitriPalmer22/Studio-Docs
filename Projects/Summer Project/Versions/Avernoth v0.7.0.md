@@ -45,6 +45,13 @@ Perform a specific attack animation. This should probably be paired with super a
 
 ### Key Concept: GOAP & Action Queuing
 
+An "Action" can be represented by a UObject class that contains functions for:
+- What to do when entering the state
+- What to do while in the state (tick)
+- What to do when exiting the state
+- When the action is considered "complete"
+	- Success?
+	- Fail?
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
