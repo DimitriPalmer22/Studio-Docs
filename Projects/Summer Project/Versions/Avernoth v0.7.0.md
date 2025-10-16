@@ -67,6 +67,8 @@ Perform a specific attack animation. This should probably be paired with super a
 
 "Aggression" is a hidden value that determines how likely an enemy is to perform an action. It is used like a currency that is spent to perform actions.
 
+![](<../../../_Meta/Attachments/Pasted image 20251016033545.png>)
+
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
