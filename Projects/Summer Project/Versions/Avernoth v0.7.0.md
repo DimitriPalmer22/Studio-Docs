@@ -125,4 +125,6 @@ Choose at least two powers from that one document we made and implement them fun
 - Armor makes it so that the enemies no longer flinch, and it also increases their health pool, which essentially eliminates the two issues listed above.
 - Once an enemy loses their armor, they lose these benefits, so the player has to focus on breaking their armor first.
 
-#### 
+#### Player Knockback
+- The ending hit of a player's combo sends enemies back significantly further than the other attacks
+- This makes it so that if enemies survive a combo, they are given some breathing room to recover and re-engage with the player.
