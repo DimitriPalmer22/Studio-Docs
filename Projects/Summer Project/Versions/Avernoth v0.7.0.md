@@ -100,3 +100,11 @@ Perform a specific attack animation. This should probably be paired with super a
 ## At Least Two Attack Things From The Doc
 
 Choose at least two powers from that one document we made and implement them functionally
+
+# Notes: Good Enemy AI?
+
+## Case Study: Hades
+- Enemies telegraph their attacks clearly
+- Each individual enemy has a very small moveset
+- Each move is also very manageable on its own / the player can easily react to it, dodge it, counter, etc.
+- The real difficulty comes in once 
