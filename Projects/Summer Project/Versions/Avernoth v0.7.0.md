@@ -119,3 +119,8 @@ Choose at least two powers from that one document we made and implement them fun
 ### The more significant enemies
 - For the vast majority of enemies, the time to kill is extremely quick. 
 - Also, once trapped in a melee combo, enemies are virtually useless.
+- However, some enemies pose more of a threat
+#### Armored Enemies
+- One of the most common ways Hades ramps up the difficulty of specific enemies is by adding armor to them.
+- Armor makes it so that the enemies no longer flinch, and it also increases their health pool, which essentially eliminates the two issues listed above.
+- Once an enemy loses their armor, they lose 
