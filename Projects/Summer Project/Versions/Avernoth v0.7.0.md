@@ -128,3 +128,15 @@ Choose at least two powers from that one document we made and implement them fun
 #### Player Knockback
 - The ending hit of a player's combo sends enemies back significantly further than the other attacks
 - This makes it so that if enemies survive a combo, they are given some breathing room to recover and re-engage with the player.
+
+### Controlling Space
+
+#### AOE Enemies
+- Enemies that create zones on the ground that the player has to avoid
+
+#### Environmental Hazards
+- Arrow traps
+- Wall knight things
+
+#### Untraversable Pits
+- Big holes in the ground that the player can't cross. They essentially act as a wall
