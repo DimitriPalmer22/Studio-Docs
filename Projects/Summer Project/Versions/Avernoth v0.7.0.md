@@ -108,8 +108,12 @@ Choose at least two powers from that one document we made and implement them fun
 - Each individual enemy has a very small moveset
 - Each move is also very manageable on its own / the player can easily react to it, dodge it, counter, etc.
 
-### Swarming the Playe
+### Swarming the Player
 - The real difficulty comes in once multiple enemies are on screen at once and the player has to prioritize threats and manage space effectively
 - Hades' hardest moments comes from when the game feels the most chaotic.
-	- The player is AWARE of all the things that can hit them, but they are bombarded with so many decisions that they have to make in a short amount of time that they inevitably make mistakes.
-	- For instance, that one room in the first floor where the crystal has super armor and spawns a whole bunch of mini crystals is very difficult because the player has to manage both the super armored crystal (which requires them to dodge and attack carefully) while also managing the mini crystals that swarm them. If they prioritize the smaller crystals
+- The player is AWARE of all the things that can hit them, but they are bombarded with so many decisions that they have to make in a short amount of time that they inevitably make mistakes.
+- For instance, that one room in the first floor where the crystal has super armor and spawns a whole bunch of mini crystals is very difficult because the player has to manage both the super armored crystal (which requires them to dodge and attack carefully) while also managing the mini crystals that swarm them. 
+	- If they prioritize the smaller crystals, the fight will never end, as the super armored crystal will just keep spawning more.
+	- If they prioritize the super armored crystal, they risk getting overwhelmed by the smaller crystals.
+
+### The more significant enemies
