@@ -124,3 +124,5 @@ Choose at least two powers from that one document we made and implement them fun
 - One of the most common ways Hades ramps up the difficulty of specific enemies is by adding armor to them.
 - Armor makes it so that the enemies no longer flinch, and it also increases their health pool, which essentially eliminates the two issues listed above.
 - Once an enemy loses their armor, they lose these benefits, so the player has to focus on breaking their armor first.
+
+#### 
