@@ -117,3 +117,5 @@ Choose at least two powers from that one document we made and implement them fun
 	- If they prioritize the super armored crystal, they risk getting overwhelmed by the smaller crystals.
 
 ### The more significant enemies
+- For the vast majority of enemies, the time to kill is extremely quick. 
+- Also, once trapped in a melee combo, enemies are virtually useless.
