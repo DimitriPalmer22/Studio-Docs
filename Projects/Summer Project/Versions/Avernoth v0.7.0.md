@@ -76,9 +76,12 @@ Perform a specific attack animation. This should probably be paired with super a
 ## Enemy Variations
 
 ### Wraith
+The variations of the Wraith enemy should focus on the different element types.
 
-- [ ] Simple projectile spell to pester the player from long range
-- [ ] AOE spell that creates a zone on the ground that damages the player over time. Restr
+- [ ] Fireball - Simple projectile spell to pester the player from long range
+- [ ] Twilight - AOE spell that creates a zone on the ground that damages the player over time. Restricts movement options & adds positioning as a key decision to combat.
+- [ ] Tempest - Slow-moving homing projectile that chases the player & explodes either once the player gets close enough or after a certain amount of time. Explosion sucks the player in?
+	- [ ] The projectile exploding should NOT be sudden, and should have a wind-up animation or something to telegraph it
 
 
 ## Rethink Passive Effects Again
