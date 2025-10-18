@@ -83,6 +83,10 @@ The variations of the Wraith enemy should focus on the different element types.
 - [ ] Tempest - Slow-moving homing projectile that chases the player & explodes either once the player gets close enough or after a certain amount of time. Explosion sucks the player in?
 	- [ ] The projectile exploding should NOT be sudden, and should have a wind-up animation or something to telegraph it
 
+### Knight 
+The variations of the knight should also focus on the different element types. The COULD also focus on different weapon types, this way they could very different attack animations per variation.
+
+- [ ] Twilight w
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
