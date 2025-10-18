@@ -86,7 +86,12 @@ The variations of the Wraith enemy should focus on the different element types.
 ### Knight 
 The variations of the knight should also focus on the different element types. The COULD also focus on different weapon types, this way they could very different attack animations per variation.
 
-- [ ] Twilight w
+- [ ] Primordial Axe - Heavy overhead swing w/ fire element. Deals a lingering burn on the ground after impact
+- [ ] Twilight sword - Sword swipe w/ twilight element. Debuffs player agility on hit for a short time.
+- [ ] Storm Hammer - Slower hammer swing w/ tempest element. Creates an AOE shockwave on impact that knocks the player back.
+
+### Minotaur
+...
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
