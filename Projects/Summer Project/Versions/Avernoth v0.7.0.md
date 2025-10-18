@@ -71,7 +71,9 @@ Perform a specific attack animation. This should probably be paired with super a
 
 
 ## High Level Combat Tweaks
+Hades feels *chaotic* after a little while. I wanna feel like Hades.
 - [ ] Increase TTK slightly across the board. This WILL make the game harder and will increase the time the player spends in each room.
+- [ ] Increase enemy density per-room. Enemies are easy on their own. Together, they pose a real threat, and are more engaging to fight.
 
 ## Enemy Variations
 
@@ -88,10 +90,10 @@ The variations of the knight should also focus on the different element types. T
 
 - [ ] Primordial Axe - Heavy overhead swing w/ fire element. Deals a lingering burn on the ground after impact
 - [ ] Twilight sword - Sword swipe w/ twilight element. Debuffs player agility on hit for a short time.
-- [ ] Storm Hammer - Cast a large circular sigil on the ground. Slower hammer swing w/ tempest element that hits the ground. Creates an AOE shockwave on impact that pulls the player in.
+- [ ] Storm Hammer - Cast a large circular sigil on the ground. Slower hammer swing w/ tempest element that hits the ground. Creates an AOE shockwave on impact that pulls the player in (also deals a little damage).
 
 ### Minotaur
-
+...
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
