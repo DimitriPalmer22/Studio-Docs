@@ -69,6 +69,18 @@ Perform a specific attack animation. This should probably be paired with super a
 
 ![](<../../../_Meta/Attachments/Pasted image 20251016033545.png>)
 
+
+## High Level Combat Tweaks
+- [ ] Increase TTK slightly across the board. This WILL make the game harder and will increase the time the player spends in each room.
+
+## Enemy Variations
+
+### Wraith
+
+- [ ] Simple projectile spell to pester the player from long range
+- [ ] AOE spell that creates a zone on the ground that damages the player over time. Restr
+
+
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
 - Passive effects that specifically augment something (only 1 per-slot)
