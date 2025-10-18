@@ -88,10 +88,10 @@ The variations of the knight should also focus on the different element types. T
 
 - [ ] Primordial Axe - Heavy overhead swing w/ fire element. Deals a lingering burn on the ground after impact
 - [ ] Twilight sword - Sword swipe w/ twilight element. Debuffs player agility on hit for a short time.
-- [ ] Storm Hammer - Slower hammer swing w/ tempest element. Creates an AOE shockwave on impact that knocks the player back.
+- [ ] Storm Hammer - Cast a large circular sigil on the ground. Slower hammer swing w/ tempest element that hits the ground. Creates an AOE shockwave on impact that pulls the player in.
 
 ### Minotaur
-...
+
 
 ## Rethink Passive Effects Again
 - Simple Passive effects that you can just add on
