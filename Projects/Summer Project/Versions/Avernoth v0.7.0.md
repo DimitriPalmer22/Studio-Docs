@@ -202,19 +202,21 @@ This update focused primarily on combat (specifically the enemies)
 - This enemy casts a slow-moving homing projectile that chases the player.
 - If the projectile gets close enough to the player or after a certain amount of time, it explodes, dealing tempest damage and pulling the player in slightly.
 
-## Nerfing ALL the Player's Ranged Projectiles
+## Misc. Combat Updates
+### Nerfing ALL the Player's Ranged Projectiles
 - Before, the player's ranged projectiles would travel (almost) infinitely until they hit something.
 - Now, all ranged projectiles have a maximum range that they can travel before disappearing.
-- This way, the player is *forced* to get closer to enemies to hit them, which increases the risk factor of using ranged attacks.
+- This way, the player is *forced* to get closer to enemies to hit them, which increases the risk factor of using these attacks.
 
-## New Spell: Chain Lightning Burst (Name WIP)
+### New Spell: Chain Lightning Burst (Name WIP)
 - A secondary spell where the player fires out 4 chains of lightning that bounce between enemies.
 - This power is completely inspired by the Chain Lightning power in Relapse btw
 
-## Knockback Update
+### Knockback Update
 - Pretty much every hit in the game applies some type of knockback to either the player or the enemies.
 - This helps *A LOT* with combat flow, as it creates space between the player and enemies, preventing constant backpedaling.
 
-## Moving Towards Enemies While Attacking
+### Moving Towards Enemies While Attacking
 - Before some attacks would move the player forward a little
-- However, if an enemy was too far, then
+- However, if an enemy was too far, then this was useless
+- Now, the attacks will move the player much further if the enemy is further away and will move the player much less if the enemy is close.
