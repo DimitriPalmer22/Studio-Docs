@@ -173,4 +173,10 @@ Choose at least two powers from that one document we made and implement them fun
 #### Untraversable Pits
 - Big holes in the ground that the player can't cross. They essentially act as a wall
 
-# Avernoth
+# Avernoth v0.7.0
+
+This update focused primarily on combat (specifically the enemies)
+
+## Enemy AI Overhaul
+- Enemies have an improved AI system that should react a little better to the player's actions
+- Individual
