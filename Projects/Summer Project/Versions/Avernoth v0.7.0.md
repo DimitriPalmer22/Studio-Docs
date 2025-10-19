@@ -212,11 +212,11 @@ This update focused primarily on combat (specifically the enemies)
 ## Misc. Combat Updates
 
 ### Reduced Allister's Damage
-- This increases the time-to-kill per-enemy slightly, which gives the enemies more of an opportunity to engage with the player.
+- This increases the time-to-kill per-enemy slightly, which gives the enemies more of an opportunity to engage with the player and fight back.
 
 ### Nerfing ALL the Player's Ranged Projectiles
 - Before, the player's ranged projectiles would travel (almost) infinitely until they hit something.
-- Now, all ranged projectiles have a maximum range that they can travel before disappearing.
+- Now, all ranged projectiles have a MUCH shorter maximum range that they can travel before disappearing.
 - This way, the player is *forced* to get closer to enemies to hit them, which increases the risk factor of using these attacks.
 
 ### Knockback Update
