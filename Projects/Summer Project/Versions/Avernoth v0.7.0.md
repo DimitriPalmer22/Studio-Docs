@@ -204,3 +204,10 @@ This update focused primarily on combat (specifically the enemies)
 
 ## New Spell: Chain Lightning Burst (Name WIP)
 - A secondary spell where the player fires out 4 chains of lightning that bounce between enemies.
+- This power is completely inspired by the Chain Lightning power in Relapse btw
+
+## Knockback Update
+- Pretty much every hit in the game applies some type of knockback to either the player or the enemies.
+- This helps *A LOT* with combat flow, as it creates space between the player and enemies, preventing constant backpedaling.
+
+## 
