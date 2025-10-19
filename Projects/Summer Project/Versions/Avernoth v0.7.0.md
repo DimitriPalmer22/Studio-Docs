@@ -172,3 +172,5 @@ Choose at least two powers from that one document we made and implement them fun
 
 #### Untraversable Pits
 - Big holes in the ground that the player can't cross. They essentially act as a wall
+
+# Avernoth
