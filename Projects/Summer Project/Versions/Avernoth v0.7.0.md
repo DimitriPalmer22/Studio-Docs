@@ -184,15 +184,19 @@ This update focused primarily on combat (specifically the enemies)
 ## New Enemy: Wraith
 - A ranged enemy that attacks the player from a distance using elemental spells.
 - Wraiths will try to maintain a safe distance from the player, backing up if the player gets too close.
+- A big thing this game was lacking was enemies that control space from a distance, so the Wraith is intended to fill that role.
 
-## New Enemy Variations
+### Wraith Variations
 - Rather than increase the number of unique enemy assets in the game, we can make it *seem* like we have more enemies by making them behave differently.
 - So, I chose to have several variations of the enemies we already have, focusing on elemental differences.
 
-### Wraith Variation #1: Fireball
+### Wraith Variation #1: (Primordial) Fireball Projectile
 - This enemy shoots simple fireball projectiles at the player from long range. 
 - This is very similar to the fireball enemies we've had in the game up until this point.
 
-### Wraith Variation #2: Arcing Twilight
-- This enemy casts a projectile that arcs through the air and lands on the ground.
-- 
+### Wraith Variation #2: (Twilight) Arcing Projectile
+- This enemy casts a projectile that arcs through the air and lands on the ground, dealing a small amount of twilight damage 
+- When the projectile lands, it creates an AOE effect that damages the player over time if they stand in it for too long.
+
+### Wraith Variation #3: (Tempest) Homing Spell
+- This enemy casts a slow-moving homing projectile that chases the player.
