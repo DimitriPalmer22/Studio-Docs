@@ -188,15 +188,19 @@ This update focused primarily on combat (specifically the enemies)
 
 ### Wraith Variations
 - Rather than increase the number of unique enemy assets in the game, we can make it *seem* like we have more enemies by making them behave differently.
-- So, I chose to have several variations of the enemies we already have, focusing on elemental differences.
+- So, I chose to have several variations of the enemies we already have, focusing on the existing elements we have in the game.
 
 ### Wraith Variation #1: (Primordial) Fireball Projectile
 - This enemy shoots simple fireball projectiles at the player from long range. 
 - This is very similar to the fireball enemies we've had in the game up until this point.
 
 ### Wraith Variation #2: (Twilight) Arcing Projectile
-- This enemy casts a projectile that arcs through the air and lands on the ground, dealing a small amount of twilight damage 
+- This enemy casts a projectile that arcs through the air and lands on the ground, dealing a small amount of twilight damage on impact.
 - When the projectile lands, it creates an AOE effect that damages the player over time if they stand in it for too long.
 
 ### Wraith Variation #3: (Tempest) Homing Spell
 - This enemy casts a slow-moving homing projectile that chases the player.
+- If the projectile gets close enough to the player or after a certain amount of time, it explodes, dealing tempest damage and pulling the player in slightly.
+
+## New Spell: Chain Lightning Burst (Name WIP)
+- A secondary spell where the player fires out 4 chains of lightning that bounce between enemies.
