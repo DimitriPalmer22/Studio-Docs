@@ -123,9 +123,15 @@ The variations of the knight should also focus on the different element types. T
 ## Small Change to the Shop
 - [ ] Rework the relinquish upgrade to just be a boost to one stat instead of taking away another stat first.
 
-## At Least Two Attack Things From The Doc
+## At Least Two Attack Things From The Doc?
 
 Choose at least two powers from that one document we made and implement them functionally
+
+## Lower damage of all primary spells
+
+## Increase damage of all secondary spells a little
+
+## Redistribute enemies in the levels (use the new prefabs)
 
 # Notes: Good Enemy AI?
 
