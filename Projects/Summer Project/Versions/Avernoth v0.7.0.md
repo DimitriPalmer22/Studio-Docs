@@ -175,9 +175,9 @@ Choose at least two powers from that one document we made and implement them fun
 
 # Avernoth v0.7.0
 
-This update focused primarily on combat (specifically the enemies)
-Also, check out the new music in 
+Check out the new music in []
 
+This update focused primarily on combat (specifically the enemies)
 ## Enemy AI Overhaul
 - Enemies have an improved AI system that should react a little better to the player's actions
 - Individually, enemies don't pose much of a threat, so most of the game's difficulty comes from when the player is overwhelmed by several enemies at once.
