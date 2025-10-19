@@ -229,3 +229,4 @@ This update focused primarily on combat (specifically the enemies)
 
 ## "Alternate" Level Update
 - We have a level that serves as a visual baseline for what the "alternate" rooms are supposed to look like
+- It still needs to be tweaked a little, but this is the direction we're going in
