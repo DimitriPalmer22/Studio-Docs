@@ -181,8 +181,18 @@ This update focused primarily on combat (specifically the enemies)
 - Enemies have an improved AI system that should react a little better to the player's actions
 - Individually, enemies don't pose much of a threat, so most of the game's difficulty comes from when the player is overwhelmed by several enemies at once.
 
-## 
+## New Enemy: Wraith
+- A ranged enemy that attacks the player from a distance using elemental spells.
+- Wraiths will try to maintain a safe distance from the player, backing up if the player gets too close.
 
 ## New Enemy Variations
 - Rather than increase the number of unique enemy assets in the game, we can make it *seem* like we have more enemies by making them behave differently.
 - So, I chose to have several variations of the enemies we already have, focusing on elemental differences.
+
+### Wraith Variation #1: Fireball
+- This enemy shoots simple fireball projectiles at the player from long range. 
+- This is very similar to the fireball enemies we've had in the game up until this point.
+
+### Wraith Variation #2: Arcing Twilight
+- This enemy casts a projectile that arcs through the air and lands on the ground.
+- 
