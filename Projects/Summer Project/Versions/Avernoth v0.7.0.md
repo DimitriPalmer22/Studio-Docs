@@ -72,7 +72,7 @@ Perform a specific attack animation. This should probably be paired with super a
 
 ## High Level Combat Tweaks
 Hades feels *chaotic* after a little while. I wanna feel like Hades.
-- [ ] Increase TTK slightly across the board. This WILL make the game harder and will increase the time the player spends in each room.
+- [x] Increase TTK slightly across the board. This WILL make the game harder and will increase the time the player spends in each room.
 - [ ] Increase enemy density per-room. Enemies are easy on their own. Together, they pose a real threat, and are more engaging to fight.
 
 ## Enemy Variations
@@ -80,8 +80,8 @@ Hades feels *chaotic* after a little while. I wanna feel like Hades.
 ### Wraith
 The variations of the Wraith enemy should focus on the different element types.
 
-- [ ] Fireball - Simple projectile spell to pester the player from long range
-- [ ] Twilight - AOE spell that creates a zone on the ground that damages the player over time. Restricts movement options & adds positioning as a key decision to combat.
+- [x] Fireball - Simple projectile spell to pester the player from long range
+- [x] Twilight - AOE spell that creates a zone on the ground that damages the player over time. Restricts movement options & adds positioning as a key decision to combat.
 - [ ] Tempest - Slow-moving homing projectile that chases the player & explodes either once the player gets close enough or after a certain amount of time. Explosion sucks the player in?
 	- [ ] The projectile exploding should NOT be sudden, and should have a wind-up animation or something to telegraph it
 
