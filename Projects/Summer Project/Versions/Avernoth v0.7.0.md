@@ -186,6 +186,7 @@ This update focused primarily on combat (specifically the enemies)
 - A ranged enemy that attacks the player from a distance using elemental spells.
 - Wraiths will try to maintain a safe distance from the player, backing up if the player gets too close.
 - A big thing this game was lacking was enemies that control space from a distance, so the Wraith is intended to fill that role.
+- Note: The Ranged Knight enemy no longer exists and has been replaced with the wraith.
 
 ### Wraith Variations
 - Rather than increase the number of unique enemy assets in the game, we can make it *seem* like we have more enemies by making them behave differently.
@@ -225,3 +226,6 @@ This update focused primarily on combat (specifically the enemies)
 - Before some attacks would move the player forward a little
 - However, if an enemy was too far, then this was useless
 - Now, the attacks will move the player much further if the enemy is further away and will move the player much less if the enemy is close.
+
+## "Alternate" Level Update
+- We have a level that serves as a visual baseline for what the "alternate" rooms are supposed to look like
