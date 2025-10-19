@@ -179,4 +179,10 @@ This update focused primarily on combat (specifically the enemies)
 
 ## Enemy AI Overhaul
 - Enemies have an improved AI system that should react a little better to the player's actions
-- Individual
+- Individually, enemies don't pose much of a threat, so most of the game's difficulty comes from when the player is overwhelmed by several enemies at once.
+
+## 
+
+## New Enemy Variations
+- Rather than increase the number of unique enemy assets in the game, we can make it *seem* like we have more enemies by making them behave differently.
+- So, I chose to have several variations of the enemies we already have, focusing on elemental differences.
