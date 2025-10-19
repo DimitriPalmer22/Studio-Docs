@@ -176,6 +176,7 @@ Choose at least two powers from that one document we made and implement them fun
 # Avernoth v0.7.0
 
 This update focused primarily on combat (specifically the enemies)
+Also, check out the new music in 
 
 ## Enemy AI Overhaul
 - Enemies have an improved AI system that should react a little better to the player's actions
@@ -202,15 +203,19 @@ This update focused primarily on combat (specifically the enemies)
 - This enemy casts a slow-moving homing projectile that chases the player.
 - If the projectile gets close enough to the player or after a certain amount of time, it explodes, dealing tempest damage and pulling the player in slightly.
 
+## New Spell: Chain Lightning Burst (Name WIP)
+- A secondary spell where the player fires out 4 chains of lightning that bounce between enemies.
+- This power is completely inspired by the Chain Lightning power in Relapse btw
+
 ## Misc. Combat Updates
+
+### Reduced Allister's Damage to 80%
+- This increases the time-to-kill per-enemy slightly, which gives the enemies more of an opportunity to engage with the player.
+
 ### Nerfing ALL the Player's Ranged Projectiles
 - Before, the player's ranged projectiles would travel (almost) infinitely until they hit something.
 - Now, all ranged projectiles have a maximum range that they can travel before disappearing.
 - This way, the player is *forced* to get closer to enemies to hit them, which increases the risk factor of using these attacks.
-
-### New Spell: Chain Lightning Burst (Name WIP)
-- A secondary spell where the player fires out 4 chains of lightning that bounce between enemies.
-- This power is completely inspired by the Chain Lightning power in Relapse btw
 
 ### Knockback Update
 - Pretty much every hit in the game applies some type of knockback to either the player or the enemies.
