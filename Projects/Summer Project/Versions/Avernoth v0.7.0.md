@@ -211,7 +211,7 @@ This update focused primarily on combat (specifically the enemies)
 
 ## Misc. Combat Updates
 
-### Reduced Allister's Damage to 80%
+### Reduced Allister's Damage
 - This increases the time-to-kill per-enemy slightly, which gives the enemies more of an opportunity to engage with the player.
 
 ### Nerfing ALL the Player's Ranged Projectiles
