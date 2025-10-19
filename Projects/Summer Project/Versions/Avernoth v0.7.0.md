@@ -203,6 +203,7 @@ This update focused primarily on combat (specifically the enemies)
 ### Wraith Variation #3: (Tempest) Homing Spell
 - This enemy casts a slow-moving homing projectile that chases the player.
 - If the projectile gets close enough to the player or after a certain amount of time, it explodes, dealing tempest damage and pulling the player in slightly.
+- (The part where the player gets pulled in has not been implemented *yet*)
 
 ## New Spell: Chain Lightning Burst (Name WIP)
 - A secondary spell where the player fires out 4 chains of lightning that bounce between enemies.
