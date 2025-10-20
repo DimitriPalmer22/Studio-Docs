@@ -10,3 +10,12 @@
 | Animation Meeting               |                     |
 | Character Artist Meeting        |                     |
 ## Current State of the Game / v0.7.0 Changes
+
+
+## Goals for v0.8.0:
+
+### Code:
+- Different knight enemy variations (functionality)
+- Functionality for at least 2 variations of the minotaur enemy
+
+### LD:
