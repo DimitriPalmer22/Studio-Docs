@@ -1,14 +1,14 @@
 # Meeting Times
 
-| Meeting                         | Possible Times      |
-| ------------------------------- | ------------------- |
-| LD Meeting                      | Wednesday @ 8:02 pm |
-| Narrative Designer + CD Meeting |                     |
-| Sound Meeting                   |                     |
-| Environmental Artist Meeting    | Saturday @ 5 pm     |
-| 2D Artist                       | Friday @ 11 am      |
-| Animation Meeting               |                     |
-| Character Artist Meeting        |                     |
+| Meeting                         | Possible Times |
+| ------------------------------- | -------------- |
+| LD Meeting                      |                |
+| Narrative Designer + CD Meeting |                |
+| Sound Meeting                   |                |
+| Environmental Artist Meeting    |                |
+| 2D Artist                       |                |
+| Animation Meeting               |                |
+| Character Artist Meeting        |                |
 ## Current State of the Game / v0.7.0 Changes
 
 
@@ -34,4 +34,10 @@
 - Also, new levels
 
 ### 3D Artists
-- Again, keep workingo n 
+- Again, keep working on props n stuff
+- NEW PROPS: The knight enemy variations need different weapons that'll need to be modeled in-house
+	- Axe
+	- Greathammer
+
+### 2D Artists:
+- 
