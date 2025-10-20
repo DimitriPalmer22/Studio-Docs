@@ -24,4 +24,14 @@
 - Throw in a couple more passive spells
 - Potentially a new room type: A room for stat upgrades -> Ensure the player steadily improves over time (not just through the powers they have, but through the stats as well)
 
-### LD:
+### Level Designers
+- BEFORE the LD meeting, we'll figure out how densely the levels should be populated with enemies
+- THEN, once we get a very good feel for that, the enemies OLD levels you made should be redistributed. The old levels should have:
+	- The correct number of enemies per wave
+	- The correct number of waves
+	- The correct spacing between enemies
+	- The correct combinations of enemy variants
+- Also, new levels
+
+### 3D Artists
+- Again, keep workingo n 
