@@ -11,6 +11,12 @@
 | Character Artist Meeting        |                |
 ## Current State of the Game / v0.7.0 Changes
 
+v0.7.0 was the combat updaate.
+
+### Knockback on like Everything
+### Better Enemy AI
+
+###
 
 ## Goals for v0.8.0:
 
