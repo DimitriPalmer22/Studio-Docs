@@ -44,4 +44,9 @@
 - The minotaur model EXISTS, but we don't have it lol. We'll try to get that in and have it rigged by the end of the week
 
 ### 2D Artists:
-- 
+- Hidetomo portrait
+- uhh other stuff
+
+### Misc:
+- Throw the new Song in the Game
+- *Maybe* make more music next week
