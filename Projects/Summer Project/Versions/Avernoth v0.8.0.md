@@ -1,8 +1,8 @@
 - [ ] Different knight enemy variations (functionality)
 - [ ] Functionality for at least 2 variations of the minotaur enemy
-- [ ] Setting up the layout of the new beginning of the game
+- [x] Setting up the layout of the new beginning of the game
 - [ ] Focus a little more on the elemental affinities of the enemies and your spells
 - [ ] More powers for the player
 - [ ] Rework the passive spell UI
 - [ ] Throw in a couple more passive spells
-- [ ] Potentially a new room type: A room for stat upgrades -> Ensure the player steadily improves over time (not just through the powers they have, but through the stats as well)
+- [x] Potentially a new room type: A room for stat upgrades -> Ensure the player steadily improves over time (not just through the powers they have, but through the stats as well)
