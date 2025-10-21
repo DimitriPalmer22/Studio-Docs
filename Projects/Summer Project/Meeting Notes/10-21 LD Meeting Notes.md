@@ -11,5 +11,9 @@
 - 5 - 6 Feels the best in most open areas of the game
 - Tighter areas should have 2 to three
 
-### Enemy Types
+## Enemy Spacing
+
+
+
+## Enemy Combinations & Variants
 - Avoid 
