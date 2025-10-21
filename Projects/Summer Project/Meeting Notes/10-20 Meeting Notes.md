@@ -13,10 +13,6 @@
 
 v0.7.0 was the combat updaate.
 
-### Knockback on like Everything
-### Better Enemy AI
-
-###
 
 ## Goals for v0.8.0:
 
