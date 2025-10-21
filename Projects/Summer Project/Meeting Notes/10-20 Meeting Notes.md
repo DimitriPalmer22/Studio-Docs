@@ -22,7 +22,7 @@ v0.7.0 was the combat updaate.
 - Setting up the layout of the new beginning of the game
 - Focus a little more on the elemental affinities of the enemies and your spells
 - More powers for the player
-- Reword the passive spell UI
+- Rework the passive spell UI
 - Throw in a couple more passive spells
 - Potentially a new room type: A room for stat upgrades -> Ensure the player steadily improves over time (not just through the powers they have, but through the stats as well)
 
