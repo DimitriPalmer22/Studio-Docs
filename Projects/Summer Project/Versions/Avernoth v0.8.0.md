@@ -1,12 +1,15 @@
 - [x] Finish the pull-in ability of the one tempest spell
 - [ ] Different knight enemy variations (functionality)
-	- [ ] Twilight debuff
+	- [x] Twilight debuff
 	- [x] Primordial burn
 	- [x] Twilight mist
+- [ ] Indication for status effects
+	- [ ] Cues
 - [ ] Functionality for at least 2 variations of the minotaur enemy
 - [x] Setting up the layout of the new beginning of the game
 - [x] Focus a little more on the elemental affinities of the enemies and your spells
 - [ ] More powers for the player
+	- [ ] Tempest secondary
 - [ ] Rework the passive spell UI
 - [ ] Throw in a couple more passive spells
 - [x] Potentially a new room type: A room for stat upgrades -> Ensure the player steadily improves over time (not just through the powers they have, but through the stats as well)
