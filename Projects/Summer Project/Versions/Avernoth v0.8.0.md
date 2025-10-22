@@ -1,5 +1,8 @@
 - [x] Finish the pull-in ability of the one tempest spell
-- [x] Different knight enemy variations (functionality)
+- [ ] Different knight enemy variations (functionality)
+	- [ ] Twilight debuff
+	- [x] Primordial burn
+	- [x] Twilight mist
 - [ ] Functionality for at least 2 variations of the minotaur enemy
 - [x] Setting up the layout of the new beginning of the game
 - [x] Focus a little more on the elemental affinities of the enemies and your spells
