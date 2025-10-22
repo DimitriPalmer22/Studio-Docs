@@ -2,7 +2,7 @@
 - [ ] Different knight enemy variations (functionality)
 - [ ] Functionality for at least 2 variations of the minotaur enemy
 - [x] Setting up the layout of the new beginning of the game
-- [ ] Focus a little more on the elemental affinities of the enemies and your spells
+- [x] Focus a little more on the elemental affinities of the enemies and your spells
 - [ ] More powers for the player
 - [ ] Rework the passive spell UI
 - [ ] Throw in a couple more passive spells
