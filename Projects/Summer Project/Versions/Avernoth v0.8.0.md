@@ -9,6 +9,8 @@
 - [x] Setting up the layout of the new beginning of the game
 - [x] Focus a little more on the elemental affinities of the enemies and your spells
 - [ ] More powers for the player
+	- [ ] Primordial Primary
+	- [ ] Primordial Secondary
 	- [ ] Tempest secondary
 - [ ] Rework the passive spell UI
 - [ ] Throw in a couple more passive spells
