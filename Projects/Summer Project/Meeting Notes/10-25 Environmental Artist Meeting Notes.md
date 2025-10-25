@@ -1,7 +1,8 @@
 ## Levels
 
 - Leo's training grounds level
-- Brian's finished 
+- Brian's (almost) finished "castle" level
+- Aiden's updated level
 
 ## Stat Upgrade "Pedestal"
 - Right now, in the game, there are these 'stat upgrade rooms', where the player will get a basic statistical upgrade
