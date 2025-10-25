@@ -14,3 +14,9 @@
 - I imagine these being some kind of pillar or monument w/ a floating rune at the top of them
 - I made a little blockout of what I was thinking, but it is HIDEOUS
 - I may need some abstract sculptures or something to make these look better
+
+
+## Allister's Tome Lol
+- The model of Allister's Tome is STOLEN from one of my production projects
+- We should probably make a unique model for it
+- Note: I'd be pretty cool 
