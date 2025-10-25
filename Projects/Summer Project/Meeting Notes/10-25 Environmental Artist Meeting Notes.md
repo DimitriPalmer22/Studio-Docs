@@ -10,4 +10,7 @@
 - It would be cool to have some kind of pedestal or platform for the upgrade to sit on
 
 ## The pillar things for the questions
-- At the beginning of the games
+- At the beginning of each run, there are these question things that the player can interact with to choose their initial spells
+- I imagine these being some kind of pillar or monument w/ a floating rune at the top of them
+- I made a little blockout of what I was thinking, but it is HIDEOUS
+- I may need some abstract sculptures or something to make these look better
