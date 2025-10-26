@@ -14,7 +14,7 @@
 - [ ] Demonstration with new questions @ start of run
 - [ ] Dialogue for entering stat upgrade room.
 
-Music
+## Music
 - For each existing music track, create 2 versions:
 	- [ ] Out-of-battle (calmer, maybe no drums)
 	- [ ] In-battle (heavy drum break)
@@ -25,3 +25,8 @@ Music
 	- Also, make journal tables not spawn 100% of the time
 - [ ] Make the journal entry spawns sequential
 - [ ] Give each journal entry an area it can possibly spawn in. Then, if the 
+
+## Level Design
+- Note: It is possible for the arenas to feel a little too big.
+- Note: Spawning all the enemies in one area as opposed to spreading them out around the player might not feel the best.
+- Note: The walks a 
