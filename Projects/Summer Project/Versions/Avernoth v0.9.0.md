@@ -9,14 +9,19 @@
 
 ## Sauce & Juice
 - [ ] In-world combo numbers
+
+## Dialogue
 - [ ] Demonstration with new questions @ start of run
 - [ ] Dialogue for entering stat upgrade room.
-- [ ] For each existing music track, create 2 versions:
+
+Music
+- For each existing music track, create 2 versions:
 	- [ ] Out-of-battle (calmer, maybe no drums)
 	- [ ] In-battle (heavy drum break)
-	- Note: each of these should have shorter intros so I can just go straight into the song w/out waiting to get to the good part.
+- Note: each of these should have shorter intros so I can just go straight into the song w/out waiting to get to the good part.
 
 ## Journal Entries
 - [ ] Develop a way to track the collected journal entries  (If I haven't done this already)
 	- Also, make journal tables not spawn 100% of the time
-- [ ] Give each journal entry an area it can
+- [ ] Make the journal entry spawns sequential
+- [ ] Give each journal entry an area it can possibly spawn in. Then, if the 
