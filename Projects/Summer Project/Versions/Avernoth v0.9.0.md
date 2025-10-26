@@ -29,4 +29,4 @@
 ## Level Design
 - Note: It is possible for the arenas to feel a little too big.
 - Note: Spawning all the enemies in one area as opposed to spreading them out around the player might not feel the best.
-- Note: The walks a 
+- Note: The walks at the beginning of levels can be a little long at times. Having to walk like 10+ before getting into combat is not fun
