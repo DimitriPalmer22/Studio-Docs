@@ -8,3 +8,8 @@
 - [ ] In-world combo numbers
 - [ ] Demonstration with new questions @ start of run
 - [ ] Dialogue for entering stat upgrade room.
+- [ ] For each existing music track, create 2 versions:
+	- [ ] Out-of-battle (calmer, maybe no drums)
+	- [ ] In-battle (heavy drum break)
+	- Note: each of these should have shorter intros so I can just go straight into the song w/out waiting to get to the good part.
+- [ ] Develop a way to get through 
