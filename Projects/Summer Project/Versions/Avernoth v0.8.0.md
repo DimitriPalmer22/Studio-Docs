@@ -27,17 +27,17 @@
 - Right now, the game's audio is unmixed, so some things might be way too loud!
 - Some sounds are just placeholders for now
 - Some actions still need sound effects added to them.
-- The "talking" sound effect for the characters has been replaced with sounds of scribbling.
+- The "talking" sound effect for the characters has been replaced with sounds of scribbling (might change idk)
 - Footstep sfx
 
 ## Beginning Room + Dialogue
 
-- The beginning of the game has been reworked to be a little more engaging & support the narrative better.
+- The beginning of the game has been reworked to support the narrative better.
 - The room is a *very rough blockout* for now.
-- Some of the dialogue portions can probably be removed for the sake of keeping the beginning sequence short.
+- Some of the dialogue can probably be removed for the sake of brevity.
 
 ### Sequence
-1. The player's screen is all-black, but a character speaks to Allister as he wakes up.
+1. A character speaks to Allister as he wakes up.
 2. The screen fades from black, we see a dialogue portal. Allister goes up to it, and talks to it to get some more dialogue.
 3. After that, Allister exits the current room and enters the next one: the "questions room"
 4. Once entering the "questions room", Allister is then presented with a little more dialogue.
@@ -66,7 +66,7 @@
 
 ### Moving Towards Enemies while Attacking is Input-Based
 - Before, the player would move towards enemies automatically when attacking them.
-- However, I have changed it so that the player has to be holding down the movement input in the direction of the enemy in order to move towards them while attacking.
+- Now, I changed it so that the player has to be holding down the movement input in the direction of the enemy in order to move towards them while attacking.
 - So, if you're attacking and not holding down any movement input, the player will pretty much stay in place while attacking.
 - This should give the player more control over their movement while attacking.
 
@@ -74,7 +74,7 @@
 - Primary attacks are even weaker now, to encourage the player to use their secondary attacks more often.
 - Secondary attacks are slightly stronger now.
 - It takes a little longer to charge the mana meter
-- Perfect dodge detection should be much better for melee attacks
+- Perfect dodge detection is better for melee attacks
 - Buffed the dodge distance
 
 ## Interact Animation
@@ -83,4 +83,4 @@
 ## Levels
 - The game's rotation of levels has been updated.
 - The game has 3 areas in it, and each area now has its own set of levels that can spawn.
-- However, levels that DO NOT WORK have been disabled and removed from the rotation for now.
+- Levels that DO NOT WORK have been disabled and removed from the rotation for now.
