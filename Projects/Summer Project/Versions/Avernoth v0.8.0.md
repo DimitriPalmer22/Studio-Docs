@@ -34,7 +34,7 @@
 
 - The beginning of the game has been reworked to be a little more engaging & support the narrative better.
 - The room is a *very rough blockout* for now.
-- Some of the 
+- Some of the dialogue portions can probably be removed for the sake of keeping the beginning sequence short.
 
 ### Sequence
 1. The player's screen is all-black, but a character speaks to Allister as he wakes up.
@@ -71,4 +71,5 @@
 - Perfect dodge detection should be much better for melee attacks
 
 ## Interact Animation
-- A small, quick animation plays whenever the player interacts with something in the world (like a lever or a journal table).
+- A quick placeholder animation plays whenever the player interacts with something in the world (like a journal table).
+- 
