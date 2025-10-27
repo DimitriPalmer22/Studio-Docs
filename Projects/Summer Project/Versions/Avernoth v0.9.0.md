@@ -25,8 +25,8 @@
 ## Journal Entries
 - [ ] Develop a way to track the collected journal entries  (If I haven't done this already)
 	- Also, make journal tables not spawn 100% of the time
-- [ ] Make the journal entry spawns sequential
-- [ ] Give each journal entry an area it can possibly spawn in. Then, if the 
+- [x] Make the journal entry spawns sequential
+- [x] Give each journal entry an area it can possibly spawn in. Then, if the 
 
 ## Level Design
 - Note: It is possible for the arenas to feel a little too big.
