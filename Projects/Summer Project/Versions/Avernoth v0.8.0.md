@@ -53,7 +53,12 @@
 - The trails on Allister's hands are now linked to the current number of hits he has in his combo. The more hits, the longer the trails.
 - Chromatic Aberration + vignette + more time slow when doing a perfect dodge. It should be easier to tell when you perform one.
 
-### Input
+### Enemies
+- The tempest wraith's projectile looks better now
+- The different elemental variations of the knight *exist*, but they're a little ehhhhhhhh (They need more time before they're ready).
+- Each enemy has it's own elemental resistances. For 
+
+### Input & Targeting Changes
 - Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard and mouse.
 - When using a mouse, they game will target the enemy closest to the center of the screen. 
 - When using a controller, the game will target the enemy closest in the direction the player is moving in.
