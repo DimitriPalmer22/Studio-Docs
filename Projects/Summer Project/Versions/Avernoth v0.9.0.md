@@ -9,6 +9,7 @@
 
 ## Sauce & Juice
 - [ ] In-world combo numbers
+- [ ] Hide & show player UI when teleporting in and out of rooms
 
 ## Dialogue
 - [ ] Demonstration with new questions @ start of run
