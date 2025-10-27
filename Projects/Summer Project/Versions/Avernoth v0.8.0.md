@@ -30,6 +30,10 @@
 - The "talking" sound effect for the characters has been replaced with sounds of scribbling.
 - Footstep sfx
 
+## Beginning Room + Dialogue
+
+- The beginning of the game has been reworked to be a little more engaging & support the narrative better.
+- The room is a * blockout* for now
 ## Combat
 
 ### Juice
