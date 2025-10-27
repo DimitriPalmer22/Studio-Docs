@@ -20,6 +20,11 @@ v0.8.0 Had a lot of stuff to do with presentation:
 
 ## Goals for v0.9.0:
 
+## Status Effects
+- Visual indication for any status effect currently applied to the player
+- burn (damage over time)
+- twilight debuff (slower attack speed)
+
 ## Enemies:
 
 ### Wraith Enemies
@@ -27,6 +32,8 @@ v0.8.0 Had a lot of stuff to do with presentation:
 
 ### Knight Enemies
 - Make the variations of the knight more functional and better
+- Placeholder models for different weapons
+- Different animations & effects for the different knight attacks
 
 ## Level Design
 - Right now, there are 3 areas in the game.
