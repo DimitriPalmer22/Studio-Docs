@@ -27,3 +27,9 @@
 - As of right now, most of the game's audio is unmixed, so some things might be way louder than they need to be!
 - Some sounds are just placeholders for now, as they either don't fit the game's aesthetic or are too loud/annoying.
 - The "talking" sound effect for the characters has been replaced with sounds of scribbling.
+- Footstep sfx
+
+## Combat
+
+### Input
+- 
