@@ -26,10 +26,16 @@
 - Replaced most of the existing sounds with new, royalty-free sounds
 - As of right now, most of the game's audio is unmixed, so some things might be way louder than they need to be!
 - Some sounds are just placeholders for now, as they either don't fit the game's aesthetic or are too loud/annoying.
+- Some actions still need sound effects added to them.
 - The "talking" sound effect for the characters has been replaced with sounds of scribbling.
 - Footstep sfx
 
 ## Combat
+
+### Juice
+- Chromatic aberration effect whenever you use your secondary. Makes it feel more powerful.
+- The trails on Allister's hands are now linked to the current number of hits he has in his combo. The more hits, the longer the trails.
+- Chromatic Aberration + vignette
 
 ### Input
 - Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard and mouse.
@@ -41,9 +47,6 @@
 - However, I have changed it so that the player has to be holding down the movement input in the direction of the enemy in order to move towards them while attacking.
 - So, if you're attacking and not holding down any movement input, the player will pretty much stay in place while attacking.
 - This should give the player more control over their movement while attacking.
-
-### Juice
-- Chromatic aberration effect whenever you use your secondar
 
 ### Balancing
 - Primary attacks are even weaker now, to encourage the player to use their secondary attacks more often.
