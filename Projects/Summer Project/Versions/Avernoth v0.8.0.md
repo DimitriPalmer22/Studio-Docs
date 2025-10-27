@@ -16,7 +16,7 @@
 - [ ] Throw in a couple more passive spells
 - [x] Potentially a new room type: A room for stat upgrades -> Ensure the player steadily improves over time (not just through the powers they have, but through the stats as well)
 
-#  Avernoth Update v0.8.0
+# Avernoth Update v0.8.0
 
 ## Audio
 - Started using Unreal's Metasounds for most of the game's audio
