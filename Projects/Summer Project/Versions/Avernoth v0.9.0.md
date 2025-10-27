@@ -23,8 +23,9 @@
 - [ ] Have per-area music pools
 
 ## Journal Entries
-- [ ] Develop a way to track the collected journal entries  (If I haven't done this already)
-	- Also, make journal tables not spawn 100% of the time
+- [x] Develop a way to track the collected journal entries  (If I haven't done this already)
+	- [ ] Also, make journal tables not spawn 100% of the time
+	- [ ] Pre-generate the table locations instead of randomly spawning them per-room?
 - [x] Make the journal entry spawns sequential
 - [x] Give each journal entry an area it can possibly spawn in. Then, if the 
 
