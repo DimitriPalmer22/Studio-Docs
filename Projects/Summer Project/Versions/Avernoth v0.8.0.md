@@ -19,5 +19,8 @@
 #  Avernoth Update v0.8.0
 
 ## Audio
+- Started using Unreal's Metasounds for 
 - New song thrown into the game
-- 
+- Outside-of-battle music will fade into the in-battle music when combat starts
+- NOTE: Instead of using completely separate tracks for in-battle and out-of-battle music, I plan to make calmer versions of the existing tracks to use as out-of-battle music.
+- Replaced most of the existing sounds 
