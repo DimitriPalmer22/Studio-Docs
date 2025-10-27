@@ -19,13 +19,13 @@
 # Avernoth Update v0.8.0
 
 ## Audio
-- Started using Unreal's Metasounds for most of the game's audio
-- New song thrown into the game
+- Now using Unreal's Metasounds for most of the game's audio
+- New song in the game
 - Outside-of-battle music will fade into the in-battle music when combat starts
 - NOTE: Instead of using completely separate tracks for in-battle and out-of-battle music, I plan to make calmer versions of the existing tracks to use as out-of-battle music.
 - Replaced most of the existing sounds with new, royalty-free sounds
-- As of right now, most of the game's audio is unmixed, so some things might be way louder than they need to be!
-- Some sounds are just placeholders for now, as they either don't fit the game's aesthetic or are too loud/annoying.
+- Right now, the game's audio is unmixed, so some things might be way too loud!
+- Some sounds are just placeholders for now
 - Some actions still need sound effects added to them.
 - The "talking" sound effect for the characters has been replaced with sounds of scribbling.
 - Footstep sfx
