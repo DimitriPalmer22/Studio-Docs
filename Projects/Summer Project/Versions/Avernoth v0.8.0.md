@@ -33,14 +33,19 @@
 ## Beginning Room + Dialogue
 
 - The beginning of the game has been reworked to be a little more engaging & support the narrative better.
-- The room is a *very rough blockout* for now
+- The room is a *very rough blockout* for now.
+- Some of the 
 
 ### Sequence
 1. The player's screen is all-black, but a character speaks to Allister as he wakes up.
 2. The screen fades from black, we see a dialogue portal. Allister goes up to it, and talks to it to get some more dialogue.
 3. After that, Allister exits the current room and enters the next one: the "questions room"
 4. Once entering the "questions room", Allister is then presented with a little more dialogue.
-5. After that, Allister 
+5. After that, Allister then walks up to one of the 3 objects in the room that give him a question. However, as he walks up to one of the objects, he is given more dialogue explaining what these objects do.
+6. Allister answers all 3 questions.
+7. Once he answers all 3 questions, he is then given some more dialogue.
+8. Allister walks to the room's exit portal. As he approaches the portal, he is given some more dialogue.
+9. Allister then exits the room.
 ## Combat
 
 ### Juice
