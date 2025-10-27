@@ -32,4 +32,10 @@
 ## Combat
 
 ### Input
-- 
+- Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard and mouse.
+- When using a mouse, they game will target the enemy closest to the center of the screen. 
+- When using a controller, the game will target the enemy closest in the direction the player is moving in.
+
+### Moving Towards Enemies while Attacking is Input-Based
+- Before, the player would move towards enemies automatically when attacking them.
+- However, I have changed it so th
