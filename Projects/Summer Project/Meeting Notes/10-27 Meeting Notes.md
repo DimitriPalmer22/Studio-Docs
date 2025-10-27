@@ -22,7 +22,8 @@ v0.8.0 Had a lot of stuff to do with presentation:
 
 ## Level Design
 - Right now, there are 3 areas in the game.
-- 
+- *REMEMBER*, the whole goal of having you guys spew out levels like you've been doing in the first place was to have them working in the game first.
+- However, some levels are non-functional right now, so we need to get those fixed.
 
 ### Area 1:
 - X active levels.
