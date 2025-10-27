@@ -38,4 +38,14 @@
 
 ### Moving Towards Enemies while Attacking is Input-Based
 - Before, the player would move towards enemies automatically when attacking them.
-- However, I have changed it so th
+- However, I have changed it so that the player has to be holding down the movement input in the direction of the enemy in order to move towards them while attacking.
+- So, if you're attacking and not holding down any movement input, the player will pretty much stay in place while attacking.
+- This should give the player more control over their movement while attacking.
+
+### Juice
+- Chromatic aberration effect whenever you use your secondar
+
+### Balancing
+- Primary attacks are even weaker now, to encourage the player to use their secondary attacks more often.
+- Secondary attacks are slightly stronger now.
+- It takes a little longer to charge the mana meter
