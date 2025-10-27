@@ -52,6 +52,7 @@
 - Chromatic aberration effect + slight FOV zoom out whenever you use your secondary. Makes secondaries feel more powerful.
 - The trails on Allister's hands are now linked to the current number of hits he has in his combo. The more hits, the longer the trails.
 - Chromatic Aberration + vignette + more time slow when doing a perfect dodge. It should be easier to tell when you perform one.
+- A little vignette shows whenever you take damage.
 
 ### Enemies
 - The tempest wraith's projectile looks better now
