@@ -63,3 +63,4 @@ v0.8.0 Had a lot of stuff to do with presentation:
 ## 2D Art
 - I will gather a list of all the attacks (primary and secondary) that are currently in the game or WILL be in the game
 - For each attack, I will specify what kind of icon I want for it
+- I think there are like 8-10 total attacks that will be in the game.
