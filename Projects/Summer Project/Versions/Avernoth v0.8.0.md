@@ -22,7 +22,7 @@
 - Now using Unreal's Metasounds for most of the game's audio
 - New song in the game
 - Outside-of-battle music will fade into the in-battle music when combat starts
-- NOTE: Instead of using completely separate tracks for in-battle and out-of-battle music, I plan to make calmer versions of the existing tracks to use as out-of-battle music.
+- NOTE: Instead of using completely separate tracks for in-battle and out-of-battle music, I will make calmer versions of the existing tracks to use as out-of-battle music.
 - Replaced most of the existing sounds with new, royalty-free sounds
 - Right now, the game's audio is unmixed, so some things might be way too loud!
 - Some sounds are just placeholders for now
@@ -32,7 +32,7 @@
 
 ## Beginning Room + Dialogue
 
-- The beginning of the game has been reworked to support the narrative better.
+- The game's beginning has been reworked to support the narrative better.
 - The room is a *very rough blockout* for now.
 - Some of the dialogue can probably be removed for the sake of brevity.
 
@@ -45,7 +45,6 @@
 6. Allister answers all 3 questions.
 7. Once he answers all 3 questions, he is then given some more dialogue.
 8. Allister walks to the room's exit portal. As he approaches the portal, he is given some more dialogue.
-9. Allister then exits the room.
 ## Combat
 
 ### Juice
@@ -55,8 +54,8 @@
 - A little vignette shows whenever you take damage.
 
 ### Enemies
-- The tempest wraith's projectile looks better now
-- The different elemental variations of the knight *exist*, but they're a little *rough* (They need more time before they're ready).
+- The tempest wraith's projectile looks better
+- The different elemental variations of the knight *exist*, but they're a little *rough* 
 - Each enemy has it's own elemental resistances. For example, tempest enemies take less damage from the player's tempest spells
 
 ### Input & Targeting Changes
