@@ -56,19 +56,18 @@
 
 ### Enemies
 - The tempest wraith's projectile looks better now
-- The different elemental variations of the knight *exist*, but they're a little ehhhhhhhh (They need more time before they're ready).
-- Each enemy has it's own elemental resistances. For example, tempest enemies take less damage from the player's tempest spells than other attacks.
+- The different elemental variations of the knight *exist*, but they're a little *rough* (They need more time before they're ready).
+- Each enemy has it's own elemental resistances. For example, tempest enemies take less damage from the player's tempest spells
 
 ### Input & Targeting Changes
-- Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard and mouse.
+- Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard + mouse.
 - When using a mouse, they game will target the enemy closest to the center of the screen. 
 - When using a controller, the game will target the enemy closest in the direction the player is moving in.
 
 ### Moving Towards Enemies while Attacking is Input-Based
 - Before, the player would move towards enemies automatically when attacking them.
-- Now, I changed it so that the player has to be holding down the movement input in the direction of the enemy in order to move towards them while attacking.
-- So, if you're attacking and not holding down any movement input, the player will pretty much stay in place while attacking.
-- This should give the player more control over their movement while attacking.
+- Now, I changed it so that the player must hold down the movement input in the direction of the enemy to move towards them while attacking.
+- So, if you're attacking and not holding down any movement input, the player will (mostly) stay in place while attacking.
 
 ### Balancing
 - Primary attacks are even weaker now, to encourage the player to use their secondary attacks more often.
