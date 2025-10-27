@@ -19,6 +19,7 @@
 	- [ ] Out-of-battle (calmer, maybe no drums)
 	- [ ] In-battle (heavy drum break)
 - Note: each of these should have shorter intros so I can just go straight into the song w/out waiting to get to the good part.
+- [ ] Have per-area music pools
 
 ## Journal Entries
 - [ ] Develop a way to track the collected journal entries  (If I haven't done this already)
@@ -30,3 +31,4 @@
 - Note: It is possible for the arenas to feel a little too big.
 - Note: Spawning all the enemies in one area as opposed to spreading them out around the player might not feel the best.
 - Note: The walks at the beginning of levels can be a little long at times. Having to walk like 10+ before getting into combat is not fun
+- In that one area 3 level, there needs to be a significant landmark in the direction of the end of the level. It is a little too easy to get turned around.
