@@ -20,6 +20,14 @@ v0.8.0 Had a lot of stuff to do with presentation:
 
 ## Goals for v0.9.0:
 
+## Enemies:
+
+### Wraith Enemies
+- Get the textures for those going
+
+### Knight Enemies
+- Make the variations of the knight more functional and better
+
 ## Level Design
 - Right now, there are 3 areas in the game.
 - *REMEMBER*, the whole goal of having you guys spew out levels like you've been doing in the first place was to have them working in the game first.
@@ -39,4 +47,8 @@ v0.8.0 Had a lot of stuff to do with presentation:
 - Y inactive levels:
 	-
 
-##
+## Audio
+- In-battle & out-of-battle versions of each track
+- Add more missing sfx
+- get better sfx for things that need them
+- mix the audio better
