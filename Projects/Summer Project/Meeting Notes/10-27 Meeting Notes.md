@@ -10,7 +10,7 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
-## Current State of the Game / v0.8.0 Changes
+# Current State of the Game / v0.8.0 Changes
 
 v0.8.0 Had a lot of stuff to do with presentation:
 - every audio thing ever
@@ -18,7 +18,7 @@ v0.8.0 Had a lot of stuff to do with presentation:
 - more juice for combat
 - revised beginning sequence
 
-## Goals for v0.9.0:
+# Goals for v0.9.0:
 
 ## Status Effects
 - Visual indication for any status effect currently applied to the player
@@ -59,3 +59,7 @@ v0.8.0 Had a lot of stuff to do with presentation:
 - Add more missing sfx
 - get better sfx for things that need them
 - mix the audio better
+
+## 2D Art
+- I will gather a list of all the attacks (primary and secondary) that are currently in the game or WILL be in the game
+- For each attack, I will specify what kind of icon I want for it
