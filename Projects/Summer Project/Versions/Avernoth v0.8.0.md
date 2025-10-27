@@ -72,4 +72,8 @@
 
 ## Interact Animation
 - A quick placeholder animation plays whenever the player interacts with something in the world (like a journal table).
-- 
+
+## Levels
+- The game's rotation of levels has been updated.
+- The game has 3 areas in it, and each area now has its own set of levels that can spawn.
+- However, levels that DO NOT WORK have been disabled and removed from the rotation for now.
