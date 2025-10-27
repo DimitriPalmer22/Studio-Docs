@@ -56,7 +56,7 @@
 ### Enemies
 - The tempest wraith's projectile looks better now
 - The different elemental variations of the knight *exist*, but they're a little ehhhhhhhh (They need more time before they're ready).
-- Each enemy has it's own elemental resistances. For 
+- Each enemy has it's own elemental resistances. For example, tempest enemies take less damage from the player's tempest spells than other attacks.
 
 ### Input & Targeting Changes
 - Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard and mouse.
@@ -74,6 +74,7 @@
 - Secondary attacks are slightly stronger now.
 - It takes a little longer to charge the mana meter
 - Perfect dodge detection should be much better for melee attacks
+- Buffed the dodge distance
 
 ## Interact Animation
 - A quick placeholder animation plays whenever the player interacts with something in the world (like a journal table).
