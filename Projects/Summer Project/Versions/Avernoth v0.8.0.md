@@ -33,9 +33,9 @@
 ## Combat
 
 ### Juice
-- Chromatic aberration effect whenever you use your secondary. Makes it feel more powerful.
+- Chromatic aberration effect + slight FOV zoom out whenever you use your secondary. Makes secondaries feel more powerful.
 - The trails on Allister's hands are now linked to the current number of hits he has in his combo. The more hits, the longer the trails.
-- Chromatic Aberration + vignette
+- Chromatic Aberration + vignette + more time slow when doing a perfect dodge. It should be easier to tell when you perform one.
 
 ### Input
 - Separated the targeting scheme when using a mouse vs. controller. The game should feel much more responsive now when using keyboard and mouse.
@@ -52,3 +52,7 @@
 - Primary attacks are even weaker now, to encourage the player to use their secondary attacks more often.
 - Secondary attacks are slightly stronger now.
 - It takes a little longer to charge the mana meter
+- Perfect dodge detection should be much better for melee attacks
+
+## Interact Animation
+- A small, quick animation plays whenever the player interacts with something in the world (like a lever or a journal table).
