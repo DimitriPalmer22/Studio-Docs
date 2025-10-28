@@ -10,7 +10,7 @@
 ## Sauce & Juice
 - [x] In-world combo numbers
 - [x] Hide & show player UI when teleporting in and out of rooms
-- [ ] Let players know that their attacks are being resited because of elemental stuff
+- [ ] Let players know that their attacks are being resisted because of elemental stuff
 
 ## Dialogue
 - [ ] Demonstration with new questions @ start of run
