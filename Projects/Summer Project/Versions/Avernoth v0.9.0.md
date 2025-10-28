@@ -43,5 +43,7 @@
 - Introduce elemental affinities to the challenge rooms
 	- Elemental hazards for the challenge rooms 
 
-## Traps
-- 
+## Traps & Hazards
+- Lightning strike
+- Fire something
+- Twilight something
