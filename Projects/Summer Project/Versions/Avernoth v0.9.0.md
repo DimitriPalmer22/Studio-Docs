@@ -8,7 +8,7 @@
 	- Literally that one fire spear from the Elden Ring DLC
 
 ## Sauce & Juice
-- [ ] In-world combo numbers
+- [x] In-world combo numbers
 - [ ] Hide & show player UI when teleporting in and out of rooms
 - [ ] Let players know that their attacks are being resited because of elemental stuff
 
