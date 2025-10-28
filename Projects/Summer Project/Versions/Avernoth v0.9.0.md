@@ -42,3 +42,6 @@
 - Ring for keeping the player within a specific space during combat
 - Introduce elemental affinities to the challenge rooms
 	- Elemental hazards for the challenge rooms 
+
+## Traps
+- 
