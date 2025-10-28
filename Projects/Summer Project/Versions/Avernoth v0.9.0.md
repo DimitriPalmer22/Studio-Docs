@@ -35,3 +35,8 @@
 - Note: Spawning all the enemies in one area as opposed to spreading them out around the player might not feel the best.
 - Note: The walks at the beginning of levels can be a little long at times. Having to walk like 10+ before getting into combat is not fun
 - In that one area 3 level, there needs to be a significant landmark in the direction of the end of the level. It is a little too easy to get turned around.
+- Rooms with identifiable elemental themes
+	- Enemy element distribution
+	- 2 enemy element types per-room
+	- Each room can have ambient particles to convey the element
+- Ring for 
