@@ -39,4 +39,6 @@
 	- Enemy element distribution
 	- 2 enemy element types per-room
 	- Each room can have ambient particles to convey the element
-- Ring for 
+- Ring for keeping the player within a specific space during combat
+- Introduce elemental affinities to the challenge rooms
+	- Elemental hazards for the challenge rooms 
