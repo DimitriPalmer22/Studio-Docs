@@ -4,7 +4,7 @@ So, the plan is to get all the icons for the powers in the game situated.
 
 ![](<../../../_Meta/Attachments/Pasted image 20251029182902.png>)
 - I believe these were the original designs that were made for some of the powers
-- However, a piece of feedback we got 
+- However, a piece of feedback we got about the UI art in general was "it should probably be more rendered and less pixel art. In games with the style we are trying to emulate, the pixelation comes from compressing highly rendered UI elements. Games like Diablo, Neverwinter, etc. have really intricate UI"
 
 ## Neutral Powers
 
