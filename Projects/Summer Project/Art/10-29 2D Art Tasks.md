@@ -2,6 +2,10 @@ So, the plan is to get all the icons for the powers in the game situated.
 
 > Note: The primary attacks are all chain attacks that the player can use repeatedly by pressing the primary attack button multiple times. The secondary attacks are all single-use abilities.
 
+![](<../../../_Meta/Attachments/Pasted image 20251029182902.png>)
+- I believe these were the original designs that were made for some of the powers
+- However, a piece of feedback we got 
+
 ## Neutral Powers
 
 These powers don't necessarily fit into any specific elemental category. Instead, they focus more on using pure energy to inflict damage to foes.
