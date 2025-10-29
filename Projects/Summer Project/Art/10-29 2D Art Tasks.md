@@ -1,6 +1,6 @@
 So, the plan is to get all the icons for the powers in the game situated.
 
-> Note: The primary attacks are all chain attacks that the player can use repeatedly by pressing the primary attack button multiple times. The secondary attacks are all single-use abilities that have cooldowns associated with them.
+> Note: The primary attacks are all chain attacks that the player can use repeatedly by pressing the primary attack button multiple times. The secondary attacks are all single-use abilities.
 
 ## Neutral Powers
 
@@ -16,9 +16,11 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 
 ### Primary - Flame Volley
 - You've already made an asset for this one
-- The player 
+- Each hit in the chain of attacks sends out a fireball projectile at enemies.
 
 ### Primary - Magma Stomp (Name pending)
+- For each hit in the chain of attacks, molten rocks erupt from the ground in a straight line from the player to the target location.
+- Once the rocks reach the target location, a larger set of rocks erupts and hits enemies in 
 
 ### Secondary - Simple Explosion (Name Pending)
 
