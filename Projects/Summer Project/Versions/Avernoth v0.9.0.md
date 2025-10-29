@@ -62,6 +62,10 @@ There isn't much in the way of significantly changing the way the player's chara
 - Add a secondary status or something.
 - For example, primordial spells can have a burn effect added to them.
 
+#### Implementation
+- Each ability Data Asset also contains an array of Upgrade UObject classes that define the significant upgrades for that ability.
+- Each ability can only be significantly upgraded like this once
+
 ### Elemental Status Effects
 - Each element NEEDS a status effect associated with it.
 

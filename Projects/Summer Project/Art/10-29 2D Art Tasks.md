@@ -32,7 +32,7 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 
 ### Primary - Tempest Slash
 - You've already made an asset for this one
-- Each hit in the chain of attacks sends out a blade of wind
+- Each hit in the chain of attacks sends out a blade of wind at enemies.
 
 ### Secondary - Lightning Stomp Thing (Name Pending)
 
