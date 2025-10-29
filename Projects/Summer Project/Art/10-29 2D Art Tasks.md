@@ -11,7 +11,6 @@ So, the plan is to get all the icons for the powers in the game situated.
 These powers don't necessarily fit into any specific elemental category. Instead, they focus more on using pure energy to inflict damage to foes.
 
 ### Secondary - Crystal Barrage
-- You've already made an asset for this one
 - The player summons an array of crystals in front of them
 - When the player fires the crystals, they all converge on a single point, dealing massive damage to the one enemy hit.
 
