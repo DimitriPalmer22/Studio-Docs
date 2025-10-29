@@ -31,6 +31,8 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 ## Tempest (Wind + Lightning) Powers
 
 ### Primary - Tempest Slash
+- You've already made an asset for this one
+- Each hit in the chain of attacks sends out a blade of wind
 
 ### Secondary - Lightning Stomp Thing (Name Pending)
 
