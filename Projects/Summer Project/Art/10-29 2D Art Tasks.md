@@ -40,12 +40,18 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 - Each hit in the chain of attacks sends out a blade of wind at enemies.
 
 ### Secondary - Lightning Stomp Thing (Name Pending)
-- Allister does a m
+- Allister does a massive front flip, and does an axe kick on the way down.
+- When Allister lands, a blade of wind fires from his foot.
+- When this blade hits an enemy, a strike of lightning comes down on them.
+- This lightning then chains from enemy to enemy, hitting multiple foes for small damage.
 
-### Secondary - Tempest Tornado
+### Secondary - Tempest Tornado 
+- Release a wind vortex with a large AOE, pulls in nearby enemies towards it. Enemies that make direct contact with the tornado are struck by lightning.
+
+### Secondary - Relay
+- Allister 
 
 ## Twilight (Light & Dark) Powers
 
 ### Primary - Shadow Ball
 
-### Secondary - Relay
