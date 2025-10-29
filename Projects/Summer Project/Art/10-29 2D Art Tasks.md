@@ -1,6 +1,10 @@
 So, the plan is to get all the icons for the powers in the game situated.
 
 ## Primordial (Fire) Powers
+- 
 
+## Tempest (Wind + Lightning) Powers
+- 
 
-## Tempest (Wind + L)
+## Twilight (Light & Dark) Powers
+- 
