@@ -4,10 +4,16 @@ So, the plan is to get all the icons for the powers in the game situated.
 
 ### Primary - Flame Volley
 
-### Primary
+### Primary - Magma Stomp (Name pending)
 
 ## Tempest (Wind + Lightning) Powers
 
+### Primary - Tempest Slash
+
+###
 
 ## Twilight (Light & Dark) Powers
-- 
+
+### Primary - Shadow Ball
+
+### Secondary - Relay
