@@ -8,7 +8,9 @@ These powers don't necessarily fit into any specific elemental category. Instead
 
 ### Secondary - Crystal Explosion
 
-## Primordial (Fire) Powers
+## Primordial (Fire + Earth) Powers
+
+These powers focus mainly on fire, but also may have some elements of earth (rock) incorporated into them.
 
 ### Primary - Flame Volley
 
