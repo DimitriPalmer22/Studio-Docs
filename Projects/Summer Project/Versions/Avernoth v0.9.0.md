@@ -47,3 +47,11 @@
 - Lightning strike
 - Fire something
 - Twilight something
+
+
+## Significant Upgrade Paths
+
+There isn't much in the way of significantly changing the way the player's character plays over the course of a run. Here are some ideas for significant upgrade paths that could be implemented:
+
+### Much more dramatic statistical upgrades
+- The current upgrades in the up[]
