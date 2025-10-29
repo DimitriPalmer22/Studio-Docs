@@ -49,7 +49,8 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 - Release a wind vortex with a large AOE, pulls in nearby enemies towards it. Enemies that make direct contact with the tornado are struck by lightning.
 
 ### Secondary - Relay
-- Allister 
+- Allister sends out 4 chains of lightning from his body, each going in separate directions.
+- Each chain of lightning hits the first enemy it comes into contact with, dealing damage, and then chains to another nearby enemy, repeating this process a few times.
 
 ## Twilight (Light & Dark) Powers
 
