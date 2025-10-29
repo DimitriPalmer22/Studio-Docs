@@ -54,4 +54,5 @@
 There isn't much in the way of significantly changing the way the player's character plays over the course of a run. Here are some ideas for significant upgrade paths that could be implemented:
 
 ### Much more dramatic statistical upgrades
-- The current upgrades in the up[]
+- The current upgrades in the upgrade room are very miniscule in nature because it was originally assumed the player would have many more opportunities to upgrade their stats over the course of a run.
+- However, since the upgrade room is the only place the player can upgrade their stats, the upgrades should be much more significant.
