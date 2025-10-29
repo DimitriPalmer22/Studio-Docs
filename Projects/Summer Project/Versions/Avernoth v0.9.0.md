@@ -63,8 +63,13 @@ There isn't much in the way of significantly changing the way the player's chara
 - For example, primordial spells can have a burn effect added to them.
 
 #### Implementation
+
+##### Registration
 - Each ability Data Asset also contains an array of Upgrade UObject classes that define the significant upgrades for that ability.
 - Each ability can only be significantly upgraded like this once
+- The UObject class will have it's own reference to the ability, and will apply its logic whenever the ability is used.
+
+##### Storage
 
 ### Elemental Status Effects
 - Each element NEEDS a status effect associated with it.
