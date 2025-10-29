@@ -18,11 +18,15 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 
 ### Secondary - Simple Explosion (Name Pending)
 
+### Secondary - Meteor Rain (Name Pending)
+
 ## Tempest (Wind + Lightning) Powers
 
 ### Primary - Tempest Slash
 
 ### Secondary - Lightning Stomp Thing (Name Pending)
+
+### Secondary - Tempest Tornado
 
 ## Twilight (Light & Dark) Powers
 
