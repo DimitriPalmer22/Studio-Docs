@@ -20,9 +20,10 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 
 ### Primary - Magma Stomp (Name pending)
 - For each hit in the chain of attacks, molten rocks erupt from the ground in a straight line from the player to the target location.
-- Once the rocks reach the target location, a larger set of rocks erupts and hits enemies in 
+- Once the rocks reach the target location, a larger set of rocks erupts and hits enemies in the area.
 
 ### Secondary - Simple Explosion (Name Pending)
+- The player unleashes 
 
 ### Secondary - Meteor Rain (Name Pending)
 

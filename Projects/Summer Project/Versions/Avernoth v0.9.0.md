@@ -56,3 +56,8 @@ There isn't much in the way of significantly changing the way the player's chara
 ### Much more dramatic statistical upgrades
 - The current upgrades in the upgrade room are very miniscule in nature because it was originally assumed the player would have many more opportunities to upgrade their stats over the course of a run.
 - However, since the upgrade room is the only place the player can upgrade their stats, the upgrades should be much more significant.
+
+### Unlock the Potential of an Ability
+- Each ability could have a significant upgrade that changes the way the ability works slightly, making it MUCH stronger.
+- Add a secondary status or something.
+- For example, primordial spells can have a burn effect added to them.
