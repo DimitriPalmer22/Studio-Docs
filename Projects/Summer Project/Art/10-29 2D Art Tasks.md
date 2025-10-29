@@ -58,5 +58,5 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 - You've already made an asset for this one
 - For each hit in the chain of attacks, a shadowy projectile is fired at enemies.
 
-### Primary - Yin & Yang Thing (Name Pending)
-- 
+### Secondary - Twilight Mist (Name Pending)
+- Release a twilight mist, dark mist with like bright stars. Large AOE, low damage, the mist will dissipate in a burst at the end of its lifetime, debuffing all enemies caught in it.
