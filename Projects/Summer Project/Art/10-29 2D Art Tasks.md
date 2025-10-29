@@ -26,6 +26,7 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 - The player unleashes a large explosion from their body, dealing damage to nearby enemies.
 
 ### Secondary - Meteor Rain (Name Pending)
+- A shower of small meteors appears above the target location. Each meteor crashes down, dealing damage to enemies they hit.
 
 ## Tempest (Wind + Lightning) Powers
 
