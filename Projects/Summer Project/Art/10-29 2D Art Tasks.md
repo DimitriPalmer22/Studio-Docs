@@ -1,0 +1,1 @@
+So, the plan is to get all the icons for the powers in the game situate
