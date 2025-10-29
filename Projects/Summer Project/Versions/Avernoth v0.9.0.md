@@ -70,6 +70,10 @@ There isn't much in the way of significantly changing the way the player's chara
 - The UObject class will have it's own reference to the ability, and will apply its logic whenever the ability is used.
 
 ##### Storage
+- Each ability instance will have a reference to any significant upgrades that have been applied to it (Note: The abilities MUST be instanced per actor instead of execution for this to work).
+##### Activation
+- When the ability is initialized, the ability will check if it has any significant upgrades applied to it.
+- The upgrades class will have a virtual method for applying its logic whenever the ability is used. (Events that hook into initialize and fire)
 
 ### Elemental Status Effects
 - Each element NEEDS a status effect associated with it.
