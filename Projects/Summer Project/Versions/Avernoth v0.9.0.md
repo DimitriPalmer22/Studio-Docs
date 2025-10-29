@@ -61,3 +61,10 @@ There isn't much in the way of significantly changing the way the player's chara
 - Each ability could have a significant upgrade that changes the way the ability works slightly, making it MUCH stronger.
 - Add a secondary status or something.
 - For example, primordial spells can have a burn effect added to them.
+
+### Elemental Status Effects
+- Each element NEEDS a status effect associated with it.
+
+### Elemental Synergies
+- If enemies are already affected by a status effect of one element, hitting them with another element can make the two interact.
+- Think of the technical damage from Persona games.
