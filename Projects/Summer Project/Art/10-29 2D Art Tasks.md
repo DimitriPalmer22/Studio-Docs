@@ -7,8 +7,13 @@ So, the plan is to get all the icons for the powers in the game situated.
 These powers don't necessarily fit into any specific elemental category. Instead, they focus more on using pure energy to inflict damage to foes.
 
 ### Secondary - Crystal Barrage
+- You've already made an asset for this one
+- The player summons an array of crystals in front of them
+- When the player fires the crystals, they all converge on a single point, dealing massive damage to the one enemy hit.
 
 ### Secondary - Crystal Explosion
+- The player summons a large number of crystals at a single point.
+- When the player fires the crystals, they fire in a wide arc in front of the player (kinda like a shotgun blast)
 
 ## Primordial (Fire + Earth) Powers
 
@@ -35,6 +40,7 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 - Each hit in the chain of attacks sends out a blade of wind at enemies.
 
 ### Secondary - Lightning Stomp Thing (Name Pending)
+- Allister does a m
 
 ### Secondary - Tempest Tornado
 
