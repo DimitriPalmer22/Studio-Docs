@@ -23,7 +23,7 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 - Once the rocks reach the target location, a larger set of rocks erupts and hits enemies in the area.
 
 ### Secondary - Simple Explosion (Name Pending)
-- The player unleashes 
+- The player unleashes a large explosion from their body, dealing damage to nearby enemies.
 
 ### Secondary - Meteor Rain (Name Pending)
 
