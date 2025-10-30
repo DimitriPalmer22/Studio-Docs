@@ -124,3 +124,8 @@ There isn't much in the way of significantly changing the way the player's chara
 #### Crystal Explosion
 - Wider arc of projectiles
 - Further range
+
+
+#### Tempest Axe Kick
+- Longer Ra
+- Uhh
