@@ -95,7 +95,7 @@ There isn't much in the way of significantly changing the way the player's chara
 #### Tempest Slash
 - [ ] Piercing effect on hit
 - [ ] Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
-- [ ] Further range
+- [x] Further range
 
 #### Shadow Ball
 - [ ] Last hit fires a light projectile that deals much higher damage
@@ -110,7 +110,7 @@ There isn't much in the way of significantly changing the way the player's chara
 ### Secondaries
 
 #### Simple Explosion
-- [ ] Larger AOE effect
+- [ ] Larger AOE effect (Simple Explosion)
 - [ ] Smaller AOE effect, but burns enemies that are hit
 
 #### Relay
@@ -123,8 +123,7 @@ There isn't much in the way of significantly changing the way the player's chara
 
 #### Crystal Explosion
 - [ ] Wider arc of projectiles
-- [ ] Further range
-
+- [ ] Further range (Simple Explosion)
 
 #### Tempest Axe Kick
 - [ ] Longer Range?
