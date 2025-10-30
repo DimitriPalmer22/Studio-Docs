@@ -127,5 +127,5 @@ There isn't much in the way of significantly changing the way the player's chara
 
 
 #### Tempest Axe Kick
-- Longer Ra
-- Uhh
+- Longer Range?
+- +1 Piercing?
