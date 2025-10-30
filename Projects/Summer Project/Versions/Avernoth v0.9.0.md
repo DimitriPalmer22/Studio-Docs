@@ -107,3 +107,8 @@ There isn't much in the way of significantly changing the way the player's chara
 
 #### Relay
 - Chains to more enemies
+- Extend the range the initial chain is allowed to travel(?)
+
+#### Crystal Barrage
+- More projectiles
+- 
