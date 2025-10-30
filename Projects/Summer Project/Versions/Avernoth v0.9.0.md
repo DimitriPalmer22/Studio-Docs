@@ -90,15 +90,17 @@ There isn't much in the way of significantly changing the way the player's chara
 #### Flame Volley
 - Burn effect on direct hit
 - Larger AOE effect
+- Further range
 
 #### Tempest Slash
 - Piercing effect on hit
 - Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
+- Further range
 
 #### Shadow Ball
 - Larger AOE effect
 - Last hit fires a light projectile that deals much higher damage
-
+- Further range
 ### Secondaries
 
 #### Simple Explosion
@@ -111,4 +113,8 @@ There isn't much in the way of significantly changing the way the player's chara
 
 #### Crystal Barrage
 - More projectiles
-- 
+- Faster cast time? Alternate, faster cast animation?
+
+#### Crystal Explosion
+- Wider arc of projectiles
+- Further range
