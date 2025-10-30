@@ -67,7 +67,13 @@ There isn't much in the way of significantly changing the way the player's chara
 - -1 "ticks" to 1 stat
 
 ##### Legendary
-- 6 "ticks" distributed between 3 stats
+- 6-7 "ticks" distributed between 3 stats
+- -2 "ticks" distributed between 2 stats
+
+### Improved Visualization of Stats.
+- Using pure numeric values to represent the player's stats is not very engaging, is hard to read, and is visually uninteresting.
+- Instead, use bars, tally marks, or some other visual representation of stats.
+- This could simplify the 
 
 ### Unlock the Potential of an Ability
 - Each ability could have a significant upgrade that changes the way the ability works slightly, making it MUCH stronger.
