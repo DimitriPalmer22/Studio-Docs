@@ -59,6 +59,8 @@ There isn't much in the way of significantly changing the way the player's chara
 
 #### Rarity-based system
 
+> Note: Maximum mana should never go below its base value. Some spells are very expensive to cast, and having a very low maximum mana would make it impossible to use those spells.
+
 ##### Common
 - +2 "ticks" to a stat 
 
@@ -73,7 +75,7 @@ There isn't much in the way of significantly changing the way the player's chara
 ### Improved Visualization of Stats.
 - Using pure numeric values to represent the player's stats is not very engaging, is hard to read, and is visually uninteresting.
 - Instead, use bars, tally marks, or some other visual representation of stats.
-- This could simplify the 
+- This could simplify the UI and make it easier for the player to understand their current stats at a glance.
 
 ### Unlock the Potential of an Ability
 - Each ability could have a significant upgrade that changes the way the ability works slightly, making it MUCH stronger.
