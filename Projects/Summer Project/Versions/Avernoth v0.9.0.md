@@ -98,8 +98,8 @@ There isn't much in the way of significantly changing the way the player's chara
 - Further range
 
 #### Shadow Ball
-- Larger AOE effect
 - Last hit fires a light projectile that deals much higher damage
+- Larger AOE effect
 - Further range
 ### Secondaries
 
