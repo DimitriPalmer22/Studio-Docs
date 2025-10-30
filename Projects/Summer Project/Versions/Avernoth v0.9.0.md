@@ -96,7 +96,14 @@ There isn't much in the way of significantly changing the way the player's chara
 - Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
 
 #### Shadow Ball
-- 
+- Larger AOE effect
+- Last hit fires a light projectile that deals much higher damage
 
 ### Secondaries
 
+#### Simple Explosion
+- Larger AOE effect
+- Smaller AOE effect, but burns enemies that are hit
+
+#### Relay
+- Chains to more enemies
