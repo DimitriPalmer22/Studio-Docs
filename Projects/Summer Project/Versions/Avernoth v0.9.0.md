@@ -59,6 +59,16 @@ There isn't much in the way of significantly changing the way the player's chara
 
 #### Rarity-based system
 
+##### Common
+- +2 "ticks" to a stat 
+
+##### Rare
+- 4 "ticks" distributed between 2 stats
+- -1 "ticks" to 1 stat
+
+##### Legendary
+- 6 "ticks" distributed between 3 stats
+
 ### Unlock the Potential of an Ability
 - Each ability could have a significant upgrade that changes the way the ability works slightly, making it MUCH stronger.
 - Add a secondary status or something.
