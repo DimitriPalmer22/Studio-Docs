@@ -88,44 +88,44 @@ There isn't much in the way of significantly changing the way the player's chara
 ### Primaries
 
 #### Flame Volley
-- Burn effect on direct hit
-- Larger AOE effect
-- Further range
+- [x] Burn effect on direct hit
+- [ ] Larger AOE effect
+- [ ] Further range
 
 #### Tempest Slash
-- Piercing effect on hit
-- Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
-- Further range
+- [ ] Piercing effect on hit
+- [ ] Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
+- [ ] Further range
 
 #### Shadow Ball
-- Last hit fires a light projectile that deals much higher damage
-- Larger AOE effect
-- Further range
+- [ ] Last hit fires a light projectile that deals much higher damage
+- [ ] Larger AOE effect
+- [ ] Further range
 
 #### Magma Stomp
-- Burn Effect on Hit
-- uhh
-- Further Range
+- [ ] Burn Effect on Hit
+- [ ] uhh
+- [ ] Further Range
 
 ### Secondaries
 
 #### Simple Explosion
-- Larger AOE effect
-- Smaller AOE effect, but burns enemies that are hit
+- [ ] Larger AOE effect
+- [ ] Smaller AOE effect, but burns enemies that are hit
 
 #### Relay
-- Chains to more enemies
-- Extend the range the initial chain is allowed to travel(?)
+- [ ] Chains to more enemies
+- [ ] Extend the range the initial chain is allowed to travel(?)
 
 #### Crystal Barrage
-- More projectiles
-- Faster cast time? Alternate, faster cast animation?
+- [ ] More projectiles
+- [ ] Faster cast time? Alternate, faster cast animation?
 
 #### Crystal Explosion
-- Wider arc of projectiles
-- Further range
+- [ ] Wider arc of projectiles
+- [ ] Further range
 
 
 #### Tempest Axe Kick
-- Longer Range?
-- +1 Piercing?
+- [ ] Longer Range?
+- [ ] +1 Piercing?
