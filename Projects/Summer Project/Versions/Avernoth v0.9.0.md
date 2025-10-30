@@ -98,12 +98,12 @@ There isn't much in the way of significantly changing the way the player's chara
 - [x] Further range
 
 #### Shadow Ball
-- [ ] Last hit fires a light projectile that deals much higher damage
+- [x] Last hit fires a light projectile that deals much higher damage
 - [x] Larger AOE effect
 - [x] Further range
 
 #### Magma Stomp
-- [ ] Burn Effect on Hit
+- [x] Burn Effect on Hit
 - [ ] ***uhh***
 - [x] Further Range
 
