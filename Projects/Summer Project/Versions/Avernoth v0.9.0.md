@@ -81,3 +81,17 @@ There isn't much in the way of significantly changing the way the player's chara
 ### Elemental Synergies
 - If enemies are already affected by a status effect of one element, hitting them with another element can make the two interact.
 - Think of the technical damage from Persona games.
+
+
+## Amend Upgrade
+
+### Primaries
+
+#### Flame Volley
+
+#### Tempest Slash
+
+#### 
+
+### Secondaries
+
