@@ -89,8 +89,8 @@ There isn't much in the way of significantly changing the way the player's chara
 
 #### Flame Volley
 - [x] Burn effect on direct hit
-- [ ] Larger AOE effect
-- [ ] Further range
+- [x] Larger AOE effect
+- [x] Further range
 
 #### Tempest Slash
 - [ ] Piercing effect on hit
