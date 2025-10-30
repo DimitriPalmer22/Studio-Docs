@@ -93,7 +93,7 @@ There isn't much in the way of significantly changing the way the player's chara
 - [x] Further range
 
 #### Tempest Slash
-- [ ] Piercing effect on hit
+- [x] Piercing effect on hit
 - [ ] Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
 - [x] Further range
 
