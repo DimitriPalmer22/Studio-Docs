@@ -88,10 +88,15 @@ There isn't much in the way of significantly changing the way the player's chara
 ### Primaries
 
 #### Flame Volley
+- Burn effect on direct hit
+- Larger AOE effect
 
 #### Tempest Slash
+- Piercing effect on hit
+- Lightning is an optional impact effect, signaling an AOE effect that does high damage in relation to base damage
 
-#### 
+#### Shadow Ball
+- 
 
 ### Secondaries
 
