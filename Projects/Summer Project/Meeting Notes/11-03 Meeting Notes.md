@@ -36,7 +36,9 @@
 - Move the exit portal closer to that door on the right side of the room
 - Lighting fs
 
-### 
+### Upgrade Room Needs Revision
+- The upgrade room was made BEFORE we had a clear idea of what each area of the game would look like, but was fully set-dressed to be a library
+- The upgrade ro
 
 ## VFX
 
