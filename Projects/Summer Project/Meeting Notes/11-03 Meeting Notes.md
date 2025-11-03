@@ -10,4 +10,7 @@
 | Animation Meeting                      |                |
 | Character Artist Meeting               |                |
 
-## 
+# Current State of the Game / v0.9.0 Changes
+
+
+# Goals for v0.10.0:
