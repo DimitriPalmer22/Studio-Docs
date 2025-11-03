@@ -18,3 +18,9 @@
 ## 2D Art
 
 ### More Button Prompts
+
+#### XBox
+- [ ] A Button
+- [ ] B Button
+- [ ] X Button
+- [ ] Y Button
