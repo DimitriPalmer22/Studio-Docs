@@ -34,7 +34,7 @@
 
 ### Beginning Room
 - Move the exit portal closer to that door on the right side of the room
-- Lighting fs
+- Lighting
 
 ### Special Rooms:
 - The layout of special rooms should be more standardized and consistent across the game.
