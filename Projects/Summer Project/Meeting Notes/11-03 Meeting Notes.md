@@ -24,9 +24,13 @@
 - [ ] B Button
 - [ ] X Button
 - [ ] Y Button
+- [ ] Pause Button (Pause Menu)
 
 
 #### Keyboard n Mouse
-- [ ] E Key (Interact)
+- [x] E Key (Interact)
 - [ ] Z Key (Alternate interact)
-- [ ] Q Key (Optional dialogue)
+- [x] Q Key (Optional dialogue)
+- [ ] X Key (Skip dialogue)
+- [ ] Escape Key (Pause Menu / Back)
+- [ ] P Key (Pause Menu)
