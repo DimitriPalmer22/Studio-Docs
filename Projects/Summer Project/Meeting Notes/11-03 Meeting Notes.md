@@ -105,5 +105,5 @@
 ### Primordial Knight Attack Animation: Spear Thrust
 - The spear is a long, two-handed weapon
 - The enemy does a quick thrust with the spear
-- A short range burst of fire 
+- A short range burst of fire shoots from the spear as well, inflicting damage to the player 
 - The attack animation could look something like this: https://youtu.be/W0j2YzlkT0k?si=eWaW6Ym7BuefY5GF&t=49
