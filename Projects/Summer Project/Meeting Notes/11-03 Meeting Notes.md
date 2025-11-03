@@ -15,6 +15,10 @@
 
 # Goals for v0.10.0:
 
+## VFX
+
+### On Fire 
+
 ## 2D Art
 
 ### More Button Prompts
