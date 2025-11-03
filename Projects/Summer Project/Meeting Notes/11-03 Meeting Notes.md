@@ -78,3 +78,7 @@
 - [ ] P Key (Pause Menu)
 - [ ] Middle mouse button (Lock-on)
 - [ ] I Key (Information screen)
+
+### UI Stuff
+
+#### Upgrade Menu Assets
