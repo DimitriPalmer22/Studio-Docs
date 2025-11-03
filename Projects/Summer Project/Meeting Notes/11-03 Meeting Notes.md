@@ -27,7 +27,12 @@
 
 #### Pt. 1: Radius of the Area of Effect
 - A circular icon should appear on the floor showing the radius of the tempest knight's area of effect attack.
-- The enemy's animation telegraphs when the attacks is coming, but it might
+- The enemy's animation telegraphs when the attacks is coming, but it might also be worth having a visual indicator on the floor as well.
+
+#### Pt. 2: Attack VFX
+- The actual attack pulls in the player and damages them if they are in range.
+- The VFX for the attack itself should indicate that it's pulling the player in.
+- This probably be a swirling wind effect that moves towards the center of the circle or something
 
 ## 2D Art
 
