@@ -24,3 +24,9 @@
 - [ ] B Button
 - [ ] X Button
 - [ ] Y Button
+
+
+#### Keyboard n Mouse
+- [ ] E Key (Interact)
+- [ ] Z Key (Alternate interact)
+- [ ] Q Key (Optional dialogue)
