@@ -34,6 +34,16 @@
 - The VFX for the attack itself should indicate that it's pulling the player in.
 - This probably be a swirling wind effect that moves towards the center of the circle or something
 
+### Exit Portal Revamp
+
+#### Different Portal Designs
+- Right now, the exit portals all look the same.
+- There should be some indication of what the next room is just by looking at the portal.
+
+##### Different Room Types:
+
+### 
+
 ## 2D Art
 
 ### More Button Prompts
