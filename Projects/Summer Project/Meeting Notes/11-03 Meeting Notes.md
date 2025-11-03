@@ -48,6 +48,9 @@
 - Shop Room
 - "Boss" Room
 
+### Magma Stomp VFX
+- The trail that goes from the player to the enemies protrudes from the ground a little too much to the point where it obstructs vision
+- The burst effect when the attack hits an enemy is also a little too big and obstructive
 
 ## 2D Art
 
