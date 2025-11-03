@@ -99,6 +99,8 @@
 	- Not a Dragon Ball Z-level animation, but something that shows he's a little stronger now
 
 ### Tempest Knight Attack Animation: Slamming Hammer
-- s
+- The hammer is a large, two-handed weapon
+- The attack animation should be pretty much this, but slower: https://youtu.be/PFDndCXxbUI?si=TaVinizBTvLAEwhl&t=437
 
 ### Primordial Knight Attack Animation: Spear Thrust
+- The spear is a long, two-handed weapon
