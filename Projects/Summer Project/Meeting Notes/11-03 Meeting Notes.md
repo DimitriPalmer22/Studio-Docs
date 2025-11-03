@@ -34,7 +34,9 @@
 
 ### Beginning Room
 - Move the exit portal closer to that door on the right side of the room
-- 
+- Lighting fs
+
+### 
 
 ## VFX
 
