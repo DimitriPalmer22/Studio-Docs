@@ -36,9 +36,14 @@
 - Move the exit portal closer to that door on the right side of the room
 - Lighting fs
 
-### Upgrade Room Needs Revision
-- The upgrade room was made BEFORE we had a clear idea of what each area of the game would look like, but was fully set-dressed to be a library
-- The upgrade ro
+### Special Rooms:
+- The layout of special rooms should be more standardized and consistent across the game.
+- The special "thing" of the room (i.e. the shopkeeper, the upgrade station, the passive item pedistal)
+
+#### Upgrade Room Needs Revision
+- The upgrade room was made BEFORE we had a clear idea of what each area of the game would look like, but was fully set-dressed to be a library / study room.
+	- As a result, it only thematically fits in Area 1.
+- The upgrade room needs to be reworked to be a little more generic, allowing it to fit in any area of the game.
 
 ## VFX
 
