@@ -17,7 +17,16 @@
 
 ## Level Design
 
-### Lighting 
+### Lighting Adjustments
+
+Most of the levels in the game suffer from one of two lighting-related issues
+
+#### Too Evenly Lit
+- Most levels are lit very evenly, with little contrast between light and shadow.
+- This makes the environments seem flat and uninteresting, with nothing to really 
+
+#### Too Dark
+
 
 ### Beginning Room
 - Move the exit portal closer to that door on the right side of the room
