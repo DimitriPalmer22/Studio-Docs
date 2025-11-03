@@ -23,7 +23,11 @@
 - It doesn't need to be flashy, just something to indicate the status effect.
 - Should also be unintrusive enough to not totally block the player's view of their character.
 
-### D
+### Tempest Knight VFX
+
+#### Pt. 1: Radius of the Area of Effect
+- A circular icon should appear on the floor showing the radius of the tempest knight's area of effect attack.
+- The enemy's animation telegraphs when the attacks is coming, but it might
 
 ## 2D Art
 
