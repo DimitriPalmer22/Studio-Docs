@@ -19,14 +19,18 @@
 
 ### Lighting Adjustments
 
-Most of the levels in the game suffer from one of two lighting-related issues
+- I want the lighting to be, like, completely figured out. 
+- An established style for how levels should be lit would be great.
+- Most of the levels in the game suffer from one of two lighting-related issues:
 
 #### Too Evenly Lit
 - Most levels are lit very evenly, with little contrast between light and shadow.
-- This makes the environments seem flat and uninteresting, with nothing to really 
-
+- This makes the environments seem flat and uninteresting, with nothing to really draw the player's eye.
+- Adding more dynamic lighting and shadows would help create a more immersive atmosphere, and immediately makes the levels seem much more finished.
 #### Too Dark
-
+- The levels that are dynamically lit often end up being much too dark.
+- Yeah, they look cool, but at the expense of playability.
+- Finding a good balance between atmosphere and visibility is key here.
 
 ### Beginning Room
 - Move the exit portal closer to that door on the right side of the room
