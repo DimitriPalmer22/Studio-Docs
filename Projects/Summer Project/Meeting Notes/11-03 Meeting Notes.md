@@ -43,9 +43,10 @@
 ##### Different Room Types:
 
 - Standard Room (Combat)
-- Tome Upgrade Room (Choose an Upgrade)
+- Tome Upgrade Room (Choose an Upgrade from the Menu)
 - Passive Upgrade Room (Get a new random passive ability)
-- 
+- Shop Room
+- "Boss" Room
 
 
 ## 2D Art
