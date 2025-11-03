@@ -15,6 +15,14 @@
 
 # Goals for v0.10.0:
 
+## Level Design
+
+### Lighting 
+
+### Beginning Room
+- Move the exit portal closer to that door on the right side of the room
+- 
+
 ## VFX
 
 ### On Fire VFX
