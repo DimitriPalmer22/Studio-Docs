@@ -15,5 +15,6 @@
 
 # Goals for v0.10.0:
 
-## 2D Art: Button Prompts
+## 2D Art
 
+### More Button Prompts
