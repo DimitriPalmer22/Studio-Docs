@@ -17,7 +17,13 @@
 
 ## VFX
 
-### On Fire 
+### On Fire VFX
+- When the player is on fire, we need a visual effect to indicate that. 
+- There currently is one, but it's literally the dialogue portal slapped on top of the character.
+- It doesn't need to be flashy, just something to indicate the status effect.
+- Should also be unintrusive enough to not totally block the player's view of their character.
+
+### D
 
 ## 2D Art
 
