@@ -19,16 +19,15 @@
 
 ### More Button Prompts
 
-#### XBox
+#### XBOX Controller
 - [ ] A Button
-- [ ] B Button
+- [x] B Button
 - [ ] X Button
 - [ ] Y Button
 - [ ] Start Button (Pause Menu)
-- [ ] Back Button 
+- [ ] Back Button (Information Screen)
 - [ ] Right shoulder (Lock-on)
-- [ ] 
-
+- [x] Left Trigger (Alternate Interact)
 
 #### Keyboard n Mouse
 - [x] E Key (Interact)
