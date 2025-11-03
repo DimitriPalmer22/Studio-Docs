@@ -24,7 +24,10 @@
 - [ ] B Button
 - [ ] X Button
 - [ ] Y Button
-- [ ] Pause Button (Pause Menu)
+- [ ] Start Button (Pause Menu)
+- [ ] Back Button 
+- [ ] Right shoulder (Lock-on)
+- [ ] 
 
 
 #### Keyboard n Mouse
@@ -34,3 +37,5 @@
 - [ ] X Key (Skip dialogue)
 - [ ] Escape Key (Pause Menu / Back)
 - [ ] P Key (Pause Menu)
+- [ ] Middle mouse button (Lock-on)
+- [ ] I Key (Information screen)
