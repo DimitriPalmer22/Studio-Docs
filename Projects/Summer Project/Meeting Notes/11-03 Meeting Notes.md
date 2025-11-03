@@ -96,3 +96,8 @@
 - Right now, the animation is just a placeholder
 - We need an animation that shows Allister reacting to getting stronger
 	- Not a Dragon Ball Z-level animation, but something that shows he's a little stronger now
+
+### Tempest Knight Attack Animation: Slamming Hammer
+- s
+
+### Primop
