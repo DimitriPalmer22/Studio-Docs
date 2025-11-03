@@ -88,4 +88,11 @@
 ### Generic Interact Animation
 - Allister now plays an animation whenever the player interacts with something
 - But, the animation is just a placeholder right now
-- We need a generic interact animation that can be used for anything the player interacts with (journal tables, the shop, upgrade stations, exit portals,.)
+- We need a generic interact animation that can be used for anything the player interacts with (journal tables, the shop, upgrade stations, exit portals, etc.)
+- The animation could literally be as simple as him holding his hand out
+
+### Upgrade Animation
+- An animation plays out when the player selects an upgrade from the upgrade menu
+- Right now, the animation is just a placeholder
+- We need an animation that shows Allister reacting to getting stronger
+	- Not a Dragon Ball Z-level animation, but something that shows he's a little stronger now
