@@ -82,3 +82,10 @@
 ### UI Stuff
 
 #### Upgrade Menu Assets
+
+## Animation
+
+### Generic Interact Animation
+- Allister now plays an animation whenever the player interacts with something
+- But, the animation is just a placeholder right now
+- We need a generic interact animation that can be used for anything the player interacts with (journal tables, the shop, upgrade stations, exit portals,.)
