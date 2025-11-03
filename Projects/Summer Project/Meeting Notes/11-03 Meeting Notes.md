@@ -38,7 +38,9 @@
 
 ### Special Rooms:
 - The layout of special rooms should be more standardized and consistent across the game.
-- The special "thing" of the room (i.e. the shopkeeper, the upgrade station, the passive item pedistal)
+- The special "thing" of the room (i.e. the shopkeeper, the upgrade station, the passive item pedestal, etc.) should always be near the direct center or back center of the room.
+- It might be best if the exit portal was near some doorway that led out of the room. 
+- This way, we can clearly indicate the two most important points of the room. 
 
 #### Upgrade Room Needs Revision
 - The upgrade room was made BEFORE we had a clear idea of what each area of the game would look like, but was fully set-dressed to be a library / study room.
