@@ -34,15 +34,19 @@
 ### Upgrade Animation Implemented
 - A placeholder animation plays when the player selects an upgrade from the upgrade menu.
 
-## Burn Status Effect
-
-- When hit by the primordial (fire) knights, the player will catch fire
-
 ## Passive Spell Pickup
 
 - The passive spell pickup now has a new look (still WIP)
 - It is a floating piece of paper with some magical runes floating around it
 - This way, it's a little more obvious that this is a passive spell pickup, rather than some abstract thing.
+
+## Burn Status Effect
+
+- When hit by the primordial (fire) knights, the player will catch fire
+
+## New Beginning Room WIP
+
+- A new beginning room is currently being worked on
 
 # Goals for v0.10.0:
 
