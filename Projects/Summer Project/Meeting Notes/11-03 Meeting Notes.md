@@ -12,6 +12,15 @@
 
 # Current State of the Game / v0.9.0 Changes
 
+## Upgrades!
+
+### Upgrade Menu UI Overhaul
+- The whole book idea was too busy and cluttered.
+- The UI has been streamlined to show the three upgrade options in a horizontal list.
+
+### "Relinquish" Upgrade Reword
+- Before, the re
+
 # Goals for v0.10.0:
 
 ## Completing A Run / Beating the Game
