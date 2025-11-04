@@ -24,7 +24,16 @@
 - Now, the Relinquish upgrade will downgrade 1 or two random stats by a 1, but will upgrade 1 or more other stats by several notches, improving the utility of this upgrade
 
 ### Removed "Overwrite" Upgrade / New "Amend" Upgrade
-- The overwrite upgrade was useless
+- The overwrite upgrade was useless and confusing.
+- It replaced one of either your primary or secondary spells with a new random spell.
+- This wasn't really an upgrade, as you wouldn't really get stronger.
+- The new "Amend" upgrade improves either your primary or secondary spell in some way with a new unique effect.
+- So, this upgrade actually makes you stronger as you play the game.
+
+## Passive Spell Pickup
+
+- The passive spell pickup now has a new look.
+- It is a floating piece of paper
 
 # Goals for v0.10.0:
 
