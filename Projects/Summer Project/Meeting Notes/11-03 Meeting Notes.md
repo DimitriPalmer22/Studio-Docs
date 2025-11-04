@@ -47,6 +47,10 @@
 	- As a result, it only thematically fits in Area 1.
 - The upgrade room needs to be reworked to be a little more generic, allowing it to fit in any area of the game.
 
+#### Shop Room Needs Revision as Well
+- Same deal as the upgrade room.
+- The overall shape needs to be redone, as the upgrade room we have right now has ALWAYS been a placeholder.
+
 ## VFX
 
 ### On Fire VFX
