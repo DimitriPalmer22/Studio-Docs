@@ -66,6 +66,10 @@
 - Same deal as the upgrade room.
 - The overall shape needs to be redone, as the upgrade room we have right now has ALWAYS been a placeholder.
 
+#### A Design For the Passive Upgrade Room
+- This is a brand new room type that I kinda threw into the game out of nowhere, so there isn't really a set design for it yet.
+- Ideally, there is a pedestal in the center of the room with a passive spell on it, and the player walks up to it and interacts with it to get the passive spell.
+
 ## VFX
 
 ### On Fire VFX
@@ -93,7 +97,6 @@
 - There should be some indication of what the next room is just by looking at the portal.
 
 ##### Different Room Types:
-
 - Standard Room (Combat)
 - Tome Upgrade Room (Choose an Upgrade from the Menu)
 - Passive Upgrade Room (Get a new random passive ability)
