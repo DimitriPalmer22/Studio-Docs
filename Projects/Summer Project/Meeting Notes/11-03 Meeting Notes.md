@@ -15,9 +15,13 @@
 
 # Goals for v0.10.0:
 
+## Completing the Game
+
+### Journal Tables 
+
 ## Level Design
 
-### Lighting Adjustments
+### Lighting Adjustments in Most Rooms
 
 - I want the lighting to be, like, completely figured out. 
 - An established style for how levels should be lit would be great.
