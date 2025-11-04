@@ -18,7 +18,10 @@
 ## Completing A Run / Beating the Game
 
 ### Beating the Last "Boss" Room
-- After beating the last boss room, a portal appears
+- After beating the last boss room, a special exit portal appears
+- This portal takes the player to a special ending room
+- Here, the player is presented with some final dialogue
+- However, Allister and his friends realize "yo, we stii"
 
 ### All Journal Entries = True Ending Obtainable
 
