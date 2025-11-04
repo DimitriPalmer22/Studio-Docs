@@ -22,6 +22,7 @@
 - Before, the Relinquish upgrade would downgrade 1 stat by a random amount and upgrade another stat by a random amount.
 - BUT, that felt bad to the player, because they were losing something and weren't gaining much in return.
 - Now, the Relinquish upgrade will downgrade 1 or two random stats by a 1, but will upgrade 1 or more other stats by several notches, improving the utility of this upgrade
+- Also, the list of stats that can be upgraded or downgraded is much longer than it was before. 
 
 ### Removed "Overwrite" Upgrade / New "Amend" Upgrade
 - The overwrite upgrade was useless and confusing.
@@ -30,10 +31,14 @@
 - The new "Amend" upgrade improves either your primary or secondary spell in some way with a new unique effect.
 - So, this upgrade actually makes you stronger as you play the game.
 
+### Upgrade Animation Implemented
+- A placeholder animation plays when 
+
 ## Passive Spell Pickup
 
-- The passive spell pickup now has a new look.
-- It is a floating piece of paper
+- The passive spell pickup now has a new look (still WIP)
+- It is a floating piece of paper with some magical runes floating around it
+- This way, it's a little more obvious that this is a passive spell pickup, rather than some abstract thing.
 
 # Goals for v0.10.0:
 
