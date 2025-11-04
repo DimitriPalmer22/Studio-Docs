@@ -32,7 +32,11 @@
 - So, this upgrade actually makes you stronger as you play the game.
 
 ### Upgrade Animation Implemented
-- A placeholder animation plays when 
+- A placeholder animation plays when the player selects an upgrade from the upgrade menu.
+
+## Burn Status Effect
+
+- When hit by the primordial (fire) knights, the player will catch fire
 
 ## Passive Spell Pickup
 
