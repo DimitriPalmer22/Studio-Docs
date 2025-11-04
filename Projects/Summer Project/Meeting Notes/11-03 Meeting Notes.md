@@ -15,9 +15,12 @@
 
 # Goals for v0.10.0:
 
-## Completing the Game
+## Completing A Run / Beating the Game
 
-### Journal Tables 
+### Beating the Last "Boss" Room
+- After beating the last boss room, a portal appears
+
+### All Journal Entries = True Ending Obtainable
 
 ## Level Design
 
