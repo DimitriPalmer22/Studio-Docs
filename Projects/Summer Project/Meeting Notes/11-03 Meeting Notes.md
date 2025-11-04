@@ -20,10 +20,15 @@
 ### Beating the Last "Boss" Room
 - After beating the last boss room, a special exit portal appears
 - This portal takes the player to a special ending room
+- There is a magically sealed door in this room.
 - Here, the player is presented with some final dialogue
-- However, Allister and his friends realize "yo, we stii"
+- However, Allister and his friends realize "yo, we still don't really know how to get Allister out of there. How do we open this door?"
+- So, he has to restart the run again.
 
 ### All Journal Entries = True Ending Obtainable
+- The journal entries are connected to getting the true ending of the game.
+- It is impossible to get all X journal entries in a single run, so now there is a real incentive to do multiple runs.
+- Once all journal entries are 
 
 ## Level Design
 
