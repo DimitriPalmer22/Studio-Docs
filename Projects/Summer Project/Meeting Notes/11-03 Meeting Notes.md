@@ -19,7 +19,12 @@
 - The UI has been streamlined to show the three upgrade options in a horizontal list.
 
 ### "Relinquish" Upgrade Reword
-- Before, the re
+- Before, the Relinquish upgrade would downgrade 1 stat by a random amount and upgrade another stat by a random amount.
+- BUT, that felt bad to the player, because they were losing something and weren't gaining much in return.
+- Now, the Relinquish upgrade will downgrade 1 or two random stats by a 1, but will upgrade 1 or more other stats by several notches, improving the utility of this upgrade
+
+### Removed "Overwrite" Upgrade / New "Amend" Upgrade
+- The overwrite upgrade was useless
 
 # Goals for v0.10.0:
 
