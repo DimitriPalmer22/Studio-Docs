@@ -197,3 +197,15 @@
 - The enemy does a quick thrust with the spear
 - A short range burst of fire shoots from the spear as well, inflicting damage to the player 
 - The attack animation could look something like this: https://youtu.be/W0j2YzlkT0k?si=eWaW6Ym7BuefY5GF&t=49
+
+## 3D Art
+
+### Continue Working on the Stuff You're Already Working On
+
+### Enemy Weapons
+
+Small Plan:
+- Find placeholder weapons to use as size references
+- Send them to the artists so they can make the asset
+- Animator will use the placeholder to animate with
+- Once the asset is done, swap it in
