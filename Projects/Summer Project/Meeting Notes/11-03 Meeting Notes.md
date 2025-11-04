@@ -12,7 +12,6 @@
 
 # Current State of the Game / v0.9.0 Changes
 
-
 # Goals for v0.10.0:
 
 ## Completing A Run / Beating the Game
@@ -23,12 +22,13 @@
 - There is a magically sealed door in this room.
 - Here, the player is presented with some final dialogue
 - However, Allister and his friends realize "yo, we still don't really know how to get Allister out of there. How do we open this door?"
-- So, he has to restart the run again.
+- So, he has to restart the run again to find out how to open the door
 
 ### All Journal Entries = True Ending Obtainable
 - The journal entries are connected to getting the true ending of the game.
 - It is impossible to get all X journal entries in a single run, so now there is a real incentive to do multiple runs.
-- Once all journal entries are 
+- Once all journal entries are collected, the door at the end of the run can be interacted with.
+- Once the door is open, the screen fades and the credits roll.
 
 ## Level Design
 
