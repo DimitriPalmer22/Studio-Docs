@@ -31,7 +31,9 @@ The process of going from question to question is much too long, and isn't inter
 There is no *big moment* with 3 question interactions. In terms of presentation, it is very difficult to give a specific moment where the player is empowered and they think to themselves "Ok, now the run starts!"
 
 #### Problem: Level Design Complexity
-In terms of dressing 
+In terms of dressing the level, having to place 3 separate question interactions is more difficult than just placing one. This adds unnecessary complexity to the level design process.
+
+Also, leading the player to three separate question interactions and then the exit of the area is more difficult than leading them to just one question interaction and then the exit.
 
 #### Alternate Idea: All Questions in One Screen
 Instead of having the player go to THREE separate question interactions, I could have all three questions appear in a single UI screen. This would cut down on the amount of time it takes to get through the questions significantly.
@@ -41,6 +43,9 @@ Pros:
 - Gives a single point where we can empower the player and say "Ok, now the run starts!" after they finish the questions
 - Easier to implement in terms of level design
 
+Cons:
+- UI Design is a little more complex, with the player spending a little more time in the question UI. How do we go from question to question visually?
+- Can still feel like it takes too long to get through all the questions
 #### Alternate Idea: One Question For An Entire Loadout
 With loadouts being implemented within the project in the form of data tables, generating new predefined loadouts is very easy.
 
