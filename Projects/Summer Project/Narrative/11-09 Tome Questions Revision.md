@@ -11,6 +11,15 @@ To do this, I came up with the idea of pretty much giving the player a "test" at
 #### Juice: Interesting Questions
 To have this portion of the game feel engaging and fun enough to keep doing as the player starts new runs, I opted to make the questions have some personality. 
 
-Having the questions be straightforward "What spell do you want?" seemed 
+Having the questions be straightforward "What spell do you want?" seemed uninteresting and overall a waste of time. If the player knew what the resulting spell was, why would they ever pick an answer if another answer gave them an ability they liked???
 ### The Narrative Problem
 The main issue is that
+
+
+# Working Through the Solution
+
+## Problems
+
+### 
+
+# Alternate Idea 1: Loadout Questions
