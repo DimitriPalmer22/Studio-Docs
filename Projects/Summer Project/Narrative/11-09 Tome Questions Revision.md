@@ -21,14 +21,25 @@ To get these questions, the player walks up to these "*Question Interactions*" (
 ## Problems
 
 ### Too Many *Question Interactions*...
+
+#### Problem: Time Sink
 Masahiro Sakurai explains that in games where failure is frequent, restarts should be quick to maintain user engagement. I agree. If it takes too long from dying to getting back to the main game, I would lose interest very fast.
 
 The process of going from question to question is much too long, and isn't interesting enough to justify how much time it takes away from the main game.
 
-There is no *big moment* with 3 question interactions. In terms of presentation, it is very difficult to give a specific moment where the player is empowered and they think to themselves "Ok, now the run start"
+#### Problem: Lackluster Presentation
+There is no *big moment* with 3 question interactions. In terms of presentation, it is very difficult to give a specific moment where the player is empowered and they think to themselves "Ok, now the run starts!"
+
+#### Problem: Level Design Complexity
+In terms of dressing 
 
 #### Alternate Idea: All Questions in One Screen
-Instead of having the player 
+Instead of having the player go to THREE separate question interactions, I could have all three questions appear in a single UI screen. This would cut down on the amount of time it takes to get through the questions significantly.
+
+Pros:
+- This is much faster
+- Gives a single point where we can empower the player and say "Ok, now the run starts!" after they finish the questions
+- Easier to implement in terms of level design
 
 #### Alternate Idea: One Question For An Entire Loadout
 With loadouts being implemented within the project in the form of data tables, generating new predefined loadouts is very easy.
