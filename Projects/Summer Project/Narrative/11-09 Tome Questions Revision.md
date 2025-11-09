@@ -54,10 +54,11 @@ With loadouts being implemented within the project in the form of data tables, g
 - This is the fastest option
 - Again, gives a single point where we can empower the player and say "Ok, now the run starts!" after they finish the question
 - Easiest to implement in terms of level design
+- The current question system is a little labor-intensive. 
+	- Having to come up with 3 questions with 3 answers each time is a lot of work. Also, the process of making the data objects for the questions is A LOT of work.
 
 ##### Cons
-- Might feel a little uneventful if the player doesn't spend enough time making the decision about their loadout. "I did all that for one question?"
+- Might feel a little uneventful if the player doesn't spend enough time making the decision about their loadout. "I did all that for one question? This ENTIRE room is for one question???"
 
 ### 
 
-# Alternate Idea 1: Loadout Questions
