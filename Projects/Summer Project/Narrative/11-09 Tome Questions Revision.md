@@ -20,6 +20,9 @@ The main issue is that
 
 ## Problems
 
-### 
+### 3 Questions May Be Too Many...
+Masahiro Sakurai explains that in games where failure is frequent, restarts should be quick to maintain user engagement. I agree. If it takes too long from dying to getting back to the main game, I would lose interest very fast.
+
+The process of going from question to question is much too long, and isn't interes
 
 # Alternate Idea 1: Loadout Questions
