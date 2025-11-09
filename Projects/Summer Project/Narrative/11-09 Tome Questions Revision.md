@@ -13,20 +13,19 @@ To have this portion of the game feel engaging and fun enough to keep doing as t
 
 Having the questions be straightforward "What spell do you want?" seemed uninteresting and overall a waste of time. If the player knew what the resulting spell was, why would they ever pick an answer if another answer gave them an ability they liked???
 
-### The Narrative Problem
-The main issue is that
-
+#### The Process
+To get these questions, the player walks up to these "*Question Interactions*" (For lack of a better term). When the player interacts with them, a question UI pops up with three possible answers. Each answer corresponds to a predetermined spell / ability.
 
 # Working Through the Solution
 
 ## Problems
 
-### Too Many Questions / Pillars...
+### Too Many *Question Interactions*...
 Masahiro Sakurai explains that in games where failure is frequent, restarts should be quick to maintain user engagement. I agree. If it takes too long from dying to getting back to the main game, I would lose interest very fast.
 
 The process of going from question to question is much too long, and isn't interesting enough to justify how much time it takes away from the main game.
 
-There is no *big moment* with 3 questions. In terms of presentation, it is very difficult to 
+There is no *big moment* with 3 question interactions. In terms of presentation, it is very difficult to give a specific moment where the player is empowered and they think to themselves "Ok, now the run start"
 
 #### Alternate Idea: All Questions in One Screen
 Instead of having the player 
