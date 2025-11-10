@@ -159,3 +159,5 @@ Pros:
 Cons:
 - More complex VFX
 - The visual effect can really fall flat, as the tome model we have vs the plain books in the game look extremely different. It would be difficult to make the transformation look good.
+
+#### Idea: 
