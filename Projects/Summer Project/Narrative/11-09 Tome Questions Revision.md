@@ -87,4 +87,9 @@ Given the lack of time remaining for this project and how much content is actual
 Having a single question for an entire loadout would significantly cut down on the amount of content that needs to be generated.
 
 
-### What 
+
+### In Terms of the Narrative, How Are the Questions Being Relayed to Allister?
+
+In the game, the questions are something Allister is actually answering, not the player directly. This raises the question of how Allister is receiving these questions.
+
+### What Actually IS the Question Interactable?
