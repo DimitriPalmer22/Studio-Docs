@@ -48,3 +48,7 @@ Instead of having just the circle-y portal image behind the characters, we shoul
 In-game, the portal is a fire, so we should try to match that visually. We can try an animated fire behind the character portraits so the portal looks more alive and interesting.
 
 Let's try a couple animated frames of fire behind the character portraits (with dithering and stuff of course)
+
+
+What the UI currently looks like:
+![](<../../../_Meta/Attachments/Pasted image 20251110183601.png>)
