@@ -92,4 +92,15 @@ Having a single question for an entire loadout would significantly cut down on t
 
 In the game, the questions are something Allister is actually answering, not the player directly. This raises the question of how Allister is receiving these questions.
 
+#### Exploration: Through the Dialogue with an Ally
+
+#### Exploration: Through the Question Interactable Itself
+
+##### Idea: Pre-written Questions Left Behind by the Archmage
+
+
+##### Idea: The Question Interactable is Sentient
+Straight up, I do NOT not like this idea. We'd have to do a little more characterization of the Question Interactable, and I don't think that fits with our production timeline.
+
+
 ### What Actually IS the Question Interactable?
