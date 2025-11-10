@@ -25,5 +25,10 @@
 #### Mockup:
 ![](<../../../_Meta/Attachments/UpgradeUI.png>)
 
-Actual
+#### Actual in-game screenshot:
 ![](<../../../_Meta/Attachments/Pasted image 20251110144403.png>)
+
+#### Yo, Where do I put this money symbol?
+- Its in the bottom right for right now, but it looks weird there and it may interfere with any text that's too long. Idk.
+
+### 
