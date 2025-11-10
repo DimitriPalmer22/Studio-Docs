@@ -110,4 +110,6 @@ Straight up, I do NOT not like this idea. We'd have to do a little more characte
 ### What Actually IS the Question Interactable?
 
 #### Purpose: Create Tome w/ Loadout
-Narratively, the reason this "question interactable" was originally created was to quickly equip underskilled mages with a loadout of spells and abilities. If we were to draw real-world parallels, 
+Narratively, the reason this "question interactable" was originally created was to quickly equip underskilled mages with a loadout of spells and abilities. If we were to draw real-world parallels, it's similar to how the invention of guns vastly improved the effectiveness of soldiers with little training.
+
+It should be noted that this question interactable is giving out a physical object in the tome. This tome contains the spells and abilities that the test-taker has earned through their answers to the questions.
