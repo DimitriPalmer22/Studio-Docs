@@ -52,3 +52,13 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 - We're still working on getting the final dialogue written.
 
 ## Goals for v0.11.0:
+
+### Code Stuff
+
+
+### Narrative Stuff
+
+
+### Environmental Artist Stuff
+
+### 
