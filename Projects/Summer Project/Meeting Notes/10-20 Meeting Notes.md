@@ -13,7 +13,6 @@
 
 v0.7.0 was the combat updaate.
 
-
 ## Goals for v0.8.0:
 
 ### Code:
