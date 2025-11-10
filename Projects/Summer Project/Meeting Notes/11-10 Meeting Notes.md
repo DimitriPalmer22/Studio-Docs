@@ -39,6 +39,7 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 - So, you would see tutorials you've already seen, and you would have to recollect journal entries you've already collected.
 - Now, your progress is saved between play sessions.
 - If you ever want to reset your save data, open the console (during play mode) and type `Av.SaveGame.ClearPersistent`
+- Then exit play mode and start a new play session.
 
 ### Armory Props
 - We got a whole new set of armory props from the environmental artists.
