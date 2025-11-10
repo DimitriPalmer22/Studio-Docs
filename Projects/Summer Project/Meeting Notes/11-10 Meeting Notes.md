@@ -53,12 +53,19 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 
 ## Goals for v0.11.0:
 
-### Code Stuff
+### Code 
 
 
-### Narrative Stuff
+### Narrative 
+A lot of this game's personality, story, and tutorializatin
+
+- Set up some more rich text support so that we have even more interesting text effects
+- 
+
+### Environmental Artist 
 
 
-### Environmental Artist Stuff
+### 2D Artist 
 
-### 
+
+The Stuff in [11-10 2D Artist Meeting Notes](<./11-10 2D Artist Meeting Notes.md>)
