@@ -54,14 +54,15 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ## Goals for v0.11.0:
 
 ### Code 
+Revisit things from old weeks that were left unfinished.
 
+- 
 
 ### Narrative 
 A lot of this game's personality, story, and tutorialization is conveyed *directly* through the game's dialogue. Therefore, we need to get some more of the game's dialogue finalized.
 
-- Fill pretty much every core story / tutorial text thing with placeholder text
+- Fill pretty much every core story / tutorial text thing with placeholder text (This should be done already, but I have to double check)
 - Set up some more rich text support so that we have even more interesting text effects
-- 
 
 ### Environmental Artist 
 
