@@ -118,3 +118,12 @@ It should be noted that this question interactable is giving out a physical obje
 
 We know for sure that whatever this "question interactable" thing is that is giving out the tomes is some kind of magical device.
 
+##### Idea: Only Specific People Know How to Use It
+The Archmage created this device for the Empire's military mages. Only people who have been trained in its use are able to operate it and create the tomes.
+
+Pros:
+- This allows us to justify why one of Allister's allies would talk to him before he uses the device, explaining how it works.
+- This explains why the mage isn't too worried about just leaving the device lying around in Avernoth.
+
+Cons:
+- The narrative explanation for this is PIVOTAL, so we need to make sure we get it right.
