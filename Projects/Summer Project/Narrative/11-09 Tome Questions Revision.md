@@ -82,5 +82,9 @@ In order to do that, I would need to create a LOT of question assets. This is ve
 
 Given the lack of time remaining for this project and how much content is actually gonna end up being in the final product, this is not a feasible approach.
 
-
 #### Alternate Idea: Again, One Question For An Entire Loadout
+
+Having a single question for an entire loadout would significantly cut down on the amount of content that needs to be generated.
+
+
+### 
