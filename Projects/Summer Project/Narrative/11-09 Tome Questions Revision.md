@@ -107,7 +107,7 @@ This is the idea we'll go with for now.
 ##### Idea: The Question Interactable is Sentient
 Straight up, I do NOT not like this idea. We'd have to do a little more characterization of the Question Interactable, and I don't think that fits with our production timeline.
 
-### What Actually IS the Question Interactable?
+### How Do I Come Up With What the Interactable Is?
 
 #### Purpose: Create Tome w/ Loadout
 Narratively, the reason this "question interactable" was originally created was to quickly equip underskilled mages with a loadout of spells and abilities. If we were to draw real-world parallels, it's similar to how the invention of guns vastly improved the effectiveness of soldiers with little training.
@@ -160,4 +160,9 @@ Cons:
 - More complex VFX
 - The visual effect can really fall flat, as the tome model we have vs the plain books in the game look extremely different. It would be difficult to make the transformation look good.
 
-#### Idea: 
+### What Actually IS the Question Interactable?
+
+#### Idea: A Summoning Circle
+Rather than be some simple contraption the player walks up to and interacts with, the question interactable could be a magical summoning circle on the ground. 
+
+##### Dressing It Up
