@@ -170,8 +170,6 @@
 - [ ] Middle mouse button (Lock-on)
 - [ ] I Key (Information screen)
 
-#### Upgrade Menu Assets
-
 ## Animation
 
 ### Generic Interact Animation

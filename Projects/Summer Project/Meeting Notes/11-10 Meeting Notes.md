@@ -56,7 +56,8 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### Code 
 Revisit things from old weeks that were left unfinished.
 
-- 
+- At least 2 new spells
+- Code for the 2 of the minotaur enemy abilities
 
 ### Narrative 
 A lot of this game's personality, story, and tutorialization is conveyed *directly* through the game's dialogue. Therefore, we need to get some more of the game's dialogue finalized.
@@ -69,5 +70,8 @@ A lot of this game's personality, story, and tutorialization is conveyed *direct
 
 ### 2D Artist 
 
-
 The Stuff in [11-10 2D Artist Meeting Notes](<./11-10 2D Artist Meeting Notes.md>)
+
+### Animation
+
+The stuff from last week.
