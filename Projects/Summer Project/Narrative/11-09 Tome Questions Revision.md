@@ -165,13 +165,22 @@ Cons:
 #### Idea: A Summoning Circle
 Rather than be some simple contraption the player walks up to and interacts with, the question interactable could be a magical summoning circle on the ground. 
 
-##### Dressing It Up
 The summoning circle can't just be a simple circle on the ground. It needs to have some design elements that make it feel more interesting and complex. Also, it needs to convey to the player that it is a magical device that creates tomes.
 
-###### Possible Design Elements
+##### Possible Design Elements
 - Arcane Symbols on the ground
 - Piles of books surrounding it
 - Floating magical runes above it
 - Some type of floating magical crystal above it
 - A "control panel" or something along those lines to clearly indicate that this is an interactable device.
-	- Maybe have a book stand or som
+	- Maybe have a book stand with an open book on it. This is where the questions are displayed.
+
+#### Idea: A Magical Pedestal
+
+Again, it can't just be an uninteresting pedestal on the ground. Instead, it needs to have some design elements that make it feel more interesting and complex. 
+
+##### Possible Design Elements
+- Arcane Symbols on the pedestal
+- A floating magical crystal above / around it
+- Floating magical runes around it
+- A lecter
