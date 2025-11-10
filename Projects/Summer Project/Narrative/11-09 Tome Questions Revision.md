@@ -98,6 +98,8 @@ In the game, the questions are something Allister is actually answering, not the
 
 ##### Idea: Pre-written Questions Left Behind by the Archmage
 
+###### An ACTUAL Idea
+The Archmage, who used to work for the Empire long in the past, was conducting research on ways to quickly equip military mages with spells and abilities. To do this, he created these *things* that give out a quick personality test. This test then gives the test-taker a loadout based on their answers to the questions.
 
 ##### Idea: The Question Interactable is Sentient
 Straight up, I do NOT not like this idea. We'd have to do a little more characterization of the Question Interactable, and I don't think that fits with our production timeline.
