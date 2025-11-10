@@ -127,3 +127,9 @@ Pros:
 
 Cons:
 - The narrative explanation for this is PIVOTAL, so we need to make sure we get it right.
+
+#### Theming the Item
+Things to consider when theming this prop:
+- The "Question Interactable" spits out a tome, so it should probably be book themed
+- The tome is enchanted, so it need to have clear indications that it is magical in nature
+- Since this device is a modified version of the version created by the Archmage for the Empire's military mages, it should probably have some imperial design elements to it.
