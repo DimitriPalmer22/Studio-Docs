@@ -38,6 +38,7 @@
 - Note: It might be a little difficult to fit a UI element at the top of the image. If we need to, we could move down the entire upgrade menu a little bit to make room for this element.
 
 #### Exit Button Below The Upgrades
+- There is supposed to be some kind of exit option below the upgrade options if the player doesn't want to choose an upgrade
 
 #### Upgrade Menu Assets
 
@@ -54,3 +55,6 @@
 #### Secondary Background Art
 - As cool as this looks, it still looks amateurish compared to other games I've seen
 - That's largely due to A lack of secondary elements; things that make the image feel more complex and interesting without connecting to any of the main elements of this UI
+
+Hades Shop Background Example:
+![](<../../../_Meta/Attachments/Pasted image 20251110145806.png>)
