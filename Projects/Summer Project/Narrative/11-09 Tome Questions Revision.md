@@ -60,5 +60,11 @@ With loadouts being implemented within the project in the form of data tables, g
 ##### Cons
 - Might feel a little uneventful if the player doesn't spend enough time making the decision about their loadout. "I did all that for one question? This ENTIRE room is for one question???"
 
-### 
+### Too Much Content to Generate
+
+#### Problem: Question Content Creation
+
+For the current process of creating the questions, individual assets need to be made for:
+- Questions
+- The data assets that hold the information for which spell to give the player
 
