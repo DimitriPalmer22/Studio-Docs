@@ -67,9 +67,12 @@ A lot of this game's personality, story, and tutorialization is conveyed *direct
 
 ### Environmental Artist 
 
+-
+
 ### Level Design
 
-- 
+- Keep set-dressing in preparation for tomorrow's meeting. New props were added last week.
+- I'll add more things to do during the LD meeting for this week.
 
 ### 2D Artist 
 
