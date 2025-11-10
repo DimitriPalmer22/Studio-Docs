@@ -19,3 +19,11 @@
 - [ ] P Key (Pause Menu)
 - [ ] Middle mouse button (Lock-on)
 - [ ] I Key (Information screen)
+
+### Upgrade UI Stuff
+
+#### Mockup:
+![](<../../../_Meta/Attachments/UpgradeUI.png>)
+
+Actual
+![](<../../../_Meta/Attachments/Pasted image 20251110144403.png>)
