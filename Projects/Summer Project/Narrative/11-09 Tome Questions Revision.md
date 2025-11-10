@@ -62,9 +62,16 @@ With loadouts being implemented within the project in the form of data tables, g
 
 ### Too Much Content to Generate
 
-#### Problem: Question Content Creation
+#### Problem: Answer Assets are Cumbersome
 
 For the current process of creating the questions, individual assets need to be made for:
 - Questions
 - The data assets that hold the information for which spell to give the player
 
+This leads to:
+- Organization issues
+- A larger surface area for possible bugs
+
+#### Problem: Simply Too Many Questions
+
+With the vision I have for th
