@@ -197,6 +197,8 @@ So this idea is a little different. Instead of being a single interactable devic
 
 The player walks up to the bookshelf and pulls a book out, which triggers the question UI to appear. After answering the questions, the tome is enchanted and the player automatically picks it up.
 
+> Note: This is relying on the idea that the tomes themselves contain the questions.
+
 ##### Maybe Not
 - Wouldn't this mean that the player would eventually run out of books to choose from if they kept restarting runs?
 - How Do You Make A Bookshelf Look Interesting At First Glance?
