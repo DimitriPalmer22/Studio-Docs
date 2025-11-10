@@ -74,4 +74,13 @@ This leads to:
 
 #### Problem: Simply Too Many Questions
 
-With the vision I have for th
+With the vision I have for the game:
+- there are a LOT of spells and abilities that the player can get
+- I want there to be enough variety that the player isn't constantly getting the same set of questions over and over
+
+In order to do that, I would need to create a LOT of question assets. This is very time-consuming and tedious.
+
+Given the lack of time remaining for this project and how much content is actually gonna end up being in the final product, this is not a feasible approach.
+
+
+#### Alternate Idea: Again, One Question For An Entire Loadout
