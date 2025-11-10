@@ -23,5 +23,10 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### The Ending Room
 - Before, there was no way to even get to the "ending room" of the game, as the final boss level was not fully set up.
 - As of right now, the final boss level has 1 enemy wave set up, allowing you to complete the room and reach the ending room.
+- In the ending room, 
+
+### Save Data Stuff
+- A couple of small, back-end changes were made to how save data is handled.
+- At some point in the future, I'm gonna be implementing a feature where you'll be able to save your run progress, exit the game, and load back into where you left off.
 
 ## Goals for v0.11.0:
