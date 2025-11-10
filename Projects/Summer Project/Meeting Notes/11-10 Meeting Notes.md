@@ -33,6 +33,11 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### Save Data has been Enabled In-Player
 - Before, every time you played the game, your progress would reset.
 - So, you would see tutorials you've already seen, and you would have to recollect journal entries you've already collected.
-- Now, 
+- Now, your progress is saved between play sessions.
+- If you ever want to reset your save data, open the console (during play mode) and type `Av.SaveGame.ClearPersistent`
+
+### Armory Props
+- We got a whole new set of armory props from the environmental artists.
+- So, continue set-dressing
 
 ## Goals for v0.11.0:
