@@ -58,8 +58,10 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### Code 
 Revisit things from old weeks that were left unfinished.
 
-- At least 2 new spells
+- At least 2 new primary / secondary spells
 - Code for the 2 of the minotaur enemy abilities
+- Some more passive spells
+- Get some more of the upgrades working.
 
 ### Narrative 
 A lot of this game's personality, story, and tutorialization is conveyed *directly* through the game's dialogue. Therefore, we need to get some more of the game's dialogue finalized.
