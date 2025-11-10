@@ -20,4 +20,8 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 
 [The Fix is discussed a little more here.](<./11-08 Environmental Art Meeting Notes.md>) I've already gone over it with the environmental artists.
 
+### The Ending Room
+- Before, there was no way to even get to the "ending room" of the game, as the final boss level was not fully set up.
+- As of right now, the final boss level has 1 enemy wave set up, allowing you to complete the room and reach the ending room.
+
 ## Goals for v0.11.0:
