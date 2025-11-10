@@ -183,4 +183,6 @@ Again, it can't just be an uninteresting pedestal on the ground. Instead, it nee
 - Arcane Symbols on the pedestal
 - A floating magical crystal above / around it
 - Floating magical runes around it
-- A lecter
+- A lectern with an open book on it. This is where the questions are displayed. The player interacts with this to create a tome on the pedestal, which they then pick up automatically.
+
+#### Idea:
