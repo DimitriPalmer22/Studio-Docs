@@ -150,4 +150,12 @@ Cons:
 - Not sure
 
 ##### Idea: Physical Creation
-The object itself is already placed within a room
+The object itself is already placed within a room with a stack of blank tomes. When the player interacts with the device, we can communicate that it enchants one of the blank tomes to create the starting tome.
+
+Pros:
+- Gives a clear physical representation of the tomes being created
+- Can show the tome being enchanted in a more tangible way
+
+Cons:
+- More complex VFX
+- The visual effect can really fall flat, as the tome model we have vs the plain books in the game look extremely different. It would be difficult to make the transformation look good.
