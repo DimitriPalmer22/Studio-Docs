@@ -31,4 +31,9 @@
 #### Yo, Where do I put this money symbol?
 - Its in the bottom right for right now, but it looks weird there and it may interfere with any text that's too long. Idk.
 
-### 
+#### Upgrade Menu Assets
+- The page image behind the upgrade options is not complete.
+- It's literally a cropped version of one of the other assets in the game.
+- I like the idea, but it needs to be more polished.
+- The withering and uneven edge at the top looks really cool.
+- But, you can tell that I just cropped off the sides and the bottom because of how straight they are compared to the top.
