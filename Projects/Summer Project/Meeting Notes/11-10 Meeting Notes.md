@@ -20,11 +20,12 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 
 [The Fix is discussed a little more here.](<./11-08 Environmental Art Meeting Notes.md>) I've already gone over it with the environmental artists.
 
-### The Ending Room
+### The Ending Room: The game loop is more complete now
 - Before, there was no way to even get to the "ending room" of the game, as the final boss level was not fully set up.
 - As of right now, the final boss level has 1 enemy wave set up, allowing you to complete the room and reach the ending room.
 - In the ending room, you'll see a magically sealed door. 
 - However, if you've collected each of the journal entries, the door will be unlocked and you'll be able to proceed to the ending sequence. 
+- If you haven't collected all of the journal entries, the door will remain locked, a portal appears that'll bring you back to the start of the run.
 
 ### Back-end Save Data Stuff
 - A couple of small, back-end changes were made to how save data is handled.
@@ -39,5 +40,10 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### Armory Props
 - We got a whole new set of armory props from the environmental artists.
 - So, continue set-dressing
+
+### Important Dialogue Laid Out
+- Some of the dialogue in our game is *plot-significant*
+- I have created all the assets required for most of this dialogue.
+- So, you'll see
 
 ## Goals for v0.11.0:
