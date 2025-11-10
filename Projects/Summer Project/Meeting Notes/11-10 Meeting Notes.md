@@ -53,6 +53,8 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 
 ## Goals for v0.11.0:
 
+### Changing The Questions @ the Start of Each Run AGAIN
+
 ### Code 
 Revisit things from old weeks that were left unfinished.
 
