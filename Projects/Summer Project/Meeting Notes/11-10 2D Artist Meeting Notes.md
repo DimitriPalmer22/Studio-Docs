@@ -31,6 +31,14 @@
 #### Yo, Where do I put this money symbol?
 - Its in the bottom right for right now, but it looks weird there and it may interfere with any text that's too long. Idk.
 
+#### Image Behind the Title Bar
+- There needs to be something behind the phrase "Choose an Upgrade"
+- The floating text looks bad
+- The white text in the title vs the black text in the rest of the elements looks off to me
+- Note: It might be a little difficult to fit a UI element at the top of the image. If we need to, we could move down the entire upgrade menu a little bit to make room for this element.
+
+#### Exit Button Below The Upgrades
+
 #### Upgrade Menu Assets
 
 ##### Page Background
