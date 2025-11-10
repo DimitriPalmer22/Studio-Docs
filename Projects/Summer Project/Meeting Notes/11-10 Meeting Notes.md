@@ -67,6 +67,9 @@ A lot of this game's personality, story, and tutorialization is conveyed *direct
 
 ### Environmental Artist 
 
+### Level Design
+
+- 
 
 ### 2D Artist 
 
