@@ -59,6 +59,7 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### Narrative 
 A lot of this game's personality, story, and tutorialization is conveyed *directly* through the game's dialogue. Therefore, we need to get some more of the game's dialogue finalized.
 
+- Fill pretty much every core story / tutorial text thing with placeholder text
 - Set up some more rich text support so that we have even more interesting text effects
 - 
 
