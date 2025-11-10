@@ -104,6 +104,12 @@ The Archmage, who used to work for the Empire long in the past, was conducting r
 The Archmage wanted to further his research, so he brought these devices into Avernoth with him. The loadouts given out by these were lacking in power (which explains why the starting tome alone is probably not strong enough to get you through the game), so he continued his research into generating upgradeable tomes with more powerful spells and abilities.
 
 This is the idea we'll go with for now.
+
+##### Another REAL Idea: The Books Start WITH the Questions
+So imagine most of the points above.
+
+However, instead of having some magical device that asks the questions, the tome itself has the questions written inside of it. When Allister picks up the tome, he reads the questions and answers them. The tome then magically enchants itself with the spells and abilities based on his answers.
+
 ##### Idea: The Question Interactable is Sentient
 Straight up, I do NOT not like this idea. We'd have to do a little more characterization of the Question Interactable, and I don't think that fits with our production timeline.
 
@@ -149,7 +155,7 @@ Pros:
 Cons:
 - Not sure
 
-##### Idea: Physical Creation
+##### Idea: Physically-based
 The object itself is already placed within a room with a stack of blank tomes. When the player interacts with the device, we can communicate that it enchants one of the blank tomes to create the starting tome.
 
 Pros:
