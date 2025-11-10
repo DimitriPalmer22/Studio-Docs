@@ -113,3 +113,8 @@ Straight up, I do NOT not like this idea. We'd have to do a little more characte
 Narratively, the reason this "question interactable" was originally created was to quickly equip underskilled mages with a loadout of spells and abilities. If we were to draw real-world parallels, it's similar to how the invention of guns vastly improved the effectiveness of soldiers with little training.
 
 It should be noted that this question interactable is giving out a physical object in the tome. This tome contains the spells and abilities that the test-taker has earned through their answers to the questions.
+
+#### Problem: Who is able to use this Magical Device?
+
+We know for sure that whatever this "question interactable" thing is that is giving out the tomes is some kind of magical device.
+
