@@ -101,9 +101,12 @@ In the game, the questions are something Allister is actually answering, not the
 The Archmage, who used to work for the Empire long in the past, was conducting research on ways to quickly equip military mages with spells and abilities. To do this, he created these *things* that give out a quick personality test. This test then gives the test-taker a loadout based on their answers to the questions.
 
 ###### Okay. Why Did He Bring These Into Avernoth
-The Archmage wanted to further his research, so he brought these devices into Avernoth with him. The loadouts given out by these were lacking in power (which explains why the starting tome alone is probably not strong enough to get you through the game), so he continued his research into generating tomes with more powerful spells and abilities.
+The Archmage wanted to further his research, so he brought these devices into Avernoth with him. The loadouts given out by these were lacking in power (which explains why the starting tome alone is probably not strong enough to get you through the game), so he continued his research into generating upgradeable tomes with more powerful spells and abilities.
 
 ##### Idea: The Question Interactable is Sentient
 Straight up, I do NOT not like this idea. We'd have to do a little more characterization of the Question Interactable, and I don't think that fits with our production timeline.
 
 ### What Actually IS the Question Interactable?
+
+#### Purpose: Create Tome w/ Loadout
+This question interactable's purpose i
