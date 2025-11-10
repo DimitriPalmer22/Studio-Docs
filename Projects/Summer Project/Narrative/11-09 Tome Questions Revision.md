@@ -181,6 +181,11 @@ The summoning circle can't just be a simple circle on the ground. It needs to ha
 - A "control panel" or something along those lines to clearly indicate that this is an interactable device.
 	- Maybe have a book stand with an open book on it. This is where the questions are displayed.
 
+##### Gameplay Implementation Details
+The first time the player goes through the game, they can go through the entire process of seeing the tome be created.
+
+However, on subsequent runs, the tome can just be there automatically. The player interacts with it to equip it, questions come up, and then the player proceeds.
+
 #### Idea: A Magical Pedestal
 
 Again, it can't just be an uninteresting pedestal on the ground. Instead, it needs to have some design elements that make it feel more interesting and complex. 
