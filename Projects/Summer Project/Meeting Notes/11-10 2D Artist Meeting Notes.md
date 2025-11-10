@@ -37,7 +37,9 @@
 Hades Shop Background Example:
 ![](<../../../_Meta/Attachments/Pasted image 20251110145806.png>)
 
-### Redesign Portal Image For Dialogue UI
+### Redesign Dialogue UI
+
+#### Portal Image
 
 Instead of having just the circle-y portal image behind the characters, we should have something a little more animated. 
 
