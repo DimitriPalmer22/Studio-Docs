@@ -52,3 +52,9 @@ Let's try a couple animated frames of fire behind the character portraits (with 
 
 What the UI currently looks like:
 ![](<../../../_Meta/Attachments/Pasted image 20251110183601.png>)
+
+What the small Portal next to Allister looks like
+![](<../../../_Meta/Attachments/Pasted image 20251110183723.png>)
+
+What a big portal looks like
+![](<../../../_Meta/Attachments/Pasted image 20251110183741.png>)
