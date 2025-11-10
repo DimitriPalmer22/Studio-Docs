@@ -137,4 +137,17 @@ Things to consider when theming this prop:
 
 #### Problem: How is the Book Created?
 
-##### 
+##### Idea: Magical Creation
+The tomes can be created through magical means. The "question interactable" device uses magic to create the tome out of thin air.
+
+Pros:
+- Gives us a clear "This is when the run starts" moment when the tome is created
+- Can explain how these are used to quickly equip large numbers of mages
+- Is easier to implement in terms of VFX
+- The prop itself doesn't need to consider a whole bunch of books lying around it
+
+Cons:
+- Not sure
+
+##### Idea: Physical Creation
+The object itself is already placed within a room
