@@ -45,4 +45,4 @@
 
 #### Secondary Background Art
 - As cool as this looks, it still looks amateurish compared to other games I've seen
-- That's largely due to A lack of secondary elements
+- That's largely due to A lack of secondary elements; things that make the image feel more complex and interesting without connecting to any of the main elements of this UI
