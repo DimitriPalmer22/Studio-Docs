@@ -20,6 +20,9 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 
 [The Fix is discussed a little more here.](<./11-08 Environmental Art Meeting Notes.md>) I've already gone over it with the environmental artists.
 
+- With that squared away, the lighting in some levels has been updated.
+- The post-processing has been tweaked very slightly.
+
 ### The Ending Room: The game loop is more complete now
 - Before, there was no way to even get to the "ending room" of the game, as the final boss level was not fully set up.
 - As of right now, the final boss level has 1 enemy wave set up, allowing you to complete the room and reach the ending room.
@@ -44,6 +47,7 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 ### Important Dialogue Laid Out
 - Some of the dialogue in our game is *plot-significant*
 - I have created all the assets required for most of this dialogue.
-- So, you'll see
+- So, you'll see dialogue prompts pop up with placeholder text.
+- We're still working on getting the final dialogue written.
 
 ## Goals for v0.11.0:
