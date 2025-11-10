@@ -26,8 +26,13 @@ v0.9.0 and v0.10.0 were both pretty small updates (partially due to time constra
 - In the ending room, you'll see a magically sealed door. 
 - However, if you've collected each of the journal entries, the door will be unlocked and you'll be able to proceed to the ending sequence. 
 
-### Save Data Stuff
+### Back-end Save Data Stuff
 - A couple of small, back-end changes were made to how save data is handled.
 - At some point in the future, I'm gonna be implementing a feature where you'll be able to save your run progress, exit the game, and load back into where you left off.
+
+### Save Data has been Enabled In-Player
+- Before, every time you played the game, your progress would reset.
+- So, you would see tutorials you've already seen, and you would have to recollect journal entries you've already collected.
+- Now, 
 
 ## Goals for v0.11.0:
