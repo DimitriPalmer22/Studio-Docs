@@ -37,4 +37,8 @@
 Hades Shop Background Example:
 ![](<../../../_Meta/Attachments/Pasted image 20251110145806.png>)
 
-#### 
+### Redesign Portal Image For Dialogue UI
+
+Instead of having just the circle-y portal image behind the characters, we should have something a little more animated. 
+
+In-game, the portal is a fire. 
