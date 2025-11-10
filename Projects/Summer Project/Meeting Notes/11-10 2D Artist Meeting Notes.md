@@ -39,10 +39,12 @@ Hades Shop Background Example:
 
 ### Redesign Dialogue UI
 
-The dialogue UI seems 
+The dialogue UI seems a little flat and boring, even with the bobbing of the characters.
 
 #### Portal Image
 
 Instead of having just the circle-y portal image behind the characters, we should have something a little more animated. 
 
-In-game, the portal is a fire. We can try an animated fire behind the character portraits so the 
+In-game, the portal is a fire, so we should try to match that visually. We can try an animated fire behind the character portraits so the portal looks more alive and interesting.
+
+Let's try a couple animated frames of fire behind the 
