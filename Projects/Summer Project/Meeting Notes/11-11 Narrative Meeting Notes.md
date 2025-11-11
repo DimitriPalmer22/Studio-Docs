@@ -93,9 +93,7 @@ This includes flavor text and minor character interactions that mainly serve to 
 ## Upgrade Room
 
 
-
 ## Regular Room Clear
-
 
 
 ## Boss Room Clear
