@@ -10,9 +10,11 @@
 
 # Run Through New(er) Beginning Sequence Ideas
 
-### Option 1
+### Option 1: 
 
-### Option 2
+
+### Option 2: 
+
 
 # Plot-Significant Dialogue
 This includes tutorials and important story beats.
