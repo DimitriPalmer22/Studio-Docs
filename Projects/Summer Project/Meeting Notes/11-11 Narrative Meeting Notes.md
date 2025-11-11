@@ -69,7 +69,10 @@ The ending room contains two types of plot-significant dialogue interactions tha
 - Somebody: Let's see if we can break the seal now!
 
 ### Walking Up to the Exit Door After Collecting All Journal Entries
-- 
+- Ally: Yo, do the thing to break the seal
+- *Allister does the thing, and the door begins to open*
+- Allister: It's working! The seal is breaking!
+- Ally: Something about returning to the real world 
 
 ## Journal Entries
 The journal entries 
