@@ -117,6 +117,18 @@ Yo, somewhere in this place, there's a door with a magical seal on it. This is h
 - Ally: Sick
 
 ---
+
+
+## Beginning Sequence Dialogue
+
+
+### 1. Fade From Black Screen
+We'll keep the same "ugh, my head" dialogue from before.
+
+### 2. Walking Over to Dialogue Portal
+
+### 3. 
+
 # Non-Significant Dialogue
 This includes flavor text and minor character interactions that mainly serve to add personality to the game world.
 
