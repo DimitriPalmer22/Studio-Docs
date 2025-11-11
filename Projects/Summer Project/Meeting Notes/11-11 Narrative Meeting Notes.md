@@ -12,16 +12,19 @@ Each "boss" room will have unique dialogue that plays when the player first ente
 
 These rooms mark the end of each area in the game. This should be acknowledged by the dialogue.
 
+Each boss room has two types of dialogue interactions:
+- 
+
 ### Boss Room 1 Enter (For the First Time)
-- This rooms seems more dangerous than the others. 
-- The amount of residual mana is much higher.
-- Be careful
+- An Ally: This rooms seems more dangerous than the others. 
+- Allister: The amount of residual mana is much higher.
+- An Ally: Be careful
 
 ### Boss Room 1 Clear (For the First Time)
 - 
 
 ### Boss Room 2 Enter (For the First Time)
-- I'm geetin
+- I'm getting the same feeling I was before
 
 ### Boss Room 2 Clear (For the First Time)
 - 
@@ -38,4 +41,8 @@ This includes flavor text and minor character interactions that mainly serve to 
 ## Upgrade Room
 
 
-## 
+## Regular Room Clear
+
+
+
+## Boss Room Clear
