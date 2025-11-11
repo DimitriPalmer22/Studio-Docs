@@ -72,7 +72,7 @@ A lot of this game's personality, story, and tutorialization is conveyed *direct
 ### Environmental Artist 
 
 Weapons:
-- Size refs are in the Goo
+- Size refs are in the Google Drive
 
 ### Level Design
 
