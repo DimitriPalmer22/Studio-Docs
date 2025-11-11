@@ -61,4 +61,4 @@ What a big portal looks like
 
 ### Hidetomo
 
-- It might be his 
+- It might be his eye that looks a little weird and throws the whole thing off
