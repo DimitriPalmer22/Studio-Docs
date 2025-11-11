@@ -48,7 +48,10 @@ Each boss room has two types of plot-significant dialogue interactions that auto
 - 
 
 ## Ending Room
-There are a couple key milestones that should trigger very specific dialogue when entering the ending room.
+
+The ending room contains two types of plot-significant dialogue interactions that automatically play:
+- Entering the room
+- Getting close to the exit door
 
 ### Entering the Ending Room For the First Time
 > Note: Assume the player does NOT have all of the Journal Entries yet. So, the door is locked. Also, the player *should* know what a journal entry is.
@@ -60,8 +63,13 @@ There are a couple key milestones that should trigger very specific dialogue whe
 ### Walking Up to the Exit Door for the First Time
 - Somebody: Yeah, the door is locked, alright
 - Allister: There must be *SOME* way to open it, right?
-- Ally: Perhaps the archmage left behind some clues...
+- Ally: Perhaps the archmage left behind some clues... Read the notes bro
 
+### Entering the Ending Room After Collecting All Journal Entries
+- Somebody: Let's see if we can break the seal now!
+
+### Walking Up to the Exit Door After Collecting All Journal Entries
+- 
 
 ## Journal Entries
 The journal entries 
