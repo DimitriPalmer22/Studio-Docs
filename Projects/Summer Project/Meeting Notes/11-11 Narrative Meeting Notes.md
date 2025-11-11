@@ -133,9 +133,12 @@ We'll keep the same "Oi, over here" dialogue from before.
 
 ### 4. You Get Close to the Question Interactable
 - Ally: This looks like the old tome creation devices the Empire used to use
+- Ally:
 - Ally: Let's try it out
 
-*Allister uses it to make a *
+*Allister uses it to make a tome*
+
+### 5. After You Make the Tome & Get the questions
 
 # Non-Significant Dialogue
 This includes flavor text and minor character interactions that mainly serve to add personality to the game world.
