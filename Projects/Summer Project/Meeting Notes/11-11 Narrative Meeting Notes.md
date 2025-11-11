@@ -127,7 +127,15 @@ We'll keep the same "Oi, over here" dialogue from before.
 
 ### 2. Walking Over to Dialogue Portal
 
-### 3. 
+### 3. Load into the Room W/ the Questions
+- Allister: What's that thing over there
+- Ally: idk Let's go check it out
+
+### 4. You Get Close to the Question Interactable
+- Ally: This looks like the old tome creation devices the Empire used to use
+- Ally: Let's try it out
+
+*Allister uses it to make a *
 
 # Non-Significant Dialogue
 This includes flavor text and minor character interactions that mainly serve to add personality to the game world.
