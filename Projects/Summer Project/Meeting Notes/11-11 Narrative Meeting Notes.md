@@ -1,4 +1,4 @@
-# Run Through the End of Each Run / The Game
+# Explain the End of Each Run / The Game
 - When the player defeats the final "boss" room, they are then taken to the ending room.
 - In the ending room, there is a magically sealed door.
 - If the player has collected all of the journal entries, the door will be unlocked, and they can proceed to the ending sequence (Allister escapes Avernoth)
@@ -8,7 +8,7 @@
 > Note: We explain that whenever Allister DIES, he is sent back to the beginning of Avernoth. Does it really make sense for there to just be a portal that sends him back to the beginning if he doesn't have all the journal entries? Maybe we can have some kind of narrative justification for this? Sure, we *could* have some type of explanation where Allister is forced to die to restart his run manually, but I'm not sure I like that.
 
 
-# Run Through New(er) Beginning Sequence 
+# Run Through New(er) Beginning Sequence Ideas
 
 ### Option 1
 
@@ -63,7 +63,7 @@ The ending room contains two types of plot-significant dialogue interactions tha
 ### Walking Up to the Exit Door for the First Time
 - Somebody: Yeah, the door is locked, alright
 - Allister: There must be *SOME* way to open it, right?
-- Ally: Perhaps the archmage left behind some clues... Read the notes bro
+- Ally: Perhaps the Archmage left behind some clues... Read the notes bro
 
 ### Entering the Ending Room After Collecting All Journal Entries
 - Somebody: Let's see if we can break the seal now!
@@ -93,8 +93,10 @@ This includes flavor text and minor character interactions that mainly serve to 
 ## Upgrade Room
 
 
+
 ## Regular Room Clear
 
 
 
 ## Boss Room Clear
+
