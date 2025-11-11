@@ -8,9 +8,12 @@
 This includes tutorials and important story beats.
 
 ## "Boss" Rooms
-Each "boss" room will have unique dialogue that plays when the player first enters the room, as well as dialogue that plays upon clearing the room for the first time.
+Each "boss" room will have unique dialogue that plays when the player first enters the room, as well as dialogue that plays upon clearing the room for the first time. 
+
+These rooms mark the end of each area in the game. This should be acknowledged by the dialogue.
 
 ### Boss Room 1 Enter (First Time)
+- This rooms seems different / 
 
 ### Boss Room 1 Clear (First Time)
 
