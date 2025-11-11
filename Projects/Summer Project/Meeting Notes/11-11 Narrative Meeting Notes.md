@@ -10,10 +10,8 @@
 
 # Run Through New(er) Beginning Sequence Ideas
 
-### Option 1: 
+### Option 1: Summoning Circle
 
-
-### Option 2: 
 
 
 # Plot-Significant Dialogue
