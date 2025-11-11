@@ -92,15 +92,26 @@ The ending room contains two types of plot-significant dialogue interactions tha
 - Player exits dialogue, walks through portal, screen fades, credits roll
 
 ## Journal Entries
-The journal entries 
+The journal entries serve two main purposes:
+- Provide lore about the Archmage who created Avernoth
+- The final journal entry contains informat
 
 ### Journal Entry 1
+
+#### Text
+-
+
+#### Dialogue Response
+-
+
+...
+
+### Final Journal Entry
 
 #### Text
 
 
 #### Dialogue Response
-
 
 # Non-Significant Dialogue
 This includes flavor text and minor character interactions that mainly serve to add personality to the game world.
