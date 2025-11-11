@@ -12,8 +12,9 @@ Each "boss" room will have unique dialogue that plays when the player first ente
 
 These rooms mark the end of each area in the game. This should be acknowledged by the dialogue.
 
-Each boss room has two types of dialogue interactions:
-- 
+Each boss room has two types of plot-significant dialogue interactions that automatically play:
+- When entering the room for the first time
+- When clearing the room for the first time
 
 ### Boss Room 1 Enter (For the First Time)
 - An Ally: This rooms seems more dangerous than the others. 
@@ -24,7 +25,8 @@ Each boss room has two types of dialogue interactions:
 - 
 
 ### Boss Room 2 Enter (For the First Time)
-- I'm getting the same feeling I was before
+- Allister: I'm getting the same feeling I was before (a little less vague than this, though)
+- 
 
 ### Boss Room 2 Clear (For the First Time)
 - 
