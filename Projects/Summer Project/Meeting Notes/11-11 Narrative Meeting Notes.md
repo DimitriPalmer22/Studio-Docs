@@ -37,6 +37,16 @@ Each boss room has two types of plot-significant dialogue interactions that auto
 ### Boss Room 3 Clear (For the First Time)
 - 
 
+## Journal Entries
+
+### Journal Entry 1
+
+#### Text
+
+
+#### Dialogue Response
+
+
 # Non-Significant Dialogue
 This includes flavor text and minor character interactions that mainly serve to add personality to the game world.
 
