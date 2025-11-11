@@ -2,7 +2,7 @@
 - When the player defeats the final "boss" room, they are then taken to the ending room.
 - In the ending room, there is a magically sealed door.
 - If the player has collected all of the journal entries, the door will be unlocked, and they can proceed to the ending sequence (Allister escapes Avernoth)
-	- 
+	- The final journal entry contains the key to escape Avernoth.
 - If the player has NOT collected all of the journal entries, the door will remain locked. A portal appears that brings the player back to the start of a new run.
 
 > Note: We explain that whenever Allister DIES, he is sent back to the beginning of Avernoth. Does it really make sense for there to just be a portal that sends him back to the beginning if he doesn't have all the journal entries? Maybe we can have some kind of narrative justification for this? Sure, we *could* have some type of explanation where Allister is forced to die to restart his run manually, but I'm not sure I like that.
@@ -46,6 +46,15 @@ Each boss room has two types of plot-significant dialogue interactions that auto
 
 ### Boss Room 3 Clear (For the First Time)
 - 
+
+## Ending Room
+There are a couple key milestones that should trigger very specific dialogue when entering the ending room.
+
+### Entering the Ending Room For the First Time
+> Note: Assume the player does NOT have all of the Journal Entries yet. So, the door is locked. Also, the player *should* know what a journal entry is.
+
+
+
 
 ## Journal Entries
 The journal entries 
