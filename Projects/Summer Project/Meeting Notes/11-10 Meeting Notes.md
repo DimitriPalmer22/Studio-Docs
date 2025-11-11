@@ -85,6 +85,7 @@ The Stuff in [11-10 2D Artist Meeting Notes](<./11-10 2D Artist Meeting Notes.md
 
 - Upgrade UI Stuff
 - Redoing the portal background (as a fire) in the dialogue UI
+- Hidetomo Portrait
 
 ### Animation
 
