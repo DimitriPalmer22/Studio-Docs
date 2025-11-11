@@ -53,7 +53,14 @@ There are a couple key milestones that should trigger very specific dialogue whe
 ### Entering the Ending Room For the First Time
 > Note: Assume the player does NOT have all of the Journal Entries yet. So, the door is locked. Also, the player *should* know what a journal entry is.
 
+- Allister: Oh look, an exit
+- An Ally: It appears to have a magic seal on it :(
+- Ally: Get closer to inspect it
 
+### Walking Up to the Exit Door for the First Time
+- Somebody: Yeah, the door is locked, alright
+- Allister: There must be *SOME* way to open it, right?
+- Ally: Perhaps the archmage left behind some clues...
 
 
 ## Journal Entries
