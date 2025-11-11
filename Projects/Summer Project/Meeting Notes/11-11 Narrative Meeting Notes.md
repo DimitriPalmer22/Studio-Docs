@@ -8,6 +8,7 @@
 > Note: We explain that whenever Allister DIES, he is sent back to the beginning of Avernoth. Does it really make sense for there to just be a portal that sends him back to the beginning if he doesn't have all the journal entries? Maybe we can have some kind of narrative justification for this? Sure, we *could* have some type of explanation where Allister is forced to die to restart his run manually, but I'm not sure I like that.
 
 
+---
 # Run Through New(er) Beginning Sequence Ideas
 
 ### Option 1: Summoning Circle
@@ -29,6 +30,7 @@ The first time the player goes through the game, they can go through the entire 
 However, on subsequent runs, the tome can just be there automatically. The player interacts with it to equip it, questions come up, and then the player proceeds.
 
 
+---
 # Plot-Significant Dialogue
 This includes tutorials and important story beats.
 
@@ -109,10 +111,13 @@ The journal entries serve two main purposes:
 ### Final Journal Entry
 
 #### Text
-Yo, somewhere in this place, 
+Yo, somewhere in this place, there's a door with a magical seal on it. This is how you break the seal: *something magic related*
 
 #### Dialogue Response
+- Allister: This must be how to escape Avernoth!
+- Ally: Sick
 
+---
 # Non-Significant Dialogue
 This includes flavor text and minor character interactions that mainly serve to add personality to the game world.
 
