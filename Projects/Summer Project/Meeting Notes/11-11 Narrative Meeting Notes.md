@@ -7,7 +7,7 @@
 
 > Note: We explain that whenever Allister DIES, he is sent back to the beginning of Avernoth. Does it really make sense for there to just be a portal that sends him back to the beginning if he doesn't have all the journal entries? Maybe we can have some kind of narrative justification for this? Sure, we *could* have some type of explanation where Allister is forced to die to restart his run manually, but I'm not sure I like that.
 
-- Solution: Whichever one of Allister's allies that gave AL
+- Solution: We can explain it in a way that whichever one of Allister's allies that gave Allister the ability to restart the runs will use a similar spell (a portal) to send Allister back to the beginning if he doesn't have all the journal entries yet.
 
 ---
 # Run Through New(er) Beginning Sequence Ideas
