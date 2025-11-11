@@ -99,7 +99,7 @@ The journal entries serve two main purposes:
 - Provide lore about the Archmage who created Avernoth
 - The final journal entry contains information about how to break the seal on the exit door in the ending room
 
-> Note: What we could do is have the Archmage leave behind 
+> Note: What we could do is have the Archmage leave behind special symbols in these entries. The cast can then acknowledge these symbols after the player reads the note. This way, it'll feel like we're building to something rather than just dropping the exit to Avernoth on the player.
 
 ### Journal Entry 1
 
