@@ -94,7 +94,7 @@ The ending room contains two types of plot-significant dialogue interactions tha
 ## Journal Entries
 The journal entries serve two main purposes:
 - Provide lore about the Archmage who created Avernoth
-- The final journal entry contains informat
+- The final journal entry contains information about how to break the seal on the exit door in the ending room
 
 ### Journal Entry 1
 
@@ -109,7 +109,7 @@ The journal entries serve two main purposes:
 ### Final Journal Entry
 
 #### Text
-
+Yo, somewhere in this place, 
 
 #### Dialogue Response
 
