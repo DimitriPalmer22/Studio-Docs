@@ -123,7 +123,7 @@ Yo, somewhere in this place, there's a door with a magical seal on it. This is h
 
 
 ### 1. Fade From Black Screen
-We'll keep the same "ugh, my head" dialogue from before.
+We'll keep the same "Oi, over here" dialogue from before.
 
 ### 2. Walking Over to Dialogue Portal
 
