@@ -1,3 +1,12 @@
+# Run Through the End of Each Run / The Game
+- When the player defeats the final "boss" room, they are then taken to the ending room.
+- In the ending room, there is a magically sealed door.
+- If the player has collected all of the journal entries, the door will be unlocked, and they can proceed to the ending sequence (Allister escapes Avernoth)
+- If the player has NOT collected all of the journal entries, the door will remain locked. A portal appears that brings the player back to the start of a new run.
+
+> Note: We explain
+
+
 # Run Through New(er) Beginning Sequence 
 
 ### Option 1
@@ -38,6 +47,7 @@ Each boss room has two types of plot-significant dialogue interactions that auto
 - 
 
 ## Journal Entries
+The journal 
 
 ### Journal Entry 1
 
