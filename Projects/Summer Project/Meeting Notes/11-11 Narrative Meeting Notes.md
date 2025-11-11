@@ -73,6 +73,8 @@ The ending room contains two types of plot-significant dialogue interactions tha
 - *Allister does the thing, and the door begins to open*
 - Allister: It's working! The seal is breaking!
 - Ally: Something about returning to the real world 
+- Allister: *Says something about leaving*
+- Player exits dialogue, walks through portal, screen fades, credits roll
 
 ## Journal Entries
 The journal entries 
