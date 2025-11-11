@@ -58,3 +58,7 @@ What the small Portal next to Allister looks like
 
 What a big portal looks like
 ![](<../../../_Meta/Attachments/Pasted image 20251110183741.png>)
+
+### Hidetomo
+
+- It might be his 
