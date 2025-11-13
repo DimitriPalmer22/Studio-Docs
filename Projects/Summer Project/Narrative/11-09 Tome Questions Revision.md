@@ -215,4 +215,6 @@ The player walks up to the bookshelf and pulls a book out, which triggers the qu
 
 ### Idea: Themed Questions
 - All answers give the same / similarly themed passive spells
-- All answers give 
+- All answers give a spell w/ an upgraded version of one of the spells
+- All answers have the same primary, but different secondary spells
+- All answers give different base stats
