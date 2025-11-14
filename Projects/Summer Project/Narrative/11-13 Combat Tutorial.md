@@ -12,4 +12,13 @@
 ### Allister Defeats the Enemy
 - Myra: Good job, but another enemy spawned
 - The other spell your tome comes with is your *secondary spell*, which is a a more powerful attack that deals more damage.
-- Secondary attacks consume mana, while h
+- Secondary attacks consume mana, while hitting enemies with primary attacks restores a small amount of mana.
+- Press [Button] to cast your secondary spell and defeat the enemy!
+> Note: It may be best to disable other attack inputs during this time.
+
+### Allister Defeats the Second Enemy
+- Myra: Nice work. Time to get out of here.
+- *A wave of enemies spawns in this time*
+
+### Allister Defeats All Enemies
+- Tarun: Master
