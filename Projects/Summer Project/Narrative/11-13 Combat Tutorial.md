@@ -21,4 +21,6 @@
 - *A wave of enemies spawns in this time*
 
 ### Allister Defeats All Enemies
-- Tarun: Master
+- An Ally: The exit portal appeared!
+- An Ally: It seems as if these rooms contains waves of enemies that won't let you leave until they are all defeated.
+- Allister: Ah man.
