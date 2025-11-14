@@ -18,9 +18,12 @@
 
 ### Allister Defeats the Second Enemy
 - Myra: Nice work. Time to get out of here.
+- Myra: If you ever want to take a more detailed look at your spells, press [Button] to open your tome and read about your spells.
 - *A wave of enemies spawns in this time*
 
 ### Allister Defeats All Enemies
 - An Ally: The exit portal appeared!
 - An Ally: It seems as if these rooms contains waves of enemies that won't let you leave until they are all defeated.
-- Allister: Ah man.
+- Allister: Ah man. Well, I'm off.
+
+Tutorial Complete.
