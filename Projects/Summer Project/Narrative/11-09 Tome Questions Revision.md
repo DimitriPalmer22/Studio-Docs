@@ -231,4 +231,6 @@ We could have a third question that is dynamically selected based on your curren
 # Prevent the Player from Choosing the Same Thing.
 
 ### Goal-Oriented Progression
-In Hades, there are the Prophecies, which are fulfilled when the player achieves certain goals. These goals often involve using specific weapons or boons. Boons will tell you "hey, this is part of a prophe"
+In Hades, there are the Prophecies, which are fulfilled when the player achieves certain goals. These goals often involve using specific weapons or boons. Boons will tell you "hey, this is part of a prophecy, so you should get it."
+
+If the choice of spells and abilities is tied directly to the player's progression, then we can prevent the player from choosing the same thing over and over again.
