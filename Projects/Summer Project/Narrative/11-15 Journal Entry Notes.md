@@ -30,7 +30,11 @@
 - Specific spells / upgrades.
 - Reaching certain areas / Reach the end of the game
 
-##### Note: What Stops the Player From Restarting their Run A
+##### Note: What Stops the Player From Restarting their Run As Soon As they Get A Journal Entry?
+- Let's say the player unlocks a journal entry after reaching a certain area with a specific spell.
+- Cool, the journal table spawns, and now they can restart their run. 
+- But this would mean that they would only ever have to beat the game like once after getting all the journal entries.
+- For each journal entry after a certain point, we should make it so that the player must "deposit" the journal entry at the end 
 
 ## Make Journal Tables Harder To Miss
 
