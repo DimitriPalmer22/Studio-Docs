@@ -9,10 +9,6 @@
 - He began to document his thoughts and experiences in a series of journal entries scattered throughout Avernoth
 - It is through these journal entries that we can understand the Archmage's descent into madness, as well as how to escape Avernoth
 
-### What Exactly is on the Journal Entries?
-
-#### Personal Rel
-
 # Journal Entries Are BORING!!!
 - Although journal entries are tied to the progression in the game, they are still lackluster.
 
@@ -38,3 +34,14 @@
 #### Chromatic Aberration As the Player Draws Near
 - Lerp using desired value vs actual value for smooth transitions
 - Update on tick
+
+# What Exactly is on the Journal Entries?
+
+### Personal Reflections / Lore
+- Unimportant to the main progression of the game, but adds depth to the world and characters
+- Provides insight into the Archmage's thoughts, feelings, and motivations
+
+### Tips For Escape
+- Bolded or highlighted text that provides hints or clues on how to escape Avernoth
+- The part players should pay attention to if they want to progress through the game
+- This 
