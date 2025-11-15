@@ -224,4 +224,11 @@ We could have a third question that is dynamically selected based on your curren
 
 - Create a list of questions pertaining to each primary and secondary spell's set of upgrades.
 - Look at the player's current loadout
-- 
+- If the question has any upgrades that the player already has (for that spell), invalidate the question
+- If there are no valid questions, then no third question.
+
+
+# Prevent the Player from Choosing the Same Thing.
+
+### Goal-Oriented Progression
+In Hades, there are the Prophecies, which are fulfilled when the player achieves certain goals. These goals often involve using specific weapons or boons. Boons will tell you "hey, this is part of a prophe"
