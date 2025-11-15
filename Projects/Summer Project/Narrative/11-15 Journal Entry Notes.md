@@ -28,7 +28,9 @@
 
 #### What Kinds of Goals?
 - Specific spells / upgrades.
-- Reaching certain areas.
+- Reaching certain areas / Reach the end of the game
+
+##### Note: What Stops the Player From Restarting their Run A
 
 ## Make Journal Tables Harder To Miss
 
