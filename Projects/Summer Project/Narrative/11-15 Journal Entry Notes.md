@@ -27,7 +27,8 @@
 - Upon completion, there should be an acknowledgement of (I did the thing, let's see if anything happened)
 
 #### What Kinds of Goals?
-- 
+- Specific spells / upgrades.
+- Reaching certain areas.
 
 ## Make Journal Tables Harder To Miss
 
