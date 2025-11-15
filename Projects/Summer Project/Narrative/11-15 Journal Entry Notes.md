@@ -4,8 +4,14 @@
 - However, he slowly became more paranoid and delusional, fearing retaliation
 - Overcome with guilt and the fear of retaliation from those he helped oppress, the Archmage created a new dimension to hide away in: Avernoth
 - He fled to Avernoth, hoping to find peace and solitude.
-- Avernoth was made to be a conf
-- 
+- Avernoth was made to be a confusing disjointed labyrinth in which the Archmage could never be found
+- As the Archmage lived in Avernoth, he slowly descended into madness
+- He began to document his thoughts and experiences in a series of journal entries scattered throughout Avernoth
+- It is through these journal entries that we can understand the Archmage's descent into madness, as well as how to escape Avernoth
+
+### What Exactly is on the Journal Entries?
+
+#### Personal Rel
 
 # Journal Entries Are BORING!!!
 - Although journal entries are tied to the progression in the game, they are still lackluster.
