@@ -21,3 +21,5 @@
 - Tutorial
 - Ribbon thing for passive abilities
 - Other stuff idk
+
+!![](<../../../_Meta/Attachments/Pasted image 20251115150731.png>)
