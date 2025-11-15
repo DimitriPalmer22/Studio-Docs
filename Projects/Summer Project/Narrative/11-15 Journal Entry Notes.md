@@ -24,7 +24,7 @@
 - However, if we try to do things to recreate the conditions the Archmage was experiencing at the time, we may be more likely to find the journal entries
 
 ### Notification of Goal Completion
-- Upon
+- Upon completion, there should be an acknowledgement of (I did the thing, let's see if anything happened)
 
 ## Make Journal Tables Harder To Miss
 
