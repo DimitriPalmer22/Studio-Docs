@@ -16,12 +16,16 @@
 
 ### Goal Oriented Approach
 - Instead of having the journal entries appear randomly in each area once per area, we should make the player actively pursue collecting the journal entries.
+- Each journal entry (aside from the first one) should have a goal associated with it that the player must complete in order to spawn the next journal entry table
 
 #### Narrative Explanation
 - We are trying to find the rest of the journal entries written by the Archmage.
 - However, Avernoth is a labyrinth of rooms that is nearly impossible to navigate or find anything in
 - However, if we try to do things to recreate the conditions the Archmage was experiencing at the time, we may be more likely to find the journal entries
 
+
+### Notification of Goal Completion
+- Upon
 
 ## Make Journal Tables Harder To Miss
 
