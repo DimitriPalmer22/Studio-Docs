@@ -44,4 +44,4 @@
 ### Tips For Escape
 - Bolded or highlighted text that provides hints or clues on how to escape Avernoth
 - The part players should pay attention to if they want to progress through the game
-- This 
+- This *could* be a little vague, as the characters *WILL* discuss the journal entry afterward anyway
