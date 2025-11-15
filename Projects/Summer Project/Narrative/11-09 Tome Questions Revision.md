@@ -220,4 +220,8 @@ The player walks up to the bookshelf and pulls a book out, which triggers the qu
 - All answers give different base stats
 
 # A Third Tome Question
-We could have a third question that is dynamically selected based on your current loadout. This question would give you t
+We could have a third question that is dynamically selected based on your current loadout. This question would give you the choice of an upgrade to your current primary or secondary.
+
+- Create a list of questions pertaining to each primary and secondary spell's set of upgrades.
+- Look at the player's current loadout
+- 
