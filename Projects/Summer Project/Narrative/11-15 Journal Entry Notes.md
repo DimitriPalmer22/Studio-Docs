@@ -23,8 +23,11 @@
 - However, Avernoth is a labyrinth of rooms that is nearly impossible to navigate or find anything in
 - However, if we try to do things to recreate the conditions the Archmage was experiencing at the time, we may be more likely to find the journal entries
 
-### Notification of Goal Completion
+#### Notification of Goal Completion
 - Upon completion, there should be an acknowledgement of (I did the thing, let's see if anything happened)
+
+#### What Kinds of Goals?
+- 
 
 ## Make Journal Tables Harder To Miss
 
