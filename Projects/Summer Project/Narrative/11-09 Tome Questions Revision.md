@@ -218,3 +218,6 @@ The player walks up to the bookshelf and pulls a book out, which triggers the qu
 - All answers give a spell w/ an upgraded version of one of the spells
 - All answers have the same primary, but different secondary spells
 - All answers give different base stats
+
+# A Third Tome Question
+We could have a third question that is dynamically selected based on your current loadout. This question would give you t
