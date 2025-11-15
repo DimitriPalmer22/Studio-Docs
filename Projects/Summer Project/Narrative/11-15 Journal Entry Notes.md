@@ -20,4 +20,6 @@
 - Dialogue on room enter
 - "I sense a journal entry nearby"
 
-### On Tick, 
+#### Chromatic Aberration As the Player Draws Near
+- Lerp using desired value vs actual value for smooth transitions
+- Update on tick
