@@ -1,6 +1,11 @@
 # Quick Journal Entry Overview
 - There was once an Archmage who worked for the Musarun Empire
-- He made spells and other
+- He made spells and other technologies that allowed the Musarun Empire to conquer many lands
+- However, he slowly became more paranoid and delusional, fearing retaliation
+- Overcome with guilt and the fear of retaliation from those he helped oppress, the Archmage created a new dimension to hide away in: Avernoth
+- He fled to Avernoth, hoping to find peace and solitude.
+- Avernoth was made to be a conf
+- 
 
 # Journal Entries Are BORING!!!
 - Although journal entries are tied to the progression in the game, they are still lackluster.
