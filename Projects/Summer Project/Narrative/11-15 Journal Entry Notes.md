@@ -56,6 +56,12 @@
 - Lerp using desired value vs actual value for smooth transitions
 - Update on tick
 
+#### Actually, they will ALWAYS spawn if you have met the conditions
+- No RNG involved
+- The FIRST time they spawn for that run, they will be acknowledged
+- If you miss the first time, they will still spawn, but without any dialogue
+- However, each dialogue entry is *STILL* limited to a specific area of Avernoth.
+
 # What Exactly is on the Journal Entries?
 
 ### Personal Reflections / Lore
