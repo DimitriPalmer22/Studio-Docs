@@ -75,8 +75,11 @@
 #### Journal Response Dialogue:
 - Allister: It appears this was written by the Archmage who made Avernoth. 
 - Someone else: Yes, it appears Avernoth was initially incomplete. The Archmage must have been experimenting with different spells to finalize its design.
-- Perhaps we should read more of these entries to understand how to navigate this place.
+- Perhaps we should try to replicate his experiments. It could lead us to discovering more of these entries. 
+- That seems to be the only lead to understanding how to navigate this place.
 - Allister: Yup
 
 #### Condition Complete:
-- *The player*
+- *The player reaches the specified area with the specified spell*.
+- Allister: Ok, I've reached the area mentioned in the journal entry with the specified spell. 
+- Hopefully, another one of those journal entries is nearby...
