@@ -28,23 +28,22 @@
 
 #### What Kinds of Goals?
 
-##### Mandatory
-- Specific spells / upgrades.
 
 ##### Triggers
 Triggers define points at which the journal entry conditions can be evaluated. These are based on in-game events.
 - Enter a specific room type
 - Defeat a specific enemy type
 - Defeat a specific area / boss
-- Defeat a number of specific room t
+- Defeat a number of specific room types
+- Clear a number of alternate rooms
+- Acquire a specific upgrade from the upgrade room
 
 ##### Modifiers (Use UObject classes to define these)
 Modifiers are the specific conditions that must be met in conjunction with the triggers to consider a journal entry's conditions to be fulfilled.
-
-- Clear a certain number of Alternate Rooms
-- Acquire a specific upgrade from the upgrade room
-- Defeat a certain number of specific enemies(?)
-- Defeat an area in under a specific time
+- Have Specific spells / upgrades.
+- Under a specific time
+- Above a certain health percentage
+- Below a certain health percentage
 
 ##### Note: What Stops the Player From Restarting their Run As Soon As they Get A Journal Entry?
 - Let's say the player unlocks a journal entry after reaching a certain area with a specific spell.
