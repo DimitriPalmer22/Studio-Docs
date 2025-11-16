@@ -31,7 +31,14 @@
 ##### Mandatory
 - Specific spells / upgrades.
 
+##### Triggers
+Triggers define points at which the journal entry conditions can be evaluated. These are based on in-game
+- Enter a specific room type
+- Defeat a specific enemy type
+- Defeat a specific area / boss
+
 ##### Modifiers (Use UObject classes to define these)
+
 - Reaching certain areas / Reach the end of the game
 - Clear a certain number of Alternate Rooms
 - Acquire a specific upgrade from the upgrade room
