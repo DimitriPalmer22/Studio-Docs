@@ -31,10 +31,12 @@
 ##### Mandatory
 - Specific spells / upgrades.
 
-##### Modifiers
+##### Modifiers (Use UObject classes to define these)
 - Reaching certain areas / Reach the end of the game
 - Clear a certain number of Alternate Rooms
-- Acquire a specific 
+- Acquire a specific upgrade from the upgrade room
+- Defeat a certain number of specific enemies(?)
+- Reach
 
 ##### Note: What Stops the Player From Restarting their Run As Soon As they Get A Journal Entry?
 - Let's say the player unlocks a journal entry after reaching a certain area with a specific spell.
