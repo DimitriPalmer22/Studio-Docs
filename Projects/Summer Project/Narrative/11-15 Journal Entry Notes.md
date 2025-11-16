@@ -58,3 +58,15 @@
 - Bolded or highlighted text that provides hints or clues on how to escape Avernoth
 - The part players should pay attention to if they want to progress through the game
 - This *could* be a little vague, as the characters *WILL* discuss the journal entry afterward anyway
+
+# Journal Story
+
+### Journal Entry 1: 
+
+#### Journal Table Spawns In
+- Allister: I'm sensing a weird energy nearby. It doesn't feel like anything else I've encountered so far.
+- Aristide (Maybe): Take a look around this room to see what it is...
+
+#### Journal Table Entry
+
+#### Condition Complete
