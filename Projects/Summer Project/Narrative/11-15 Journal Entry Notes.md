@@ -27,8 +27,14 @@
 - Upon completion, there should be an acknowledgement of (I did the thing, let's see if anything happened)
 
 #### What Kinds of Goals?
+
+##### Mandatory
 - Specific spells / upgrades.
+
+##### Modifiers
 - Reaching certain areas / Reach the end of the game
+- Clear a certain number of Alternate Rooms
+- Acquire a specific 
 
 ##### Note: What Stops the Player From Restarting their Run As Soon As they Get A Journal Entry?
 - Let's say the player unlocks a journal entry after reaching a certain area with a specific spell.
@@ -80,6 +86,6 @@
 - Allister: Yup
 
 #### Condition Complete:
-- *The player reaches the specified area with the specified spell*.
+- *The player completes the condition with the specified spell*.
 - Allister: Ok, I've reached the area mentioned in the journal entry with the specified spell. 
 - Hopefully, another one of those journal entries is nearby...
