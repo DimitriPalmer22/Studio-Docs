@@ -69,6 +69,10 @@
 
 #### Journal Table Entry:
 - Lore: Yo, I'm TWEAKING
-- Tips for Escape: In my research, I am putting together a spell that can manipulate space even further. I believe that with this spell,
+- Tips for Escape: In my research, I am putting together a spell that can manipulate space even further. I believe that with this spell, I can turn this realm into a place where nobody will find me ever.
+- First, I am testing the effects of bringing *Insert Spell* into *Insert Area*.
+
+#### Journal Response Dialogue:
+- 
 
 #### Condition Complete
