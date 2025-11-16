@@ -32,14 +32,15 @@
 - Specific spells / upgrades.
 
 ##### Triggers
-Triggers define points at which the journal entry conditions can be evaluated. These are based on in-game
+Triggers define points at which the journal entry conditions can be evaluated. These are based on in-game events.
 - Enter a specific room type
 - Defeat a specific enemy type
 - Defeat a specific area / boss
+- Defeat a number of specific room t
 
 ##### Modifiers (Use UObject classes to define these)
+Modifiers are the specific conditions that must be met in conjunction with the triggers to consider a journal entry's conditions to be fulfilled.
 
-- Reaching certain areas / Reach the end of the game
 - Clear a certain number of Alternate Rooms
 - Acquire a specific upgrade from the upgrade room
 - Defeat a certain number of specific enemies(?)
