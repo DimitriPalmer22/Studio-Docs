@@ -73,6 +73,10 @@
 - First, I am testing the effects of bringing *Insert Spell* into *Insert Area*.
 
 #### Journal Response Dialogue:
-- 
+- Allister: It appears this was written by the Archmage who made Avernoth. 
+- Someone else: Yes, it appears Avernoth was initially incomplete. The Archmage must have been experimenting with different spells to finalize its design.
+- Perhaps we should read more of these entries to understand how to navigate this place.
+- Allister: Yup
 
-#### Condition Complete
+#### Condition Complete:
+- *The player*
