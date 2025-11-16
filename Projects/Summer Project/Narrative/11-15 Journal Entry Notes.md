@@ -44,6 +44,7 @@ Modifiers are the specific conditions that must be met in conjunction with the t
 - Under a specific time
 - Above a certain health percentage
 - Below a certain health percentage
+- A specific stat has to be high enough
 
 ##### Note: What Stops the Player From Restarting their Run As Soon As they Get A Journal Entry?
 - Let's say the player unlocks a journal entry after reaching a certain area with a specific spell.
