@@ -67,6 +67,8 @@
 - Allister: I'm sensing a weird energy nearby. It doesn't feel like anything else I've encountered so far.
 - Aristide (Maybe): Take a look around this room to see what it is...
 
-#### Journal Table Entry
+#### Journal Table Entry:
+- Lore: Yo, I'm TWEAKING
+- Tips for Escape: In my research, I am putting together a spell that can manipulate space even further. I believe that with this spell,
 
 #### Condition Complete
