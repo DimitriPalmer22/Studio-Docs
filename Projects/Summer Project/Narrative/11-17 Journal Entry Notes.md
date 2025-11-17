@@ -53,7 +53,9 @@ Every 3rd journal entry (the ones that contain parts of the spell) will require 
 
 We can explain this lore-wise by saying that Allister and his party should test the effectiveness of the spell on weakening the sealed door at the end of Avernoth before they try to use it for real.
 
-Additionally, 
+Aside from that, there are going to be some incentives to complete runs beyond just completing the current journal entry's objective. Completing runs will "modify" Avernoth. For example:
+- After one complete run, mandatory challenge rooms will appear within Avernoth. These rooms are more difficult and time consuming, but give better rewards (stat increases, collectibles, passive spells, etc.)
+- After two
 # Anatomy of a Journal Entry
 
 ### Flavor Text
