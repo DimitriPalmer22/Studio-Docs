@@ -42,6 +42,9 @@ Once the player has found and read all 3 of these entries, they will have learne
 #### What About the Other Entries?
 The other entries provide additional lore and information about Avernoth and point the player toward the next journal entry in the series. These entries help flesh out the world and give players a better understanding of the Archmage's motivations and the history of Avernoth.
 
+### Ok, But Should I Even be Trying to Get to the End of Avernoth?
+Ok, so if the objective of each run is to complete the current objective of your current journal entry.
+
 # Anatomy of a Journal Entry
 
 ### Flavor Text
@@ -57,3 +60,6 @@ This should be clearly stated and bolded so it is very obvious to the player wha
 
 ### Plot-Relevant Information
 For some journal entries, a further explanation of systems, mechanics, or plot points may be necessary. This should also be bolded to draw attention to it.
+
+
+# Sample Journal Entries
