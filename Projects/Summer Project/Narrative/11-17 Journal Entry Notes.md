@@ -39,6 +39,9 @@ This is where we use the [Journal Entries As Lore Devices](<#Journal Entries As 
 - Shouldn't draw too much attention so players who aren't interested in lore don't feel like they need to read it.
 
 ### The Research
-This ties back to [[]]
+This ties back to the [Lore Reasoning for Spawning Journal Tables](<#Lore Reasoning for Spawning Journal Tables>). These are the current spell(s) the archmage was working on when he wrote the journal entry and the conditions he was working under. 
+
+This should be clearly stated and bolded so it is very obvious to the player what they need to do.
 
 ### Plot-Relevant Information
+For some journal entries, a further explanation of systems, mechanics, or plot points may be necessary. This should also be bolded to draw attention to it.
