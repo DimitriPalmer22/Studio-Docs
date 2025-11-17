@@ -11,7 +11,11 @@ Through the journal entries, we can provide information about:
 - Avernoth itself
 
 ### Journal Entries as Progression
-We needed some objective for the player to pursue beyond just "get out". It felt too repetitive. 
+We needed some objective for the player to pursue beyond just "get out". It felt too repetitive. Journal entries now have "objectives" the player needs to complete in order to progress the story.
+
+Here's how it goes:
+- the player picks up a journal entry
+- The journal entry's text contains 
 
 # Anatomy of a Journal Entry
 
