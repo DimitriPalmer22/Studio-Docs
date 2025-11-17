@@ -82,7 +82,7 @@ This should be clearly stated and bolded so it is very obvious to the player wha
 #### When Entering a Room With a Journal Table
 When the player enters a room with a journal table, there should be some dialogue from Allister and/or his allies to indicate that.
 
-Something like "I sense a "
+Something like "I sense another journal entry nearby". This way, the player knows they should be looking for something.
 
 #### Initial Response Dialogue
 This is the text that pops up immediately after picking up the journal entry. It should be a short reaction from Allister or one of his allies about the entry.
@@ -101,6 +101,11 @@ This way, the player is aware of their progress and feels a sense of accomplishm
 # Sample Journal Entries
 
 ### Journal Entry 01
+
+#### Entering the Room With the Journal Table
+Allister: I sense 
+
+> Note: For the first journal entry, it should be obvious that there is some presence in the room, but neither Allister nor his allies know what it is.
 
 #### Flavor Text
 I made this place to get away from the chaos of the outside world. I should be safe here.
@@ -125,4 +130,3 @@ An Ally: Good. Let's see if that leads us to another journal entry.
 ### Journal Entry 02
 
 *Plot Significant Text:* At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is *a way to return to the outside world* if I need to. However, I need a way to prevent just anyone from leaving. Perhaps *sealing this exit off with spell would suffice*? 
-
