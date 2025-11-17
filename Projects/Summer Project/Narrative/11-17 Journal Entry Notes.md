@@ -79,6 +79,11 @@ This should be clearly stated and bolded so it is very obvious to the player wha
 
 ### Outside Dialogue
 
+#### When Entering a Room With a Journal Table
+When the player enters a room with a journal table, there should be some dialogue from Allister and/or his allies to indicate that.
+
+Something like "I sense a "
+
 #### Initial Response Dialogue
 This is the text that pops up immediately after picking up the journal entry. It should be a short reaction from Allister or one of his allies about the entry.
 
