@@ -137,3 +137,12 @@ Putting this here so it doesn't get lost
 
 ### 01
 
+Success.
+I would be elated, were it not for the dire circumstances that lead to the creation of my magnum opus. A pocket reality, stashed away and self sustaining. Something only the Gods were thought capable of, yet I hold that power in my hand. It is stained by the betrayal of my court, a slithering shadow following my every gesture. To think I, the highest mage of our court, must live exiled to be free from their prying gazes. It is safe here, at least. I have stocked all of my amenities, and enough material to continue my research. The air here seems ripe with mana, and will no doubt be prime for future experiments.
+ Now I may only hope that the fire managed to consume my research. Surely it is so, the flames lapped at the bottom of my robe, leaving it singed and reeking of char. Mere parchment could not survive such a hungry blaze. Now I must settle here, finally free.
+
+### 02
+As I had assumed, the atmosphere here crackles with latent mana. Performing spells comes easier than breathing, and my research has been going much smoother than it had ever whilst upon the high court. The familiar I have created to manage my research has been less than helpful, though it does keep my things organized and easily accessed. It is curious of its nature, and the world, and philosophical drivel. As long as it does not stray from its designated task, it is no matter. 
+While my waking hours are more than fulfilling, it proves difficult to sleep in this place. Perhaps it is the foreign nature, but it is nigh impossible to become comfortable enough to sleep. I have attempted to conjure items that resemble my old accommodations, though none seem to have helped. With time I will acclimate. For now, I will focus on rebuilding my study.
+
+footnote: do not give objects with singular purposes sentience in the future
