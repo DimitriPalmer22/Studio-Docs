@@ -130,3 +130,10 @@ An Ally: Good. Let's see if that leads us to another journal entry.
 ### Journal Entry 02
 
 *Plot Significant Text:* At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is *a way to return to the outside world* if I need to. However, I need a way to prevent just anyone from leaving. Perhaps *sealing this exit off with spell would suffice*? 
+
+# Old Journal Entry Text
+
+Putting this here so it doesn't get lost
+
+### 01
+
