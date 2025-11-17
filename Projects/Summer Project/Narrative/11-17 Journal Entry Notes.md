@@ -15,7 +15,12 @@ We needed some objective for the player to pursue beyond just "get out". It felt
 
 Here's how it goes:
 - the player picks up a journal entry
-- The journal entry's text contains 
+- The journal entry's text contains clues about what to do next to unlock the next journal table
+- the player completes the objective
+- the next journal entry is unlocked & the table spawns at the next possible opportunity
+
+#### Why Do This?
+Giving the player a sense of purpose beyond just "get out" helps keep them engaged. Also, giving new objectives each time helps break up the monotony of just fighting through and escaping. This way, we can ensure the player is offered a 
 
 # Anatomy of a Journal Entry
 
