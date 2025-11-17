@@ -78,3 +78,6 @@ For some journal entries, a further explanation of systems, mechanics, or plot p
 
 ### Journal Entry 01
 
+*Flavor Text:* I made this place to get away from the chaos of the outside world. I should be safe here.
+
+**Research:** Here, I can further my research into specific spells. Today, I will focus on a fireball spell that 
