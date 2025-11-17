@@ -32,9 +32,15 @@ If we want to find the Archmage's journal entries, then we have to retrace his f
 ### The Overarching Objective of the Journal Entries
 At the end of Avernoth is a sealed door. This door can only be opened by using a powerful spell that the Archmage created long ago. However, neither Allister nor his allies know this spell.
 
-The only way to learn this spell is to find and read all of the Archmage's journal entries. 
+The only way to learn this spell is to find and read all of the Archmage's journal entries. Only specific entries contain the knowledge necessary to learn the spell.
 
-#### Which Ent
+#### Which Entries Contain Parts of the Spell?
+Every 3rd journal entry contains a part of the spell. So, journal entries 3, 6, and 9 each contain a part of the spell.
+
+Once the player has found and read all 3 of these entries, they will have learned the entire spell and can use it to open the sealed door at the end of Avernoth.
+
+#### What About the Other Entries?
+The other entries provide additional lore and information about Avernoth and point the player toward the next journal entry in the series. These entries help flesh out the world and give players a better understanding of the Archmage's motivations and the history of Avernoth.
 
 # Anatomy of a Journal Entry
 
