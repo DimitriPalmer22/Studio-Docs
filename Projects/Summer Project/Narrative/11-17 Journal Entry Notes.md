@@ -59,20 +59,33 @@ Aside from that, there are going to be some *incentives to complete runs* beyond
 - After three complete runs: A countdown timer mechanic is introduced. If the player takes too long to complete Avernoth, they automatically die and have to start over. This introduces a non-scopey way of adding time pressure to runs.
 # Anatomy of a Journal Entry
 
-### Flavor Text
+### The Entry's Text
+
+#### Flavor Text
 This is where we use the [Journal Entries As Lore Devices](<#Journal Entries As Lore Devices>). 
 
 - Unhighlighted, non-bolded text
 - Shouldn't draw too much attention so players who aren't interested in lore don't feel like they need to read it.
 
-### The Research
+#### The Research
 This ties back to the [Lore Reasoning for Spawning Journal Tables](<#Lore Reasoning for Spawning Journal Tables>). These are the current spell(s) the archmage was working on when he wrote the journal entry and the conditions he was working under. 
 
 This should be clearly stated and bolded so it is very obvious to the player what they need to do.
 
-### Plot-Relevant Information
+#### Plot-Relevant Information
 For some journal entries, a further explanation of systems, mechanics, or plot points may be necessary. This should also be bolded to draw attention to it.
 
+### Outside Dialogue
+
+#### Initial Response Dialogue
+This is the text that pops up immediately after picking up the journal entry. It should be a short reaction from Allister or one of his allies about the entry.
+
+In general, this should be a brief assessment of the entry's text and an acknowledgement of the research objective.
+
+#### Objective Complete Dialogue
+This is the text that pops up immediately after completing the journal entry's objective. It should be a short reaction from Allister or one of his allies about having completed the objective.
+
+This way, the player is aware of their progress and feels a sense of accomplishment.
 
 # Sample Journal Entries
 
