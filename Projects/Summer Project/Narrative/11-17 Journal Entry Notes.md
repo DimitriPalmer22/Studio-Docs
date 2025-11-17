@@ -72,8 +72,10 @@ This ties back to the [Lore Reasoning for Spawning Journal Tables](<#Lore Reason
 
 This should be clearly stated and bolded so it is very obvious to the player what they need to do.
 
-#### Plot-Relevant Information
+#### Plot-Relevant Text
 For some journal entries, a further explanation of systems, mechanics, or plot points may be necessary. This should also be bolded to draw attention to it.
+
+If this is includ
 
 ### Outside Dialogue
 
@@ -100,4 +102,10 @@ This way, the player is aware of their progress and feels a sense of accomplishm
 **Research:** Here, I can further my research into specific spells. Today, I will focus on *a fireball spell* that can be cast quickly and with minimal effort. I will test it's effects in *any of the various rooms in this area* to see how it performs.
 
 Conditions:
-- Have the Flame Volley s
+- Have the *Flame Volley* spell equipped
+- Enter any room within the *first area of Avernoth*
+
+### Journal Entry 02
+
+*Plot Significant Text:* 
+
