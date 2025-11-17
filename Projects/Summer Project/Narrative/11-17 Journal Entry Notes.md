@@ -20,11 +20,12 @@ Here's how it goes:
 - the next journal entry is unlocked & the table spawns at the next possible opportunity
 
 #### Why Do This?
-Giving the player a sense of purpose beyond just "get out" helps keep them engaged. Also, giving new objectives each time helps break up the monotony of just fighting through and escaping. This way, we can ensure the player is offered a 
+Giving the player a sense of purpose beyond just "get out" helps keep them engaged. Also, giving new objectives each time helps break up the monotony of just fighting through and escaping. This way, we can ensure the player is offered a variety of experiences as they progress through the main story.
 
 # Anatomy of a Journal Entry
 
 ### Flavor Text
+This is where we use the [Journal Entries As Lore Devices](<#Journal Entries As Lore Devices>). 
 
 ### The Research
 
