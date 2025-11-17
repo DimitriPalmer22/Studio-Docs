@@ -67,15 +67,15 @@ This is where we use the [Journal Entries As Lore Devices](<#Journal Entries As 
 - Unhighlighted, non-bolded text
 - Shouldn't draw too much attention so players who aren't interested in lore don't feel like they need to read it.
 
-#### The Research
-This ties back to the [Lore Reasoning for Spawning Journal Tables](<#Lore Reasoning for Spawning Journal Tables>). These are the current spell(s) the archmage was working on when he wrote the journal entry and the conditions he was working under. 
-
-This should be clearly stated and bolded so it is very obvious to the player what they need to do.
-
 #### Plot-Relevant Text
 For some journal entries, a further explanation of systems, mechanics, or plot points may be necessary. This should also be bolded to draw attention to it.
 
-If this is includ
+If this is included, it would be a replacement for the flavor text.
+
+#### The Research
+This ties back to the [Lore Reasoning for Spawning Journal Tables](<#Lore Reasoning for Spawning Journal Tables>). These are the current spell(s) the Archmage was working on when he wrote the journal entry and the conditions he was working under. 
+
+This should be clearly stated and bolded so it is very obvious to the player what they need to do.
 
 ### Outside Dialogue
 
@@ -107,5 +107,5 @@ Conditions:
 
 ### Journal Entry 02
 
-*Plot Significant Text:* 
+*Plot Significant Text:* At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is a way to return to the outside world if I need to. I can't just 
 
