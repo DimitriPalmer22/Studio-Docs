@@ -27,6 +27,9 @@ Giving the player a sense of purpose beyond just "get out" helps keep them engag
 ### Flavor Text
 This is where we use the [Journal Entries As Lore Devices](<#Journal Entries As Lore Devices>). 
 
+- Unhighlighted, non-bolded text
+- SH
+
 ### The Research
 
 ### Plot-Relevant Information
