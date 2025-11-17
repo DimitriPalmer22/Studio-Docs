@@ -1,5 +1,3 @@
-Ok, I've figured it out.
-
 # Overview of the Journal Entry System
 
 ### Journal Entries As Lore Devices
@@ -29,6 +27,14 @@ As mentioned before, each journal entry has a specific objective that needs to b
 Avernoth is essentially a magical labyrinth with many rooms. As the player goes through each room's exit portal, they are teleported to another random room. 
 
 If we want to find the Archmage's journal entries, then we have to retrace his footsteps / try to recreate the conditions under which he wrote the journal entries. This makes it much more likely that we will find the next journal entry.
+
+
+### The Overarching Objective of the Journal Entries
+At the end of Avernoth is a sealed door. This door can only be opened by using a powerful spell that the Archmage created long ago. However, neither Allister nor his allies know this spell.
+
+The only way to learn this spell is to find and read all of the Archmage's journal entries. 
+
+#### Which Ent
 
 # Anatomy of a Journal Entry
 
