@@ -45,8 +45,15 @@ The other entries provide additional lore and information about Avernoth and poi
 ### Ok, But Should I Even be Trying to Get to the End of Avernoth?
 Ok, so if the objective of each run is to complete the current objective of your current journal entry, what's to stop the player from just quitting after completing that objective?
 
-Short answer: For most of the journal entries nothing. But, some of the journal entries will have conditions where you must reach the end of Avernoth to complete the objective.
+#### Short Answer
+For most of the journal entries nothing. But, some of the journal entries will have conditions where you must reach the end of Avernoth to complete the objective.
 
+#### Long Answer
+Every 3rd journal entry (the ones that contain parts of the spell) will require the player to reach the end of Avernoth in order to complete the objective. 
+
+We can explain this lore-wise by saying that Allister and his party should test the effectiveness of the spell on weakening the sealed door at the end of Avernoth before they try to use it for real.
+
+Additionally, 
 # Anatomy of a Journal Entry
 
 ### Flavor Text
