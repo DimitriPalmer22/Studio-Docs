@@ -118,7 +118,7 @@ Conditions:
 - Enter any room within the *first area of Avernoth*
 
 #### Initial Response Dialogue 
-Allister: it looks like a note written by the Archmage himself.
+Allister: It looks like a note written by the Archmage himself.
 An Ally: This seems to be the closest we've come to anything reasonable in this place. They could be the key to getting you out of there.
 An Ally: Maybe we should try to follow what they did? Retracing the Archmage's steps could lead us to more clues.
 Allister: Alright. It seems like I need to enter any one of these rooms while using *Flame Volley* spell. Let's give it a shot.
