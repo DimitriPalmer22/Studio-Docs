@@ -113,6 +113,10 @@ An Ally: This seems to be the closest we've come to anything reasonable in this 
 An Ally: Maybe we should try to follow what they did? Retracing the Archmage's steps could lead us to more clues.
 Allister: Alright. It seems like I need to enter any one of these rooms while using *Flame Volley* spell. Let's give it a shot.
 
+#### Objective Complete Dialogue
+Allister: I've tested the *Flame Volley* spell in one of the rooms here. It seems to work well enough.
+An Ally: Good. Let's see if that leads us to another journal entry.
+
 ### Journal Entry 02
 
 *Plot Significant Text:* At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is *a way to return to the outside world* if I need to. However, I need a way to prevent just anyone from leaving. Perhaps *sealing this exit off with spell would suffice*? 
