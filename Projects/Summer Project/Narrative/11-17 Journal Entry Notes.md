@@ -25,8 +25,10 @@ Giving the player a sense of purpose beyond just "get out" helps keep them engag
 ### Getting Journal Tables To Spawn
 As mentioned before, each journal entry has a specific objective that needs to be completed in order to unlock the next journal entry. But why does completing these objectives lead to new journal tables spawning?
 
-#### Lore Reasoning
-Avernoth is essentially a magical labyrinth with m
+#### Lore Reasoning for Spawning Journal Tables
+Avernoth is essentially a magical labyrinth with many rooms. As the player goes through each room's exit portal, they are teleported to another random room. 
+
+If we want to find the Archmage's journal entries, then we have to retrace his footsteps / try to recreate the conditions under which he wrote the journal entries. This makes it much more likely that we will find the next journal entry.
 
 # Anatomy of a Journal Entry
 
@@ -37,5 +39,6 @@ This is where we use the [Journal Entries As Lore Devices](<#Journal Entries As 
 - Shouldn't draw too much attention so players who aren't interested in lore don't feel like they need to read it.
 
 ### The Research
+This ties back to [[]]
 
 ### Plot-Relevant Information
