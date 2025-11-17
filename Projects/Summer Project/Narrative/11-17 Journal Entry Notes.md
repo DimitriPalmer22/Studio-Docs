@@ -97,4 +97,7 @@ This way, the player is aware of their progress and feels a sense of accomplishm
 
 *Flavor Text:* I made this place to get away from the chaos of the outside world. I should be safe here.
 
-**Research:** Here, I can further my research into specific spells. Today, I will focus on a fireball spell that 
+**Research:** Here, I can further my research into specific spells. Today, I will focus on *a fireball spell* that can be cast quickly and with minimal effort. I will test it's effects in *any of the various rooms in this area* to see how it performs.
+
+Conditions:
+- Have the Flame Volley s
