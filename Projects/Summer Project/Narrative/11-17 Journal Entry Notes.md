@@ -103,7 +103,7 @@ This way, the player is aware of their progress and feels a sense of accomplishm
 ### Journal Entry 01
 
 #### Entering the Room With the Journal Table
-Allister: I sense 
+Allister: I sense something unusual in this room. Perhaps I should look around.
 
 > Note: For the first journal entry, it should be obvious that there is some presence in the room, but neither Allister nor his allies know what it is.
 
