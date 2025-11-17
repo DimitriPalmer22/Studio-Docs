@@ -97,15 +97,21 @@ This way, the player is aware of their progress and feels a sense of accomplishm
 
 ### Journal Entry 01
 
-*Flavor Text:* I made this place to get away from the chaos of the outside world. I should be safe here.
+#### Flavor Text
+I made this place to get away from the chaos of the outside world. I should be safe here.
 
-**Research:** Here, I can further my research into specific spells. Today, I will focus on *a fireball spell* that can be cast quickly and with minimal effort. I will test it's effects in *any of the various rooms in this area* to see how it performs.
+#### Research 
+Here, I can further my research into specific spells. Today, I will focus on *a fireball spell* that can be cast quickly and with minimal effort. I will test it's effects in *any of the various rooms in this area* to see how it performs.
 
 Conditions:
 - Have the *Flame Volley* spell equipped
 - Enter any room within the *first area of Avernoth*
 
+#### Initial Response Dialogue 
+Allister: it looks like a note written by the Archmage himself.
+
+
 ### Journal Entry 02
 
-*Plot Significant Text:* At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is a way to return to the outside world if I need to. I can't just 
+*Plot Significant Text:* At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is *a way to return to the outside world* if I need to. However, I need a way to prevent just anyone from leaving. Perhaps *sealing this exit off with spell would suffice*? 
 
