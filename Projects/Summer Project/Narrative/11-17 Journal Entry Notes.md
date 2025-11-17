@@ -53,9 +53,10 @@ Every 3rd journal entry (the ones that contain parts of the spell) will require 
 
 We can explain this lore-wise by saying that Allister and his party should test the effectiveness of the spell on weakening the sealed door at the end of Avernoth before they try to use it for real.
 
-Aside from that, there are going to be some incentives to complete runs beyond just completing the current journal entry's objective. Completing runs will "modify" Avernoth. For example:
+Aside from that, there are going to be some *incentives to complete runs* beyond just completing the current journal entry's objective. Completing runs will "modify" Avernoth. For example:
 - After one complete run, mandatory challenge rooms will appear within Avernoth. These rooms are more difficult and time consuming, but give better rewards (stat increases, collectibles, passive spells, etc.)
-- After two
+- After two complete runs: Challenge rooms become optional. Instead of spawning randomly, the player can choose to enter them or not at.
+- After three complete runs: A countdown timer mechanic is introduced. If the player takes too long to complete Avernoth, they automatically die and have to start over. This introduces a non-scopey way of adding time pressure to runs.
 # Anatomy of a Journal Entry
 
 ### Flavor Text
@@ -74,3 +75,6 @@ For some journal entries, a further explanation of systems, mechanics, or plot p
 
 
 # Sample Journal Entries
+
+### Journal Entry 01
+
