@@ -43,7 +43,9 @@ Once the player has found and read all 3 of these entries, they will have learne
 The other entries provide additional lore and information about Avernoth and point the player toward the next journal entry in the series. These entries help flesh out the world and give players a better understanding of the Archmage's motivations and the history of Avernoth.
 
 ### Ok, But Should I Even be Trying to Get to the End of Avernoth?
-Ok, so if the objective of each run is to complete the current objective of your current journal entry.
+Ok, so if the objective of each run is to complete the current objective of your current journal entry, what's to stop the player from just quitting after completing that objective?
+
+Short answer: For most of the journal entries nothing. But, some of the journal entries will have conditions where you must reach the end of Avernoth to complete the objective.
 
 # Anatomy of a Journal Entry
 
