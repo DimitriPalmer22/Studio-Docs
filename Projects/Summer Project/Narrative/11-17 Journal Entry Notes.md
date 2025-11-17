@@ -80,12 +80,16 @@ For some journal entries, a further explanation of systems, mechanics, or plot p
 #### Initial Response Dialogue
 This is the text that pops up immediately after picking up the journal entry. It should be a short reaction from Allister or one of his allies about the entry.
 
-In general, this should be a brief assessment of the entry's text and an acknowledgement of the research objective.
+In general, this should be a brief assessment of the entry's text and an acknowledgement of the research objective. However, maybe it shouldn't be a regurgitation of the text itself. This way, the player is aware that the characters are reading the journal entry, but it doesn't feel redundant.
+
+> Note: for the first journal entry, Allister and/or his allies should make it plainly obvious that:
+> - You need to read the journal entries to progress
+> - You need to complete the objectives in order to unlock the next journal entry
 
 #### Objective Complete Dialogue
 This is the text that pops up immediately after completing the journal entry's objective. It should be a short reaction from Allister or one of his allies about having completed the objective.
 
-This way, the player is aware of their progress and feels a sense of accomplishment.
+This way, the player is aware of their progress and feels a sense of accomplishment. This should be fairly brief, as this usually takes place in the middle of a run and we don't want to disrupt the flow too much.
 
 # Sample Journal Entries
 
