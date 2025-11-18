@@ -107,10 +107,11 @@ Allister: I sense something unusual in this room. Perhaps I should look around.
 
 > Note: For the first journal entry, it should be obvious that there is some presence in the room, but neither Allister nor his allies know what it is.
 
-#### Flavor Text
+#### Entry Text
+##### Flavor Text
 I made this place to get away from the chaos of the outside world. I should be safe here.
 
-#### Research 
+##### Research 
 Here, I can further my research into specific spells. Today, I will focus on *a fireball spell* that can be cast quickly and with minimal effort. I will test it's effects in *any of the various rooms in this area* to see how it performs.
 
 Conditions:
@@ -133,8 +134,10 @@ An Ally: Good. Let's see if that leads us to another journal entry.
 Allister: It seems another journal entry is in this area.
 An Ally: Retracing the Archmage's steps seems to be working so far. Let's see what this one says.
 
-### Plot Significant Text: 
+#### Plot Significant Text: 
 At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is *a way to return to the outside world* if I need to. However, I need a way to prevent just anyone from leaving. Perhaps *sealing this exit off with spell would suffice*? 
+
+
 
 # Old Journal Entry Text
 
