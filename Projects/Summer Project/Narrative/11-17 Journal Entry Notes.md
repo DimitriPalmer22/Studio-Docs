@@ -200,8 +200,9 @@ footnote: do not give objects with singular purposes sentience in the future
 
 # New System Layout
 
-Journal Entry Asset Collectable Base Class
+Journal Collectable Asset Base Class
 - Class 1: Journal Entry 
 - Class 2: Experiment Log
 
 Save Data: 
+- Dictionary of Journal Collectibles
