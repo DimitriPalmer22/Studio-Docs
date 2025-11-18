@@ -200,9 +200,14 @@ footnote: do not give objects with singular purposes sentience in the future
 
 # New System Layout
 
-Journal Collectable Asset Base Class
+### Journal Collectable Asset Base Class
 - Class 1: Journal Entry 
 - Class 2: Experiment Log
 
-Save Data: 
-- Dictionary of Journal Collectibles
+Each entry has text and whatnot.
+Only the experiment logs contain journal entry conditions
+
+### Save Data 
+- Dictionary of Journal Collectibles & true / false bools to indicate whether or not the player has collected them
+
+### F
