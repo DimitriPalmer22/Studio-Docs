@@ -59,4 +59,4 @@ Dialogue should also be more complete by then.
 More question stuff as well.
 
 ### Level Design
-We'll go over all the existing levels in the game and make sure they are all up-to-date, working,
+We'll go over all the existing levels in the game and make sure they are all working and properly set-dressed so that they can be put into the game.
