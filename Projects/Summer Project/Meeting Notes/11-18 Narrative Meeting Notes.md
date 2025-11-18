@@ -16,4 +16,8 @@ There are 9 journal entries in the game. Each of them has the following:
 - yeah
 
 
-### 
+### New Progression Idea
+
+Two different types of pages:
+- Journal pages that are just text
+- Experiment logs
