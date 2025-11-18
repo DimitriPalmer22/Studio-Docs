@@ -196,3 +196,7 @@ As I had assumed, the atmosphere here crackles with latent mana. Performing spel
 While my waking hours are more than fulfilling, it proves difficult to sleep in this place. Perhaps it is the foreign nature, but it is nigh impossible to become comfortable enough to sleep. I have attempted to conjure items that resemble my old accommodations, though none seem to have helped. With time I will acclimate. For now, I will focus on rebuilding my study.
 
 footnote: do not give objects with singular purposes sentience in the future
+
+
+# New System Layout
+
