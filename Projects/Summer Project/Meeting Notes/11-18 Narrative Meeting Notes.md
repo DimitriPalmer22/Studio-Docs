@@ -44,6 +44,7 @@ The pages and stuff will have like runes on them or something so that they indic
 
 ### Journal Entries
 
+
 ### Experiment Logs
 
 
@@ -53,5 +54,6 @@ The pages and stuff will have like runes on them or something so that they indic
 - 6 experiment logs
 
 ### Journal Entries
+
 
 ### Experiment Logs
