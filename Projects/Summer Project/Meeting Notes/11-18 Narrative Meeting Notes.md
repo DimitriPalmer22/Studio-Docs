@@ -57,3 +57,8 @@ The pages and stuff will have like runes on them or something so that they indic
 
 
 ### Experiment Logs
+
+
+# Visual Progression
+The door at the end of Avernoth has a magical seal on it. There are runes all around it. As you collect the entries or 
+!![](<../../../_Meta/Attachments/Pasted image 20251118154224.png>)
