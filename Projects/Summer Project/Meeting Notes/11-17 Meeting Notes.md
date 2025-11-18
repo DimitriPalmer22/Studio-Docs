@@ -33,3 +33,4 @@ NOW, each journal entry has an "objective" that must be completed in order to un
 ### Questions @ the start of the Run Are Still Under Construction...
 Since the main way to get spells is through the questions at the beginning, I am waiting until the journal stuff is finished before fully implementing the questions at the start of the run.
 
+### 
