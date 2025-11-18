@@ -23,4 +23,16 @@ Two different types of pages:
 - Experiment logs that have the conditions for completion
 
 ### Idea for Narratively Justifying Progression
-The pages and stuff will have like runes on them or something so that they indicate tha
+The pages and stuff will have like runes on them or something so that they indicate in the game world "Hey this is how we open the seal on the door fr"
+
+
+# Journal Pool 1
+3 Pages
+- 2 journal entries
+- 1 experiment log
+
+# Journal Pool 2
+
+
+
+# Journal Pool 3
