@@ -105,3 +105,5 @@ Modifiers are the specific conditions that must be met in conjunction with the t
 - *The player completes the condition with the specified spell*.
 - Allister: Ok, I've reached the area mentioned in the journal entry with the specified spell. 
 - Hopefully, another one of those journal entries is nearby...
+
+
