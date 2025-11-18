@@ -168,18 +168,14 @@ Reach the end of Avernoth!!!
 
 ### Condition 07
 X
-- Shadow Ball (Name Pedning)
+- with the *Shadow Ball (name pending)* primary spell equipped
 
 ### Condition 08
 X
-- *Magma Stomp*
+- with the *Magma Stomp (name pending)* primary spell equipped
 
 ### Condition 09
 Reach the end of Avernoth!!!
-
-1. 
-2. *Magma Stomp*
-3. 
 
 # Old Journal Entry Text
 
