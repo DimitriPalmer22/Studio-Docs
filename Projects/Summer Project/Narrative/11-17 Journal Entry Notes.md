@@ -140,45 +140,45 @@ At this point, this dimension is incomplete. However, by the time I am finished 
 
 # Conditions
 
-### Condition 01
+#### Condition 01
 Clear a *standard enemy room*
 - in *Area 01*
 - with the *Flame Volley* primary spell equipped
 
-### Condition 02
+#### Condition 02
 Acquire a new passive spell using the *Empower Upgrade* within an *upgrade room*
 - While holding the *Crystal Explosion* secondary spell
 
-### Condition 03
+#### Condition 03
 Reach the end of Avernoth!!!
 
-### Condition 04
+#### Condition 04
 Reach an *Upgrade Room* 
 - in *Area 02*
 - with the *Relay* secondary spell equipped 
 
-### Condition 05
+#### Condition 05
 Clear the *Boss Room (at the end of the area)*
 - in *Area 02*
 - with the *Tempest Slash* primary spell equipped
 - in *under 10 minutes* (from the start of the run)
 
-### Condition 06
+#### Condition 06
 Reach the end of Avernoth!!!
 
-### Condition 07
+#### Condition 07
 Clear the *Boss Room (at the end of the area)*
 - in *Area 02*
 - with the *Shadow Ball (name pending)* primary spell equipped
 - with *at least 75% health remaining*
 
-### Condition 08
+#### Condition 08
 Clear the *Boss Room (at the end of the area)*
 - in *Area 03*
 - with the *Magma Stomp (name pending)* primary spell equipped
 - with at least *6 passive spells equipped*
 
-### Condition 09
+#### Condition 09
 Reach the end of Avernoth!!!
 
 # Old Journal Entry Text
