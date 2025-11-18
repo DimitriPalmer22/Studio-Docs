@@ -147,30 +147,39 @@ Clear a *standard enemy room*
 
 ### Condition 02
 Acquire a new passive spell using the *Empower Upgrade* within an *upgrade room*
-1. 
+- While holding the *Crystal Explosion* secondary spell
 
 ### Condition 03
+Reach the end of Avernoth!!!
 
 ### Condition 04
+Reach an *Upgrade Room* 
+- with the *Relay* secondary spell equipped 
+- in *Area 02*
 
 ### Condition 05
+Clear the *Boss Room (at the end of the area)*
+- with the *Tempest Slash* primary spell equipped
+- in *Area 02*
+- in *under 10 minutes* (from the start of the run)
 
 ### Condition 06
+Reach the end of Avernoth!!!
 
 ### Condition 07
+X
+- Shadow Ball (Name Pedning)
 
 ### Condition 08
+X
+- *Magma Stomp*
 
 ### Condition 09
+Reach the end of Avernoth!!!
 
-
-1. Reach the end of Avernoth!!!
-2. Reach an *Upgrade Room* with the *Relay* spell eqipped in *Area 02*
-3. Clear the *Boss Room (at the end of the area)* in *Area 02* in *under 10 minutes* with *Tempest Slash* equipped
-4. Reach the end of Avernoth!!!
-5. *Shadow Ball (Name Pending)*
-6. *Magma Stomp*
-7. Reach the end of Avernoth!!!
+1. 
+2. *Magma Stomp*
+3. 
 
 # Old Journal Entry Text
 
