@@ -20,4 +20,7 @@ There are 9 journal entries in the game. Each of them has the following:
 
 Two different types of pages:
 - Journal pages that are just text
-- Experiment logs
+- Experiment logs that have the conditions for completion
+
+### Idea for Narratively Justifying Progression
+The pages and stuff will have like runes on them or something so that they indicate tha
