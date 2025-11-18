@@ -153,7 +153,7 @@ Acquire a new passive spell using the *Empower Upgrade* within an *upgrade room*
 Reach the end of Avernoth!!!
 
 #### Condition 04
-Reach an *Upgrade Room* 
+Modify your stats by using the *Relinquish Upgrade* within an *upgrade room*
 - in *Area 02*
 - with the *Relay* secondary spell equipped 
 
