@@ -139,13 +139,13 @@ At this point, this dimension is incomplete. However, by the time I am finished 
 
 
 # Conditions
-1. *Clear a standard enemy room* with *flame volley* equipped in *Area 01*
+1. Clear a *standard enemy room* with *flame volley* equipped in *Area 01*
 2. -
 3. Reach the end of Avernoth
 4. Reach an *Upgrade Room* with the *Relay* spell eqipped in *Area 02*
 5. Clear the *Boss Room (at the end of the area)* in *Area 02* in *under 10 minutes* with *Tempest Slash* equipped
 6. Reach the end of Avernoth
-7. -
+7. 
 8. 
 9. Reach the end of Avernoth
 
