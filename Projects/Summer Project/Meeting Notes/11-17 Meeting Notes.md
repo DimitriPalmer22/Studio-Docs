@@ -35,4 +35,10 @@ Since the main way to get spells is through the questions at the beginning, I am
 
 ### Passive Spell UI Rework
 
-For a while, we just had 3 passive spell icons floating at the side of the screen permanently. 
+For a while, we just had 3 passive spell icons floating at the side of the screen permanently. This was a problem because:
+- It didn't look very good
+- It was hard to tell which passive effects were activating and when
+
+Now, we have a bookmark / ribbon-style UI element in the top left corner. As passive spells activate their effects, they appear on the ribbon for a few seconds, then go away. This way, the player can easily see which passive effects are activating and when, without cluttering up the screen.
+
+The asset for the bookmark / ribbon thing is still being worked on, so that may look different in the near-future.
