@@ -210,4 +210,4 @@ Only the experiment logs contain journal entry conditions
 ### Save Data 
 - Dictionary of Journal Collectibles & true / false bools to indicate whether or not the player has collected them
 
-### F
+### 
