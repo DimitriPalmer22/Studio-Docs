@@ -19,7 +19,10 @@ Instead of focusing on the stuff I wrote down last week, I pivoted to working pu
 I started working on a tutorial sequence for the game.
 The very first time the player starts a run, they'll get a scripted tutorial that teaches them the basic mechanics of combat.
 
-### MASSIVE Journal Table WR
+### MASSIVE Journal Table Rework
+The game's journal system has been overhauled. Collecting journal entries is less incidental and now requires a little more effort on behalf of the player.
+
+
 
 ### Questions @ the start of the Run Are Still Under Construction...
-
+Since the main way to get spells is through the questions at the beginning, I am waiting until the journal stuff is finished before fully implementing the questions at the start of the run.
