@@ -9,4 +9,10 @@ There are 9 journal entries in the game. Each of them has the following:
 
 ### Journal Entry + Research Notes = Bad
 - It's kinda weird to try to fit both of these within the same note
-	- E
+	- Gets too long
+	- Kinda hard to stay in character
+
+### Locking Progression Behind Random Elements Might not be Fun If they're sequential
+- yeah
+
+
