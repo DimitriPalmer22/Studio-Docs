@@ -22,7 +22,9 @@ The very first time the player starts a run, they'll get a scripted tutorial tha
 ### MASSIVE Journal Table Rework
 The game's journal system has been overhauled. Collecting journal entries is less incidental and now requires a little more effort on behalf of the player.
 
-BEFORE, the player would randomly encounter journal tables while exploring Avernoth. If the journal tables were directly linked to progres
+BEFORE, the player would randomly encounter journal tables while exploring Avernoth. The journal tables were the main thing linked to the player's progression, but it never really felt like the player was actively working toward unlocking or discovering the journal entries. They just showed up fr.
+
+NOW, each journal entry has an "objective" that must be completed in order to unlock the next journal entry and progress through the game. This way, we 
 
 ### Questions @ the start of the Run Are Still Under Construction...
 Since the main way to get spells is through the questions at the beginning, I am waiting until the journal stuff is finished before fully implementing the questions at the start of the run.
