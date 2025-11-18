@@ -140,12 +140,22 @@ At this point, this dimension is incomplete. However, by the time I am finished 
 
 # Conditions
 
+#### Condition 01
+Clear a *standard enemy room*
+- in *Area 01*
+- with the *Flame Volley* primary spell equipped
+
 #### Condition 02
 Acquire a new passive spell using the *Empower Upgrade* within an *upgrade room*
 - While holding the *Crystal Explosion* secondary spell
 
 #### Condition 03
 Reach the end of Avernoth!!!
+
+#### Condition 04
+Modify your stats by using the *Relinquish Upgrade* within an *upgrade room*
+- in *Area 02*
+- with the *Relay* secondary spell equipped 
 
 #### Condition 05
 Clear the *Boss Room (at the end of the area)*
@@ -156,6 +166,11 @@ Clear the *Boss Room (at the end of the area)*
 #### Condition 06
 Reach the end of Avernoth!!!
 
+#### Condition 07
+Clear the *Boss Room (at the end of the area)*
+- in *Area 02*
+- with the *Shadow Ball (name pending)* primary spell equipped
+- with *at least 75% health remaining*
 
 #### Condition 08
 Clear the *Boss Room (at the end of the area)*
