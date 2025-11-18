@@ -33,6 +33,9 @@ NOW, each journal entry has an "objective" that must be completed in order to un
 ### Questions @ the start of the Run Are Still Under Construction...
 Since the main way to get spells is through the questions at the beginning, I am waiting until the journal stuff is finished before fully implementing the questions at the start of the run.
 
+### Small Dialogue FX Tweaks
+Whenever you start dialogue, there is a small chromatic aberration effect that plays.
+
 ### Passive Spell UI Rework
 
 For a while, we just had 3 passive spell icons floating at the side of the screen permanently. This was a problem because:
@@ -42,3 +45,5 @@ For a while, we just had 3 passive spell icons floating at the side of the scree
 Now, we have a bookmark / ribbon-style UI element in the top left corner. As passive spells activate their effects, they appear on the ribbon for a few seconds, then go away. This way, the player can easily see which passive effects are activating and when, without cluttering up the screen.
 
 The asset for the bookmark / ribbon thing is still being worked on, so that may look different in the near-future.
+
+### Updated Set-Dressing
