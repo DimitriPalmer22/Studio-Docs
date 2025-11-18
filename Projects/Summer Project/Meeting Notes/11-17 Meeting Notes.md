@@ -24,7 +24,11 @@ The game's journal system has been overhauled. Collecting journal entries is les
 
 BEFORE, the player would randomly encounter journal tables while exploring Avernoth. The journal tables were the main thing linked to the player's progression, but it never really felt like the player was actively working toward unlocking or discovering the journal entries. They just showed up fr.
 
-NOW, each journal entry has an "objective" that must be completed in order to unlock the next journal entry and progress through the game. This way, we 
+NOW, each journal entry has an "objective" that must be completed in order to unlock the next journal entry and progress through the game. This way, we can ensure:
+- the player experiences a variety of content in the game
+- the player is actively working toward the main goal of the game
+
+*Do a little demonstration*
 
 ### Questions @ the start of the Run Are Still Under Construction...
 Since the main way to get spells is through the questions at the beginning, I am waiting until the journal stuff is finished before fully implementing the questions at the start of the run.
