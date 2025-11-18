@@ -47,3 +47,15 @@ Now, we have a bookmark / ribbon-style UI element in the top left corner. As pas
 The asset for the bookmark / ribbon thing is still being worked on, so that may look different in the near-future.
 
 ### Updated Set-Dressing
+The environmental artists have sent some props for set-dressing and the LDs have set-dressed some of their levels.
+
+## Goals for v0.12.0:
+
+### More Narrative Stuff
+Hopefully, all progression-based goals in the game are fully implemented, meaning the game can be fully completed from start to finish.
+
+Dialogue should also be more complete by then.
+
+More question stuff as well.
+
+### Level Design
