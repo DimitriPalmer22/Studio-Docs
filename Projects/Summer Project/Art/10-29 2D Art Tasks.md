@@ -58,7 +58,7 @@ These powers focus mainly on fire, but also may have some elements of earth (roc
 
 ## Twilight (Light & Dark) Powers
 
-### Primary - Shadow Ball
+### Primary - Shadow Ball (Name Pending)
 - You've already made an asset for this one
 - For each hit in the chain of attacks, a shadowy projectile is fired at enemies.
 
