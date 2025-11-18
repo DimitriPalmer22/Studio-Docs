@@ -167,8 +167,10 @@ Clear the *Boss Room (at the end of the area)*
 Reach the end of Avernoth!!!
 
 ### Condition 07
-X
+Clear the *Boss Room (at the end of the area)*
 - with the *Shadow Ball (name pending)* primary spell equipped
+- in *Area 02*
+- with *at least *
 
 ### Condition 08
 X
