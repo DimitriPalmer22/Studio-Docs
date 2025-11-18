@@ -31,12 +31,27 @@ The pages and stuff will have like runes on them or something so that they indic
 - 3 journal entries
 - 2 experiment log
 
+### Journal Entries
+
+
+### Experiment Logs
+
+
 # Journal Pool 2
 10 Pages
 - 6 journal entries
 - 4 experiment logs
 
+### Journal Entries
+
+### Experiment Logs
+
+
 # Journal Pool 3
 15 Pages
 - 9 journal entries
 - 6 experiment logs
+
+### Journal Entries
+
+### Experiment Logs
