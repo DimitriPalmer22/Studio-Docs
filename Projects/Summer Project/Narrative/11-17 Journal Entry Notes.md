@@ -138,6 +138,9 @@ An Ally: Retracing the Archmage's steps seems to be working so far. Let's see wh
 At this point, this dimension is incomplete. However, by the time I am finished constructing this labyrinth, I will need to ensure there is *a way to return to the outside world* if I need to. However, I need a way to prevent just anyone from leaving. Perhaps *sealing this exit off with spell would suffice*? 
 
 
+# Conditions
+1. Clear a room with flame volley equipped in Area 01
+2. 
 
 # Old Journal Entry Text
 
