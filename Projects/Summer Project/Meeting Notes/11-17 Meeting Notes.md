@@ -1,4 +1,3 @@
-
 ## Meeting Times
 
 | Meeting                         | Possible Times      |
