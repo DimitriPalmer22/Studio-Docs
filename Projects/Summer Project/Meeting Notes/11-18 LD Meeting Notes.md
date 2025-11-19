@@ -14,7 +14,7 @@
 | MatthewBlockout2_POCCopy |                  |             |           |
 | MikelPOC                 |                  |             |           |
 | MikelResearchLab         |                  |             |           |
-| *MikelPOCLevel_Aiden*    | Y                |             |           |
+| *MikelPOCLevel_Aiden*    | Y                | Y           | Y         |
 
 ### Area 02
 
