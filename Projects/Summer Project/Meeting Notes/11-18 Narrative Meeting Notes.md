@@ -75,4 +75,6 @@ Each journal entry / experiment log has a rune on it that corresponds to one of 
 - Stat comparison (x > y)
 - Stat percentage comparison (health %, mana %, etc)
 - Time modifier (time spent in total for the run, or just in the room)
+- Rooms spent w/out taking damage
+- Rooms spent w/out talking to NPCs (to be implemented)
 - 
