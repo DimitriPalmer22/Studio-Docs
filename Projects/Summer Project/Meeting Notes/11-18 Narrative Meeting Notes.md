@@ -69,4 +69,10 @@ Each journal entry / experiment log has a rune on it that corresponds to one of 
 
 # Condition Modifiers
 - Current Area of Avernoth
-- Enemy defeated count (in save )
+- Enemy defeated count (in save file or just for this run)
+- Passive spell count
+- Specific spell equipped
+- Stat comparison (x > y)
+- Stat percentage comparison (health %, mana %, etc)
+- Time modifier (time spent in total for the run, or just in the room)
+- 
