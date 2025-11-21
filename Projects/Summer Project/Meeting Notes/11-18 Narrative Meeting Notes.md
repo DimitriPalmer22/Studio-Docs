@@ -68,13 +68,16 @@ Each journal entry / experiment log has a rune on it that corresponds to one of 
 
 
 # Condition Modifiers
-- Current Area of Avernoth
-- Enemy defeated count (in save file or just for this run)
-- Passive spell count
-- Specific spell equipped
-- Stat comparison (x > y)
-- Stat percentage comparison (health %, mana %, etc)
-- Time modifier (time spent in total for the run, or just in the room)
-- Rooms spent w/out taking damage
-- Rooms spent w/out talking to NPCs (to be implemented)
-- 
+- [x] Current Area of Avernoth
+- [x] Enemy defeated count (in save file or just for this run)
+- [x] Passive spell count
+- [x] Specific spell equipped
+- [x] Stat comparison (x > y)
+- [x] Stat percentage comparison (health %, mana %, etc)
+- [x] Time modifier (time spent in total for the run, or just in the room)
+- [x] Rooms spent w/out taking damage
+- [ ] Rooms spent w/out talking to NPCs (to be implemented)
+- [ ] Orbs collected (integer count)
+- [ ] Orb value collected (float value)
+- [ ] Amount of money spent in shop
+- [ ] 
