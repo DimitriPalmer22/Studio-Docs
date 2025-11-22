@@ -140,9 +140,12 @@ After the player completes an objective given in an experiment log, another uniq
 ### Standard Journal Entries
 Standard journal entries should literally read like short diary entries written by the Archmage as he was creating Avernoth.
 
+These are some topics that should be covered in the standard journal entries and how they could be approached in each set:
+
 #### Set 1 Standard Journal Entries
 - The Archmage's mind is still *mostly* in tact. His line of thinking should seem clear and rational.
 - He made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
+- While serving as part of the Musarun Empire, the Archmage created a magical device that could create 
 
 > Note: There are only 3 standard journal entries in set 1.
 
