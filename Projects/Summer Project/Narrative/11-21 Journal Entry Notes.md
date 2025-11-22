@@ -113,6 +113,10 @@ In this dialogue interaction, Allister acknowledges the presence of the journal 
 #### How Do We Choose Which Dialogue To Play
 Each journal entry does NOT have its own unique "table spawn" dialogue. Instead, there is a pool of dialogue interactions to choose from. We can have generic dialogue that can apply well to any situation the player is currently in.
 
-We also have support for specific dialogue to play when
+We also have support for specific dialogue to play under specific conditions. Such as:
+- The total number of journal entries the player has collected so far
+- The current area of Avernoth the player is in
+- The current pool of journal entries the player is currently collecting from
+- Any dialogue flags that are true or false (as a result of any dialogue the player has encountered so far)
 
 ### 
