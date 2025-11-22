@@ -114,9 +114,10 @@ When the player collects a standard journal entry, they will notices a big fat r
 
 When the player collects an experiment log, a rune will not be present initially on the page. However, once the player completes the objective outlined in the experiment log, a rune will appear on the page of the experiment log that corresponds to one of the runes on the seal at the end of Avernoth.
 
-> Note: Taru
+> Note: Tarun can comment on this phenomenon in one of the dialogue interactions after the player completes an experiment log objective. He is probably the one who is keeping track of these runes in his codex.
 
 #### Breaking the Seal
+When Allister reaches the end of Avernoth and approaches this door, a set of dialogue will play, and the runes that Allister collected will begin to glow (WIP idea). If all the runes from one ring have 
 
 # Dialogue
 
