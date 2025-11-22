@@ -163,7 +163,11 @@ There is a clear decline in the Archmage's mental state for these entries.
 > Note: There are 6 standard journal entries in set 2.
 
 #### Set 3 Standard Journal Entries
-The Archmage has clearly lost 
+The Archmage is extremely paranoid. 
+
+- The Archmage believes that the Musarun Empire is actively trying to find and kill him.
+- The Archmage believes he has heard voices from potential intruders trying to break into Avernoth. Hopefully they get lost or the traps take care of them.
+- The Archmage has grown frustrated with 
 
 
 > Note: There are 9 standard journal entries in set 3.
