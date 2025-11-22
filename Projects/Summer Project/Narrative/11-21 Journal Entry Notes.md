@@ -78,4 +78,13 @@ As of right now, each section of Avernoth contains 12 rooms:
 ### Sequential Collection of Journal Entries
 - In each set, journal entries appear in a *mostly random* order.
 - We *can* make certain journal entries appear before others if we feel that it is important for story progression.
-	- As a matter of fact, right now, I have it set up so that in each set, the very first entry the player picks up is wa
+	- As a matter of fact, right now, I have it set up so that in each set, the very first entry the player picks up is always a specific standard journal entry that we want them to see first.
+	- The second journal entry the player picks up is always a specific experiment log that gives them their first objective in that area.
+	- We *can* turn this off, though.
+
+#### Another Idea for Sequential Collection of Journal Entries
+- If we want to have more control over which entries the player sees first, we can make each journal entry have its own set of prerequisites.
+- For example, Journal Entry 3 might require that the player has already collected Journal Entries 1 and 2 before it can spawn.
+- This way, we can keep *most* of the journal entries in a random order, but we can make sure that certain important entries are seen first.
+
+# Tracking Journal Entry Completion
