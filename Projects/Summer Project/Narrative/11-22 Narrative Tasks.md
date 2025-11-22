@@ -26,6 +26,9 @@ The first experiment log the player finds is guaranteed to be a specific one. It
 - [ ] A dialogue interaction for when Allister enters the room.
 	- This interaction should acknowledge that Allister feels an energy similar to when he found the journal entry earlier.
 	- Maybe another one is nearby
-- [ ] The *first* Experiment Log that Allister finds. The content can be anything in [\> Set 1 Standard Experiment Logs \<](<./11-21 Journal Entry Notes.md#Set 1 Standard Experiment Logs>).
+- [ ] The *first* Experiment Log that Allister finds. The content can be anything in [\> Set 1 Experiment Logs \<](<./11-21 Journal Entry Notes.md#Set 1 Experiment Logs>).
+- [ ] A dialogue interaction that plays after the player finishes reading the first experiment log
+	- -
+- [ ] A dialogue interaction that plays af
 
 #### Subsequent Journal Entries
