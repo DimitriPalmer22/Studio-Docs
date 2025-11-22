@@ -105,4 +105,9 @@ However, when viewing an experiment log entry, the player will see the text of t
 
 # Dialogue
 
+### Entering a Room with A Journal Entry
+Upon entering a standard enemy room with a Journal Table (that has a journal entry on it, NOT AN UPGRADE), A very brief dialogue interaction (1-3 lines) will play. 
+
+In this dialogue interaction, Allister acknowledges the presence of the journal entry and comments on it. One of his 
+
 ### 
