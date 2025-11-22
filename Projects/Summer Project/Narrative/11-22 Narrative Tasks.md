@@ -7,6 +7,7 @@ If you want a pretty comprehensive overview of all things journal-related, you c
 # Tasks
 
 #### First Time Encountering a Journal Table + First Journal Entry
+
 The first journal entry the player finds is guaranteed to be a specific one, so we can ensure that the dialogue surrounding it is tailored to that specific entry.
 
 - [ ] A dialogue interaction for the first time Allister enters a room with a journal table in it.
@@ -21,6 +22,7 @@ The first journal entry the player finds is guaranteed to be a specific one, so 
 	- Given that our plan was to have each journal page have a rune on it that corresponds with the runes on the seal at the end of Avernoth, someone should make some type of comment about the strange symbol on the page.
 
 #### The First Experiment Log
+
 The first experiment log the player finds is guaranteed to be a specific one. It is found after the player first reads a journal entry, and the dialogue surrounding it should reflect that.
 
 - [ ] A dialogue interaction for when Allister enters the room.
@@ -34,6 +36,7 @@ The first experiment log the player finds is guaranteed to be a specific one. It
 	- (Note: Let's say Tarun is the one who has been keeping track of these logs in his codex). Tarun comments on the fact that a new rune has appeared on the page of the experiment log in his codex.
 
 #### Subsequent Standard Journal Entries
+
 If all seems well, we can work on completing more standard journal entries.
 
 A list of topics and ideas have been written for:
@@ -44,4 +47,4 @@ A list of topics and ideas have been written for:
 For each of these journal entries, we will need:
 - [ ] The content of the journal entry itself
 - [ ] The dialogue interaction that plays immediately after the player finishes reading the journal entry
-	- This interaction should consider the content of the journal entry itself.
+	- This interaction should directly relate to the content of the journal entry.
