@@ -146,7 +146,7 @@ These are some topics that should be covered in the standard journal entries and
 - The Archmage's mind is still *mostly* in tact. His line of thinking should seem clear and rational.
 - He made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
 - While serving as part of the Musarun Empire, the Archmage created a magical device that could create magical tomes that underskilled mages could use, bolstering the Empire's military might. 
-- Although the Archmage feels guilty about the destruction he caused, he believes that he should continue his magical resear 
+- Although the Archmage feels guilty about the destruction he caused, he believes that he should continue his magical research in case he needs to protect himself from anyone who comes into Avernoth to find him. 
 
 > Note: There are only 3 standard journal entries in set 1.
 
