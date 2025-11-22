@@ -152,7 +152,8 @@ These are some topics that should be covered in the standard journal entries and
 
 #### Set 2 Standard Journal Entries
 - There is a clear decline in the Archmage's mental state
-- 
+- The Archmage grows increasingly worried that his sudden absence from the Musarun Empire will lead to the Empire coming after him.
+- The Archmage begins to experiment with the idea of 
 
 > Note: There are 6 standard journal entries in set 2.
 
