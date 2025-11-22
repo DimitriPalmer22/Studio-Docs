@@ -143,7 +143,9 @@ Standard journal entries should literally read like short diary entries written 
 These are some topics that should be covered in the standard journal entries and how they could be approached in each set:
 
 #### Set 1 Standard Journal Entries
-- The Archmage's mind is still *mostly* in tact. His line of thinking should seem clear and rational.
+The Archmage's mind is still *mostly* in tact. His line of thinking 
+should seem clear and rational.
+
 - He made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
 - While serving as part of the Musarun Empire, the Archmage created a magical device that could create magical tomes that underskilled mages could use, bolstering the Empire's military might. 
 - Although the Archmage feels guilty about the destruction he caused, he believes that he should continue his magical research in case he needs to protect himself from anyone who comes into Avernoth to find him. 
@@ -151,14 +153,17 @@ These are some topics that should be covered in the standard journal entries and
 > Note: There are only 3 standard journal entries in set 1.
 
 #### Set 2 Standard Journal Entries
-- There is a clear decline in the Archmage's mental state
+There is a clear decline in the Archmage's mental state for these entries.
+
 - The Archmage grows increasingly worried that his sudden absence from the Musarun Empire will lead to the Empire coming after him.
-- The Archmage begins to experiment with the idea of 
+- The Archmage begins to experiment with the idea of creating traps to ward off intruders.
+- The Archmage retells a specific story of how he created a particularly deadly lighting spell trap that nearly killed him while testing it.
+- The Archmage details that he was only able to create due to his strong affinity for spacial magic.
 
 > Note: There are 6 standard journal entries in set 2.
 
 #### Set 3 Standard Journal Entries
-- 
+The Archmage has clearly lost 
 
 
 > Note: There are 9 standard journal entries in set 3.
