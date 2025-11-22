@@ -51,7 +51,12 @@ The third area of Avernoth:
 - Is a little more abstract and exposed to the outside
 
 #### Areas where the Player Has Completed All Journal Entries?
-Let's say the player has completed all journal entries for set 1. They would no longer find and *NEW JOURNAL ENTRIES* in the first area of Avernoth. However, if the player is in the first area of Avernoth and they are in a room where a journal table would have spawned, we will have a placeholder object there that simply indicates to the player that they have already collected all journal entries in this area.
+Let's say the player has completed all journal entries for set 1. They would no longer find and *NEW JOURNAL ENTRIES* in the first area of Avernoth. However, if the player is in the first area of Avernoth and they are in a room where a journal table would have spawned, we will have an upgrade there that simply indicates to the player that they have already collected all journal entries in this area.
+
+#### Areas where the Player has not unlocked the Next Set of Journal Entries
+Let's say the player has not completed set 1 yet. In areas 2 and 3, we will not spawn any journal tables at all (Is this a good idea?). Lore-wise 
+
+Instead, we will have an upgrade in the room that indicates to the player that they need to complete the previous area's journal entries before they can find new ones here. 
 
 # Collecting Journal Entries
 
