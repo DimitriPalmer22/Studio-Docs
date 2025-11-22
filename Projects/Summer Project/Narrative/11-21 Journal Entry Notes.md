@@ -180,7 +180,7 @@ The Archmage is extremely paranoid.
 
 ### Experiment Logs
 
-The content of these experiment logs is heavily dependent on the actual objectives we want the player to complete.
+The content of these experiment logs is heavily dependent on the actual objectives we want the player to complete. So these will come a *little bit later*.
 
 #### Experiment Log Layout
 
