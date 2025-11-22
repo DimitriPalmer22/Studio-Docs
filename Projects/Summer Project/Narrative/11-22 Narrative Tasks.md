@@ -29,6 +29,8 @@ The first experiment log the player finds is guaranteed to be a specific one. It
 - [ ] The *first* Experiment Log that Allister finds. The content can be anything in [\> Set 1 Experiment Logs \<](<./11-21 Journal Entry Notes.md#Set 1 Experiment Logs>).
 - [ ] A dialogue interaction that plays after the player finishes reading the first experiment log
 	- -
-- [ ] A dialogue interaction that plays af
+- [ ] A dialogue interaction that plays after the player completes the objective outlined in the experiment log
+	- Allister / one of his Allies should comment on the fact that he replicated the experiment outlined in the log.
+	- (Note: Let's say Tarun is the one who has been keeping )
 
 #### Subsequent Journal Entries
