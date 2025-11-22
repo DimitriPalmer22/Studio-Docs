@@ -12,4 +12,4 @@ If you want a pretty comprehensive overview of all things journal-related, you c
 - [ ] A dialogue interaction for when Allister eventually walks up to the journal table for the first time.
 	- This should include Allister saying something like "oh man, a table with a note on it. I wonder what it is"
 	- One of Allister's allies can then respond with saying "This could be the source of the strange energy you felt earlier"
-- [ ] 
+- [ ] The *first* Journal Entry that Allister finds. The content can be anything in [\> Set 1 Standard Journal Entries \<](<./11-21 Journal Entry Notes.md#Set 1 Standard Journal Entries>). 
