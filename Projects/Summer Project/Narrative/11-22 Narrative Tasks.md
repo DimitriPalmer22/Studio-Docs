@@ -33,4 +33,15 @@ The first experiment log the player finds is guaranteed to be a specific one. It
 	- Allister / one of his Allies should comment on the fact that he replicated the experiment outlined in the log.
 	- (Note: Let's say Tarun is the one who has been keeping track of these logs in his codex). Tarun comments on the fact that a new rune has appeared on the page of the experiment log in his codex.
 
-#### Subsequent Journal Entries
+#### Subsequent Standard Journal Entries
+If all seems well, we can work on completing more standard journal entries.
+
+A list of topics and ideas have been written for:
+- [\> Set 1 Standard Journal Entries \<](<./11-21 Journal Entry Notes.md#Set 1 Standard Journal Entries>)
+- [\> Set 2 Standard Journal Entries \<](<./11-21 Journal Entry Notes.md#Set 2 Standard Journal Entries>)
+- [\> Set 3 Standard Journal Entries \<](<./11-21 Journal Entry Notes.md#Set 3 Standard Journal Entries>)
+
+For each of these journal entries, we will need:
+- [ ] The content of the journal entry itself
+- [ ] The dialogue interaction that plays immediately after the player finishes reading the journal entry
+	- This interaction should consider the content of the journal entry itself.
