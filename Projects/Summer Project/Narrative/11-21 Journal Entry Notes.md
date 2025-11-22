@@ -144,13 +144,19 @@ Standard journal entries should literally read like short diary entries written 
 - The Archmage's mind is still *mostly* in tact. His line of thinking should seem clear and rational.
 - He made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
 
-> Note: There are only 3 standard journal entries in set 1, so I won't list them all out here.
+> Note: There are only 3 standard journal entries in set 1.
 
 #### Set 2 Standard Journal Entries
 - There is a clear decline in the Archmage's mental state
 - 
 
+> Note: There are 6 standard journal entries in set 2.
+
 #### Set 3 Standard Journal Entries
+- 
+
+
+> Note: There are 9 standard journal entries in set 3.
 
 ### Experiment Logs
 
