@@ -34,7 +34,7 @@ The first experiment log the player finds is guaranteed to be a specific one. It
 	- Then someone (Allister or this same ally) very clearly outlines the objective that the player needs to complete in order to replicate the experiment outlined in the log.
 - [ ] A dialogue interaction that plays after the player completes the objective outlined in the experiment log
 	- Allister / one of his Allies should comment on the fact that he replicated the experiment outlined in the log.
-	- (Note: Tarun is the one who has been keeping track of these logs in his codex). Tarun comments on the fact that a new rune has appeared on the page of the experiment log in his codex.
+	- (Note: Tarun is the one who has been keeping track of these logs in his codex). Tarun comments on the fact that a new rune has appeared on the page of the experiment log in his codex. Again, this is explained a little more in [How Does this Contribute to the End of the Game?](<./11-21 Journal Entry Notes.md#How Does this Contribute to the End of the Game?>)
 
 ### Subsequent Standard Journal Entries
 
