@@ -110,7 +110,7 @@ Upon entering a standard enemy room with a Journal Table (that has a journal ent
 
 In this dialogue interaction, Allister acknowledges the presence of the journal entry and comments on it. One of his allies may also chime in with a comment.
 
-#### How Do We Choose Which Dialogue To Play
+#### How Do We Choose Which Dialogue To Play?
 Each journal entry does NOT have its own unique "table spawn" dialogue. Instead, there is a pool of dialogue interactions to choose from. We can have generic dialogue that can apply well to any situation the player is currently in.
 
 We also have support for specific dialogue to play under specific conditions. Such as:
@@ -134,3 +134,18 @@ The objective should be written in plain text within this dialogue interaction. 
 
 ### After Completing An Experiment Log Objective
 After the player completes an objective given in an experiment log, another unique dialogue interaction will play. This is an acknowledgement from Allister and his allies that the objective has been completed.
+
+# Journal Entry Content
+
+### Standard Journal Entries
+Standard journal entries are literally like diary entries that 
+
+#### Set 1 Standard Journal Entries
+
+#### Set 2 Standard Journal Entries
+
+#### Set 3 Standard Journal Entries
+
+### Experiment Logs
+
+#### Experiment Log Layout
