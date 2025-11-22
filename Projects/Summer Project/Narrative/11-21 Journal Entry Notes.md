@@ -140,7 +140,7 @@ After the player completes an objective given in an experiment log, another uniq
 ### Standard Journal Entries
 Standard journal entries should literally read like short diary entries written by the Archmage as he was creating Avernoth.
 
-These are some ideas that can be covered in the standard journal entries and how they could be approached in each set:
+These are some ideas that can be covered in the standard journal entries and how they could be approached in each set. Not everything here needs to be used. If there is a better idea or something that comes along, feel free to swap things out.
 
 #### Set 1 Standard Journal Entries
 The Archmage's mind is still *mostly* in tact. His line of thinking 
@@ -172,6 +172,8 @@ The Archmage is extremely paranoid.
 - The Archmage has grown frustrated with his slipping control over his spacial magic. The designs of the rooms are beginning to be less stable.
 - He begins to question why he even decided to contribute to enhancing the Empire's military strength in the first place. He could have just been a normal guy.
 - The Archmage realizes there is a strong chance that someone could eventually find a way into Avernoth. If they were somehow able to recover his research, they could use it to use the spell to get into Avernoth.
+- The Archmage is unsure of how long it has been since he has first entered Avernoth. He has lost all sense of time. The lack of a proper day/night cycle is messing with his mind.
+- He's unsure, but the Archmage things he is starting to feel faint traces of life energy in the earlier parts of Avernoth. Is someone else here? It doesn't feel human.
 - 
 
 
