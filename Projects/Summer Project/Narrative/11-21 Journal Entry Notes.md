@@ -159,6 +159,7 @@ There is a clear decline in the Archmage's mental state for these entries.
 - The Archmage begins to experiment with the idea of creating traps to ward off intruders.
 - The Archmage retells a specific story of how he created a particularly deadly lighting spell trap that nearly killed him while testing it.
 - The Archmage details that he was only able to create due to his strong affinity for spacial magic.
+- The Archmage retells a story of how he first heard of how effective his magical tomes were in battle. At first, he was proud, but the erasure of 
 
 > Note: There are 6 standard journal entries in set 2.
 
@@ -167,7 +168,8 @@ The Archmage is extremely paranoid.
 
 - The Archmage believes that the Musarun Empire is actively trying to find and kill him.
 - The Archmage believes he has heard voices from potential intruders trying to break into Avernoth. Hopefully they get lost or the traps take care of them.
-- The Archmage has grown frustrated with 
+- The Archmage has grown frustrated with his slipping control over his spacial magic. The designs of the rooms are beginning to be less stable.
+- 
 
 
 > Note: There are 9 standard journal entries in set 3.
