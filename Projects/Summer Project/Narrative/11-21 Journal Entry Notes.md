@@ -130,4 +130,7 @@ Since the standard journal entries mainly give lore about Avernoth or its creato
 #### For Experiment Logs
 Since the experiment logs mainly give the player objectives to complete, the dialogue interaction should mainly consist of Allister and his allies discussing the objective they just received. This can also be a good opportunity for Allister to express any concerns or excitement he has about the objective.
 
-The objective should be written in plain text within this dialogue interaction (It's like Allister's thoughts are being voiced out loud for the player to hear). This way, the player will have a clear understanding of what they need to do next.)
+The objective should be written in plain text within this dialogue interaction. Think of it like Allister or his Allies are trying to reason out what exactly the Archmage was doing in his experiments so Allister can recreate it.
+
+### After Completing An Experiment Log Objective
+After the player completes an objective given in an experiment log, another unique dialogue interaction will play. This is an acknowledgement from Allister and his allies that the objective has been completed.
