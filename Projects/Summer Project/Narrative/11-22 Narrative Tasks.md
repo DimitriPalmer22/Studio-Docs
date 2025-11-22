@@ -19,7 +19,7 @@ The first journal entry the player finds is guaranteed to be a specific one, so 
 - [ ] The *first* Journal Entry that Allister finds. The content can be anything in [\> Set 1 Standard Journal Entries \<](<./11-21 Journal Entry Notes.md#Set 1 Standard Journal Entries>). 
 - [ ] A dialogue interaction that plays after the player finishes reading the first journal entry
 	- This interaction should consider two things: The fact that this is the first journal entry Allister has found, and the content of the journal entry itself.
-	- Given that our plan was to have each journal page have a rune on it that corresponds with the runes on the seal at the end of Avernoth, someone should make some type of comment about the strange symbol on the page.
+	- Given that our plan was to have each journal page have a rune on it that corresponds with the runes on the seal at the end of Avernoth, someone should make some type of comment about the strange symbol on the page. This idea is explained a little more in [How Does this Contribute to the End of the Game?](<./11-21 Journal Entry Notes.md#How Does this Contribute to the End of the Game?>)
 
 #### The First Experiment Log
 

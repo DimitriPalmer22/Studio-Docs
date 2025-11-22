@@ -93,7 +93,7 @@ As of right now, each section of Avernoth contains 12 rooms:
 
 ### How Do the Characters Remember all this Information?
 - Lore-wise, Allister cannot keep a physical record of the journal entries he has encountered, as he loses everything when he dies / resets.
-- However, one of Allister's allies can copy down the journal entries he has encountered and keep track of which ones he has completed.
+- However, one of Allister's allies (Tarun) can copy down the journal entries he has encountered and keep track of which ones he has completed.
 - This leans into what our "Codex" is (we may need to find a better name for this)
 - The Codex is a menu that the player can open to see all the journal entries they have collected so far.
 
@@ -117,7 +117,7 @@ When the player collects an experiment log, a rune will not be present initially
 > Note: Tarun can comment on this phenomenon in one of the dialogue interactions after the player completes an experiment log objective. He is probably the one who is keeping track of these runes in his codex.
 
 #### Breaking the Seal
-When Allister reaches the end of Avernoth and approaches this door, a set of dialogue will play, and the runes that Allister collected will begin to glow (WIP idea). If all the runes from one ring have 
+When Allister reaches the end of Avernoth and approaches this door, a set of dialogue will play, and the runes that Allister collected will begin to glow (WIP idea). If all the runes from one ring have been collected, that ring will break off the seal and the door will open slightly. If all 3 rings have been collected, the entire seal will break and the door will open, allowing Allister to escape Avernoth.
 
 # Dialogue
 
