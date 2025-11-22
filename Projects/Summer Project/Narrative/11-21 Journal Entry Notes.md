@@ -5,10 +5,12 @@ Provide backstory about:
 - The world
 - Avernoth itself
 - The mage who created Avernoth and his descent into madness
+- The journal entries are considered "*Complete*" when the player picks them up and reads them
 
 ### Experiment Logs
 - Detail the various experiments conducted by the mage
 - Are used to give the player objectives that they need to actively pursue as they attempt to escape Avernoth.
+- These are c
 
 # There Are 3 Sets of Journal Entry Collectables
 
@@ -29,7 +31,7 @@ Set 3 contains:
 - 9 Standard Journal Entries
 - 6 Experiment Logs
 
-### 
+### Limiting Journal Entries to Specific Areas
 
 The first area of Avernoth (which is mainly themed around being a mage's study) contains:
 
