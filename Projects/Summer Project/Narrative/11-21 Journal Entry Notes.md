@@ -54,7 +54,7 @@ The third area of Avernoth:
 Let's say the player has completed all journal entries for set 1. They would no longer find and *NEW JOURNAL ENTRIES* in the first area of Avernoth. However, if the player is in the first area of Avernoth and they are in a room where a journal table would have spawned, we will have an upgrade there that simply indicates to the player that they have already collected all journal entries in this area.
 
 #### Areas where the Player has not unlocked the Next Set of Journal Entries
-Let's say the player has not completed set 1 yet. In areas 2 and 3, we will not spawn any journal tables at all (Is this a good idea?). Lore-wise 
+Journal tables won't spawn in these areas. 
 
 # Collecting Journal Entries
 
@@ -69,3 +69,5 @@ As of right now, each section of Avernoth contains 12 rooms:
 ### Distribution of Journal Entries
 - Journal tables can only spawn in standard enemy rooms.
 - Each area of Avernoth contains 3 journal tables that are placed in random standard enemy rooms.
+
+### 
