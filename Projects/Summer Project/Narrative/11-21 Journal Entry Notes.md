@@ -90,13 +90,17 @@ As of right now, each section of Avernoth contains 12 rooms:
 - This way, we can keep *most* of the journal entries in a random order, but we can make sure that certain important entries are seen first.
 
 # Tracking Journal Entry Completion
+
+### How Do the Characters Remember all this Information?
 - Lore-wise, Allister cannot keep a physical record of the journal entries he has encountered, as he loses everything when he dies / resets.
 - However, one of Allister's allies can copy down the journal entries he has encountered and keep track of which ones he has completed.
 - This leans into what our "Codex" is (we may need to find a better name for this)
-- The Codex is a menu that the player can open to see all the journal entries they have completed so far.
+- The Codex is a menu that the player can open to see all the journal entries they have collected so far.
 
 ### Viewing Entries in the Codex
 
 In the codex, viewing a standard entry will simply show the text of the entry (a very similar view to the reading UI that appears when the player picks up a journal entry).
 
 However, when viewing an experiment log entry, the player will see the text of the entry with the objective written in very plain text beside it. This way, the player will know exactly what they need to do to progress.
+
+### 
