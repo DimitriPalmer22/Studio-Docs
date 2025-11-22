@@ -31,6 +31,7 @@ The first experiment log the player finds is guaranteed to be a specific one. It
 - [ ] The *first* Experiment Log that Allister finds. The content can be anything in [\> Set 1 Experiment Logs \<](<./11-21 Journal Entry Notes.md#Set 1 Experiment Logs>).
 - [ ] A dialogue interaction that plays after the player finishes reading the first experiment log
 	- One of Allister's allies proposes the idea that Allister should try to replicate the experiment outlined in the log to see if that does anything. It seems like a shot in the dark, but there isn't anything else that seems like it would help Allister escape.
+	- Then someone (Allister or this same ally) very clearly outlines the objective that the player needs to complete in order to replicate the experiment outlined in the log.
 - [ ] A dialogue interaction that plays after the player completes the objective outlined in the experiment log
 	- Allister / one of his Allies should comment on the fact that he replicated the experiment outlined in the log.
 	- (Note: Let's say Tarun is the one who has been keeping track of these logs in his codex). Tarun comments on the fact that a new rune has appeared on the page of the experiment log in his codex.
