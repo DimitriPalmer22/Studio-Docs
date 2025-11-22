@@ -119,4 +119,10 @@ We also have support for specific dialogue to play under specific conditions. Su
 - The current pool of journal entries the player is currently collecting from
 - Any dialogue flags that are true or false (as a result of any dialogue the player has encountered so far)
 
-### 
+### After Collecting A Journal Entry Collectable
+Each journal entry collectable (regardless if it is a standard journal entry or an experiment log) has its own unique "on collect" dialogue interaction.
+
+In this dialogue entry, Allister and his allies will comment on the contents of the journal entry that was just collected. This dialogue interaction is meant to give the player more context about what they just read.
+
+#### For Standard Journal Entries
+The 
