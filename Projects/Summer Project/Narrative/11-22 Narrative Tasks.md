@@ -6,6 +6,8 @@ If you want a pretty comprehensive overview of all things journal-related, you c
 
 # Tasks
 
+#### First Time Encountering a Journal Table + First Journal Entry
+
 - [ ] A dialogue interaction for the first time Allister enters a room with a journal table in it.
 	- This should include Allister acknowledging that he senses a strange energy coming from the room.
 	- One of Allister's allies should say something like "hey, we should look for that after we are sure this room is safe"
@@ -13,3 +15,6 @@ If you want a pretty comprehensive overview of all things journal-related, you c
 	- This should include Allister saying something like "oh man, a table with a note on it. I wonder what it is"
 	- One of Allister's allies can then respond with saying "This could be the source of the strange energy you felt earlier"
 - [ ] The *first* Journal Entry that Allister finds. The content can be anything in [\> Set 1 Standard Journal Entries \<](<./11-21 Journal Entry Notes.md#Set 1 Standard Journal Entries>). 
+- [ ] A dialogue interaction that plays after the player finishes reading the first journal entry
+	- This interaction should consider two things: The fact that this is the first journal entry Allister has found, and the content of the journal entry itself.
+	- Given that our plan was to have each journal page have a rune on it that corresponds with the runes on the s
