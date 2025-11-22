@@ -103,6 +103,12 @@ In the codex, viewing a standard entry will simply show the text of the entry (a
 
 However, when viewing an experiment log entry, the player will see the text of the entry with the objective written in very plain text beside it. This way, the player will know exactly what they need to do to progress.
 
+### How Does this Contribute to the End of the Game?
+
+The goal of our game is for the player to eventually escape Avernoth. To do this, the player needs to break the seal on the door at the end of Avernoth.
+
+This door 
+
 # Dialogue
 
 ### Entering a Room with A Journal Entry
