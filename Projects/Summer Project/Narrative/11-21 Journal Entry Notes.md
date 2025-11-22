@@ -38,17 +38,19 @@ Set 3 contains:
 
 #### Each Area and its Corresponding Set
 
+The Archmage who made Avernoth was creating these journal entries as he progressed through building Avernoth. Therefore, it would make sense that each area of Avernoth would contain journal entries from a specific set.
+
 The first area of Avernoth:
+- Is mainly themed around being a mage's study
 - Contains entries from set 1
-- Is mainly themed around being a mage's study 
 
 The second area of Avernoth:
-- Contains entries from set 2
 - Is mainly themed around being a magical forge / armory-ish area
+- Contains entries from set 2
 
 The third area of Avernoth:
-- Contains entries from set 3
 - Is a little more abstract and exposed to the outside
+- Contains entries from set 3
 
 #### Areas where the Player Has Completed All Journal Entries
 Let's say the player has completed all journal entries for set 1. They would no longer find and *NEW JOURNAL ENTRIES* in the first area of Avernoth. However, if the player is in the first area of Avernoth and they are in a room where a journal table would have spawned, we will have an upgrade there that simply indicates to the player that they have already collected all journal entries in this area.
