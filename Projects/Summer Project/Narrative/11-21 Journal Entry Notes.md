@@ -88,3 +88,6 @@ As of right now, each section of Avernoth contains 12 rooms:
 - This way, we can keep *most* of the journal entries in a random order, but we can make sure that certain important entries are seen first.
 
 # Tracking Journal Entry Completion
+- Lore-wise, Allister cannot keep a physical record of the journal entries he has encountered, as he loses everything when he dies / resets.
+- However, one of Allister's allies can copy down the journal entries he has encountered and keep track of which ones he has completed.
+- This leans into what our "Codex" is (we may need to find a better name for this)
