@@ -183,3 +183,12 @@ The Archmage is extremely paranoid.
 The content of these experiment logs is heavily dependent on the actual objectives we want the player to complete.
 
 #### Experiment Log Layout
+
+
+#### Set 1 Experiment Logs
+
+
+#### Set 2 Experiment Logs
+
+
+#### Set 3 Experiment Logs
