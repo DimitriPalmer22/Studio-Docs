@@ -138,9 +138,12 @@ After the player completes an objective given in an experiment log, another uniq
 # Journal Entry Content
 
 ### Standard Journal Entries
-Standard journal entries are literally like diary entries that 
+Standard journal entries should literally read like short diary entries written by the Archmage as he was creating Avernoth.
 
 #### Set 1 Standard Journal Entries
+- The Archmage's mind is still *mostly* in tact
+- Yes, he made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
+- 
 
 #### Set 2 Standard Journal Entries
 
