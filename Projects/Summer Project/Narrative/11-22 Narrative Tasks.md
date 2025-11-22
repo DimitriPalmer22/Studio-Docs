@@ -21,6 +21,11 @@ The first journal entry the player finds is guaranteed to be a specific one, so 
 	- Given that our plan was to have each journal page have a rune on it that corresponds with the runes on the seal at the end of Avernoth, someone should make some type of comment about the strange symbol on the page.
 
 #### The First Experiment Log
-The first experiment log 
+The first experiment log the player finds is guaranteed to be a specific one. It is found after the player first reads a journal entry, and the dialogue surrounding it should reflect that.
+
+- [ ] A dialogue interaction for when Allister enters the room.
+	- This interaction should acknowledge that Allister feels an energy similar to when he found the journal entry earlier.
+	- Maybe another one is nearby
+- [ ] The *first* Experiment Log that Allister finds. The content can be anything in [\> Set 1 Standard Experiment Logs \<](<./11-21 Journal Entry Notes.md#Set 1 Standard Experiment Logs>).
 
 #### Subsequent Journal Entries
