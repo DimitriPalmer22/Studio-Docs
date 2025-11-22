@@ -171,7 +171,7 @@ The Archmage is extremely paranoid.
 - The Archmage believes he has heard voices from potential intruders trying to break into Avernoth. Hopefully they get lost or the traps take care of them.
 - The Archmage has grown frustrated with his slipping control over his spacial magic. The designs of the rooms are beginning to be less stable.
 - He begins to question why he even decided to contribute to enhancing the Empire's military strength in the first place. He could have just been a normal guy.
-- The Archmage realizes there is a strong chance that someone could eventually find a way into Avernoth. If they were somehow able to recover his research, they could use it to use the spell to send someone to Avernoth.
+- The Archmage realizes there is a strong chance that someone could eventually find a way into Avernoth. If they were somehow able to recover his research, they could use it to use the spell to get into Avernoth.
 - 
 
 
