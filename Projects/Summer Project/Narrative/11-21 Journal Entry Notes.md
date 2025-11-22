@@ -13,7 +13,12 @@ Provide backstory about:
 # Collecting Journal Entries
 
 ### Layout of Avernoth
-As of right now, each section of Avernoth contains:
-- 
+As of right now, each section of Avernoth contains 12 rooms:
+- 8 Standard enemy rooms
+- 1 Passive Upgrade Room (Pick up a new passive spell)
+- 1 Upgrade Room (Choose between 3 upgrades)
+- 1 Shop room
+- 1 Boss room
 
 ### Distribution of Journal Entries
+Journal tables can only spawn in standard enemy rooms. 
