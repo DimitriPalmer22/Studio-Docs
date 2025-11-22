@@ -107,7 +107,16 @@ However, when viewing an experiment log entry, the player will see the text of t
 
 The goal of our game is for the player to eventually escape Avernoth. To do this, the player needs to break the seal on the door at the end of Avernoth.
 
-This door 
+The seal on this door has 3 rings of runes on it. Each ring corresponds to one of the 3 sets of journal entries. Each rune corresponds to one of the journal entries in that set.
+
+#### Acquiring these Runes
+When the player collects a standard journal entry, they will notices a big fat rune on the page of the journal entry. This rune corresponds to one of the runes on the seal at the end of Avernoth.
+
+When the player collects an experiment log, a rune will not be present initially on the page. However, once the player completes the objective outlined in the experiment log, a rune will appear on the page of the experiment log that corresponds to one of the runes on the seal at the end of Avernoth.
+
+> Note: Taru
+
+#### Breaking the Seal
 
 # Dialogue
 
