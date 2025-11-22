@@ -56,8 +56,6 @@ Let's say the player has completed all journal entries for set 1. They would no 
 #### Areas where the Player has not unlocked the Next Set of Journal Entries
 Let's say the player has not completed set 1 yet. In areas 2 and 3, we will not spawn any journal tables at all (Is this a good idea?). Lore-wise 
 
-Instead, we will have an upgrade in the room that indicates to the player that they need to complete the previous area's journal entries before they can find new ones here. 
-
 # Collecting Journal Entries
 
 ### Layout of Avernoth
