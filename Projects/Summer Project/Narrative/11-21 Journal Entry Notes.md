@@ -11,17 +11,33 @@ Provide backstory about:
 - Are used to give the player objectives that they need to actively pursue as they attempt to escape Avernoth.
 
 # There Are 3 Sets of Journal Entry Collectables
-The first area of Avernoth (which is mainly themed around being a mage's study) contains:
+
+### Sets?
+To control progression, journal entries have been divided into  the player needs to "*complete*" each journal entry withing 
+
+### Number of Journal Entries per Set
+
+Set 1 contains:
 - 3 Standard Journal Entries
 - 2 Experiment Logs
 
-The second area of Avernoth (which is mainly themed around being a magical forge / armory-ish area) contains:
+Set 2 contains:
 - 6 Standard Journal Entries
 - 4 Experiment Logs
 
-The third area of Avernoth (which is a little more abstract and exposed to the outside) contains:
+Set 3 contains:
 - 9 Standard Journal Entries
 - 6 Experiment Logs
+
+### 
+
+The first area of Avernoth (which is mainly themed around being a mage's study) contains:
+
+The second area of Avernoth (which is mainly themed around being a magical forge / armory-ish area) contains:
+
+The third area of Avernoth (which is a little more abstract and exposed to the outside) contains:
+
+
 
 # Collecting Journal Entries
 
