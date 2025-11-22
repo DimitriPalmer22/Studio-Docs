@@ -141,11 +141,14 @@ After the player completes an objective given in an experiment log, another uniq
 Standard journal entries should literally read like short diary entries written by the Archmage as he was creating Avernoth.
 
 #### Set 1 Standard Journal Entries
-- The Archmage's mind is still *mostly* in tact
-- Yes, he made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
-- 
+- The Archmage's mind is still *mostly* in tact. His line of thinking should seem clear and rational.
+- He made the decision to create Avernoth and flee to it because he was growing increasingly paranoid about the consequences of his actions
+
+> Note: There are only 3 standard journal entries in set 1, so I won't list them all out here.
 
 #### Set 2 Standard Journal Entries
+- There is a clear decline in the Archmage's mental state
+- 
 
 #### Set 3 Standard Journal Entries
 
