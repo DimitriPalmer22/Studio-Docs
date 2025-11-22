@@ -10,6 +10,9 @@ Provide backstory about:
 - Detail the various experiments conducted by the mage
 - Are used to give the player objectives that they need to actively pursue as they attempt to escape Avernoth.
 
+# There Are 3 Sets of Journal Entry Collectables
+The first area of Avern
+
 # Collecting Journal Entries
 
 ### Layout of Avernoth
@@ -21,4 +24,5 @@ As of right now, each section of Avernoth contains 12 rooms:
 - 1 Boss room
 
 ### Distribution of Journal Entries
-Journal tables can only spawn in standard enemy rooms. 
+- Journal tables can only spawn in standard enemy rooms.
+- Each area of Avernoth contains 3 journal tables that are placed in random standard enemy rooms.
