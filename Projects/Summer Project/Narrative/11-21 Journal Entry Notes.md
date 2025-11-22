@@ -204,7 +204,6 @@ The content of these experiment logs is heavily dependent on the actual objectiv
 #### Set 1 Experiment Logs
 - Clear any standard enemy room with any set of spells (this is the first objective the player completes, so it should be simple)
 	- This can be framed as the Archmage testing out the structural integrity of a room he created. 
-	- This could also be framed as 
 
 #### Set 2 Experiment Logs
 
