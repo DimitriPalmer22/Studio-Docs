@@ -73,4 +73,9 @@ As of right now, each section of Avernoth contains 12 rooms:
 ### Actually Picking Up and Reading Journal Entries
 - Since these appear in standard enemy rooms, the player will need to defeat all enemies in the room before being able to pick up the journal entry.
 - Once the player picks up the journal entry, a reading UI will appear that allows the player to read through the journal entry at their own pace.
-- 
+- After reading through the journal entry, the player can close the reading UI and continue on their way.
+
+### Sequential Collection of Journal Entries
+- In each set, journal entries appear in a *mostly random* order.
+- We *can* make certain journal entries appear before others if we feel that it is important for story progression.
+	- As a matter of fact, right now, I have it set up so that in each set, the very first entry the player picks up is wa
