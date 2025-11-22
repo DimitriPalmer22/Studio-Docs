@@ -10,4 +10,6 @@ If you want a pretty comprehensive overview of all things journal-related, you c
 	- This should include Allister acknowledging that he senses a strange energy coming from the room.
 	- One of Allister's allies should say something like "hey, we should look for that after we are sure this room is safe"
 - [ ] A dialogue interaction for when Allister eventually walks up to the journal table for the first time.
-	- 
+	- This should include Allister saying something like "oh man, a table with a note on it. I wonder what it is"
+	- One of Allister's allies can then respond with saying "This could be the source of the strange energy you felt earlier"
+- [ ] 
