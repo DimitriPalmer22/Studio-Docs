@@ -112,7 +112,7 @@ The seal on this door has 3 rings of runes on it. Each ring corresponds to one o
 #### Acquiring these Runes
 When the player collects a standard journal entry, they will notices a big fat rune on the page of the journal entry. This rune corresponds to one of the runes on the seal at the end of Avernoth.
 
-When the player collects an experiment log, a rune will not be present initially on the page. However, once the player completes the objective outlined in the experiment log, a rune will appear on the page of the experiment log that corresponds to one of the runes on the seal at the end of Avernoth.
+When the player collects an experiment log, a rune will not be present initially on the page. However, once the player completes the objective outlined in the experiment log, a rune will appear on the page of the experiment log that corresponds to one of the runes on the seal at the end of Avernoth. (Remember, Allister cannot keep the physical journal entries, but Tarun can copy them down in his codex. So, the runes are appearing on )
 
 > Note: Tarun can comment on this phenomenon in one of the dialogue interactions after the player completes an experiment log objective. He is probably the one who is keeping track of these runes in his codex.
 
