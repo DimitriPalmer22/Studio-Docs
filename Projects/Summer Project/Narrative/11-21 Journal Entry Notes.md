@@ -12,8 +12,8 @@ Provide backstory about:
 
 # There Are 3 Sets of Journal Entry Collectables
 
-### Sets?
-To control progression, journal entries have been divided into  the player needs to "*complete*" each journal entry withing 
+### What Are Sets?
+To control progression, journal entries have been divided into groups. The player needs to "*complete*" each journal entry within a group before being able to collect journal entries from the next group. This way, we can clearly indicate when large steps in progression have been made.
 
 ### Number of Journal Entries per Set
 
