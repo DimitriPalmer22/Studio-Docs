@@ -103,4 +103,6 @@ In the codex, viewing a standard entry will simply show the text of the entry (a
 
 However, when viewing an experiment log entry, the player will see the text of the entry with the objective written in very plain text beside it. This way, the player will know exactly what they need to do to progress.
 
+# Dialogue
+
 ### 
