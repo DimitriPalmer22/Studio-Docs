@@ -95,4 +95,6 @@ As of right now, each section of Avernoth contains 12 rooms:
 
 ### Viewing Entries in the Codex
 
-In
+In the codex, viewing a standard entry will simply show the text of the entry (a very similar view to the reading UI that appears when the player picks up a journal entry).
+
+However, when viewing an experiment log entry, the player will see the text of the entry with the objective written in very plain text beside it. This way, the player will know exactly what they need to do to progress.
