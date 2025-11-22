@@ -9,3 +9,11 @@ Provide backstory about:
 ### Experiment Logs
 - Detail the various experiments conducted by the mage
 - Are used to give the player objectives that they need to actively pursue as they attempt to escape Avernoth.
+
+# Collecting Journal Entries
+
+### Layout of Avernoth
+As of right now, each section of Avernoth contains:
+- 
+
+### Distribution of Journal Entries
