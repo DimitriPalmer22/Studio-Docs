@@ -125,4 +125,9 @@ Each journal entry collectable (regardless if it is a standard journal entry or 
 In this dialogue entry, Allister and his allies will comment on the contents of the journal entry that was just collected. This dialogue interaction is meant to give the player more context about what they just read.
 
 #### For Standard Journal Entries
-The 
+Since the standard journal entries mainly give lore about Avernoth or its creator through the eyes of the Archmage, the dialogue interaction should mainly consist of Allister and his allies discussing the lore they just learned. 
+
+#### For Experiment Logs
+Since the experiment logs mainly give the player objectives to complete, the dialogue interaction should mainly consist of Allister and his allies discussing the objective they just received. This can also be a good opportunity for Allister to express any concerns or excitement he has about the objective.
+
+The objective should be written in plain text within this dialogue interaction (It's like Allister's thoughts are being voiced out loud for the player to hear). This way, the player will have a clear understanding of what they need to do next.)
