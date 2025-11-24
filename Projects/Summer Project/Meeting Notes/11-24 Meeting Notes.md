@@ -31,7 +31,7 @@
 - Hopefully those will be in and working by the end of the week so they can make it into any build we make.
 
 ## Character Art
-- Revised texturess fo
+- Textures for the wraith
 
 ## 2D Artist Notes
 ### Hidetomo Still Too Yellow
