@@ -10,6 +10,8 @@
 | Animation Meeting               | -              |
 | Character Artist Meeting        | -              |
 
+
+
 ## General Notes
 - Given that Thanksgiving is right around the corner, I'm not expecting everyone to do a whole lot this week.
 - Also, next week, a couple of us are gonna be out of town to attend Shbeeb's workshop presentations. So, we most likely won't have a full team meeting next week either.
@@ -34,7 +36,4 @@
 - Textures for the wraith
 
 ## 2D Artist Notes
-### Hidetomo Still Too Yellow
-
-
-### 
+- Hidetomo Still Too Yellow
