@@ -18,7 +18,9 @@
 - Since a good number of us are gonna be attending those workshop presentations next week, it might be a good idea to polish up the game as much as we can. Yknow, just in case someone asks to see the game.
 
 ## LD Notes
-- Last week, we went through all the levels that are currently in th
+- Last week, we went through all the levels that are currently in the game.
+- We gave feedback on each level and made a list of changes that need to be made.
+- So, make sure the levels are as polished as possible.
 
 ## Env. Artist Notes
 
