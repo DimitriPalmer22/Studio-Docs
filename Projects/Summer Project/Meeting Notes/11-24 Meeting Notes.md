@@ -29,6 +29,7 @@
 
 ### This Week's Focus
 - Since a good number of us are gonna be attending those workshop presentations next week, it might be a good idea to polish up the game as much as we can. Yknow, just in case someone asks to see the game.
+- Go through and *try to improve any placeholder stuff*
 
 ## LD Notes
 - Last week, we went through all the levels that are currently in the game.
