@@ -26,7 +26,12 @@
 - This is gonna go with the LD stuff: finish up any remaining props that are needed for set-dressing. 
 - Send da models
 
-## 
+## Animation
+- New attack animations for the knight enemy variations are still being worked on.
+- Hopefully those will be in and working by the end of the week so they can make it into any build we make.
+
+## Character Art
+- Revised texturess fo
 
 ## 2D Artist Notes
 ### Hidetomo Still Too Yellow
