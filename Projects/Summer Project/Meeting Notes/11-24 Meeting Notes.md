@@ -23,7 +23,10 @@
 - So, make sure the levels are as polished as possible.
 
 ## Env. Artist Notes
-- This is gonSend da models
+- This is gonna go with the LD stuff: finish up any remaining props that are needed for set-dressing. 
+- Send da models
+
+## 
 
 ## 2D Artist Notes
 ### Hidetomo Still Too Yellow
