@@ -12,8 +12,11 @@
 
 ## Current State of the Game / v0.12.0 Changes
 
-### Reworked the Journal System
-- 
+### Reworked the Journal System AGAIN
+- Journal tables appear randomly throughout Avernoth like they did before.
+- However, there are two types of journal entries now:
+	- Standard journal entries: Just notes w/ lore and stuff
+	- E
 
 ### 
 
