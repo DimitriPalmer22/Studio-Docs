@@ -10,7 +10,7 @@
 | Animation Meeting               | -              |
 | Character Artist Meeting        | -              |
 
-
+## Current State of the Game / v0.12.0 Changes
 
 ## General Notes
 - Given that Thanksgiving is right around the corner, I'm not expecting everyone to do a whole lot this week.
