@@ -16,9 +16,12 @@
 - Journal tables appear randomly throughout Avernoth like they did before.
 - However, there are two types of journal entries now:
 	- Standard journal entries: Just notes w/ lore and stuff
-	- E
+	- Experiment logs: These contain objectives that the player must complete to progress through the game.
+- The player must collect & complete a certain number of experiment logs to unlock a layer of the seal at the end of Avernoth.
+- The journal entries are not collected in a linear order anymore. The player can find them in any order they want.
 
-### 
+### Beginning Questing UI Update
+- The UI for selecting answers to the beginning questions has been updated to be slightly more intere
 
 
 
