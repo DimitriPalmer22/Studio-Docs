@@ -12,6 +12,8 @@
 
 ## Current State of the Game / v0.12.0 Changes
 
+### Reworked the 
+
 ## General Notes
 - Given that Thanksgiving is right around the corner, I'm not expecting everyone to do a whole lot this week.
 - Also, next week, a couple of us are gonna be out of town to attend Shbeeb's workshop presentations. So, we most likely won't have a full team meeting next week either.
