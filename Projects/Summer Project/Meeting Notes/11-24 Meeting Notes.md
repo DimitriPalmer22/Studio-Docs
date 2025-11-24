@@ -36,4 +36,5 @@
 - Textures for the wraith
 
 ## 2D Artist Notes
+- Logo thing
 - Hidetomo Still Too Yellow
