@@ -21,9 +21,7 @@
 - The journal entries are not collected in a linear order anymore. The player can find them in any order they want.
 
 ### Beginning Questing UI Update
-- The UI for selecting answers to the beginning questions has been updated to be slightly more intere
-
-
+- The UI for selecting answers to the beginning questions has been updated to be slightly more interesting. Thoughts?
 
 ## General Notes
 - Given that Thanksgiving is right around the corner, I'm not expecting everyone to do a whole lot this week.
