@@ -23,6 +23,7 @@
 - Last week, we went through all the levels that are currently in the game.
 - We gave feedback on each level and made a list of changes that need to be made.
 - So, make sure the levels are as polished as possible.
+- https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2rO4s/edit?usp=sharing
 
 ## Env. Artist Notes
 - This is gonna go with the LD stuff: finish up any remaining props that are needed for set-dressing. 
