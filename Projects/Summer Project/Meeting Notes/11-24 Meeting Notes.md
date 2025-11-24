@@ -23,7 +23,7 @@
 - So, make sure the levels are as polished as possible.
 
 ## Env. Artist Notes
-
+- This is gonSend da models
 
 ## 2D Artist Notes
 ### Hidetomo Still Too Yellow
