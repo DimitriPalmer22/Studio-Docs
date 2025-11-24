@@ -1,2 +1,0 @@
-
-### Hidetomo Still Too Yellow
