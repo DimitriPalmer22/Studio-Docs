@@ -12,10 +12,13 @@
 
 ## General Notes
 - Given that Thanksgiving is right around the corner, I'm not expecting everyone to do a whole lot this week.
-- Also, next week, a couple of us are gonna be out of town to attend Shbeeb's workshop presentations. So, we may not have a full team next week Mone
+- Also, next week, a couple of us are gonna be out of town to attend Shbeeb's workshop presentations. So, we most likely won't have a full team meeting next week either.
+
+### This Week's Focus
+- Since a good number of us are gonna be attending those workshop presentations next week, it might be a good idea to polish up the game as much as we can. Yknow, just in case someone asks to see the game.
 
 ## LD Notes
-
+- Last week, we went through all the levels that are currently in th
 
 ## Env. Artist Notes
 
