@@ -37,6 +37,12 @@ https://www.youtube.com/watch?v=Fpg4U08E9yQ
 
 ---
 
-Try
+Try these steps:
 
-- Opening the project
+- Open the folder the project files are in
+- right click the "Avernoth.uproject"
+- If ur on Windows 11, click "Show more options"
+- Click "Generate Visual Studio Project Files"
+- When that finishes, try to open the project again and see if it works
+
+If that still doesn't work, try:
