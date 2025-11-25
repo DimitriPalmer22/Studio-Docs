@@ -29,3 +29,8 @@ Look at these games:
 - The latter areas of the game can get cooler and cooler
 - For area 2, the lantern color at index 3 would be better
 - For area 3, the purplish color at index 2 might be pretty nice
+
+
+# "Pointless Mechanics"
+
+https://www.youtube.com/watch?v=Fpg4U08E9yQ
