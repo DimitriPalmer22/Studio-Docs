@@ -34,3 +34,9 @@ Look at these games:
 # "Pointless Mechanics"
 
 https://www.youtube.com/watch?v=Fpg4U08E9yQ
+
+---
+
+Try
+
+- Opening the project
