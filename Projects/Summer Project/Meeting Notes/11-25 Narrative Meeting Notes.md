@@ -45,4 +45,8 @@ Try these steps:
 - Click "Generate Visual Studio Project Files"
 - When that finishes, try to open the project again and see if it works
 
-If that still doesn't work, try:
+If that still doesn't work, try these steps:
+
+- Open the folder the project files are in again
+- Delete the "Saved", "Build", and "Intermediate" folders (Or move them somewhere else in case you want to back them up). The next time you regenerate the fo
+- Open the project again. 
