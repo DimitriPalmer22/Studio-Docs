@@ -27,3 +27,4 @@ Look at these games :
 
 ### Revise the Lighting and Color Grading in Other Areas
 - The latter areas of the game can get cooler and cooler
+- We have 
