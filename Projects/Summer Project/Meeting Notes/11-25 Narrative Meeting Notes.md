@@ -23,8 +23,9 @@ Look at these games :
 - If area 3 is gonna be as decayed as it is, then we might need to make the 2nd area to 
 
 ### Bruh the Crystals!!
-- 
+- Update crystal colors in latter areas
 
 ### Revise the Lighting and Color Grading in Other Areas
 - The latter areas of the game can get cooler and cooler
-- We have 
+- For area 2, the lantern color at index 3 would be better
+- For area 3, the purplish color at index 2 might be pretty nice
