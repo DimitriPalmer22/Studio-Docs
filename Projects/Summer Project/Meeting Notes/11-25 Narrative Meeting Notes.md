@@ -44,9 +44,13 @@ Try these steps:
 - If ur on Windows 11, click "Show more options"
 - Click "Generate Visual Studio Project Files"
 - When that finishes, try to open the project again and see if it works
+- One more thing: Just in case you haven't already done it, open the project settings. Look up "Force compuil"
 
 If that still doesn't work, try these steps:
 
 - Open the folder the project files are in again
-- Delete the "Saved", "Build", and "Intermediate" folders (Or move them somewhere else in case you want to back them up). The next time you regenerate the fo
-- Open the project again. 
+- Delete the "Saved", "Build", and "Intermediate" folders (Or move them somewhere else in case you want to back them up). The next time you open the project, it'll regenerate those folders.
+- Open the project again and see if it works.
+
+If it STILL doesn't work:
+- idk bro you might have to re-clone the project
