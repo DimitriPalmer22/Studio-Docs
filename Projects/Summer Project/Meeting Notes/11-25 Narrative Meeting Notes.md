@@ -9,4 +9,6 @@
 
 # Other Tasks
 - Some things can spawn or appear or something once the player unlocks a task
-- We can have some unique tasks
+	- A bookshelf or something spawns 
+- We can have some unique tasks that don't really do much, but give the illusion of having more depth.
+- 
