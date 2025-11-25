@@ -15,7 +15,7 @@
 
 # Level Design Stuff
 
-Look at these games :
+Look at these games:
 - American McGee's Alice
 - Alice Madness
 
