@@ -41,4 +41,6 @@ These are things we can incorporate with the experiment log quests. We can make 
 
 - Find a tome within one of the earlier levels. Equip it and use it to reach the end of the run.
 - There is a room with a locked door in it. Open it while carrying (x)
-- 
+- Light braziers in a given level (interact with a whole bunch of them)
+- Collect a certain number of pickups items scattered throughout the level
+- Repeated taps: 
