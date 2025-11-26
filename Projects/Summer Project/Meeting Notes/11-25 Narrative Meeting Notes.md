@@ -17,7 +17,7 @@
 
 Look at these games:
 - American McGee's Alice
-- Alice Madness
+- Alice Mandess
 
 ### Better Progression into More Distressed Environments
 - If area 3 is gonna be as decayed as it is, then we might need to make the 2nd area to 
