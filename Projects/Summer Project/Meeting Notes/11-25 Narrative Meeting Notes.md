@@ -34,21 +34,3 @@ Look at these games:
 # "Pointless Mechanics"
 
 https://www.youtube.com/watch?v=Fpg4U08E9yQ
-
----
-
-Try these steps:
-- Open the folder the project files are in
-- right click the "Avernoth.uproject"
-- If ur on Windows 11, click "Show more options"
-- Click "Generate Visual Studio Project Files"
-- When that finishes, try to open the project again and see if it works
-- One more thing: Just in case you haven't already done it, open the editor preferences. Look up "Force compilation at startup". Make sure it is checked.
-
-If that still doesn't work, try these steps:
-- Open the folder the project files are in again
-- Delete the "Saved", "Build", and "Intermediate" folders (Or move them somewhere else in case you want to back them up). The next time you open the project, it'll regenerate those folders.
-- Open the project again and see if it works.
-
-If it STILL doesn't work:
-- idk bro you might have to re-clone the project
