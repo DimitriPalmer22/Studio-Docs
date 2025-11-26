@@ -44,4 +44,6 @@ These are things we can incorporate with the experiment log quests. We can make 
 - Light braziers in a given level (interact with a whole bunch of them)
 - Collect a certain number of pickups items scattered throughout the level
 - Repeated taps: Pull an object out of another object, or lift a heavy object 
+- Pick up an object in one level & deposit it in another level
+	- Mark a flag in the current run save data
 - 
