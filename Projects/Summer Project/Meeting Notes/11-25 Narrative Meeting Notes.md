@@ -34,3 +34,10 @@ Look at these games:
 # "Pointless Mechanics"
 
 https://www.youtube.com/watch?v=Fpg4U08E9yQ
+
+---
+
+These are things we can incorporate with the experiment log quests. We can make objects interactable for the sake of quests.
+
+- Find a tome within one of the earlier levels. Equip it and use it to reach the end of the run.
+- 
