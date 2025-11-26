@@ -43,4 +43,5 @@ These are things we can incorporate with the experiment log quests. We can make 
 - There is a room with a locked door in it. Open it while carrying (x)
 - Light braziers in a given level (interact with a whole bunch of them)
 - Collect a certain number of pickups items scattered throughout the level
-- Repeated taps: 
+- Repeated taps: Pull an object out of another object, or lift a heavy object 
+- 
