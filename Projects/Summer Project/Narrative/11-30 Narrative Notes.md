@@ -28,7 +28,7 @@
 - Idk lines on the edges or something.
 
 ### Props
-- The tapestries that two tips could 
+- The tapestries that two tips could be a little longer. There isn't enough negative space between the logo 
 
 ### Gameplay Mechanics
 - Mana should reset to full / empty after leaving a room.
