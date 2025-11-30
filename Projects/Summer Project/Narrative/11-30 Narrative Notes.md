@@ -26,3 +26,6 @@
 ### Crystals
 - Crystals need to have some kind of detail on them (texturing).
 - Idk lines on the edges or something.
+
+### Gameplay Mechanics
+- 
