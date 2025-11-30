@@ -41,6 +41,9 @@
 ### VFX
 - Enemy attack VFX should look different from player attack VFX
 
+### Journal Table
+- Instead of having the journal tables disappear, keep them there. Have a smaller, alternate reward instead (not the stat increase.)
+
 # Levels
 
 ### MikelResearchLab
@@ -56,6 +59,3 @@
 ### BrianKit3POC_Copy
 - There's a point you can fall out the map
 - Corners of the map should not be completely unlit
-
-### Journal Table
-- Instead of having the journal tables disappear, keep them there. Have a smaller, alternate reward instead (not the stat increase.)
