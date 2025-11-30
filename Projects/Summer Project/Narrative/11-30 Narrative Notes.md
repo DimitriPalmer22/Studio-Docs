@@ -32,6 +32,7 @@
 
 ### Props
 - The tapestries that two tips could be a little longer. There isn't enough negative space between the logo 
+- For the tall stack of paper, stronger horizontal lines on the texture would help out a lot.
 
 ### Gameplay Mechanics
 - Mana should reset to full / empty after leaving a room.
