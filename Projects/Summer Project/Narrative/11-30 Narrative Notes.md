@@ -47,3 +47,6 @@
 
 ### BrianKit3POC_Copy
 - There's a point you can fall out the map
+
+### Journal Table
+- Instead of having the journal tables 
