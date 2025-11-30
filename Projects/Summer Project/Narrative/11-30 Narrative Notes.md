@@ -38,6 +38,11 @@
 ### Gameplay Mechanics
 - Mana should reset to full / empty after leaving a room.
 
+### VFX
+- Enemy attack VFX should look different from player attack VFX
+
+# Levels
+
 ### MikelResearchLab
 - Cages should not collide with the camera
 - There should be more cages that have "fallen to the ground" if we're gonna 
