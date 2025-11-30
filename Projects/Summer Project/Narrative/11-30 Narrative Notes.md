@@ -1,6 +1,6 @@
 ### Allister's Model
 - There should be at least lines separating Allister's fingers on his model
-- Allister's mouth looks a lil weird. Bad topology? "Mouthgina"
+- Allister's mouth looks a lil weird (). Bad topology? "Mouthgina"
 
 ### Candles / Chandelier
 - Took much smoke coming off the candles and the smoke is too long
