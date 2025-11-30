@@ -43,3 +43,6 @@
 - A lot of the big cages are too dark
 - The outside light should be more purple rather than bright white
 - Maybe replace a lot of the lights with more windows?
+
+### BrianKit3POC_Copy
+- There's a point you can fall out the map
