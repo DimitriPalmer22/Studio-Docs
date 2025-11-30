@@ -49,4 +49,4 @@
 - There's a point you can fall out the map
 
 ### Journal Table
-- Instead of having the journal tables 
+- Instead of having the journal tables disappear, keep them there. Have a smaller, alternate reward instead (not the stat increase.)
