@@ -11,7 +11,6 @@
 - Player should not be able to walk through the starting upper deck's railing
 - The upper deck railing should be a little shorter, not taller than Allister
 - The lectern should not be taller than Allister
-- 
 
 ### Scaling Issue
 - Everything is too big
@@ -19,6 +18,7 @@
 ### Sound
 - Change dodge sound
 - Calmer music 
+- Enemies should make noise when they spawn
 
 ### UI
 - Little metal thing at the bottom of the ribbon looks a lil weird. Shape
@@ -61,4 +61,4 @@
 - Corners of the map should not be completely unlit
 
 ### BrianArmory
-- The lighting and pathing kinda draws the player to go all the way up,
+- The lighting and pathing kinda draws the player to go all the way up, which is weird.
