@@ -27,10 +27,15 @@
 - Crystals need to have some kind of detail on them (texturing).
 - Idk lines on the edges or something.
 
+### Props
+- The tapestries that two tips could 
+
 ### Gameplay Mechanics
 - Mana should reset to full / empty after leaving a room.
 
 ### MikelResearchLab
 - Cages should not collide with the camera
 - There should be more cages that have "fallen to the ground" if we're gonna 
-- 
+- A lot of the big cages are too dark
+- The outside light should be more purple rather than bright white
+- Maybe replace a lot of the lights with more windows?
