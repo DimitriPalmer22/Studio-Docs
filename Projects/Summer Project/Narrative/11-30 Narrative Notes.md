@@ -45,6 +45,9 @@
 - The outside light should be more purple rather than bright white
 - Maybe replace a lot of the lights with more windows?
 
+### MikelPOCLLevel
+- There's a little staircase off to the side. Cover it with debris
+
 ### BrianKit3POC_Copy
 - There's a point you can fall out the map
 
