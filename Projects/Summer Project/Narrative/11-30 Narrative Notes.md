@@ -59,3 +59,6 @@
 ### BrianKit3POC_Copy
 - There's a point you can fall out the map
 - Corners of the map should not be completely unlit
+
+### BrianArmory
+- The lighting and pathing kinda draws the player to go all the way up,
