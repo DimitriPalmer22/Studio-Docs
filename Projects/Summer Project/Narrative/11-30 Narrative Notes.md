@@ -1,0 +1,3 @@
+- There should be at least lines separating Allister's fingers on his model
+- Took much smoke coming off the candles and the smoke is too long
+- Color of smoke coming off of candles is too similar
