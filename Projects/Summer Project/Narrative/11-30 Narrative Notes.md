@@ -22,6 +22,9 @@
 
 ### UI
 - Little metal thing at the bottom of the ribbon looks a lil weird. Shape
+- Not enough mana for secondary needs to be communicated better.
+	- Fall back and desaturate.
+	- Shake or something when trying to use when not enough mana.
 
 ### Crystals
 - Crystals need to have some kind of detail on them (texturing).
