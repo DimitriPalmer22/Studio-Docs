@@ -8,7 +8,15 @@
 - Player should not be able to walk through the starting upper deck's railing
 - The upper deck railing should be a little shorter, not taller than Allister
 - The lectern should not be taller than Allister
-- A\
+- A
 
 ### Scaling Issue
 - Everything is too big
+
+### Sound
+- Change dodge sound
+- d
+
+
+### UI
+- Little metal thing at the bottom of the ribbon looks a lil 
