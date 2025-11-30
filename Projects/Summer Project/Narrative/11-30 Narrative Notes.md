@@ -28,4 +28,8 @@
 - Idk lines on the edges or something.
 
 ### Gameplay Mechanics
-- 
+- Mana should reset to full / empty after leaving a room.
+
+### MikelResearchLab
+- Cages should not collide with the camera
+- There should be more cages that have "fallen to t"
