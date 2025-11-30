@@ -34,6 +34,7 @@
 - The tapestries that two tips could be a little longer. There isn't enough negative space between the logo 
 - For the tall stack of paper, stronger horizontal lines on the texture would help out a lot.
 - Bookshelf too small?
+- Armor stands on average are too 
 
 ### Gameplay Mechanics
 - Mana should reset to full / empty after leaving a room.
@@ -62,3 +63,8 @@
 
 ### BrianArmory
 - The lighting and pathing kinda draws the player to go all the way up, which is weird.
+
+### MikelArmory
+- If this is like a sparring room or something, there should be like a circle on the ground to indicate that there is a play area
+- A scoreboard would help sell this too
+- Less shields? One side could be shield, another side could be weapons.
