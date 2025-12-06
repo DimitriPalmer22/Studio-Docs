@@ -15,5 +15,8 @@
 # Player Input Processing
 - Input handling code will no longer directly trigger animations or effects
 - Instead, inputs will add player actions to a list of actions that have been performed.
-- For example, pressing the attack button will add a "Primary Attack" action to the list.
-- A list could look like: Primary, Primary, Dodge, Secondary
+	- For example, pressing the attack button will add a "Primary Attack" action to the list.
+	- A list *could* look like: 1. Primary, 2. Primary, 3. Dodge, 4. Primary
+- The player action processing system will then interpret this list and determine what animations and effects to trigger based on the current context.
+	- With the above example, the input processor will decide whether to use the basic Primary (the 4th player action), or should it trigger the dodge-attack version of the Primary based on the 3rd player action.
+	- This will be defined by the spell library associated with the Primary attack.
