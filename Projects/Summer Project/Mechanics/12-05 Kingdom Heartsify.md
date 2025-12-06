@@ -8,4 +8,12 @@
 
 # Player Action Abstraction
 - Data assets for actions the player can perform via inputs
-- The asset itself is empty. It is simply used 
+- The asset itself is empty. It is simply used to bridge inputs with animations and effects.
+- This will allow us to easily swap out or add animations and effects without needing to change input handling code.
+
+
+# Player Input Processing
+- Input handling code will no longer directly trigger animations or effects
+- Instead, inputs will add player actions to a list of actions that have been performed.
+- For example, pressing the attack button will add a "Primary Attack" action to the list.
+- A list could look like: Primary, Primary, Dodge, Secondary
