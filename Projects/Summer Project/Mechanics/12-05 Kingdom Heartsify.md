@@ -1,0 +1,1 @@
+"Spells" shouldn't be thought of as individual attack
