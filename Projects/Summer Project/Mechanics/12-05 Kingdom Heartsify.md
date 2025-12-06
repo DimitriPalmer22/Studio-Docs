@@ -20,3 +20,6 @@
 - The player action processing system will then interpret this list and determine what animations and effects to trigger based on the current context.
 	- With the above example, the input processor will decide whether to use the basic Primary (the 4th player action), or should it trigger the dodge-attack version of the Primary based on the 3rd player action.
 	- This will be defined by the spell library associated with the Primary attack.
+
+# Casting a Spell
+- To cast a spell or dodge or do anything really, the player actions need to be processed accordingly.
