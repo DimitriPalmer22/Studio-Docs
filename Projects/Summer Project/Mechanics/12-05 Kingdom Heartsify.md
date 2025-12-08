@@ -37,6 +37,7 @@ Each spell input should be set up as:
 - This is largely due to the enemies almost never having an opportunity to act first. Once the player begins to attack an enemy, the enemy is almost always on the defensive.
 
 ### How Does Kingdom Hearts 2 Do This?
+- https://www.youtube.com/watch?v=OoWlcMYlNQY
 - Something we see a lot of in Kingdom Hearts 2 is *enemies that become invincible* for a short time before attacking.
 	- For example, the basic heartless enemies phase into the ground and will attack the player once the come up. While the enemies are underground, the player focuses on other enemies, which allows the phased enemies to catch the player off guard once they resurface. Alone, they are not much of a threat, but in groups, they can be dangerous.
 	- Another example are the heartless enemies with two tails. They'll dive into the ground and become invincible for a short time before surfacing and attacking the player. The difference here is that the enemies are STILL invincible while attacking, which forces the player to dodge or block the attack rather than simply attacking through it. The only opportunity to damage these enemies is by either parrying / blocking the attack or attacking them while they are above ground before they can attack.
@@ -47,6 +48,8 @@ Each spell input should be set up as:
 - *Some enemies will relocate themselves* to gain a tactical advantage before attacking.
 	- For instance, flying enemies will often move to higher ground before attacking the player, forcing the player to start aerial combos to reach them.
 	- Other enemies will just move further away from the player to force the player to close the distance before attacking. In theory, this should allow the enemy to set up their attack better before the player comes within range.
+- *Some enemies move too fast to be hit*. They'll dart around the battlefield, making it difficult for the player to land hits on them.
+	- For instance, small flying enemies will often move quickly around the player, making it difficult to hit them with basic attacks. The player must either use area-of-effect attacks or time their attacks carefully to hit these enemies.
 
 ### Is This Necessary?
 - For every enemy, no. 
