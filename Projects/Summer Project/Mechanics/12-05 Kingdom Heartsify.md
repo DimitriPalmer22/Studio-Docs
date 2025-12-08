@@ -42,4 +42,6 @@ Each spell input should be set up as:
 	- Another example are the heartless enemies with two tails. They'll dive into the ground and become invincible for a short time before surfacing and attacking the player. The difference here is that the enemies are STILL invincible while attacking, which forces the player to dodge or block the attack rather than simply attacking through it. The only opportunity to damage these enemies is by either parrying / blocking the attack or attacking them while they are above ground before they can attack.
 - Some enemies will retreat before attacking, making them virtually unhittable before they complete their attack sequence.
 	- For instance, ...
-- Some enemies have
+- Some enemies have certain conditions that must be met before being damaged.
+	- For instance, the big heartless enemies with the big bellies cannot be damaged from the front. The player must either attack them from behind or use a specific move to stagger them before being able to damage them.
+- Some enemies will relocate 
