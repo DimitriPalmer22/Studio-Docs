@@ -34,6 +34,9 @@ Each spell input should be set up as:
 - Everything in the game feels like it is the player's doing, and enemies are just sitting there waiting to be attacked.
 - This leads to a very one-dimensional combat experience where the player just spams attacks until everything dies.
 - Instead, we need to focus on a more dynamic combat system where enemies can proactively challenge the player.
-- This is 
+- This is largely due to the enemies almost never having an opportunity to act first. Once the player begins to attack an enemy, the enemy is almost always on the defensive.
 
-### How Does Kingdom Hearts Do This?
+### How Does Kingdom Hearts 2 Do This?
+- Something we see a lot of in Kingdom Hearts 2 is enemies that become invincible for a short time before attacking.
+	- For example, the basic heartless enemies phase into the ground and will attack the player once the come up. While the enemies are underground, the player focuses on other enemies, which allows the phased enemies to catch the player off guard once they resurface. Alone, they are not much of a threat, but in groups, they can be dangerous.
+	- Another example are the heartless enemies with two tails. They'l
