@@ -27,7 +27,7 @@ Each spell input should be set up as:
 - Some type of context-aware interpreter that will determine which player action to trigger based on the current context (distance to enemy, player state, etc.)
 - The associated animation + logic that will be triggered when the player action is executed. Each of these can be its OWN gameplay ability.
 
-# Enemy Attacks
+# Combat from the Enemies' Perspective
 
 ### Enemy Proactivity
 - A big part of why combat feels so stale is because the player is almost never challenged to react to enemy actions.
