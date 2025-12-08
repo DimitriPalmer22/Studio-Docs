@@ -38,7 +38,7 @@ Each spell input should be set up as:
 
 ### How Does Kingdom Hearts 2 Do This?
 - https://www.youtube.com/watch?v=OoWlcMYlNQY
-- Something we see a lot of in Kingdom Hearts 2 is *enemies that become invincible* for a short time before attacking.
+- Something we see a lot of in Kingdom Hearts 2 is *enemies that become invincible* for a short time before attacking. (OR invincible while attacking)
 	- For example, the basic heartless enemies phase into the ground and will attack the player once the come up. While the enemies are underground, the player focuses on other enemies, which allows the phased enemies to catch the player off guard once they resurface. Alone, they are not much of a threat, but in groups, they can be dangerous.
 	- Another example are the heartless enemies with two tails. They'll dive into the ground and become invincible for a short time before surfacing and attacking the player. The difference here is that the enemies are STILL invincible while attacking, which forces the player to dodge or block the attack rather than simply attacking through it. The only opportunity to damage these enemies is by either parrying / blocking the attack or attacking them while they are above ground before they can attack.
 - *Some enemies will completely retreat* before attacking, making them virtually unhittable before they complete their attack sequence.
