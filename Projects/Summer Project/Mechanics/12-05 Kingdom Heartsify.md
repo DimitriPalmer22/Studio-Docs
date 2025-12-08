@@ -47,3 +47,9 @@ Each spell input should be set up as:
 - *Some enemies will relocate themselves* to gain a tactical advantage before attacking.
 	- For instance, flying enemies will often move to higher ground before attacking the player, forcing the player to start aerial combos to reach them.
 	- Other enemies will just move further away from the player to force the player to close the distance before attacking. In theory, this should allow the enemy to set up their attack better before the player comes within range.
+
+### Is This Necessary?
+- For every enemy, no. 
+- But, for key enemies and bosses, absolutely.
+- The more dynamic each enemy is, then the more engaging the combat will feel.
+- The game's difficulty will derive from how well the player is able to manage the various enemy attack patterns and respond to them.
