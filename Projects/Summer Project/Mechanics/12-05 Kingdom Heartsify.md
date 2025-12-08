@@ -26,3 +26,14 @@ Each spell input should be set up as:
 - A list of player actions (An array of player action data assets)
 - Some type of context-aware interpreter that will determine which player action to trigger based on the current context (distance to enemy, player state, etc.)
 - The associated animation + logic that will be triggered when the player action is executed. Each of these can be its OWN gameplay ability.
+
+# Enemy Attacks
+
+### Enemy Proactivity
+- A big part of why combat feels so stale is because the player is almost never challenged to react to enemy actions.
+- Everything in the game feels like it is the player's doing, and enemies are just sitting there waiting to be attacked.
+- This leads to a very one-dimensional combat experience where the player just spams attacks until everything dies.
+- Instead, we need to focus on a more dynamic combat system where enemies can proactively challenge the player.
+- This is 
+
+### How Does Kingdom Hearts Do This?
