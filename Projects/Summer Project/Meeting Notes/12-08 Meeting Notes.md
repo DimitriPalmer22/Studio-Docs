@@ -20,7 +20,7 @@
 
 ### Steam Next Fest / Creating a Full Playable Demo
 
-## Current State of the Game / v0.14.0 Changes (So Far)
+## v0.14.0 Updates and Goals
 
 ### Gameplay Pivot Ideology
 - You remember when, at some point, I said this game would be like Kingdom Hearts. Well, it sure didn't feel like it.
@@ -31,7 +31,7 @@
 > Note: Some of these are still being worked on.
 
 #### Player Attack
-Our game is only going to have so many buttons 
+Our game is only going to have so many buttons to work with. So, we need to make sure that combat feels dynamic in spite of this.
 
 ##### Primary Spells
 - Before, the primary spells were just a simple string of attacks that the player could perform. *This made gameplay very stale* and unengaging.
@@ -43,3 +43,9 @@ Our game is only going to have so many buttons
 
 
 #### Enemy Behavior
+
+##### Why are the enemies so terrible?
+- Right now the enemies are not very *proactive*. They just stand there and wait to be attacked.
+- This makes combat feel one-dimensional and boring.
+
+##### Revised Eenemy
