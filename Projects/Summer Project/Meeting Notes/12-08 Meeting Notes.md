@@ -12,4 +12,12 @@
 
 ## Production Timeline
 
-## 
+### Getting The Steam Page Up
+
+### Creating A Play
+
+### 
+
+## Current State of the Game / v0.14.0 Changes (So Far)
+
+### Gameplay Pivot
