@@ -38,11 +38,12 @@ Our game is only going to have so many buttons to work with. So, we need to make
 - Now, primary spells give you a library of moves to perform based on context (Kinda like Kingdom Hearts)
 	- There are / will be different attacks depending on conditions like how far away an enemy is or how many enemies are around you.
 - This way, spamming the same attack button will still feel dynamic and engaging.
-- There should be several moves to increase the fluidity of combat
+- There should be several moves to increase the fluidity of combat (like moves that bring enemies closer to you, or moves that let you close distance quickly.)
 
 ##### Primary Spell Rework: Flame Volley
 - Flame volley's range is EVEN SHORTER
-- 
+- There is now a move that closes distance to enemies when they are just out of reach.
+- There is a now a move that plays when attacking immediately after dodging.
 
 ##### Secondary Spells (None of this is implemented yet)
 - ...
