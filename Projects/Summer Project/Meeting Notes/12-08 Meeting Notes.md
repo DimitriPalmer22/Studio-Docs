@@ -25,11 +25,13 @@ This means we have to sell the game for money.
 
 ### Creating A Playtest-able Build
 
-By the end of December, I want to start holdo
+*By the end of December*, I want to start holding regular playtests of the game (sending them to other people). This is for two reasons:
+- Feedback
+- Marketing. Allowing people to play the game will create some type of community for it.
 
 ### Steam Next Fest / Creating a Full Playable Demo
 
-#### 
+#### Next Fest
 
 ## v0.14.0 Updates and Goals
 
