@@ -31,7 +31,15 @@
 > Note: Some of these are still being worked on.
 
 #### Player Attack
+Our game is only going to have so many buttons 
 
 ##### Primary Spells
 - Before, the primary spells were just a simple string of attacks that the player could perform. *This made gameplay very stale* and unengaging.
-- Now, primary spells give you a library of moves to 
+- Now, primary spells give you a library of moves to perform based on context (Kinda like Kingdom Hearts)
+	- There are / will be different attacks depending on conditions like how far away an enemy is or how many enemies are around you.
+- This way, spamming the same attack button will still feel dynamic and engaging.
+
+##### Secondary Spells (None of this is implemented yet)
+
+
+#### Enemy Behavior
