@@ -33,6 +33,10 @@ I want to sell the game for $8. If we feel like the game isn't worth that much, 
 
 ### Steam Next Fest / Creating a Full Playable Demo
 
+- For games with low visibility, demos are the way to go.
+- The trending + trending free pages include demos. So, we can use this to increase impressions and wishlists.
+- For a game like ours that doesn't have access to a whole bunch of marketi
+
 > Note: In order to be eligible for February's next fest, the game must be set to release fully on or after March 2nd.
 
 - January 5th: Registration Deadline - up-to-date marketing materials (recommended). Steam page up and public. Trailer is also a good idea.
