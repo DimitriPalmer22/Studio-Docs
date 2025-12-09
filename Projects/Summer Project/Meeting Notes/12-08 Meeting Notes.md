@@ -2,8 +2,8 @@
 
 | Meeting                         | Possible Times |
 | ------------------------------- | -------------- |
-| LD Meeting                      | Tuesday 8pm    |
-| Narrative Designer + CD Meeting |                |
+| LD Meeting                      | Tuesday @ 8pm  |
+| Narrative Designer + CD Meeting | Tuesday @ 11am |
 | Sound Meeting                   |                |
 | Environmental Artist Meeting    | Saturday @ 3pm |
 | 2D Artist                       | Friday @ 4pm   |
