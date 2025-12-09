@@ -5,8 +5,8 @@
 | LD Meeting                      | Tuesday 8pm    |
 | Narrative Designer + CD Meeting |                |
 | Sound Meeting                   |                |
-| Environmental Artist Meeting    |                |
-| 2D Artist                       |                |
+| Environmental Artist Meeting    | Saturday @ 3pm |
+| 2D Artist                       | Friday @ 4pm   |
 | Animation Meeting               |                |
 | Character Artist Meeting        |                |
 
