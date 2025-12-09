@@ -31,6 +31,10 @@ This means we have to sell the game for money.
 
 ### Steam Next Fest / Creating a Full Playable Demo
 
+- January 5th: Registration Deadline - up-to-date marketing materials (recommended). Steam page up and public. Trailer is also a good idea.
+- January 26th: Demo build submitted for review
+- Februrary 9th: All require
+
 #### Next Fest
 
 ## v0.14.0 Updates and Goals
