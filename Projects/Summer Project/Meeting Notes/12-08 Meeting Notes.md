@@ -47,5 +47,10 @@ Our game is only going to have so many buttons to work with. So, we need to make
 ##### Why are the enemies so terrible?
 - Right now the enemies are not very *proactive*. They just stand there and wait to be attacked.
 - This makes combat feel one-dimensional and boring.
+- Enemies need a way to guarantee that they can attack the player first, rather than waiting for the player to attack them.
 
-##### Revised Eenemy
+##### Revised Enemy: Primordial (Fire) Knight
+- To address the above issue, the Fire Knight enemy has been revised to be more proactive.
+- If the player is too close to the knight, the knight will dodge backward.
+- If the player does too much damage to the knight in a short span of time, the knight will dodge backward AND THEN do their thrusting attack.
+- Also, the beginning of the knight's thrust attack has super-armor, so the player can't just interrupt it with attacks initially.
