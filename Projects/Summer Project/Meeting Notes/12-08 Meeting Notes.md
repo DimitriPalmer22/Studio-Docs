@@ -72,7 +72,7 @@ Our game is only going to have so many buttons to work with. So, we need to make
 > Note: The other spells are gonna be reworked in a similar manner.
 
 ##### Secondary Spells (None of this is implemented yet)
-- 
+- to be disclosed
 
 #### Enemy Behavior
 
