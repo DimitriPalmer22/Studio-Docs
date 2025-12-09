@@ -21,11 +21,11 @@ This means we have to sell the game for money.
 - At some point very very soon, I will ask you guys for some money to get the Steam page up. Any amount would be greatly appreciated.
 
 #### Marketing Materials
-
+!![](<../../../_Meta/Attachments/Pasted image 20251208192836.png>)
 
 ### Creating A Playtest-able Build
 
-####
+By the end of December, I want to start holdo
 
 ### Steam Next Fest / Creating a Full Playable Demo
 
