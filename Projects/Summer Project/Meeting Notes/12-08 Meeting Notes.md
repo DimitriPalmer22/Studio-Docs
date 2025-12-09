@@ -15,13 +15,15 @@
 ### Goal: Make Money
 This means we have to sell the game for money.
 
+I want to sell the game for $8. If we feel like the game isn't worth that much, then we have to make it better.
+
 ### Getting The Steam Page Up
 
 #### $100 to get the Steam Page Up
 - At some point very very soon, I will ask you guys for some money to get the Steam page up. Any amount would be greatly appreciated.
 
 #### Marketing Materials
-!![](<../../../_Meta/Attachments/Pasted image 20251208192836.png>)
+![](<../../../_Meta/Attachments/Pasted image 20251208192836.png>)
 
 ### Creating A Playtest-able Build
 
