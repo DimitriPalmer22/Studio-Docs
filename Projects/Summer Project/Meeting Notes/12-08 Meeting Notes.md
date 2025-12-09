@@ -40,7 +40,7 @@ Our game is only going to have so many buttons to work with. So, we need to make
 - This way, spamming the same attack button will still feel dynamic and engaging.
 
 ##### Secondary Spells (None of this is implemented yet)
-
+- ...
 
 #### Enemy Behavior
 
@@ -48,6 +48,7 @@ Our game is only going to have so many buttons to work with. So, we need to make
 - Right now the enemies are not very *proactive*. They just stand there and wait to be attacked.
 - This makes combat feel one-dimensional and boring.
 - Enemies need a way to guarantee that they can attack the player first, rather than waiting for the player to attack them.
+- At no point does it feel like the player needs to strategically approach combat. They just spam attacks until everything dies.
 
 ##### Revised Enemy: Primordial (Fire) Knight
 - To address the above issue, the Fire Knight enemy has been revised to be more proactive.
