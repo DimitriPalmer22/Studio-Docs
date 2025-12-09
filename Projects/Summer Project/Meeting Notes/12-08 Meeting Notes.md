@@ -25,17 +25,11 @@ I want to sell the game for $8. If we feel like the game isn't worth that much, 
 #### Marketing Materials
 ![](<../../../_Meta/Attachments/Pasted image 20251208192836.png>)
 
-### Creating A Playtest-able Build
-
-*By the end of December*, I want to start holding regular playtests of the game (sending them to other people). This is for two reasons:
-- Feedback
-- Marketing. Allowing people to play the game will create some type of community for it.
-
 ### Steam Next Fest / Creating a Full Playable Demo
 
 - For games with low visibility, demos are the way to go.
 - The trending + trending free pages include demos. So, we can use this to increase impressions and wishlists.
-- For a game like ours that doesn't have access to a whole bunch of marketi
+- For a game like ours that doesn't have access to a whole bunch of marketing resources, this is a great way to get visibility.
 
 > Note: In order to be eligible for February's next fest, the game must be set to release fully on or after March 2nd.
 
@@ -44,7 +38,11 @@ I want to sell the game for $8. If we feel like the game isn't worth that much, 
 - February 9th: All required materials due
 - February 26th: Next fest starts
 
-#### Next Fest
+### Creating A Playtest-able Build
+
+*By the end of December*, I want to start holding regular playtests of the game (sending them to other people). This is for two reasons:
+- Feedback
+- Marketing. Allowing people to play the game will create some type of community for it.
 
 ## v0.14.0 Updates and Goals
 
