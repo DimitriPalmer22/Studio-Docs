@@ -12,13 +12,24 @@
 
 ## Production Timeline
 
+### Goal: Make Money
+This means we have to sell the game for money.
+
 ### Getting The Steam Page Up
+
+#### $100 to get the Steam Page Up
+- At some point very very soon, I will ask you guys for some money to get the Steam page up. Any amount would be greatly appreciated.
 
 #### Marketing Materials
 
+
 ### Creating A Playtest-able Build
 
+####
+
 ### Steam Next Fest / Creating a Full Playable Demo
+
+#### 
 
 ## v0.14.0 Updates and Goals
 
