@@ -24,4 +24,11 @@
 
 ### His Method of Attack
 
-- Lore wise, Allister has NO weapons coming into 
+- Lore wise, Allister does not use any weapons
+- He fights using only close-range magic
+- His design should reflect this
+- A hand-heavy design is probably best here
+- Maybe heavier gloves or gauntlets to suggest he channels magic through his hands
+- Avoid any weapon-like accessories in his design
+- Potentially, his posing could emphasize his fists a little more to suggest his fighting style
+- At first glance, the viewer should NOT get the impression that this guy is a traditional long-range mage
