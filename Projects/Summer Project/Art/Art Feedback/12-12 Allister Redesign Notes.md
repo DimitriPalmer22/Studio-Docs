@@ -10,6 +10,7 @@
 - Incorporate light armor pieces into his design to suggest he is prepared for physical confrontations
 	- NOT heavy metal armor pieces like how Zythomyra has. That'd be too much.
 - Maybe some light shoulder pads
+- Potentially more layers to his design to suggest added protection
 
 #### Armor Inspirations
 
