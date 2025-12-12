@@ -6,9 +6,10 @@
 
 !![](<../../../../_Meta/Attachments/Pasted image 20251212170437.png>)
 
-Depending on how angled the body is, the far arm should be 
+- Depending on how angled the body is, the far arm should be a little obscured by the torso.
 !![](<../../../../_Meta/Attachments/maxresdefault.jpg>)
 
 # Tarun
 
 # Hidetomo
+- 
