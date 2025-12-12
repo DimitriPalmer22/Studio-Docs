@@ -6,6 +6,8 @@
 
 !![](<../../../../_Meta/Attachments/Pasted image 20251212170437.png>)
 
+Depending on how angled the body is, the far arm should be 
+!![](<../../../../_Meta/Attachments/maxresdefault.jpg>)
 
 # Tarun
 
