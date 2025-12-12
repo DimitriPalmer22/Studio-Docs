@@ -20,7 +20,7 @@
 - Also, on one side of his robe, there is like an angled collar neck thing. However, the other side is completely straight. Both sides should match.
 !![](<../../../../_Meta/Attachments/Pasted image 20251212172028.png>)
 
-- Hi
+- Tarun's head under his cap is too flat. There should be a little more skull shape to fill the cap out better and give it more volume.
 
 # Hidetomo
 
