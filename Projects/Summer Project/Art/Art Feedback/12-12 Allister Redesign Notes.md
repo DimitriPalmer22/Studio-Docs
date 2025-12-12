@@ -34,6 +34,6 @@
 - At first glance, the viewer should NOT get the impression that this guy is a traditional long-range mage
 
 
-!![](<../../../../_Meta/Attachments/Sylas_Render.webp>)
+![](<../../../../_Meta/Attachments/Sylas_Render.webp>)
 - This is Sylas from LoL. This is an EXTREME example of a hand-heavy design that implies close-ranged combat
 - We want something less extreme than this, but the idea is there
