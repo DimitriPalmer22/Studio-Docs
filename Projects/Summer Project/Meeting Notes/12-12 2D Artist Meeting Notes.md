@@ -22,6 +22,8 @@
 
 ### Marketing Materials
 
+- TODO: Find very clear examples of each of the library and store marketing materials
+
 #### 1-2 Big Art Pieces that We Can Crop and Reuse
 
 ### Look at the Schedule Again
