@@ -8,7 +8,8 @@
 - As a result, Allister's basic mage robes no longer fit his role in the game.
 - We need an updated design for Allister & a new character portrait that reflects this change.
 - Allister should have:
-	- 
+	- More armor to reflect his "battle mage" role.
+	- He should have some type of design decision that heavily implies his close-combat fight style of attack (this could)
 
 #### Other Character Portraits
 
