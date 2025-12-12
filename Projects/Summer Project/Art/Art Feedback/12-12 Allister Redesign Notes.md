@@ -9,7 +9,7 @@
 - Allister's attire needs to reflect this
 - Incorporate light armor pieces into his design to suggest he is prepared for physical confrontations
 	- NOT heavy metal armor pieces like how Zythomyra has. That'd be too much.
-- Maybe some light shoulder pads
+- Maybe some light shoulder pads and knee guards
 - Potentially more layers to his design to suggest added protection
 
 #### Armor Inspirations
@@ -20,4 +20,8 @@
 
 !![](<../../../../_Meta/Attachments/ray-lederer-ray-lederer-tesv-mage-robe.jpg>)
 
+!![](<../../../../_Meta/Attachments/goldrins-magefff-2.jpg>)
+
 ### His Method of Attack
+
+- Lore wise, Allister has NO weapons coming into 
