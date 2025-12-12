@@ -11,5 +11,9 @@
 
 # Tarun
 
+- Anatomy of his arm is a bit weird.
+- If his hand is on his neck like that, then his elbow should either be raised higher or brought a little more forward
+- Also, 
+
 # Hidetomo
 - 
