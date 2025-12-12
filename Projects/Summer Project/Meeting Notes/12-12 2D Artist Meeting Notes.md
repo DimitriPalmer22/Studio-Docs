@@ -14,6 +14,15 @@
 #### Other Character Portraits
 
 
+### In-Game 2D Art Assets
+
+#### UI Elements & Menu Backgrounds
+
+#### Spell Icons
+
+### Marketing Materials
+
+
 ### Look at the Time Frame Again
 
 
