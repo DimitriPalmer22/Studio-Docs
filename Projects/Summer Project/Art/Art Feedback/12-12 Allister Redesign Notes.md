@@ -18,9 +18,9 @@
 
 ![](<../../../../_Meta/Attachments/94fd5f9b73854c149921f385f9b15699.jpg>)
 
-!![](<../../../../_Meta/Attachments/ray-lederer-ray-lederer-tesv-mage-robe.jpg>)
+![](<../../../../_Meta/Attachments/ray-lederer-ray-lederer-tesv-mage-robe.jpg>)
 
-!![](<../../../../_Meta/Attachments/goldrins-magefff-2.jpg>)
+![](<../../../../_Meta/Attachments/goldrins-magefff-2.jpg>)
 
 ### His Method of Attack
 
