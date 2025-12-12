@@ -28,6 +28,9 @@
 
 - [The Face is at a 3/4 Angle, But the Bodies are Not](<#The Face is at a 3/4 Angle, But the Bodies are Not>)
 
-- 
+!![](<../../../../_Meta/Attachments/Pasted image 20251212172555.png>)
+- The transition from Hidetomo's shoulders to his neck to his head seems a bit off.
+- His neck seems a little thick compared to the other characters
+- Also, bro needs to be de-yellowed
 
 # LeBron James Highlights because why not
