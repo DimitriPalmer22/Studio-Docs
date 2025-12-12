@@ -14,8 +14,13 @@
 - Anatomy of his arm is a bit weird.
 - If his hand is on his neck like that, then his elbow should either be raised much higher or brought much more forward
 	- That's where my elbow naturally goes if I try to recreate this pose in real life
-- Also, the top of the sleeve of the arm that is going up should be more wrinkled as well.  
-- the buttons on
+- Also, the top of the sleeve of the arm that is going up should be more wrinkled as well. 
+- the buttons on his shirt aren't really buttoning anything down. His shirt is completely flat. There should be a flap or something to indicate that the shirt is being buttoned down.
+
+- Also, on one side of his robe, there is like an angled collar neck thing. However, the other side is completely straight. Both sides should match.
+!![](<../../../../_Meta/Attachments/Pasted image 20251212172028.png>)
+
+- Hi
 
 # Hidetomo
 
