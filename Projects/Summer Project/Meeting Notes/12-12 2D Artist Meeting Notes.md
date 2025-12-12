@@ -53,3 +53,5 @@ https://trello.com/invite/b/6939df7c03b5560a5ceeaa78/ATTI182da3ad2aa5a10bf4b0160
 - For an app icon, we can highkey just use the bad guy symbol since its like everywhere in the game.
 - Steam pages to use as reference: Dead Cells, Hades, Hades 2, Blasphemous, Hollow Knight, Hollow Knight Silksong
 - Highkey, it might be a great idea to have the tome in the marketing materials since Allister uses a tome at all times.
+- New playtestable build tmr
+- Video of the game coming soon as well
