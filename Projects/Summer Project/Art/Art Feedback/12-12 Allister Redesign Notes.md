@@ -28,7 +28,8 @@
 - He fights using only close-range magic
 - His design should reflect this
 - A hand-heavy design is probably best here
-- Maybe heavier gloves or gauntlets to suggest he channels magic through his hands
+- Maybe heavier gloves or gauntlets to suggest he channels magic through his hands. 
+	- If we do gauntlets, we should do something that encapsulates Allister's entire forearm, not just his hands
 - Avoid any weapon-like accessories in his design
 - Potentially, his posing could emphasize his fists a little more to suggest his fighting style. Maybe a pose where he is clenching one of his fists while magic swirls around it.
 - At first glance, the viewer should NOT get the impression that this guy is a traditional long-range mage
