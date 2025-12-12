@@ -1,13 +1,14 @@
 # General Feedback for ALL Portraits
 
 ### The Face is at a 3/4 Angle, But the Bodies are Not
+- This is something that affects most character portraits, so they'll probably all need to be adjusted.
 - In most of the character portraits (excluding Aristide), the faces are drawn at a 3/4 angle, but the bodies are facing directly forward. This creates a disconnect between the head and body, making the characters look less cohesive. Consider adjusting the body poses to better match the angle of the faces.
 - The viewer should be able to see more of the close side of the body to align with the 3/4 angle of the face. The far side should be less visible. and should seem a little narrower due to perspective.
 
-!![](<../../../../_Meta/Attachments/Pasted image 20251212170437.png>)
+![](<../../../../_Meta/Attachments/Pasted image 20251212170437.png>)
 
 - Depending on how angled the body is, the far arm should be a little obscured by the torso.
-!![](<../../../../_Meta/Attachments/maxresdefault.jpg>)
+![](<../../../../_Meta/Attachments/maxresdefault.jpg>)
 
 # Tarun
 
@@ -28,9 +29,10 @@
 
 - [The Face is at a 3/4 Angle, But the Bodies are Not](<#The Face is at a 3/4 Angle, But the Bodies are Not>)
 
-!![](<../../../../_Meta/Attachments/Pasted image 20251212172555.png>)
+![](<../../../../_Meta/Attachments/Pasted image 20251212172555.png>)
 - The transition from Hidetomo's shoulders to his neck to his head seems a bit off.
 - His neck seems a little thick compared to the other characters
-- Also, bro needs to be de-yellowed
+- Also, bro needs to be de-yellowed to match the skin tones of the other characters.
 
-# LeBron James Highlights because why not
+# LeBron James Highlights Because Why Not
+https://www.youtube.com/watch?v=-9lP95Qo-I0
