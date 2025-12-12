@@ -11,6 +11,8 @@
 
 # Tarun
 
+- [The Face is at a 3/4 Angle, But the Bodies are Not](<#The Face is at a 3/4 Angle, But the Bodies are Not>)
+
 - Anatomy of his arm is a bit weird.
 - If his hand is on his neck like that, then his elbow should either be raised much higher or brought much more forward
 	- That's where my elbow naturally goes if I try to recreate this pose in real life
@@ -24,5 +26,8 @@
 
 # Hidetomo
 
+- [The Face is at a 3/4 Angle, But the Bodies are Not](<#The Face is at a 3/4 Angle, But the Bodies are Not>)
+
+- 
 
 # LeBron James Highlights because why not
