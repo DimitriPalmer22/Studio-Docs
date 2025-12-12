@@ -49,4 +49,4 @@ https://trello.com/invite/b/6939df7c03b5560a5ceeaa78/ATTI182da3ad2aa5a10bf4b0160
 - Feedback for the character portraits will be sent out soon
 - A list of the 2D assets that need to be made will be sent out soon
 - Brainstorm marketing material designs fr
-- We'll try to do paintover of a screenshot in the game to use as a background for the  
+- We'll try to do paintover of a screenshot in the game to use as a background for the marketing materials (to make it visually consistent with the art in the game) 
