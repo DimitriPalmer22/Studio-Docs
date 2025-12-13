@@ -145,3 +145,10 @@ Since we are controlling the demo experience, we can choose which enemies to inc
 
 
 ### "Boss" Room
+
+### End of Area Room
+This is a room that signifies the end of Area 1. It should have some kind of visual cue to indicate to the player that they have reached the end of the area (idk like a significant door or something)
+
+This is also where your rewards for completing the previous room will be given.
+
+Leaving this room in the demo presents you with the end of the demo experience.
