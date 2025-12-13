@@ -40,7 +40,7 @@ So, there will be:
 ### The Tutorial
 
 #### Allow Players to Skip the Tutorial
-Within the starting room, there should be another option somewhere to progress withu
+Within the starting room, there should be another option somewhere to progress without doing the tutorial. This allows players who are already familiar with the game to jump straight into the action.
 
 #### The Tutorial Level
 Choose an Existing Level to Place the Tutorial In. Don't waste time making a new one. Just pick one that already exists and modify it as needed.
@@ -59,4 +59,7 @@ Choose an Existing Level to Place the Tutorial In. Don't waste time making a new
 - Teach the concept of mana
 
 ##### How to Dodge
-- 
+- Directional dodging
+- Perfect dodging
+
+##### Kill the Enemies to Clea
