@@ -89,4 +89,5 @@ Each level should:
 - Keep the player occupied within the room for at least 30 seconds if they are a new player
 - not be too difficult or too easy
 
-
+### Enemies / Combat
+The combat is the game's main appeal.
