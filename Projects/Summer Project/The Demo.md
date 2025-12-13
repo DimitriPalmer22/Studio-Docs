@@ -18,5 +18,17 @@ Every single time the player starts a new run in the demo, we will treat it as i
 
 ### The Starting Room
 
+#### The Prop that Players Get their Tome From
+This needs to be made and refine
+
 #### The Spells The Player Can Get
-Players will acquire their starting loadout and stats by answering several questions at the start of the game. 
+Players will acquire their starting loadout and stats by answering several questions at the start of the game. These questions will determine the player's initial spells and stats, allowing for a personalized experience right from the beginning.
+
+However, for the demo, we will only allow the player to get one of two primary spells and one of two secondary spells based on their answers. This ensures that the demo experience is streamlined and focused.
+
+So, there will be:
+- ONE primary spell question
+- ONE secondary spell question
+- Questions that give passives / stats or whatever
+
+### 
