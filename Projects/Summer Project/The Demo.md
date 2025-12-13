@@ -146,6 +146,8 @@ Since we are controlling the demo experience, we can choose which enemies to inc
 
 ### "Boss" Room
 
+> Very stretch goal. Include enhanced versions of existing enemies and plop them within the boss rooms.
+
 ### End of Area Room
 This is a room that signifies the end of Area 1. It should have some kind of visual cue to indicate to the player that they have reached the end of the area (idk like a significant door or something)
 
