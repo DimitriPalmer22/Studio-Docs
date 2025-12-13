@@ -90,4 +90,9 @@ Each level should:
 - not be too difficult or too easy
 
 ### Enemies / Combat
-The combat is the game's main appeal.
+The combat is the game's main appeal. Therefore, the game's combat needs as much refinement as possible before the demo is submitted.
+
+#### Distribution of Enemies
+Our game has several enemy types. We do not want to throw all of them at the player at once. This may be too much for new players to handle.
+
+Maybe it'd be better if the waves of each room had a central theme
