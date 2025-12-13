@@ -95,4 +95,14 @@ The combat is the game's main appeal. Therefore, the game's combat needs as much
 #### Distribution of Enemies
 Our game has several enemy types. We do not want to throw all of them at the player at once. This may be too much for new players to handle.
 
-Maybe it'd be better if the waves of each room had a central theme
+Maybe it'd be better if the waves of each room had a central theme / main enemy type. For example:
+- Wave 1: A few primordial knights
+- Wave 2: More primordial knights + some more basic ranged enemies
+- Wave 3: A good number of primordial knights + some ranged enemies
+
+This way, the player can get used to fighting one enemy type before being introduced to another.
+
+As we go into the latter areas of the game, we can be more comfortable with earlier waves having a mix of enemy types.
+
+
+#### With this Approach, it is MUCH e
