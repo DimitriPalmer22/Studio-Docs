@@ -39,4 +39,15 @@ So, there will be:
 
 ### The Tutorial
 
-#### Choose an Existing Level to Place the Tutorial In
+#### The Tutorial Level
+Choose an Existing Level to Place the Tutorial In. Don't waste time making a new one. Just pick one that already exists and modify it as needed.
+
+#### Tutorial Objectives
+
+##### How To Use Primary Spells
+- A primary spell is a *library* of moves you can use.
+- How do you check which moves are available to you?
+
+***UPDATE THE SPELLS SCREEN***
+
+####
