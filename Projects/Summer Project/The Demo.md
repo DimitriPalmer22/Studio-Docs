@@ -104,5 +104,13 @@ This way, the player can get used to fighting one enemy type before being introd
 
 As we go into the latter areas of the game, we can be more comfortable with earlier waves having a mix of enemy types.
 
+#### With this Approach, We Can Control Which Enemies are In The Game
+Since we are controlling the demo experience, we can choose which enemies to include in the demo. This allows us to focus on polishing a smaller set of enemies rather than trying to perfect all of them.
 
-#### With this Approach, it is MUCH e
+#### Which Enemies are In the Demo
+
+##### Primordial Knight
+- Needs to be textured
+- Attack animations are still too hard to read
+- Needs sound effects
+- Attacks need accompanying VFX 
