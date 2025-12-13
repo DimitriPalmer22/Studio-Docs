@@ -124,4 +124,24 @@ Since we are controlling the demo experience, we can choose which enemies to inc
 ##### Primordial Wraith
 - Needs to be textured
 - Attack animations are still too hard to read. Needs to convey: When and where it is going to attack.
-- 
+- Needs sound effects
+
+##### Twilight Wraith
+- Needs to be textured
+- Attack animations are still too hard to read. Needs to convey: When and where it is going to attack.
+- Needs sound effects
+
+##### One of the Minotaur Enemies
+ - Needs to exist
+ - Needs to be rigged and animated
+
+### Upgrade Room
+
+
+### Passive Spell Room
+
+
+### Shop Room
+
+
+### "Boss" Room
