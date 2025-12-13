@@ -16,6 +16,14 @@ Every single time the player starts a new run in the demo, we will treat it as i
 
 ### The Main Menu
 
+#### Readability
+
+#### Should Always Start a New Game
+
+#### Should include the text somewhere that "This is a demo. Progress will not be saved."
+
+#### Settings
+
 ### The Starting Room
 
 The starting room itself should be polished. This means:
@@ -78,5 +86,7 @@ Each level should:
 - be free of bugs and glitches
 - Have proper collision (including any necessary invisible walls)
 - Have appropriate enemy placements and spawns
-- Keep the player occupied within the room 
+- Keep the player occupied within the room for at least 30 seconds if they are a new player
 - not be too difficult or too easy
+
+
