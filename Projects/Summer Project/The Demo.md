@@ -18,8 +18,14 @@ Every single time the player starts a new run in the demo, we will treat it as i
 
 ### The Starting Room
 
+The starting room itself should be polished. This means:
+- the level is properly set-dressed
+- lighting is finalized
+- any necessary invisible walls are in place
+- the player always knows where to go within the room
+
 #### The Prop that Players Get their Tome From
-This needs to be made and refine
+This needs to be made and refined in time for the demo. It should look good and fit the theme of the game.
 
 #### The Spells The Player Can Get
 Players will acquire their starting loadout and stats by answering several questions at the start of the game. These questions will determine the player's initial spells and stats, allowing for a personalized experience right from the beginning.
