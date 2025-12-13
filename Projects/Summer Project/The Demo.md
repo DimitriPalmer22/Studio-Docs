@@ -113,4 +113,15 @@ Since we are controlling the demo experience, we can choose which enemies to inc
 - Needs to be textured
 - Attack animations are still too hard to read
 - Needs sound effects
-- Attacks need accompanying VFX 
+- Attacks need accompanying VFX (fire for when it queues up the fire attack, etc.)
+
+##### Tempest Knight
+- Needs to be textured
+- Attack animations are still too hard to read
+- Needs sound effects
+- Attacks need accompanying VFX (wind impact VFX for when it slams the ground, etc.)
+
+##### Primordial Wraith
+- Needs to be textured
+- Attack animations are still too hard to read. Needs to convey: When and where it is going to attack.
+- 
