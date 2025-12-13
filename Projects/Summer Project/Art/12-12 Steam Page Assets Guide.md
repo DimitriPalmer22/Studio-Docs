@@ -1,4 +1,6 @@
-All of these images have been ripped from. There are extra blurbs at the top and bottom that are worth the read: https://noblesteedgames.com/blog/a-handy-guide-to-graphical-assets-on-your-steam-store-page/
+- All of these images have been ripped from. There are extra blurbs at the top and bottom that are worth the read: https://noblesteedgames.com/blog/a-handy-guide-to-graphical-assets-on-your-steam-store-page/
+- https://partner.steamgames.com/doc/store/assets/libraryassets
+- https://partner.steamgames.com/doc/store/assets/standard
 
 # Store Materials
 
