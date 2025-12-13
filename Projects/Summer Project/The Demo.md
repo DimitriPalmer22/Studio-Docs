@@ -45,8 +45,6 @@ Within the starting room, there should be another option somewhere to progress w
 #### The Tutorial Level
 Choose an Existing Level to Place the Tutorial In. Don't waste time making a new one. Just pick one that already exists and modify it as needed.
 
-#### Tutorial Objectives
-
 ##### How To Use Primary Spells
 - A primary spell is a *library* of moves you can use.
 - How do you check which moves are available to you?
@@ -62,4 +60,10 @@ Choose an Existing Level to Place the Tutorial In. Don't waste time making a new
 - Directional dodging
 - Perfect dodging
 
-##### Kill the Enemies to Clea
+##### Kill the Enemies to Clear the Room
+- Have like 1 or 2 enemies that are easy to kill, and poses a low risk of failure.
+- Prevent the player from dying within the tutorial.
+- Heal the player once they leave the room.
+
+#### Area 1
+Out of the three ae
