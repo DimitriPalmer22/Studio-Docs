@@ -66,4 +66,17 @@ Choose an Existing Level to Place the Tutorial In. Don't waste time making a new
 - Heal the player once they leave the room.
 
 #### Area 1
-Out of the three ae
+Out of the three areas in the game, this is the only one that will be included in the demo. Make sure it is polished and fun!
+
+##### Levels
+- All levels in this area should be polished and finalized.
+- Any area 1 level in the main game can be used in the demo.
+
+Each level should:
+- Be properly set-dressed
+- be well-lit
+- be free of bugs and glitches
+- Have proper collision (including any necessary invisible walls)
+- Have appropriate enemy placements and spawns
+- Keep the player occupied within the room 
+- not be too difficult or too easy
