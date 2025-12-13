@@ -39,6 +39,9 @@ So, there will be:
 
 ### The Tutorial
 
+#### Allow Players to Skip the Tutorial
+Within the starting room, there should be another option somewhere to progress withu
+
 #### The Tutorial Level
 Choose an Existing Level to Place the Tutorial In. Don't waste time making a new one. Just pick one that already exists and modify it as needed.
 
@@ -50,4 +53,10 @@ Choose an Existing Level to Place the Tutorial In. Don't waste time making a new
 
 ***UPDATE THE SPELLS SCREEN***
 
-####
+##### How To Use Secondary Spells & Mana
+- A secondary spell is a *single* move that you can use.
+- You can charge them up and use them when needed.
+- Teach the concept of mana
+
+##### How to Dodge
+- 
