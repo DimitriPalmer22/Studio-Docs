@@ -125,7 +125,7 @@ Furthermore, we want the player to have more significant upgrades to choose from
 - Some ppl will be in-call and play the game in front of another person so they can get their feedback in real-time
 - Other ppl will be sent a build w/ a form of some sort to fill out after playing
 
-- In-call: Alex, Brian, 
+- In-call: Alex, Brian
 - Build: Erin, Alecks
 
 ### Money / Steam Page Setup
