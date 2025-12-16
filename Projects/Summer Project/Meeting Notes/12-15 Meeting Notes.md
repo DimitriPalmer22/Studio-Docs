@@ -25,12 +25,14 @@
 - Essentially, each spell felt the same.
 - To fix this, we're gonna give each spell a couple special attributes to make them unique. This way, the player ends up with more variety in how they use their spells.
 
-#### Each Spel :
+#### Each Spell's Special Attributes:
 Each spell has two special attributes to begin with:
 - One that adds a special effect to the attack itself
 - Another that modifies how the player's dodge functions
 
 #### Two Upgrade Paths
-
+Furthermore, we want the player to have more significant upgrades to choose from that further differentiate the spells. Each spell has two upgrade paths to choose from. Once the player picks a path, they will only be able to choose upgrades from that path.
+- The first path focuses on enhancing the spell's attack itself (do more damage or add a status effect)
+- The second path focuses more on further modifying the player's dodge (like )
 
 ![](<../../../_Meta/Attachments/Pasted image 20251215190733.png>)
