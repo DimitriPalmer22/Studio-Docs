@@ -42,7 +42,15 @@ None of the stuff above matters if it doesn't feel good. I need people to tell m
 - Do the enemies do too much damage?
 - Do you think the dodge feels good, or do you think it can feel even smoother? Are there any parts that feel like they have hitches in them or something?
 - Are there any parts of the game that you think need a UI overhaul, or could use more visual clarity?
-- Are there any mechanics that are very poorly 
+- Are there any mechanics that are very poorly explained or not explained at all?
+- Do you think the game looks good? If not, what parts specifically could use improvement? Is the art style consistent throughout the game?
+- Do you think the sound design fits the game well? Are there any sounds that feel out of place? Are any sound effects *missing*?
+- Are there points where the music feels out of place?
+- Do you think the game runs smoothly? Are there any performance issues?
+- Did you ever feel like you got lost in a level?
+- Did you ever feel like you were walking around for too long before encountering enemies?
+- Did any levels feel like they were too big or too small?
+- Any bugs?
 
 # Goals for v0.16.0:
 
