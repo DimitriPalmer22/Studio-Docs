@@ -37,6 +37,8 @@ A suite of VFX has been added for various things:
 - Mikel made a new upgrade room for the player to select spell upgrades in.
 
 # Playtesting!!!
+*AT THIS POINT, IT IS DIFFICULT TO ITERATE ON THE GAME WITHOUT CONSTANT FEEDBACK. SO, WE NEED PEOPLE TO PLAY THE GAME.*
+
 None of the stuff above matters if it doesn't feel good. I need people to tell me if it feels good or bad. Here are some things to keep in mind when playtesting:
 - Is the combat too repetitive? Do you feel like if you had to play this game for at least an hour, you'd get bored of it?
 - Do any of the attacks feel unresponsive?
@@ -90,7 +92,7 @@ Furthermore, we want the player to have more significant upgrades to choose from
 ### Go over the Schedule Again
 - Dec. 19: Allister redesign should be DONE
 - Dec. 29: ALL marketing materials should be DONE
-- Dec. 29: Send all the stuff in for review. (Lowkey, I might just submit some placeholder assets)
-- Jan 18: All in-game
+- Dec. 29: Send all the stuff in for review. (Lowkey, I might just submit some placeholder assets first just so we can get the page up. Then, we can change the ssets later)
+- Jan 18: All in-game assets should be DONE in time for the demo build to be submitted for Next Fest
 
 # Meeting Summary
