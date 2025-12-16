@@ -1,13 +1,13 @@
 
 ## Meeting Times
-| Meeting                         | Possible Times |
-| ------------------------------- | -------------- |
-| LD Meeting                      | Tuesday @ 8pm  |
-| Narrative Designer + CD Meeting | Tuesday @ 11am |
-| Sound Meeting                   |                |
-| Environmental Artist Meeting    |                |
-| 2D Artist                       | Friday @ 4pm   |
-| Animation Meeting               |                |
+| Meeting                         | Possible Times         |
+| ------------------------------- | ---------------------- |
+| LD Meeting                      | Tuesday @ 8pm          |
+| Narrative Designer + CD Meeting | Tuesday @ 11am         |
+| Sound Meeting                   |                        |
+| Environmental Artist Meeting    |                        |
+| 2D Artist                       | Friday @ 4pm - 4:30ish |
+| Animation Meeting               |                        |
 
 # Current State of the Game / v0.15.0 Changes
 
