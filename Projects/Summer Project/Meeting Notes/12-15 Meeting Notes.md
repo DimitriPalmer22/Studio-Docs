@@ -119,7 +119,7 @@ Furthermore, we want the player to have more significant upgrades to choose from
 - Check the Avernoth Times channel to see game updates for this week
 
 ### Revised Upgrades
-
+- working on a new feature
 
 ### Playtesting:
 - Some ppl will be in-call and play the game in front of another person so they can get their feedback in real-time
