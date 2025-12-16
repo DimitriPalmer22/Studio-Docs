@@ -34,9 +34,10 @@ A suite of VFX has been added for various things:
 - Enemies now dissolve on death instead of just disappearing>)
 
 # Playtesting!!!
-
-- ay bruh play the game for me pls
-
+None of the stuff above matters if it doesn't feel good. I need people to tell me if it feels good or bad. Here are some things to keep in mind when playtesting:
+- Is the combat too repetitive?
+- Do any of the attacks feel unresponsive?
+- Are there any specific aspects of the game that are way too easy? Way too hard?
 
 # Goals for v0.16.0:
 
