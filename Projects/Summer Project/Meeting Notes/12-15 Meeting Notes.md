@@ -33,6 +33,9 @@ A suite of VFX has been added for various things:
 - (WIP) Whenever the player gets a new upgrade, they fire off a burst of energy
 - Enemies now dissolve on death instead of just disappearing>)
 
+### New Upgrade Room
+- Mikel made a new upgrade room for the player to select spell upgrades in.
+
 # Playtesting!!!
 None of the stuff above matters if it doesn't feel good. I need people to tell me if it feels good or bad. Here are some things to keep in mind when playtesting:
 - Is the combat too repetitive? Do you feel like if you had to play this game for at least an hour, you'd get bored of it?
@@ -51,6 +54,7 @@ None of the stuff above matters if it doesn't feel good. I need people to tell m
 - Did you ever feel like you were walking around for too long before encountering enemies?
 - Did any levels feel like they were too big or too small?
 - Any bugs?
+- Any crashes?
 
 # Goals for v0.16.0:
 
@@ -79,4 +83,11 @@ Furthermore, we want the player to have more significant upgrades to choose from
 - Each upgrade will need an icon to represent it in the upgrade menu.
 
 #### Demonstration of the System
-- 
+- Imma play in call.
+
+### Money Stuff
+
+### Go over the Schedule Again
+
+
+# Meeting Summary
