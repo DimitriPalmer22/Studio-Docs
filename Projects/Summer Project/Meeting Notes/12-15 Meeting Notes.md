@@ -90,7 +90,7 @@ Furthermore, we want the player to have more significant upgrades to choose from
 ### Go over the Schedule Again
 - Dec. 19: Allister redesign should be DONE
 - Dec. 29: ALL marketing materials should be DONE
-- Dec. 29: Send all the stuff in for review
+- Dec. 29: Send all the stuff in for review. (Lowkey, I might just submit some placeholder assets)
 - Jan 18: All in-game
 
 # Meeting Summary
