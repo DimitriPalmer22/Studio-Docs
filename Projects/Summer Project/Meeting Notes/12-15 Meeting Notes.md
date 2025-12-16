@@ -111,3 +111,13 @@ Furthermore, we want the player to have more significant upgrades to choose from
 - Jan 18: All in-game assets should be DONE in time for the demo build to be submitted for Next Fest
 
 # Meeting Summary
+
+### Game Updates:
+- Check the Avernoth Times channel to see game updates for this week
+
+### Revised Upgrades
+
+### Playtesting:
+
+
+### 
