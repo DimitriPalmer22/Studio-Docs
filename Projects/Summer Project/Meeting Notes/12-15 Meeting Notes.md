@@ -35,9 +35,14 @@ A suite of VFX has been added for various things:
 
 # Playtesting!!!
 None of the stuff above matters if it doesn't feel good. I need people to tell me if it feels good or bad. Here are some things to keep in mind when playtesting:
-- Is the combat too repetitive?
+- Is the combat too repetitive? Do you feel like if you had to play this game for at least an hour, you'd get bored of it?
 - Do any of the attacks feel unresponsive?
 - Are there any specific aspects of the game that are way too easy? Way too hard?
+- Are there any enemy attacks that are not telegraphed well enough?
+- Do the enemies do too much damage?
+- Do you think the dodge feels good, or do you think it can feel even smoother? Are there any parts that feel like they have hitches in them or something?
+- Are there any parts of the game that you think need a UI overhaul, or could use more visual clarity?
+- Are there any mechanics that are very poorly 
 
 # Goals for v0.16.0:
 
