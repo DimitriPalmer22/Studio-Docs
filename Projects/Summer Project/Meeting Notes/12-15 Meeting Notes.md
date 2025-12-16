@@ -101,7 +101,8 @@ Furthermore, we want the player to have more significant upgrades to choose from
 
 ### Money Stuff
 - I've already sent the application in for the Steam Page last week.
-- 
+- Some people, have already sent in some money to help out with the $100 fee.
+- For everyone else who plans to chip in, just let me know how you want to send it
 
 ### Go over the Schedule Again
 - Dec. 19: Allister redesign should be DONE
