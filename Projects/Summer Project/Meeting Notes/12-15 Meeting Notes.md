@@ -96,10 +96,12 @@ Furthermore, we want the player to have more significant upgrades to choose from
 #### Note: Each Upgrade is gonna require an Icon for the Upgrade Menu
 - Each upgrade will need an icon to represent it in the upgrade menu.
 
-#### Demonstration of the System
-- Imma play in call.
+#### Demonstration of the Different Upgrades
+- Imma play in-call rq
 
 ### Money Stuff
+- I've already sent the application in for the Steam Page last week.
+- 
 
 ### Go over the Schedule Again
 - Dec. 19: Allister redesign should be DONE
