@@ -21,4 +21,11 @@
 # Goals for v0.16.0:
 
 ### Feature: Spell Upgrade Paths
-- Something Shbeeb said when he saw a video of the game was that there was little 
+- Something Shbeeb said when he saw a video of the game was that there was little variation in the way the player was able to use their spells.
+- Essentially, each spell felt the same.
+- To fix this, we're gonna give each spell a couple special attributes to make them unique. This way, the player ends up with more variety in how they use their spells.
+
+#### F
+
+
+!![](<../../../_Meta/Attachments/Pasted image 20251215190733.png>)
