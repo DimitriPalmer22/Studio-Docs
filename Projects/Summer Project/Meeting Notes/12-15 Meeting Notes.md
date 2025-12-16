@@ -25,7 +25,12 @@
 - Essentially, each spell felt the same.
 - To fix this, we're gonna give each spell a couple special attributes to make them unique. This way, the player ends up with more variety in how they use their spells.
 
-#### F
+#### Each Spel :
+Each spell has two special attributes to begin with:
+- One that adds a special effect to the attack itself
+- Another that modifies how the player's dodge functions
+
+#### Two Upgrade Paths
 
 
-!![](<../../../_Meta/Attachments/Pasted image 20251215190733.png>)
+![](<../../../_Meta/Attachments/Pasted image 20251215190733.png>)
