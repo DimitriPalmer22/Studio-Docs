@@ -39,7 +39,10 @@ A suite of VFX has been added for various things:
 # Playtesting!!!
 *AT THIS POINT, IT IS DIFFICULT TO ITERATE ON THE GAME WITHOUT CONSTANT FEEDBACK. SO, WE NEED PEOPLE TO PLAY THE GAME.*
 
-None of the stuff above matters if it doesn't feel good. I need people to tell me if it feels good or bad. Here are some things to keep in mind when playtesting:
+None of the stuff above matters if it doesn't feel good. I need people to tell me if it feels good or bad. 
+
+#### Things to Consider when Playtesting:
+Here are some things to keep in mind when playtesting:
 - Is the combat too repetitive? Do you feel like if you had to play this game for at least an hour, you'd get bored of it?
 - Do any of the attacks feel unresponsive?
 - Are there any specific aspects of the game that are way too easy? Way too hard?
@@ -57,6 +60,11 @@ None of the stuff above matters if it doesn't feel good. I need people to tell m
 - Did any levels feel like they were too big or too small?
 - Any bugs?
 - Any crashes?
+
+#### Should I Do more Organized Playtesting?
+I feel like if I just told y'all to play a build of the game, the feedback we get probably wouldn't be as useful as it could be. Instead, should we do more organized playtesting
+
+Should I set up a more organized playtesting session where I can watch people play the game and ask them questions in real-time?
 
 # Goals for v0.16.0:
 
