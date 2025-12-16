@@ -62,9 +62,13 @@ Here are some things to keep in mind when playtesting:
 - Any crashes?
 
 #### Should I Do more Organized Playtesting?
-I feel like if I just told y'all to play a build of the game, the feedback we get probably wouldn't be as useful as it could be. Instead, should we do more organized playtesting
+I feel like if I just told y'all to play a build of the game, the feedback we get probably wouldn't be as useful as it could be. Instead, should we do more organized playtesting sessions?
 
-Should I set up a more organized playtesting session where I can watch people play the game and ask them questions in real-time?
+##### Idea 1: Supervised Playtesting Sessions
+Maybe one of you guys will play the game while I, or someone else watches you play. That way, we can address issues in real-time and ask questions as they come up.
+
+##### Idea 2: Make Very Specific Builds to Test Specific Content
+Instead of just sending out a general build of the game, I could make builds that focus on specific aspects of the game. For example, one build could just be for testing out the dodge mechanic. Another build could be for testing out enemy behavior. This way, we can get more focused feedback.
 
 # Goals for v0.16.0:
 
