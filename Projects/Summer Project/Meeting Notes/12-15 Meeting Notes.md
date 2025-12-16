@@ -70,6 +70,9 @@ Maybe one of you guys will play the game while I, or someone else watches you pl
 ##### Idea 2: Make Very Specific Builds to Test Specific Content
 Instead of just sending out a general build of the game, I could make builds that focus on specific aspects of the game. For example, one build could just be for testing out the dodge mechanic. Another build could be for testing out enemy behavior. This way, we can get more focused feedback.
 
+##### Idea 3: Playtesting Google Form
+
+
 # Goals for v0.16.0:
 
 ### Feature: Spell Upgrade Paths
