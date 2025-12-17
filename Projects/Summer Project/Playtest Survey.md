@@ -8,7 +8,7 @@
 - Do the enemies do too much damage or not enough?
 - Did you feel like the dodge mechanic was responsive and smooth? Were there any hitches or issues with it?
 
-# UI
+# UI & UX
 - Were there any UI elements where you felt like you didn't know what they did or what they represented?
 - Did you ever get stuck in any menus or have trouble navigating the interface at any point?
 
@@ -18,6 +18,12 @@
 # Environmental Art
 - Do you think the game's art style (in terms of 3D models and textures) is consistent throughout the game?
 - Are there any areas or levels that you think could use more visual detail or polish?
+
+# 2D Art
+- Do you think the 2D art assets (UI elements, icons, etc.) fit well with the overall aesthetic of the game?
+- Are there any 2D assets you feel could use improvement / need ACTUAL art?
+- Do any of the character portraits feel like they don't fit the art style of the game / fit with the other portraits?
+- Do any of the character portaits
 
 # Performance
 - What would you say your average FPS was while playing the game?
