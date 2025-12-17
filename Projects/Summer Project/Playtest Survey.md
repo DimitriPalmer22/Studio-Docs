@@ -71,3 +71,5 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Fireball spell is powerful
 - Wasn't immediately obvious where the next wave of enemies spawned in at.
 - Weird pixel effect on the characters moving up and down.
+- Font is a little hard to read sometimes
+- 
