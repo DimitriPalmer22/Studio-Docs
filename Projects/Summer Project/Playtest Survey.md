@@ -92,3 +92,7 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Brian got the same level back to back?
 - Perfect dodge is a little difficult to hit for some attacks.
 - Aiden got into the back room in MikelPOC (because jump wasn't removed!)
+- Brian actually got to area 2.
+- Not 100% clear when a perfect dodge is performed.
+- Not using the secondary as much as they should.
+- Yellow sphere on lanterns is popping up through walls.
