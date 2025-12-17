@@ -82,4 +82,5 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Weird pixel effect on the characters moving up and down.
 - Font is a little hard to read sometimes
 - Either give more opportunities to heal, or make it easier to dodge or something
-- Nobody's getting fut
+- Nobody's even reaching the shop room.
+- Not immediately obvious where the exit to the room is.
