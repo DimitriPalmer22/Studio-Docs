@@ -58,7 +58,7 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Were there any dialogue sequences that felt exceptionally long?
 - Was any of the language used in the dialogue hard to follow?
 - Were there any concepts referenced that needed more explanation?
-- The game's dialogue is essentia
+- The game's dialogue is essential to the long-term progression. Was that clear?
 
 # Performance
 - What would you say your average FPS was while playing the game?
