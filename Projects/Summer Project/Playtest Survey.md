@@ -88,4 +88,6 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Twilight knight needs to chill out. Too hard to read. A LOT of damage. Too much knockback.
 - Brian SKIPPED the upgrade room.
 - Lighting issue in Aiden_Sewer?
-- Brian got the double shop menu bug. He paused ad 
+- Brian got the double shop menu bug. He paused and that lowkey got him out of it.
+- Brian got the same level back to back?
+- 
