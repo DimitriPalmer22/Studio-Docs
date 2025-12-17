@@ -70,3 +70,4 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Player should heal after tutorial
 - Fireball spell is powerful
 - Wasn't immediately obvious where the next wave of enemies spawned in at.
+- Weird pixel effect on the characters moving up and down.
