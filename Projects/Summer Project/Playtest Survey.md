@@ -52,11 +52,16 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Are there any sound effects that felt out of place or didn't fit the game's aesthetic?
 - Are there any sound effects that you felt were missing entirely?
 
+# Narrative
+- Did you feel like any of the characters needed a better introduction?
+- 
+
 # Performance
 - What would you say your average FPS was while playing the game?
 - Did you notice any frame drops in *specific areas / levels*?
 - Were there massive hitches or lag spikes at any point? Please describe where they happened.
 - Did you experience any crashes or bugs while playing the game? If so, please describe them.
+
 
 # Summary
 
