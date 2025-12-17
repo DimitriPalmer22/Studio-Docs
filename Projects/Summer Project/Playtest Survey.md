@@ -72,4 +72,4 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Wasn't immediately obvious where the next wave of enemies spawned in at.
 - Weird pixel effect on the characters moving up and down.
 - Font is a little hard to read sometimes
-- 
+- Either give more opportunities to heal, or make it easier to dodge or something
