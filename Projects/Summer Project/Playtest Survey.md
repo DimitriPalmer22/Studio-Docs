@@ -1,12 +1,15 @@
 # Mechanics
 
-Feedback on the game's mechanics and how they can be presented to the
+Feedback on the game's mechanics and how they can be presented to the player better.
 
 - Were there any mechanics that seemed unclear or were poorly explained?
 - Was there ever a mechanic that felt *pointless*?
 - Did your progression through the game feel satisfying? Did you feel like you were rewarded enough for your efforts? Did you feel like the upgrades you received were meaningful?
 
 # Combat
+
+Feedback on the player's attacks, the enemy's attacks, and how they interact with each other.
+
 - Did you feel like you had enough variety and in your attacks?
 - Were there any enemy attacks that felt unfair or too difficult to avoid? Can you explain why exactly?
 - Do you feel any of the enemies have poorly telegraphed attacks?
