@@ -1,6 +1,7 @@
 # Mechanics
 - Were there any mechanics that seemed unclear or were poorly explained?
 - Was there ever a mechanic that felt *pointless*?
+- Did your progression through the game feel satisfying? Did you feel like you were rewarded enough for your efforts? Did you feel like the upgrades you received were meaningful?
 
 # Combat
 - Did you feel like you had enough variety and in your attacks?
@@ -10,6 +11,7 @@
 - Did you feel like the dodge mechanic was responsive and smooth? Were there any hitches or issues with it?
 - Did the distribution of enemies per-wave feel good, or did you feel like there were too many or too few enemies at any point?
 - Do you feel like the enemies and their abilities need to be introduced to the player better?
+- Is the combat too repetitive? Do you feel like if you had to play this game for at least an hour, you'd get bored of it?
 
 # UI & UX
 - Were there any UI elements where you felt like you didn't know what they did or what they represented?
@@ -21,6 +23,8 @@
 # Environmental Art
 - Do you think the game's art style (in terms of 3D models and textures) is consistent throughout the game?
 - Are there any areas or levels that you think could use more visual detail or polish?
+- Are there any environmental assets (props, textures, etc.) that you feel could use improvement?
+- Are there any environmental assets you think could be added to some of the levels to make them feel more alive or interesting?
 
 # 2D Art
 - Do you think the 2D art assets (UI elements, icons, etc.) fit well with the overall aesthetic of the game?
@@ -29,7 +33,9 @@
 - Is there any feedback you have for any specific character portraits?
 
 # SFX & Music
-- 
+- Are there any points you felt like the music was out of place? What type of music would you suggest instead?
+- Are there any sound effects that felt out of place or didn't fit the game's aesthetic?
+- Are ther
 
 # Performance
 - What would you say your average FPS was while playing the game?
