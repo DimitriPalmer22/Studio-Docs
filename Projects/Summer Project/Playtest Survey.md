@@ -1,4 +1,7 @@
 # Mechanics
+
+Feedback on the game's mechanics and how they can be presented to the
+
 - Were there any mechanics that seemed unclear or were poorly explained?
 - Was there ever a mechanic that felt *pointless*?
 - Did your progression through the game feel satisfying? Did you feel like you were rewarded enough for your efforts? Did you feel like the upgrades you received were meaningful?
