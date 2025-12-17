@@ -100,3 +100,4 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Weird shadow issues in Brian's indoors castle level?
 - Able to lock onto enemies through walls. If enemies are behind walls for a prolonged period, then maybe the player should lose focus.
 - Soft Target lock is too forgiving. Players are able to attack enemies that aren't even on-screen.
+- 
