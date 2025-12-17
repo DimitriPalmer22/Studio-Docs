@@ -5,8 +5,11 @@
 # Combat
 - Did you feel like you had enough variety and in your attacks?
 - Were there any enemy attacks that felt unfair or too difficult to avoid? Can you explain why exactly?
+- Do you feel any of the enemies have poorly telegraphed attacks?
 - Do the enemies do too much damage or not enough?
 - Did you feel like the dodge mechanic was responsive and smooth? Were there any hitches or issues with it?
+- Did the distribution of enemies per-wave feel good, or did you feel like there were too many or too few enemies at any point?
+- Do you feel like the enemies and their abilities need to be introduced to the player better?
 
 # UI & UX
 - Were there any UI elements where you felt like you didn't know what they did or what they represented?
@@ -23,7 +26,10 @@
 - Do you think the 2D art assets (UI elements, icons, etc.) fit well with the overall aesthetic of the game?
 - Are there any 2D assets you feel could use improvement / need ACTUAL art?
 - Do any of the character portraits feel like they don't fit the art style of the game / fit with the other portraits?
-- Do any of the character portaits
+- Is there any feedback you have for any specific character portraits?
+
+# SFX & Music
+- 
 
 # Performance
 - What would you say your average FPS was while playing the game?
