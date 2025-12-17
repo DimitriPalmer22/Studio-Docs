@@ -51,3 +51,9 @@
 - Did you notice any frame drops in *specific areas / levels*?
 - Were there massive hitches or lag spikes at any point? Please describe where they happened.
 - Did you experience any crashes or bugs while playing the game? If so, please describe them.
+
+# Summary
+
+## Runes
+- Mikel made rune 
+- it's called Rune Engravign
