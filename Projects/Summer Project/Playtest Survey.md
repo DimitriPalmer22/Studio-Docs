@@ -74,6 +74,7 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - it's called "Rune Engraving" or something like that
 - s
 
+---
 
 # Feedback
 - Player should heal after tutorial
@@ -84,3 +85,5 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Either give more opportunities to heal, or make it easier to dodge or something
 - Nobody's even reaching the shop room.
 - Not immediately obvious where the exit to the room is.
+- Twilight knight needs to chill out. Too hard to read. A LOT of damage. Too much knockback.
+- Brian SKIPPED the upgrade room.
