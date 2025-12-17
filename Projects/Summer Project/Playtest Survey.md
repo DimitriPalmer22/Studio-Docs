@@ -96,3 +96,6 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Not 100% clear when a perfect dodge is performed.
 - Not using the secondary as much as they should.
 - Yellow sphere on lanterns is popping up through walls.
+- "Skip" prompt for dialogue should say "skip to end"
+- Weird shadow issues in Brian's indoors castle level?
+- 
