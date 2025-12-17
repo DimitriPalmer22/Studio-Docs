@@ -55,5 +55,6 @@
 # Summary
 
 ## Runes
-- Mikel made rune 
-- it's called Rune Engravign
+- Mikel made runes 
+- it's called "Rune Engraving" or something like that
+- 
