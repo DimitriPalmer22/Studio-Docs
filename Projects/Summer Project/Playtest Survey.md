@@ -13,10 +13,6 @@
 - Do you feel like the enemies and their abilities need to be introduced to the player better?
 - Is the combat too repetitive? Do you feel like if you had to play this game for at least an hour, you'd get bored of it?
 
-# UI & UX
-- Were there any UI elements where you felt like you didn't know what they did or what they represented?
-- Did you ever get stuck in any menus or have trouble navigating the interface at any point?
-
 # Level Design
 - Did you ever feel like you got lost within a level? If so, try to describe the level, or take a screenshot if possible.
 - Did you ever feel like you were walking around for too long before encountering enemies? If so, describe the level it happened in.
@@ -34,6 +30,16 @@
 - Are there any 2D assets you feel could use improvement / need ACTUAL art?
 - Do any of the character portraits feel like they don't fit the art style of the game / fit with the other portraits?
 - Is there any feedback you have for any specific character portraits?
+
+# UI & UX
+- Were there any UI elements where you felt like you didn't know what they did or what they represented?
+- Did you ever get stuck in any menus or have trouble navigating the interface at any point?
+
+# VFX
+- Are there any visual effects that felt out of place or didn't fit the game's aesthetic?
+- Do you think any of the visual effects were overly distracting or too flashy?
+- Are there any visual effects that you felt were missing entirely?
+- Do you think any visual effects should be removed?
 
 # SFX & Music
 - Are there any points you felt like the music was out of place? What type of music would you suggest instead?
