@@ -53,8 +53,11 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Are there any sound effects that you felt were missing entirely?
 
 # Narrative
+- Did you find yourself reading the dialogue?
 - Did you feel like any of the characters needed a better introduction?
-- 
+- Were there any dialogue sequences that felt exceptionally long?
+- Was any of the language used in the dialogue hard to follow?
+- Were there any concepts referenced that needed more explanation?
 
 # Performance
 - What would you say your average FPS was while playing the game?
