@@ -18,7 +18,10 @@
 - Did you ever get stuck in any menus or have trouble navigating the interface at any point?
 
 # Level Design
-- 
+- Did you ever feel like you got lost within a level? If so, try to describe the level, or take a screenshot if possible.
+- Did you ever feel like you were walking around for too long before encountering enemies? If so, describe the level it happened in.
+- Did any levels feel like they were too big or too small? Please describe which levels specifically.
+- Are there any levels that you think don't fit within the overall aesthetic of the game / theme of the area the level is placed within?
 
 # Environmental Art
 - Do you think the game's art style (in terms of 3D models and textures) is consistent throughout the game?
@@ -35,7 +38,7 @@
 # SFX & Music
 - Are there any points you felt like the music was out of place? What type of music would you suggest instead?
 - Are there any sound effects that felt out of place or didn't fit the game's aesthetic?
-- Are ther
+- Are there any sound effects that you felt were missing entirely?
 
 # Performance
 - What would you say your average FPS was while playing the game?
