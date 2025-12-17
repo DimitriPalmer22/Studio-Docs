@@ -90,4 +90,5 @@ Feedback on the player's attacks, the enemy's attacks, and how they interact wit
 - Lighting issue in Aiden_Sewer?
 - Brian got the double shop menu bug. He paused and that lowkey got him out of it.
 - Brian got the same level back to back?
-- 
+- Perfect dodge is a little difficult to hit for some attacks.
+- Aiden got into the back room in MikelPOC (because jump wasn't removed!)
