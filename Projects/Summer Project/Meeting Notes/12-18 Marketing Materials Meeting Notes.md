@@ -5,7 +5,9 @@
 - Maybe like a brick background from one of the levels
 - Portray that Allister is somewhat melee oriented
 - Some sort of dithering effect maybe?
-- In terms of posing, draw a couple super 
+- In terms of posing, draw a couple "super shitty" poses of just the shape of him so we can figure out how he looks first.
+	- Should communicate that he uses the tome
+	- Should communicate that he is a fighter typa guy
 
 Here's the plan:
 - Focus on the background and side elements
