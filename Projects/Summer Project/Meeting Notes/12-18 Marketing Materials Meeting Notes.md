@@ -6,3 +6,6 @@
 - Portray that Allister is somewhat melee oriented
 - Some sort of dithering effect maybe?
 
+Here's the plan:
+- Focus on the background and side elements
+- Keep a very low quality version of Allister until the redesign is sent in
