@@ -9,3 +9,6 @@
 Here's the plan:
 - Focus on the background and side elements
 - Keep a very low quality version of Allister until the redesign is sent in
+
+Logo:
+!![](<../../../_Meta/Attachments/Pasted image 20251218122345.png>)
