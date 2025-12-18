@@ -5,4 +5,4 @@
 - Maybe like a brick background from one of the levels
 - Portray that Allister is somewhat melee oriented
 - Some sort of dithering effect maybe?
-- 
+
