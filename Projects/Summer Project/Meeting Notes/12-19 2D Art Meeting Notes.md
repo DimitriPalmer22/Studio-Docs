@@ -10,6 +10,10 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 
 ### Allister Redesign
 
+### Updated Character Art
+- The skin tone of Hidetomo looks fine in the *undithered* version of the portrait. However, the dithered version makes him look unnaturally green.
+- Tarun: idk I need more feedback from someone more qualified
+
 ### In-Game Elements
 - Flame Volley Spell Icon has been Done for a while, but I need upgrade icons for it (The table in the middle of the image, not the ones on the sides).
 !![](<../../../_Meta/Attachments/Pasted image 20251219202751.png>)
