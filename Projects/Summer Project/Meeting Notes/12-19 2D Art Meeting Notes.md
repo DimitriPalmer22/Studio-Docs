@@ -7,20 +7,23 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 	- This means that many in-game assets should be done in time to film a focused trailer by then.
 	- Maybe not every menu or icon needs to be finished by then
 - The deadline for in-game assets is *Jan 19th*. Why? If we want our demo to be playable in time for the Press Preview, then we need to submit by *Jan 26th*. 
+
 # Allister Redesign
 
 ### Thinner Sleeves
-- The baggy slee
+- The baggier sleeves Allister has rn would probably interfere with combat if he was a close-range fighter.
+- Also, baggier sleeves kinda interfere with the idea of trying to add some type of gauntlet or something to his forearms.
+- If we do want some type of layering to his design, we could have him wear something heavier around his shoulders & upper arms 
 
-### Updated Character Art
+# Updated Character Art
 - The skin tone of Hidetomo looks fine in the *undithered* version of the portrait. However, the dithered version makes him look unnaturally green.
 - Tarun: idk I need more feedback from someone more qualified
 
-### In-Game Elements
+# In-Game Elements
 - Flame Volley Spell Icon has been Done for a while, but I need upgrade icons for it (The table in the middle of the image, not the ones on the sides).
 !![](<../../../_Meta/Attachments/Pasted image 20251219202751.png>)
 - A spell icon for the crystal barrage power. There are no upgrades or anything required for this, 
 
 
 
-### Try to Give Me In-Progresses 
+# Try to Give Me In-Progresses 
