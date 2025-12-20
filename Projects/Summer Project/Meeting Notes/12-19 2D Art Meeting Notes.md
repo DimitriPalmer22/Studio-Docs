@@ -16,7 +16,8 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 - If we do want some type of layering to his design, we could have him wear something heavier around his shoulders & upper arms (like a light shoulder pad or something) while keeping the forearms more fitted. 
 
 ### Less Metallic
-- Heavy me
+- Heavy metallic armor pieces are not a good fit for Allister's redesign.
+- We want to keep the idea of light armor, but it should be more cloth/leather based.
 
 # Updated Character Art
 - The skin tone of Hidetomo looks fine in the *undithered* version of the portrait. However, the dithered version makes him look unnaturally green.
