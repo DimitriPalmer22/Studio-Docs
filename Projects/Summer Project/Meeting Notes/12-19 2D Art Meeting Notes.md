@@ -35,7 +35,6 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 - A spell icon for the crystal barrage power. There are no upgrades or anything required for this, so dw. 
 
 - Ribbon: Based on the earlier feedback, update the ribbon fr.
-- 
 
 # Try to Give Me In-Progresses 
 
