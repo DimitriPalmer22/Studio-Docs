@@ -19,6 +19,10 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 - Heavy metallic armor pieces are not a good fit for Allister's redesign.
 - We want to keep the idea of light armor, but it should be more cloth/leather based.
 
+### Da Gauntlet
+!![](<../../../_Meta/Attachments/Pasted image 20251219212240.png>)
+- The gap between the wrist and the back of the b
+
 # Updated Character Art
 - The skin tone of Hidetomo looks fine in the *undithered* version of the portrait. However, the dithered version makes him look unnaturally green.
 - Tarun: idk I need more feedback from someone more qualified
