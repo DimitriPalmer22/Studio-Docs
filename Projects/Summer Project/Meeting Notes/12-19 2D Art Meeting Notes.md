@@ -13,7 +13,10 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 ### Thinner Sleeves
 - The baggier sleeves Allister has rn would probably interfere with combat if he was a close-range fighter.
 - Also, baggier sleeves kinda interfere with the idea of trying to add some type of gauntlet or something to his forearms.
-- If we do want some type of layering to his design, we could have him wear something heavier around his shoulders & upper arms 
+- If we do want some type of layering to his design, we could have him wear something heavier around his shoulders & upper arms (like a light shoulder pad or something) while keeping the forearms more fitted. 
+
+### Less Metallic
+- Heavy me
 
 # Updated Character Art
 - The skin tone of Hidetomo looks fine in the *undithered* version of the portrait. However, the dithered version makes him look unnaturally green.
