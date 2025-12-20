@@ -15,4 +15,6 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 !![](<../../../_Meta/Attachments/Pasted image 20251219202751.png>)
 - A spell icon for the crystal barrage power. There are no upgrades or anything required for this, 
 
+
+
 ### Try to Give Me In-Progresses 
