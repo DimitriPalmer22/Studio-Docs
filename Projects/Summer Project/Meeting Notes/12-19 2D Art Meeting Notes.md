@@ -31,7 +31,7 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 
 # In-Game Elements
 - Flame Volley Spell Icon has been Done for a while, but I need upgrade icons for it (The table in the middle of the image, not the ones on the sides).
-	- Instead of these being completely unique images, they should highkey be variations / draw-overs of the existing 
+	- Instead of these being completely unique images, they should highkey be variations / draw-overs of the existing flame volley spell icon. We need to communicate that these are upgrades for a specific spell.
 - A spell icon for the crystal barrage power. There are no upgrades or anything required for this, so dw. 
 
 - Ribbon: Based on the earlier feedback, update the ribbon fr.
@@ -40,4 +40,4 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 # Try to Give Me In-Progresses 
 
 # ---
-- 
+- Import the higher-res spell icons in the game for the upgrade screen and other UI screens.
