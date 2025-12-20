@@ -6,8 +6,9 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 - The deadline for a _trailer_ is *Jan 11th*. 
 	- This means that many in-game assets should be done in time to film a focused trailer by then.
 	- Maybe not every menu or icon needs to be finished by then
-- The deadline for in-game assets is Jan 
+- The deadline for in-game assets is *Jan 19th*. Why? If we want our demo to be playable in time for the Press Preview, then we need to submit by *Jan 26th*. 
 
 ### Allister Redesign
 
 ### In-Game Elements
+
