@@ -20,8 +20,8 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 - We want to keep the idea of light armor, but it should be more cloth/leather based.
 
 ### Da Gauntlet
-!![](<../../../_Meta/Attachments/Pasted image 20251219212240.png>)
-- The gap between the wrist and the back of the b
+![](<../../../_Meta/Attachments/Pasted image 20251219212354.png>)
+- The gap between the wrist and the back of the palm should be a little less pronounced (it's there in the first place because the armor needs some type of *small* gap so that the wrist can move)
 
 # Updated Character Art
 - The skin tone of Hidetomo looks fine in the *undithered* version of the portrait. However, the dithered version makes him look unnaturally green.
