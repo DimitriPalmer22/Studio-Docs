@@ -31,10 +31,13 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 
 # In-Game Elements
 - Flame Volley Spell Icon has been Done for a while, but I need upgrade icons for it (The table in the middle of the image, not the ones on the sides).
-![](<../../../_Meta/Attachments/Pasted image 20251219202751.png>)
+	- Instead of these being completely unique images, they should highkey be variations / draw-overs of the existing 
 - A spell icon for the crystal barrage power. There are no upgrades or anything required for this, so dw. 
 
 - Ribbon: Based on the earlier feedback, update the ribbon fr.
 - 
 
 # Try to Give Me In-Progresses 
+
+# ---
+- 
