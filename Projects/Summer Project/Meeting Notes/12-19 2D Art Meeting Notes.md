@@ -11,4 +11,6 @@ I got some more clarification about deadlines last night, so I just wanna reiter
 ### Allister Redesign
 
 ### In-Game Elements
+- Flame Volley Spell Icon has been Done for a while, but I need upgrade icons for it.
 
+### Try to Give Me In-Progresses 
