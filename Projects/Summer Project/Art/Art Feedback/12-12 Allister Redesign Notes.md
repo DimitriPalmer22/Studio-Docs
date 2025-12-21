@@ -11,7 +11,7 @@
 	- NOT heavy metal armor pieces like how Zythomyra has. That'd be too much.
 - Maybe some light shoulder pads and knee guards
 - Potentially more layers to his design to suggest added protection
-``
+
 #### Armor Inspirations
 
 (I just looked up "mage armor" on Google)
