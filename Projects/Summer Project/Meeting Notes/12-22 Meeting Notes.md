@@ -11,6 +11,8 @@
 
 ## Opinions on Allister's New Design
 
+- The top of ALlister's robe can have a trim to it. Like a thin light purple line a
+
 
 ## Knight Texturing Fr
 
