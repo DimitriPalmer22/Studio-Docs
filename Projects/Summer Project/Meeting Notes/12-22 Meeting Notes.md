@@ -9,4 +9,4 @@
 | Animation Meeting               | -              |
 | Character Artist Meeting        | -              |
 
-#
+# Opinions on 
