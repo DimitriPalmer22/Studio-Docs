@@ -29,3 +29,4 @@
 ## Look at the Game Rq
 
 
+.40 * 10 * 
