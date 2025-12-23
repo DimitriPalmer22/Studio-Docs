@@ -16,12 +16,13 @@
 - Make the sleeves like "one inch longer"
 
 ## Knight Texturing Fr
+- Daunte will texture the knight
+
+## UI Stuffs
 
 
 ## Opinions On Shop Format Change?
 
-
-## UI Stuffs
 
 
 ## Look at the Game Rq
