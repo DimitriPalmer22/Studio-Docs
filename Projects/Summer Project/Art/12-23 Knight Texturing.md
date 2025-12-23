@@ -12,6 +12,10 @@ Each enemy is elementally themed, so that should influence the color palette use
 - The enemy's texture should incorporate deep purple accents to reflect its dark element
 - Note: avoid having pure black in the texture, as it can make details hard to see and overall harm the visibility of the enemies within the level. If you choose to do a dark color, maybe opt for a dark purple or dark gray instead
 
+!![](<../../../_Meta/Attachments/Pasted image 20251223163237.png>)
+This is what the twilight version of the wraith looks like (ignore the fact that the texture looks weird. This model is not using the proper UVs). Try to use a similar purple to the one used here.
+
 ### Tempest (Wind & Lightning) Knight
 - This enemy uses a wind & lightning themed hammer
-- The enemy's texture should incorporate yellow accents and a greyer 
+- The enemy's texture should incorporate yellow accents and a greyer base to reflect its wind & lightning element1
+
