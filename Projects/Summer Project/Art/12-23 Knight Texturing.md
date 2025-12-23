@@ -6,7 +6,7 @@ Each enemy is elementally themed, so that should influence the color palette use
 - This enemy uses the same fire spear you made a while ago
 - The enemy's texture should incorporate heavy red accents to reflect its fire element
 
-!![](<../../../_Meta/Attachments/Pasted image 20251223163426.png>)
+![](<../../../_Meta/Attachments/Pasted image 20251223163426.png>)
 
 ### Twilight (Dark) Knight
 - This enemy uses a dark-themed sword
@@ -15,11 +15,11 @@ Each enemy is elementally themed, so that should influence the color palette use
 
 !![](<../../../_Meta/Attachments/Pasted image 20251223163457.png>)
 
-!![](<../../../_Meta/Attachments/Pasted image 20251223163237.png>)
+![](<../../../_Meta/Attachments/Pasted image 20251223163237.png>)
 This is what the twilight version of the wraith looks like (ignore the fact that the texture looks weird. This model is not using the proper UVs). Try to use a similar purple to the one used here.
 
 ### Tempest (Wind & Lightning) Knight
 - This enemy uses a wind & lightning themed hammer
-- The enemy's texture should incorporate yellow accents and a greyer base to reflect its wind & lightning element1
+- The enemy's texture should incorporate *yellow* accents and a greyer base to reflect its wind & lightning element
 
-!![](<../../../_Meta/Attachments/Pasted image 20251223163527.png>)
+![](<../../../_Meta/Attachments/Pasted image 20251223163527.png>)
