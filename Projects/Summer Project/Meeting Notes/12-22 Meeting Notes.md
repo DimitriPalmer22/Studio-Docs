@@ -9,14 +9,18 @@
 | Animation Meeting               | -              |
 | Character Artist Meeting        | -              |
 
-# Opinions on Allister's New Design
+## Opinions on Allister's New Design
 
 
-# Knight Texturing fr
+## Knight Texturing Fr
 
 
-# Look at the Game Rq
+## Opinions On Shop Format Change?
 
 
-# Opinions On Shop Format Change?
+## UI Stuffs
+
+
+## Look at the Game Rq
+
 
