@@ -19,7 +19,9 @@
 - Daunte will texture the knight
 
 ## UI Stuffs
-
+- Shop
+- Screen so that the player knows what spells they have
+- Journal screen
 
 ## Opinions On Shop Format Change?
 
