@@ -27,8 +27,8 @@
 ### Economy Update Needed
 - We seriously need to tweak the prices of the items in the shop so the player's decision to buy an item is much more substantial
 - If health is going to be as rare as it is, then the health restoration from the shop should be somewhat stronger.
-- Additionally, it'd be cool to restore some health
+- Additionally, it'd be cool to restore some health from defeating the "boss room".
+- Shield as a mechanic now is not well-implemented. We should lean more into the shield being something we reward the player with for playing well.
 
-
-## Look at the Game Rq
+We'll run this through playtesting to see if people get further in the game. If anything, we can increase the number of times shops spawn per-area.
 
