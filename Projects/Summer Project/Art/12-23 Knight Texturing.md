@@ -27,3 +27,5 @@ This is what the twilight version of the wraith looks like (ignore the fact that
 ^ Texture of the tempest wraith enemy. If you do incorporate gray, try to use the shades used here.
 
 
+![](<../../../_Meta/Attachments/Pasted image 20251223164139.png>)
+The hammer that the tempest knight uses
