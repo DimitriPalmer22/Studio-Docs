@@ -11,7 +11,8 @@
 
 ## Opinions on Allister's New Design
 
-- The top of ALlister's robe can have a trim to it. Like a thin light purple line a
+- The top of Allister's robe can have a trim to it. Like a thin light purple line across the bottom of the shoulder
+- Maybe add another color around the shoulders to give more variety to the design
 
 
 ## Knight Texturing Fr
