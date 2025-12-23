@@ -24,9 +24,11 @@
 
 ## Opinions On Shop Format Change?
 
+### Economy Update Needed
+- We seriously need to tweak the prices of the items in the shop so the player's decision to buy an item is much more substantial
+- If health is going to be as rare as it is, then the health restoration from the shop should be somewhat stronger.
+- Additionally, it'd be cool to restore some health
 
 
 ## Look at the Game Rq
 
-
-.40 * 10 * 
