@@ -18,6 +18,8 @@ This is a screen where the player can read through the various journal entries &
 
 Journal entries and experiment logs are KEY to the player's progression, so we need some place to store them for easy access. In order to escape Avernoth, the player must collect all experiment logs + journal entries in the game.
 
+### Theming
+
 Thematically, Allister himself is not able to pick up these notes and take them with him. Remember, every time he dies, he loses everything he acquired during his current run. So, Tarun, Allister's handy apprentice, transcribes these notes into *HIS* notebook. When we open up this menu, we are looking at TARUN's notebook.
 
 ### Journal Entries vs. Experiment Logs
@@ -42,4 +44,7 @@ On the other hand, incomplete experiment logs will not have their runes visible 
 	- There is the rune associated with the note. For standard journal entries, this is always going to be visible. For experiment logs, this is only visible once the associated objective has been completed. 
 	- The title of the note
 	- The type of note it is (experiment log vs. journal entry)
-- In the right panel is the note ite
+- In the right panel is the note itself.
+- For each note:
+	- there is the text of the note itself
+	- the background of the note contains the rune associated with the note. However, we need to find a way to make this as unintrusive as possible. Maybe make it smaller or move it out the way? The readability of the text takes priority.
