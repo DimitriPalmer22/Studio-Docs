@@ -18,7 +18,7 @@ This is a screen where the player can read through the various journal entries &
 
 Journal entries and experiment logs are KEY to the player's progression, so we need some place to store them for easy access. 
 
-Thematically, Allister himself is not able to pick 
+Thematically, Allister himself is not able to pick up these notes and take them with him. Remember, every time he dies, he loses everything he acquired during his current run. So, Tarun, Allister's handy apprentice, -
 
 ### Journal Entries vs. Experiment Logs
 
