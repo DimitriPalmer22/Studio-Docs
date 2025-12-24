@@ -16,10 +16,16 @@ Preferrably, the layout should stay pretty similar to the rough blockout shown b
 
 This is a screen where the player can read through the various journal entries & experiment logs they have unlocked in their time playing the game (not just the ones found in the current run).
 
-Journal entries and experiment logs are KEY to the player's progression, so we need some place to store them for easy access. In order to escape Avernoth, the player must collect all  
+Journal entries and experiment logs are KEY to the player's progression, so we need some place to store them for easy access. In order to escape Avernoth, the player must collect all experiment logs + journal entries in the game.
 
 Thematically, Allister himself is not able to pick up these notes and take them with him. Remember, every time he dies, he loses everything he acquired during his current run. So, Tarun, Allister's handy apprentice, transcribes these notes into *HIS* notebook. When we open up this menu, we are looking at TARUN's notebook.
 
 ### Journal Entries vs. Experiment Logs
 
-Journal entries are just plain notes that the player picks up
+Journal entries are just plain notes that the can read.
+
+Experiment logs are also notes. However, they contain some type of *objective* the player must complete in order to fully recreate the experiment listed on it.
+
+### Progression
+
+At the end of the game, there is a door. The door has a magic seal on it. The m
