@@ -28,4 +28,8 @@ Experiment logs are also notes. However, they contain some type of *objective* t
 
 ### Progression
 
-At the end of the game, there is a door. The door has a magic seal on it. The m
+At the end of the game, there is a door. The door has a magic seal on it. The magic seal has a series of runes around it. Each rune on this seal corresponds to a rune on each journal entry / experiment log.
+
+By default, journal entries will have a rune on the background of the page(?).
+
+On the other hand, incomplete experiment logs will not have t
