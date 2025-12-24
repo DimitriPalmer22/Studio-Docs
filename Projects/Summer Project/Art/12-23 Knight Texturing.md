@@ -9,6 +9,7 @@ Each enemy is elementally themed, so that should influence the color palette use
 ![](<../../../_Meta/Attachments/Pasted image 20251223163426.png>)
 
 ^ The texture of the primordial wraith enemy
++
 
 ![](<../../../_Meta/Attachments/Pasted image 20251223163946.png>)
 ### Twilight (Dark) Knight
