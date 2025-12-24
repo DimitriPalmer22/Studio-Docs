@@ -14,4 +14,12 @@ Preferrably, the layout should stay pretty similar to the rough blockout shown b
 
 ## Codex / Journal Screen
 
-This is a screen where the player can 
+This is a screen where the player can read through the various journal entries & experiment logs they have unlocked in their time playing the game (not just the ones found in the current run).
+
+Journal entries and experiment logs are KEY to the player's progression, so we need some place to store them for easy access. 
+
+Thematically, Allister himself is not able to pick 
+
+### Journal Entries vs. Experiment Logs
+
+Journal entries
