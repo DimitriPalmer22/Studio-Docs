@@ -32,4 +32,4 @@ At the end of the game, there is a door. The door has a magic seal on it. The ma
 
 By default, journal entries will have a rune on the background of the page(?).
 
-On the other hand, incomplete experiment logs will not have t
+On the other hand, incomplete experiment logs will not have their runes visible on the page at first. Once the player completes the associated objective, the rune will appear on the background of the page to visually mark that the objective has been completed.
