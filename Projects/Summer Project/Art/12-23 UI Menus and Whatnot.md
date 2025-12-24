@@ -5,7 +5,7 @@ This is a screen where the player, at any time, can learn more about the current
 
 Preferrably, the layout should stay pretty similar to the rough blockout shown below. The panels *can* be moved a little and resized, and the exit button can be moved somewhere else entirely.
 
-!![](<../../../_Meta/Attachments/SpellScreen.png>)
+![](<../../../_Meta/Attachments/SpellScreen.png>)
 
 ### Features
 - In the left panel, we see a list of all the spells currently equipped. Each item is this list is actually a button. Clicking on one of these buttons will update the right panel to show more information about that spell. Each button features, the spell's icon, name, and the type of spell it is (primary, secondary, or passive). The left panel has a scrollbar just in case the player has enough spells that they don't all fit on the screen at once.
@@ -37,7 +37,7 @@ By default, journal entries will have a rune on the background of the page(?).
 On the other hand, incomplete experiment logs will not have their runes visible on the page at first. Once the player completes the associated objective, the rune will appear on the background of the page to visually mark that the objective has been completed.
 
 ### Mockup Features
-!![](<../../../_Meta/Attachments/CodexTest.png>)
+![](<../../../_Meta/Attachments/CodexTest.png>)
 
 - In the left panel, there are buttons where the player can select which note the want to view.
 - For each button:
