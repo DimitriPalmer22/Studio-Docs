@@ -1,8 +1,1 @@
-### What's Left to Do?
-- At least 5 screenshots (Can be changed at any time)
-- Capsule images 
-- Library Assets
-
-
-### Funny Story
-So I was actually doing the registrati
+Sealed away in an ancient alternate dimension, you must find a way to break free. In this fantasy action rogue-lite, uncover a variety of spells to cast your way through waves of hostile magical apparitions. Discover the secrets of Avernoth to make escape possible. Do you have what it takes?
