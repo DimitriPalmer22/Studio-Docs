@@ -6,4 +6,6 @@ At the time of registration, we need:
 - [ ] 5 in-game screenshots 
 - [ ] a trailer
 - [ ] your game branding artwork
-- [x] a written description.
+- [x] a written description
+
+We can highkey set up the Steam Page *tonight* because Erin is actively working 
