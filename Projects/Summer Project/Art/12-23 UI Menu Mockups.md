@@ -1,4 +1,4 @@
-
+000000
 ## Spells Screen
 
 This is a screen where the player, at any time, can learn more about the current spells they have equipped. Thematically, Allister is opening his tome and reading the contents, so the UI should probably reflect that.
