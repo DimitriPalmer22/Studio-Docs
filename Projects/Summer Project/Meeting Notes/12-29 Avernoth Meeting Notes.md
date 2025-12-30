@@ -1,1 +1,0 @@
-Sealed away in an ancient alternate dimension, you must find a way to break free. In this fantasy action rogue-lite, uncover a variety of spells to cast your way through waves of hostile magical apparitions. Discover the secrets of Avernoth to make escape possible. Do you have what it takes?
