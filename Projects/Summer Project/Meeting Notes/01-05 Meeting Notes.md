@@ -73,3 +73,5 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - I'll make a build
 - You guys play it
 - Tell us what you think
+
+- Erin is doing the dialogue screen revision
