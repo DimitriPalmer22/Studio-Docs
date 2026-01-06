@@ -45,6 +45,10 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - For the most part, we've implemented this functionally and not fully aesthetically.
 - In short, do we think this looks good, or can it look better?
 
+- Erin is doing the dialogue screen revision
+	- The character portraits are 896x896 in-engine
+	- Also, you might wanna consider any animations you might want for this to make it look complete.
+
 ##### Feedback:
 - Font could be more readable. The font is too stylized for something that should carry information. Maybe keep the super stylized font to just the character's name?
 - Paper looks too realistic compared to the characters
@@ -73,7 +77,3 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - I'll make a build
 - You guys play it
 - Tell us what you think
-
-- Erin is doing the dialogue screen revision
-	- The character portraits are 896x896 in-engine
-	- Also, you might wanna consider any animations you might want for this to make it look complete.
