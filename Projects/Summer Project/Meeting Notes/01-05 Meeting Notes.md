@@ -45,6 +45,9 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - For the most part, we've implemented this functionally and not fully aesthetically.
 - In short, do we think this looks good, or can it look better?
 
+##### Feedback:
+- Font co
+
 #### Pause Screen
 - Does not fit the game stylistically
 - We need a whole new look for this that fits the rest of the UI we have going on.
