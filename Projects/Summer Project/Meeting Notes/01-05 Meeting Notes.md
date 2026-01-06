@@ -33,6 +33,14 @@ In general, we wanna make the game seem less like a "game in development" and mo
 
 ### UI Stuff
 
+#### Spell Icons
+
+##### Secondary
+- [ ] Crystal Explosion
+
+##### Passive
+- [ ] Moxie - Increase player attack for a couple seconds after defeating an enemy
+
 #### Dialogue Screen
 - For the most part, we've implemented this functionally and not fully aesthetically.
 - In short, do we think this looks good, or can it look better?
@@ -50,7 +58,6 @@ In general, we wanna make the game seem less like a "game in development" and mo
 
 #### Spells Screen
 - Already asked 2D artists for mockups
-
 
 # play the game pls
 - I'll make a build
