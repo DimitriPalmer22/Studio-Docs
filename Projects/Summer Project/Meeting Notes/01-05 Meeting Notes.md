@@ -33,11 +33,16 @@ In general, we wanna make the game seem less like a "game in development" and mo
 
 ### UI Stuff
 
+#### Dialogue Screen
+- For the most part, we've implemented this functionally and not f
+
 #### Pause Screen
 - Does not fit the game stylistically
-- 
+- We need a whole new look for this that fits the rest of the UI we have going on.
 
 #### Settings Screen
+- Same as the pause screen; does not fit the game stylistically
+- Needs an overhaul to fit the aesthetic of the game.
 
 #### Codex Screen
 - Already asked 2D artists for mockups
