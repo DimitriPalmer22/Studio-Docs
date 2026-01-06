@@ -25,4 +25,9 @@
 	- *Support* for localization (not full localization, just the framework for it)
 
 ## Stuff that Needs to be Done
+In general, we wanna make the game seem less like a "game in development" and more like a game. So, where can we refine some things?
+
+### Audio
+- More sfx...
+- More music...
 
