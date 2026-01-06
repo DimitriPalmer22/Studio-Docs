@@ -49,7 +49,7 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - Font could be more readable. The font is too stylized for something that should carry information. Maybe keep the super stylized font to just the character's name?
 - Paper looks too realistic compared to the characters
 - The buttons (continue, skip) next to the dialogue box are hard to read.
-- Transparent paper 
+- Transparent paper looks strange. Looks unfinished.
 
 #### Pause Screen
 - Does not fit the game stylistically
