@@ -19,6 +19,10 @@
 	- Uploading a trailer
 	- Setting pricing
 	- Configuring a build
-- Once that is o
+- Once that is out of the way, I'm going to go back and implement some more features that would help to boost the game's visibility in the store. This includes:
+	- Achievements
+	- Full controller support
+	- *Support* for localization (not full localization, just the framework for it)
 
-## 
+## Stuff that Needs to be Done
+
