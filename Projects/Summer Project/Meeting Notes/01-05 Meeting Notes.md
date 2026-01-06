@@ -34,7 +34,8 @@ In general, we wanna make the game seem less like a "game in development" and mo
 ### UI Stuff
 
 #### Dialogue Screen
-- For the most part, we've implemented this functionally and not f
+- For the most part, we've implemented this functionally and not fully aesthetically.
+- In short, do we think this looks good, or can it look better?
 
 #### Pause Screen
 - Does not fit the game stylistically
@@ -49,3 +50,9 @@ In general, we wanna make the game seem less like a "game in development" and mo
 
 #### Spells Screen
 - Already asked 2D artists for mockups
+
+
+# play the game pls
+- I'll make a build
+- You guys play it
+- Tell us what you think
