@@ -50,6 +50,7 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - Paper looks too realistic compared to the characters
 - The buttons (continue, skip) next to the dialogue box are hard to read.
 - Transparent paper looks strange. Looks unfinished.
+- We're gonna explore a 1 character on-screen approach for the dialogue (kinda like Hades)
 
 #### Pause Screen
 - Does not fit the game stylistically
