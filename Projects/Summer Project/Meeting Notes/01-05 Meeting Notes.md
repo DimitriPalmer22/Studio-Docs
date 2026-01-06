@@ -31,3 +31,14 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - More sfx...
 - More music...
 
+### UI Stuff
+
+#### Pause Screen
+
+#### Settings Screen
+
+#### Codex Screen
+- Already asked 2D artists for mockups
+
+#### Spells Screen
+- Already asked 2D artists for mockups
