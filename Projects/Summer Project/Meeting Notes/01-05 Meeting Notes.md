@@ -34,6 +34,8 @@ In general, we wanna make the game seem less like a "game in development" and mo
 ### UI Stuff
 
 #### Pause Screen
+- Does not fit the game stylistically
+- 
 
 #### Settings Screen
 
