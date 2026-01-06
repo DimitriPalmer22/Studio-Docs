@@ -75,3 +75,5 @@ In general, we wanna make the game seem less like a "game in development" and mo
 - Tell us what you think
 
 - Erin is doing the dialogue screen revision
+	- The character portraits are 896x896 in-engine
+	- Also, you might wanna consider any animations you might want for this to make it look complete.
