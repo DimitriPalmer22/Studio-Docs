@@ -15,5 +15,10 @@
 - Trailer is still being worked on and is still in-progress
 	- It *is* due tonight, though
 - I'm gonna work on setting up the next set of requirements to submit an initial *build* for review. That way, we can get it out of the way sooner rather than later. 
+- This includes:
+	- Uploading a trailer
+	- Setting pricing
+	- Configuring a build
+- Once that is o
 
 ## 
