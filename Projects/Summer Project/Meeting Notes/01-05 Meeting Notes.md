@@ -59,6 +59,10 @@ In general, we wanna make the game seem less like a "game in development" and mo
 #### Spells Screen
 - Already asked 2D artists for mockups
 
+
+### LD Stuff
+> NOTE: Some of your levels have been touched over the past week or two, so make sure you pull before 
+
 # play the game pls
 - I'll make a build
 - You guys play it
