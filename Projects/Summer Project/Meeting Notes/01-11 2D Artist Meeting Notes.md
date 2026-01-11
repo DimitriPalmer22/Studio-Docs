@@ -1,4 +1,6 @@
-!![](<../../../_Meta/Attachments/Pasted image 20260111182104.png>)
+### Pause Menu
+
+![](<../../../_Meta/Attachments/Pasted image 20260111182104.png>)
 
 This is the *current* pause menu.
 
