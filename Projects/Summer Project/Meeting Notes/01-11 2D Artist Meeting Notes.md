@@ -6,5 +6,5 @@ The revised pause menu should have options for:
 - Resume
 - Codex
 - Settings
-- Return to "Hub"
+- Restart
 - Main Menu
