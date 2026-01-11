@@ -29,3 +29,12 @@ Here are the tabs we actually need:
 Current "Video" Settings page.
 
 The video settings page is going to have all the options listed above. 
+
+#### The Audio Settings Page
+
+!![](<../../../_Meta/Attachments/Pasted image 20260111185437.png>)
+Current "Audio" Settings page.
+
+There may be more options added here later, but for now, this is fine.
+
+#### The Controls Settings Page
