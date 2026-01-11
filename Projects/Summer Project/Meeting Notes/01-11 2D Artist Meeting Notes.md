@@ -11,4 +11,6 @@ The revised pause menu should have options for:
 - Restart
 - Main Menu
 
-### 
+### Settings Menu?
+
+We need this to be flexible, as I'm not sure of ALL the options we want to have in here yet. Consider than any page is probably going to be scrollable. 
