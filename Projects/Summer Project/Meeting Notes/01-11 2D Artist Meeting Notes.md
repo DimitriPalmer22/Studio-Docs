@@ -17,7 +17,11 @@ We need this to be flexible, as I'm not sure of ALL the options we want to have 
 
 #### Required UI Pieces
 To build the settings menu in-engine we need:
-- Buttons
+- Buttons for the different tabs (pressed, not pressed)
+- Vertical Scroll bars (background fill, handle) 
+- Sliders (background fill, foreground fill, handle)
+- Checkboxes (checked, unchecked)
+- Dropdown menus (background, options list background, option selected, option not selected)
 
 #### The Different Tabs
 Right now, the settings menu has tabs for: "Video", "Audio", "Controls", and "Credits". The credits tab ***WILL BE REMOVED FROM THE SETTINGS MENU***.
