@@ -14,3 +14,12 @@ The revised pause menu should have options for:
 ### Settings Menu?
 
 We need this to be flexible, as I'm not sure of ALL the options we want to have in here yet. Consider than any page is probably going to be scrollable. 
+
+#### The Different Tabs
+Right now, the settings menu has tabs for: "Video", "Audio", "Controls", and "Credits
+
+#### The Video Settings Page
+!![](<../../../_Meta/Attachments/Pasted image 20260111184954.png>)
+Current "Video" Settings page.
+
+The video settings page is going to have all the options listed above. 
