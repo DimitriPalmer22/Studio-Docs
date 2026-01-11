@@ -1,0 +1,1 @@
+!![](<../../../_Meta/Attachments/Pasted image 20260111182104.png>)
