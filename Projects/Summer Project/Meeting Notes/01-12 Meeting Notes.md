@@ -21,4 +21,8 @@ I need working placeholders of any new UI elements.
 
 
 # Summary
-- I submitted a build of the game for review today, so we should know within 3-5 business days if th
+- I submitted a build of the game for review today, so we should know within 3-5 business days if the game is good.
+- New Main Menu *NEEDS* to be finished!!!
+- UI: Settings menu concepts, pause menu concepts, send placeholders for spells screen, send placeholders for codex screen, send placeholders for dialogue screen. 
+- Also, send copies of the spell icons with the added bits.
+- 
