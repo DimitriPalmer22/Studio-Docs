@@ -23,9 +23,10 @@ I need working placeholders of any new UI elements.
 # Summary
 - Demo build ***due the 26th!!!***. Things should be complete *BEFORE THEN*
 - I submitted a build of the game for review today, so we should know within 3-5 business days if the game is good to go.
+- A real demo version of the game needs to be constructed! It'll stop after completing the first area.
 - New Main Menu *NEEDS* to be finished!!!
 - UI: Settings menu concepts, pause menu concepts, send placeholders for spells screen, send placeholders for codex screen, send placeholders for dialogue screen. 
 - Also, send copies of the spell icons with the added bits.
 - Rebake all levels because they got cooked
 - Sound overhaul coming soon
-- Rework Aanimations
+- Rework attack animations 
