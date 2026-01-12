@@ -1,7 +1,8 @@
 
 ## Steam Stuff
 
-
+- I have uploaded a build to Steam for review.
+- I don't think this is necessary for the next fest process, but it's nice to get it out the way first.
 
 
 ## UI Stuff
