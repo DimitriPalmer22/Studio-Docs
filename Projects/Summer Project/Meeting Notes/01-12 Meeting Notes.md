@@ -1,4 +1,8 @@
 
+## Steam Stuff
+
+
+
 
 ## UI Stuff
 
@@ -14,7 +18,6 @@ I need working placeholders of any new UI elements.
 
 ### Dialogue 
 - I need the placeholders of the dialogue UI in the game as well
-- 
 
 ### Spell Icons
 - For the crystal barrage spell, send me a version WITH the added bits on the corners. It's less work on me in-engine.
