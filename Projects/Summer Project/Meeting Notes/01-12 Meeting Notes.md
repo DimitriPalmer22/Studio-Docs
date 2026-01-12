@@ -2,6 +2,11 @@
 
 ## UI Stuff
 
+I need working placeholders of any new UI elements.
+
+### Dialogue 
+- s
+- 
 ### Spells Screen / Codex Screen
 - I want to get a rough visual in-engine sooner rather than later so i'm not backloading any work
 - Send me the rough journal / codex UI with separated elements so I can put together a working placeholder in-engine.
