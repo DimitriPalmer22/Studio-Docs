@@ -23,6 +23,9 @@ I need working placeholders of any new UI elements.
 ### Spell Icons
 - For the crystal barrage spell, send me a version WITH the added bits on the corners. It's less work on me in-engine.
 
+## LD Stuff
+
+
 
 # Summary
 - Demo build ***due the 26th!!!***. Things should be complete *BEFORE THEN*
