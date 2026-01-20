@@ -17,7 +17,6 @@
 	- They have their own page / store assets and their own set of builds and build reviews
 - Last week, I was doing everything for the MAIN GAME page, but I didn't start the DEMO page's stuff until a couple days later.
 	- This is an oopsie on my part, as I just didn't realize that the demo page needed to be done separately
-- This is alright, though. This is why I was submitting stuff EARLY. This gives us time to fix mistakes like this.
 
 ### Current Submission Statuses
 - The store page for the MAIN GAME is 100% done and approved and has been for the past week.
@@ -45,8 +44,8 @@
 - The entire "target lock" system needs to be made more refined, so it'll feel like a more integral part of the gameplay
 
 ### Menus & UI
-- Any menus that are incomplete will have their assets put into the game
-- Menu animations will be added to make transitions between menus smoother
+- Any menus that are incomplete will have their assets added
+- Menu animations will be added
 
 ### Primary & Secondary Spells
 - We'll tweak values like knockback and how far players move during combos to make combat feel more fluid
