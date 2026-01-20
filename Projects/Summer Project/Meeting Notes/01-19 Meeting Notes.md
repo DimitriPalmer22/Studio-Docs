@@ -3,10 +3,10 @@
 
 | Meeting                         | Possible Times |
 | ------------------------------- | -------------- |
-| LD Meeting                      | Tuesday @ 8pm  |
+| LD Meeting                      |                |
 | Narrative Designer + CD Meeting |                |
 | Sound Meeting                   |                |
-| Environmental Artist Meeting    | Saturday @ 3pm |
+| Environmental Artist Meeting    |                |
 | 2D Artist                       |                |
 | Animation Meeting               |                |
 | Character Artist Meeting        |                |
@@ -26,3 +26,6 @@
 - I submitted a build for the DEMO a couple days ago, and it is currently UNDER REVIEW. Before submitting, I addressed all the issues that caused the MAIN GAME build to be rejected. So, hopefully, this build will be approved.
 	- Even though the build has been submitted for review, *I believe* I can still update that build before someone actually gets to it. So, if we find any last-minute issues, we can still fix them to avoid having to wait another few days for feedback.
 
+### More Demo Details
+- As of right now, the demo is marked to release on February 12, which (I believe) is the date of the Next Fest Press Preview.
+	- The Press Preview is an event BEFORE Next Fest starts where you can see some of the games beforehand. If you have a demo up, then people can play it.
