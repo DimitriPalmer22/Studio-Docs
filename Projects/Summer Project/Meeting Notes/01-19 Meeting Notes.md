@@ -10,4 +10,7 @@
 | 2D Artist                       |                |
 | Animation Meeting               |                |
 | Character Artist Meeting        |                |
-## 
+## Steam Page Updates
+
+### The Demo Page
+- There's something I haven't expressed clearly to you guys: the MAIN
