@@ -63,3 +63,4 @@
 ### Boss Room
 - The "boss room" needs to be reworked...
 - Rather than having the player fight the same types of enemies for an extended period of time, we'll give them an objective to do while fighting enemies. This way, the gameplay doesn't get monotonous.
+- Stage hazards?
