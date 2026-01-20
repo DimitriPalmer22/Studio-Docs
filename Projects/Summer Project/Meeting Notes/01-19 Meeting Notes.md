@@ -51,6 +51,11 @@ POLISH. Try to make the product seem more refined.
 ### Primary & Secondary Spells
 - We'll tweak values like knockback and how far players move during combos to make combat feel more fluid
 - For secondary spells, we *can* charge them up. But, as of right now, there is no real benefit to doing so. We'll work on making charging up spells more rewarding (like having different effects & animations for fully charged spells).
+- Also, having some type of VFX to indicate how charged up a spell is would be nice.
 
 ### Upgrades
-- The 
+- The individual upgrades the player can get to their primary spells will be made more clear and easier to understand. As of right now, they seem a little convoluted.
+
+### Shield Mechanic
+- Shield mechanic is unexplained and poorly implemented.
+- We'll need to do a much better job of conveying how the player acquires shield, when they are getting it, and what 
