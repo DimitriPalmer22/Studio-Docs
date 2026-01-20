@@ -10,7 +10,7 @@
 | 2D Artist                       |                |
 | Animation Meeting               |                |
 | Character Artist Meeting        |                |
-## Steam Page Updates
+## Steam Page & Next Fest Updates
 
 ### The Demo Page
 - There's something I haven't expressed clearly to you guys: the MAIN GAME and the DEMO are 2 separate sets of submissions on Steam
@@ -23,4 +23,6 @@
 - The store page for the MAIN GAME is 100% done and approved and has been for the past week.
 - I submitted a build to review for the MAIN GAME last week, and it got *rejected* for a couple reasons: release date too far away, the game didn't seem like it was fully done, submission was missing a couple Unreal Engine-specific files, the game was marked to have full controller support even though that wasn't implemented yet. As of right now, there is NOT a build under review for the MAIN GAME. We will wait until we are closer to the release date to submit a new build for review.
 - I submitted a review for the DEMO's store page a couple days ago and it got *rejected* because the DEMO version of the game has a little banner that covers the game's name on some of our store assets. However, Erin and I already fixed that issue and resubmitted the store page for review. As of right now, the DEMO's store page is UNDER REVIEW.
-- I submitted a build for the DEMO a couple days ago, and it is currently UNDER REVIEW. Before submitting, I addressed 
+- I submitted a build for the DEMO a couple days ago, and it is currently UNDER REVIEW. Before submitting, I addressed all the issues that caused the MAIN GAME build to be rejected. So, hopefully, this build will be approved.
+	- Even though the build has been submitted for review, *I believe* I can still update that build before someone actually gets to it. So, if we find any last-minute issues, we can still fix them to avoid having to wait another few days for feedback.
+
