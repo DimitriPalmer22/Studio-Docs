@@ -44,7 +44,13 @@ POLISH. Try to make the product seem more refined.
 	- Just walking around 
 - The entire "target lock" system needs to be made more refined, so it'll feel like a more integral part of the gameplay
 
-
 ### Menus & UI
 - Any menus that are incomplete will have their assets put into the game
 - Menu animations will be added to make transitions between menus smoother
+
+### Primary & Secondary Spells
+- We'll tweak values like knockback and how far players move during combos to make combat feel more fluid
+- For secondary spells, we *can* charge them up. But, as of right now, there is no real benefit to doing so. We'll work on making charging up spells more rewarding (like having different effects & animations for fully charged spells).
+
+### Upgrades
+- The 
