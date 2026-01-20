@@ -35,4 +35,10 @@
 POLISH. Try to make the product seem more refined.
 
 ### Animations & Combat
-- Work on conveying character 
+- Work on conveying movements through the animations better. The player should never really question what a character (a player or an enemy) is doing.
+
+### Camera
+- I'll work on having the camera's position & rotation changing a little in different scenarios
+	- In dialogue / reading a journal entry
+	- In combat
+	- J
