@@ -58,4 +58,4 @@ POLISH. Try to make the product seem more refined.
 
 ### Shield Mechanic
 - Shield mechanic is unexplained and poorly implemented.
-- We'll need to do a much better job of conveying how the player acquires shield, when they are getting it, and what 
+- We'll need to do a much better job of conveying how the player acquires shield, when they are getting it, and what benefit it provides (beyond just being a health buffer)
