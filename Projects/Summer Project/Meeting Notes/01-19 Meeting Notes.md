@@ -19,4 +19,7 @@
 	- This is an oopsie on my part, as I just didn't realize that the demo page needed to be done separately
 - This is alright, though. This is why I was submitting stuff EARLY. This gives us time to fix mistakes like this.
 
-### Current Submission 
+### Current Submission Statuses
+- The store page for the MAIN GAME is 100% done and approved and has been for the past week.
+- I submitted a build to review for the MAIN GAME last week, and it got *rejected* for a couple reasons: release date too far away, submission was missing a couple Unreal Engine-specific files, the game was marked to have full controller support even though that wasn't implemented yet. As of right now, there is NOT a build under review for the MAIN GAME. We will wait until we are closer to the release date to submit a new build for review.
+- 
