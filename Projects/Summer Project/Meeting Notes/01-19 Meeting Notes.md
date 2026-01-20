@@ -1,5 +1,5 @@
 
-## Meeting Notes
+## Meeting Time
 
 | Meeting                         | Possible Times |
 | ------------------------------- | -------------- |
@@ -32,7 +32,7 @@
 
 ## Stuff To Work on For the Game
 
-POLISH. Try to make the product seem more refined.
+- POLISH. Try to make the product seem more refined.
 
 ### Animations & Combat
 - Work on conveying movements through the animations better. The player should never really question what a character (a player or an enemy) is doing.
@@ -62,4 +62,4 @@ POLISH. Try to make the product seem more refined.
 
 ### Boss Room
 - The "boss room" needs to be reworked...
-- Rather than having the player f
+- Rather than having the player fight the same types of enemies for an extended period of time, we'll give them an objective to do while fighting enemies. This way, the gameplay doesn't get monotonous.
