@@ -38,7 +38,13 @@ POLISH. Try to make the product seem more refined.
 - Work on conveying movements through the animations better. The player should never really question what a character (a player or an enemy) is doing.
 
 ### Camera
-- I'll work on having the camera's position & rotation changing a little in different scenarios
+- I'll work on having the camera's position, rotation, and behavior changing a little in different scenarios
 	- In dialogue / reading a journal entry
 	- In combat
-	- J
+	- Just walking around 
+- The entire "target lock" system needs to be made more refined, so it'll feel like a more integral part of the gameplay
+
+
+### Menus & UI
+- Any menus that are incomplete will have their assets put into the game
+- Menu animations will be added to make transitions between menus smoother
