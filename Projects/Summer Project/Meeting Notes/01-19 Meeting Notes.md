@@ -29,3 +29,10 @@
 ### More Demo Details
 - As of right now, the demo is marked to release on February 12, which (I believe) is the date of the Next Fest Press Preview.
 	- The Press Preview is an event BEFORE Next Fest starts where you can see some of the games beforehand. If you have a demo up, then people can play it.
+
+## Stuff To Work on For the Game
+
+POLISH. Try to make the product seem more refined.
+
+### Animations & Combat
+- Work on conveying character 
