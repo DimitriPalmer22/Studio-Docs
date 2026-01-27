@@ -19,10 +19,10 @@
 	- This will come after more polishing has been done to the game itself.
 
 
-
-
 ## Progress Updates
 
+### New Allister Model
+- Andre has been working on a new model for Allister that better represents his new design in the cover
 
 
 ## What's Next?
