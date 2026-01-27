@@ -34,7 +34,8 @@
 ### Charging the Secondary is More Rewarding
 For the crystal spell, there are 3 tiers of charge:
 - Tier 1: Shoot 4 crystals in a small spread.
-- Tier 2: 
+- Tier 2: Shoot 8 crystals in a wider spread.
+- Tier 3: Shoot 20 crystals in a much, much wider spread.
 
 ## What's Next?
 
