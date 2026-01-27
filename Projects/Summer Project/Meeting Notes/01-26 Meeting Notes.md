@@ -26,6 +26,9 @@
 - He'll then rig it and set it up to be animated in-game.
 - Eventually, Daunte will texture it.
 
+### Camera Changes
+- Camera no longer automatically rotates to frame the player or enemies 
+
 ## What's Next?
 
-We'll keep hacking away at the things outlined in last week's meeting notes.
+We'll keep hacking away at the things outlined in last week's meeting notes, but like actually.
