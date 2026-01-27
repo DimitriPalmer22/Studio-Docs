@@ -15,4 +15,12 @@
 - The demo can release any time we want.
 - The demo WILL be released by the time the Press Preview starts (February 12th)
 
-## Stuff To Work on For the Game
+- Before this point, I *do* want to record more of a *polished* short, raw gameplay video to show off the game better and put on the Steam page.
+	- As of right now, we don't really have anything to show off the gameplay well.
+	- This will come after more polishing has been done to the game itself.
+
+## Progress Updates
+
+
+
+## What's Next?
