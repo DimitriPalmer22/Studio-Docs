@@ -27,7 +27,14 @@
 - Eventually, Daunte will texture it.
 
 ### Camera Changes
-- Camera no longer automatically rotates to frame the player or enemies 
+- Camera no longer automatically rotates to frame the player or enemies during combat.
+- During dialogue segments, the camera will zoom in and focus on the player.
+- The camera zooms in slightly while not in combat.
+
+### Charging the Secondary is More Rewarding
+For the crystal spell, there are 3 tiers of charge:
+- Tier 1: Shoot 4 crystals in a small spread.
+- Tier 2: 
 
 ## What's Next?
 
