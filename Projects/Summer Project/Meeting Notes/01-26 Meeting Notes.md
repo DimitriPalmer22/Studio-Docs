@@ -37,6 +37,9 @@ For the crystal spell, there are 3 tiers of charge:
 - Tier 2: Shoot 8 crystals in a wider spread.
 - Tier 3: Shoot 20 crystals in a much, much wider spread.
 
+### Allister Magically Dissolves into the Level
+- This was a thing before, but its more pronounced now.
+
 ## What's Next?
 
 We'll keep hacking away at the things outlined in last week's meeting notes, but like actually.
