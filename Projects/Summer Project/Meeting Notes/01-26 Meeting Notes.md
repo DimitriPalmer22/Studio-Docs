@@ -22,7 +22,8 @@
 ## Progress Updates
 
 ### New Allister Model
-- Andre has been working on a new model for Allister that better represents his new design in the cover
+- Andre has been working on a new model for Allister that better represents his new design in the cover art.
+- Eventually, Daunte will texture it.
 
 
 ## What's Next?
