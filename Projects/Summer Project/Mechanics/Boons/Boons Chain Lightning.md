@@ -4,7 +4,7 @@
 ### Rarities
 
 
-# Primary Mod
+# Primary Moud
 
 
 # Secondary Mod
