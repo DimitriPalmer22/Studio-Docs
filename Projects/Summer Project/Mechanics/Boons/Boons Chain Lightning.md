@@ -1,6 +1,8 @@
 
 # Base Effect
 
+### Rarities
+
 
 # Primary Mod
 
