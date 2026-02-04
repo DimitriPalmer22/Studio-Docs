@@ -25,7 +25,6 @@
 
 ### Passive Spells to Rework Into Boons
 - [ ] ComboCounter - Agi
-- [ ] ComboCounter - CritChance
 - [ ] ComboCounter - ManaRegen
 
 - [ ] DamResp - Agi
@@ -33,13 +32,15 @@
 - [ ] DamResp - Res
 
 - [ ] HealOnSpawnEnd
-- [ ] Moxie
+- [ ] Moxie (Increase int on kill)
+- [ ] SucessiveDodgeTillDamaged
 
-- [ ] PerfectDodge - CritChance
+- [ ] PerfectDodge - Agi
 - [ ] PerfectDodge - HealHealth
 - [ ] PerfectDodge - HealMana
 - [ ] PerfectDodge - Int
 - [ ] PerfectDodge - Res
 
 - [ ] StartIncreasedCritChance
-- [ ] S
+- [ ] PerfectDodge - CritChance
+- [ ] ComboCounter - CritChance
