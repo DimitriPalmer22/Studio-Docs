@@ -41,6 +41,6 @@
 - [ ] PerfectDodge - Int
 - [ ] PerfectDodge - Res
 
-- [ ] StartIncreasedCritChance
-- [ ] PerfectDodge - CritChance
-- [ ] ComboCounter - CritChance
+- [x] StartIncreasedCritChance
+- [x] PerfectDodge - CritChance
+- [x] ComboCounter - CritChance
