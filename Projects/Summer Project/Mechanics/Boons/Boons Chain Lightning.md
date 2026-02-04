@@ -24,7 +24,7 @@
 ---
 
 ### Passive Spells to Rework Into Boons
-- [ ] ComboCounter - Agi
+- [x] ComboCounter - Agi
 - [ ] ComboCounter - ManaRegen
 
 - [ ] DamResp - Agi
