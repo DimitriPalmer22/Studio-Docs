@@ -27,19 +27,19 @@
 - [x] ComboCounter - Agi
 - [x] ComboCounter - ManaRegen
 
-- [ ] DamResp - Agi
-- [ ] DamResp - Int
-- [ ] DamResp - Res
+- [x] DamResp - Agi
+- [x] DamResp - Int
+- [x] DamResp - Res
+
+- [ ] PerfectDodge - Agi
+- [ ] PerfectDodge - Int
+- [ ] PerfectDodge - Res
+- [ ] PerfectDodge - HealHealth
+- [ ] PerfectDodge - HealMana
 
 - [ ] HealOnSpawnEnd
 - [ ] Moxie (Increase int on kill)
 - [ ] SucessiveDodgeTillDamaged
-
-- [ ] PerfectDodge - Agi
-- [ ] PerfectDodge - HealHealth
-- [ ] PerfectDodge - HealMana
-- [ ] PerfectDodge - Int
-- [ ] PerfectDodge - Res
 
 - [x] StartIncreasedCritChance
 - [x] PerfectDodge - CritChance
