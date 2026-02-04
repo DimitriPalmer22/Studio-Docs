@@ -21,3 +21,7 @@
 
 # General Effect Upgrades
 
+---
+
+### Passive Spells to Rework Into Boons
+- [ ] 
