@@ -31,9 +31,9 @@
 - [x] DamResp - Int
 - [x] DamResp - Res
 
-- [ ] PerfectDodge - Agi
-- [ ] PerfectDodge - Int
-- [ ] PerfectDodge - Res
+- [x] PerfectDodge - Agi
+- [x] PerfectDodge - Int
+- [x] PerfectDodge - Res
 - [ ] PerfectDodge - HealHealth
 - [ ] PerfectDodge - HealMana
 
