@@ -37,8 +37,11 @@
 - [x] PerfectDodge - HealHealth
 - [x] PerfectDodge - HealMana
 
+- [ ] OnKill - Agi
+- [ ] OnKill - Int (Moxie)
+- [ ] OnKill - Res (Moxie)
+
 - [ ] HealOnSpawnEnd
-- [ ] Moxie (Increase int on kill)
 - [ ] SucessiveDodgeTillDamaged
 
 - [x] StartIncreasedCritChance
