@@ -41,7 +41,7 @@
 - [x] OnKill - Int (Moxie)
 - [x] OnKill - Res (Moxie)
 
-- [ ] HealOnSpawnEnd
+- [x] HealOnSpawnEnd
 - [ ] SucessiveDodgeTillDamaged
 
 - [x] StartIncreasedCritChance
