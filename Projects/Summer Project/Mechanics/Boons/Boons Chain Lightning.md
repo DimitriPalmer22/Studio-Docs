@@ -34,8 +34,8 @@
 - [x] PerfectDodge - Agi
 - [x] PerfectDodge - Int
 - [x] PerfectDodge - Res
-- [ ] PerfectDodge - HealHealth
-- [ ] PerfectDodge - HealMana
+- [x] PerfectDodge - HealHealth
+- [x] PerfectDodge - HealMana
 
 - [ ] HealOnSpawnEnd
 - [ ] Moxie (Increase int on kill)
