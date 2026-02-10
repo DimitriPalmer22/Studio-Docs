@@ -25,6 +25,7 @@
 	2. "Rewrites"
 	3. "Revisions"
 	4. "***Addendums***"
+
 ### Fully Implementing the New Upgrade System
 - The old upgrade system has been removed and parts of the new upgrade system are currently in the game
 - However, there are still a lot of things that need to be done to fully implement the new upgrade system and make it feel complete.
