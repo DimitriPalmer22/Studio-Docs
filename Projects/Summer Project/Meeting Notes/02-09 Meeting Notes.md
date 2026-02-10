@@ -21,8 +21,10 @@
 
 ### New Simple Enemy Type?
 - We need something to break up the monotony of fighting the same enemy types over and over.
+- We need enemies with very SIMPLE and DISTINCT behavior.
 - Here, I have a couple ideas:
 
+1. An enemy that very slowly moves toward the player. Once the player is in range, they do an AOE attack that can be easily telegraphed and dodged. 
 
 
 ## Summary
