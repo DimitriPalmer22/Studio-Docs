@@ -34,10 +34,14 @@
 - Here, I have a couple ideas:
 	1. An enemy that very slowly moves toward the player. Once the player is in range, they do an AOE attack that can be easily telegraphed and dodged. 
 
-
 ### Thing That Gives You the Tome At the Beginning
-- This still has no asset lol
-- Concept Art for the design
+- This still has no real asset lol
+- Concept Art for the design 
+- Then, modeling and texturing
+
+### Fully Implementing the New Upgrade System
+- The old upgrade system has been removed and parts of the new upgrade system are currently in the game
+- However, there are still a lot of things that need to be done to fully implement the new upgrade system and make it feel complete.
 
 ## Summary
 - 
