@@ -43,6 +43,7 @@
 - Then, modeling and texturing
 - Erin will do this
 
+### Assets for New Upgrades
 
 ## Summary
 - 
