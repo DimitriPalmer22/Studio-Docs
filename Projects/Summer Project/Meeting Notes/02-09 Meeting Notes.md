@@ -20,6 +20,10 @@
 ## What's Next?
 
 ### New Simple Enemy Type?
+- We need something to break up the monotony of fighting the same enemy types over and over.
+- Here, I have a couple ideas:
+
+
 
 ## Summary
 - 
