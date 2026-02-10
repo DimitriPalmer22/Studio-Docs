@@ -15,10 +15,11 @@
 - As a reminder, Next Fest is actually from FEBRUARY 23 to MARCH 2nd!!!
 
 ## Progress Updates
-
-
+- 
 
 ## What's Next?
 
+### New Simple Enemy Type?
 
 ## Summary
+- 
