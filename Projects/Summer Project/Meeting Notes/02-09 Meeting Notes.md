@@ -47,4 +47,6 @@
 
 ## Summary
 - Upgrades in the game are now called "***Addendums***". We have a clear outline of where the upgrades will be given out, so we just have to implement that fully.
+- There *are* some more 2D art assets that need to be pumped out for the ***Addendums***.
+- We're gonna try working on a new enemy type that has very simple and distinct behavior to break up the monotony of fighting the same enemy types over and over again. Azalee will work on this.
 - 
