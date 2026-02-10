@@ -35,5 +35,9 @@
 	1. An enemy that very slowly moves toward the player. Once the player is in range, they do an AOE attack that can be easily telegraphed and dodged. 
 
 
+### Thing That Gives You the Tome At the Beginning
+- This still has no asset lol
+- Concept Art for the design
+
 ## Summary
 - 
