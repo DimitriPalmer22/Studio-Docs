@@ -19,6 +19,12 @@
 
 ## What's Next?
 
+### Naming the Upgrades
+- In the code, in the documentation, EVERYWHERE, I have been calling these new upgrades "boons" because that's what they are called in Hades.
+- However, if this is a core mechanic of our game, then maybe we should come up with our own name for them that fits the world and tone of our game better.
+- Here are a couple ideas:
+1. 
+
 ### New Simple Enemy Type?
 - We need something to break up the monotony of fighting the same enemy types over and over.
 - We need enemies with very SIMPLE and DISTINCT behavior.
