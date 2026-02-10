@@ -24,7 +24,7 @@
 	1. "Amendments"
 	2. "Rewrites"
 	3. "Revisions"
-	4. "Addendums"
+	4. "***Addendums***"
 
 ### New Simple Enemy Type?
 - We need something to break up the monotony of fighting the same enemy types over and over.
