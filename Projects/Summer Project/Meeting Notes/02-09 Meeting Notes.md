@@ -46,5 +46,5 @@
 ### Assets For New Upgrades
 
 ## Summary
-- Upgrades in the game are now called "***Addendums***". We have a clear outline of where the upga
+- Upgrades in the game are now called "***Addendums***". We have a clear outline of where the upgrades will be given out, so we just have to implement that fully.
 - 
