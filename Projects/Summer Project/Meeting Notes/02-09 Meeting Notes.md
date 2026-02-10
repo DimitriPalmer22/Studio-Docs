@@ -43,7 +43,8 @@
 - Then, modeling and texturing
 - Erin will do this
 
-### Assets for New Upgrades
+### Assets For New Upgrades
 
 ## Summary
+- Upgrades in the game are now called "***Addendums***". We have a clear outline of where the upga
 - 
