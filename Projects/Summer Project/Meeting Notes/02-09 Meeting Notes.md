@@ -14,7 +14,6 @@
 - We are going to try to release the demo by then so people can play it during the press preview.
 - As a reminder, Next Fest is actually from FEBRUARY 23 to MARCH 2nd!!!
 
-
 ## What's Next?
 
 ### Naming the Upgrades
@@ -46,6 +45,7 @@
 ### Assets For New Upgrades
 
 ## Summary
+- The *Demo* is set to release by February 12th at 12am EST, just in time for the Press Preview. Next Fest is actually from February 23rd to March 2nd, so we have a little bit of extra time after the demo release to polish and add more content to the game before Next Fest starts.
 - Upgrades in the game are now called "***Addendums***". We have a clear outline of where the upgrades will be given out, so we just have to implement that fully.
 - There *are* some more 2D art assets that need to be pumped out for the ***Addendums***.
 - We're gonna try working on a new enemy type that has very simple and distinct behavior to break up the monotony of fighting the same enemy types over and over again. Azalee will work on this.
