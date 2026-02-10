@@ -14,8 +14,6 @@
 - We are going to try to release the demo by then so people can play it during the press preview.
 - As a reminder, Next Fest is actually from FEBRUARY 23 to MARCH 2nd!!!
 
-## Progress Updates
-- 
 
 ## What's Next?
 
