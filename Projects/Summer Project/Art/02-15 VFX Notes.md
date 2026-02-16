@@ -9,7 +9,7 @@
 - Now that the melee attacks are actual melee attacks, we can have more liberties with the VFX for our melee attacks
 - No more just sparks and impacts!!!
 
-### !!!TRANSMUTATION CIRCLES!!!
+## !!!TRANSMUTATION CIRCLES!!!
 - The transmutation circles I made NEED to get out of the game
 - They are a little unperformant and don't fit well with the game's art style.
 - They need to be redone, but better. (Actual art assets, etc.)
