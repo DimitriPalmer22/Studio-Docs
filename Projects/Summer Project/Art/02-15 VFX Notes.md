@@ -36,4 +36,7 @@
 - As of right now, a huge transmutation circle appears above the journal table whenever there is a new entry available. However, I don't think we should move forward with this. It looks too weird.
 
 ## Journal Table!
-- Rather than have the huge transmutation circle sitting above the journal table,
+- Rather than have the huge transmutation circle sitting above the journal table, we can do something else.
+- Above the *page*, we can have a rune symbol floating.
+- This rune symbol is gonna be constantly flipping through all the rune symbols that we have in the game. (This is because each journal entry has a corresponding rune symbol that gets revealed later, so we don't want to spoil which entry is which by having a specific symbol for each entry sitting above the table)
+- Last, we should have this symbol billboarding 
