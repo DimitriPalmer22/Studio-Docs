@@ -11,8 +11,9 @@
 
 ## !!!TRANSMUTATION CIRCLES!!!
 - The transmutation circles I made NEED to get out of the game
-- They are a little unperformant and don't fit well with the game's art style.
-- They need to be redone, but better. (Actual art assets, etc.)
+- They are a little unperformant (because they use the ribbon renderer) and don't fit well with the game's art style.
+- They need to be redone, but better. 
+	- Most of the effect should be modeled / textured externally and not generated within Niagara.
 
 ### Enemies Casting Spells / Attacking
 - Before, I had an idea of using transmutation circles heavily to telegraph enemy attacks and spell casts (in addition to the animations of course)
@@ -26,3 +27,6 @@
 - Instead, we can have a hollow swirl around the outside of the portal so we can still make it visible from far away without creating that weird overlap effect when the player steps inside.
 
 ![](<../../../_Meta/Attachments/Pasted image 20260213013926.png>)
+
+### Enemy Spawn Transmutation Circle
+- Again, my old transmutation circle is being used for this, and it is not good. It needs to be redone.
