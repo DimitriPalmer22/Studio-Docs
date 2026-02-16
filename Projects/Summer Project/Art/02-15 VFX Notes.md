@@ -17,6 +17,7 @@
 - The plan is to reuse these transmutation circles in the sections listed below, since I *did* want them to be part of the game's visual identity
 
 ### Enemies Casting Spells / Attacking
+- *THIS IS STILL A LITTLE IFFY*. With the number of effects in the game right now, the game is very visually noisy, and could potentially make this even worse.
 - Before, I had an idea of using transmutation circles heavily to telegraph enemy attacks and spell casts (in addition to the animations of course)
 - Wraith enemies will have a transmutation circle appear at the location they will fire their projectile from.
 - The Knight enemies will have a transmutation circle appear at their feet as they are about to attack. (Accompanied with a little glow or something so that the player can see it even if they aren't looking straight down at the floor)
@@ -39,4 +40,5 @@
 - Rather than have the huge transmutation circle sitting above the journal table, we can do something else.
 - Above the *page*, we can have a rune symbol floating.
 - This rune symbol is gonna be constantly flipping through all the rune symbols that we have in the game. (This is because each journal entry has a corresponding rune symbol that gets revealed later, so we don't want to spoil which entry is which by having a specific symbol for each entry sitting above the table)
-- Last, we should have this symbol billboarding 
+- Last, we should have this symbol billboarding towards the player at all times so that it's visible and readable from any angle.
+- And then maybe some other effect to it so that it is clearly visible and sticks out to the player.
