@@ -4,11 +4,6 @@
 - However, this is NOT the way to go. This is not as *modular* or *reusable* as we want our VFX to be.
 - Instead, we are going to lean even harder into using *Gameplay Cues* for our VFX. This will allow us to have a much more modular and reusable system for our VFX.
 
-### Flame Volley
-
-- Now that the melee attacks are actual melee attacks, we can have more liberties with the VFX for our melee attacks
-- No more just sparks and impacts!!!
-
 ## !!!TRANSMUTATION CIRCLES!!!
 - The transmutation circles I made NEED to get out of the game
 - They are a little unperformant (because they use the ribbon renderer) and don't fit well with the game's art style.
@@ -17,7 +12,7 @@
 - The plan is to reuse these transmutation circles in the sections listed below, since I *did* want them to be part of the game's visual identity
 
 ### Enemies Casting Spells / Attacking
-- *THIS IS STILL A LITTLE IFFY*. With the number of effects in the game right now, the game is very visually noisy, and could potentially make this even worse.
+- *THIS IS STILL A LITTLE IFFY*. With the number of effects in the game right now, the game is very visually noisy, and this could potentially make the problem worse.
 - Before, I had an idea of using transmutation circles heavily to telegraph enemy attacks and spell casts (in addition to the animations of course)
 - Wraith enemies will have a transmutation circle appear at the location they will fire their projectile from.
 - The Knight enemies will have a transmutation circle appear at their feet as they are about to attack. (Accompanied with a little glow or something so that the player can see it even if they aren't looking straight down at the floor)
@@ -42,3 +37,9 @@
 - This rune symbol is gonna be constantly flipping through all the rune symbols that we have in the game. (This is because each journal entry has a corresponding rune symbol that gets revealed later, so we don't want to spoil which entry is which by having a specific symbol for each entry sitting above the table)
 - Last, we should have this symbol billboarding towards the player at all times so that it's visible and readable from any angle.
 - And then maybe some other effect to it so that it is clearly visible and sticks out to the player.
+
+## Flame Volley
+
+- Now that the melee attacks are actual melee attacks, we can have more liberties with the VFX for our melee attacks
+- No more just sparks and impacts!!!
+- 
