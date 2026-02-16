@@ -14,7 +14,7 @@
 - They are a little unperformant (because they use the ribbon renderer) and don't fit well with the game's art style.
 - They need to be redone, but better. 
 	- Most of the effect should be modeled / textured externally and not generated within Niagara.
-- The plan is to use these transmutation circles in the sections listed below, since I *did* want them to be part of the game's visual identity
+- The plan is to reuse these transmutation circles in the sections listed below, since I *did* want them to be part of the game's visual identity
 
 ### Enemies Casting Spells / Attacking
 - Before, I had an idea of using transmutation circles heavily to telegraph enemy attacks and spell casts (in addition to the animations of course)
@@ -31,3 +31,9 @@
 
 ### Enemy Spawn Transmutation Circle
 - Again, my old transmutation circle is being used for this, and it is not good. It needs to be redone.
+
+### Journal Table???
+- As of right now, a huge transmutation circle appears above the journal table whenever there is a new entry available. However, I don't think we should move forward with this. It looks too weird.
+
+## Journal Table!
+- Rather than have the huge transmutation circle sitting above the journal table,
