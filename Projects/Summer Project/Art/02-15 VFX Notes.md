@@ -1,0 +1,28 @@
+# VFX
+
+- As of right now, most VFX in the game are using Niagara components attached to some type of Actor (The enemy or player we want the effect to play on).
+- However, this is NOT the way to go. This is not as *modular* or *reusable* as we want our VFX to be.
+- Instead, we are going to lean even harder into using *Gameplay Cues* for our VFX. This will allow us to have a much more modular and reusable system for our VFX.
+
+### Flame Volley
+
+- Now that the melee attacks are actual melee attacks, we can have more liberties with the VFX for our melee attacks
+- No more just sparks and impacts!!!
+
+### !!!TRANSMUTATION CIRCLES!!!
+- The transmutation circles I made NEED to get out of the game
+- They are a little unperformant and don't fit well with the game's art style.
+- They need to be redone, but better. (Actual art assets, etc.)
+
+### Enemies Casting Spells / Attacking
+- Before, I had an idea of using transmutation circles heavily to telegraph enemy attacks and spell casts (in addition to the animations of course)
+- Wraith enemies will have a transmutation circle appear at the location they will fire their projectile from.
+- The Knight enemies will have a transmutation circle appear at their feet as they are about to attack. (Accompanied with a little glow or something so that the player can see it even if they aren't looking straight down at the floor)
+
+### Room Exit Portal
+- The room exit portal needs to be tweaked a little.
+- Originally, we had a large glow emit from the center of the portal to make it visible from far away in the level.
+- HOWEVER, this large glow OVERLAPS with Allister as he steps inside, creating this weird visual effect that not only looks a little weird, but kinda blinds the player as they step inside the portal.
+- Instead, we can have a hollow swirl around the outside of the portal so we can still make it visible from far away without creating that weird overlap effect when the player steps inside.
+
+![](<../../../_Meta/Attachments/Pasted image 20260213013926.png>)
