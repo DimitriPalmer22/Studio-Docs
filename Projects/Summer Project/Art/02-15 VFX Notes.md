@@ -14,6 +14,7 @@
 - They are a little unperformant (because they use the ribbon renderer) and don't fit well with the game's art style.
 - They need to be redone, but better. 
 	- Most of the effect should be modeled / textured externally and not generated within Niagara.
+- The plan is to use these transmutation circles in the sections listed below, since I *did* want them to be part of the game's visual identity
 
 ### Enemies Casting Spells / Attacking
 - Before, I had an idea of using transmutation circles heavily to telegraph enemy attacks and spell casts (in addition to the animations of course)
