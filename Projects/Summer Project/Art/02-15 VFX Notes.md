@@ -10,6 +10,7 @@
 - They need to be redone, but better. 
 	- Most of the effect should be modeled / textured externally and not generated within Niagara.
 - The plan is to reuse these transmutation circles in the sections listed below, since I *did* want them to be part of the game's visual identity
+- Each of these should look at least a little visually distinct (different colors, symbols, patterns, etc.) so that the player can easily differentiate between them and understand what they represent.
 
 ### Enemies Casting Spells / Attacking
 - *THIS IS STILL A LITTLE IFFY*. With the number of effects in the game right now, the game is very visually noisy, and this could potentially make the problem worse.
