@@ -42,4 +42,6 @@
 
 - Now that the melee attacks are actual melee attacks, we can have more liberties with the VFX for our melee attacks
 - No more just sparks and impacts!!!
-- 
+- **NOTE**: As you work on the Flame Volley animation montages, nobody else can work on them. So the following can't really be adjusted until you're done with them:
+	- Hitbox placement / timing
+	- Completely changing out animations for new ones
