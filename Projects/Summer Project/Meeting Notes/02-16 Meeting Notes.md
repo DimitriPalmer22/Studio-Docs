@@ -14,6 +14,10 @@
 
 ## What's Next?
 
+### Performance improvements:
+- I've done some optimizing and the game's performance should be better GPU-wise
+- CPU performance still leaves a little to be desired, but there is a definite way we can improve that
+
 ### Existing Enemies
 - From now on, enemies (specifically the knights) will have their weapons equipped at all times. Their animations are currently being reworked to be even more refined. Their behavior will also be reworked.
 
