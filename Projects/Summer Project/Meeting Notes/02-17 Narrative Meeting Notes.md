@@ -83,18 +83,21 @@ As soon as Allister finishes the personality assessment:
 ### Write Entrance Dialogue
 A quick acknowledgement that this room is nothing like the rest. 
 ### Write Dialogue for Approaching the Upgrade Object
-As of right now, the "Upgrade Object" is an anvil (I know, its a little weird, but it is what it is.) placed toward the back of the room. As the player approaches it, the dialogue will explain what Major Addendums are and how they work. The dialogue will also explain that the player can only have one Major Addendum in each slot at a time, and that they will only be given options for Major Addendums in slots that are not yet filled by another Major Addendum.
-
+As of right now, the "Upgrade Object" is an anvil (I know, its a little weird, but it is what it is.) placed toward the back of the room. 
+- As the player approaches it, the dialogue will explain what Major Addendums are and how they work. 
+- The dialogue will also explain that the player can only have one Major Addendum in each slot at a time, so they should choose wisely.
 ### Write Dialogue for After Choosing an Addendum
-
+After choosing an addendum, we can have a quick bit of text talking about how Allister feels stronger and he should try out his new addendum on some enemies.
 ## Minor Addendum Room Dialogue
 
 ### Write Entrance Dialogue
 The minor addendum room will *ALWAYS* appear AFTER the Major Addendum room. So, by this point the player will already be familiar with the concept of addendums, and they will already have at least one major addendum in their loadout. 
+
+Also, The two rooms are visually similar, so an acknowledgement of this room feeling similar to the other addendum room would be a nice touch.
+
 - So, the dialogue here can be a little more casual and less explanatory than the dialogue in the Major Addendum Room. 
 - The dialogue here can also reference the fact that the player has already been to a Major Addendum Room and has already acquired a Major Addendum, which will help reinforce the idea that there are two types of addendums and that they are different from each other.
 
-Also, the two rooms are visually similar, so an acknowledgement of this room feeling similar to the other addendum room would be a nice touch.
 
 ## Shop Dialogue
 
