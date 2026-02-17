@@ -66,9 +66,13 @@ The existing initial wake-up sequence is something we've needed to rework for a 
 1. Allister - Ah my head
 2. *Portal Spawns*
 3. ??? - Yo
-4. Allister - says *someth*
+4. Allister - says something
+5. Magnus then explains everything concisely. 
+6. Once Magnus is done, then they have some quick banter.
+7. Before Magnus leaves, he acknowledges the Tome Altar (although he doesn't know what it is yet) and encourages Allister to go check it out. 
 
 ### Write a Tome Altar Tutorial
+This dialogue pops up automatically as Allister approaches the 
 
 ### Write a Exit Portal Tutorial
 
