@@ -26,10 +26,14 @@
 - From now on, enemies (specifically the knights) will have their weapons equipped at all times. Their animations are currently being reworked to be even more refined. Their behavior will also be reworked.
 
 ### 2D ART!!!
-- We still need 2D art assets for 
+- There are still *several* menus without 2D art assets, and we need those much sooner rather than later.
+- Specifically, the settings menu, spells menu, and journal menu all need 2D art assets.
 
 ### Dialogue
 
+
 ### VFX
+- The VFX for the player's spells are currently being revised and reworked.
+- The VFX for the various transmutation circles foudn in the game are also being worked on.
 
 ## Summary
