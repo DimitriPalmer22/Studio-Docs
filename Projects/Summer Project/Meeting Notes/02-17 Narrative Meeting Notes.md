@@ -46,12 +46,10 @@ Throughout Avernoth are rooms where the player can upgrade their current tome by
 Each "Area" of Avernoth has one Major Addendum Room and one Minor Addendum Room. 
 #### Major Addendum Room
 Here, we will teach the player about Major Addendums. As the player approaches the object to upgrade their tome, the dialogue will explain what Major Addendums are and how they work. 
-- The player will then be given a choice between three Major Addendums to choose from, each with a brief description of its effects. The player will only be given options for Major Addendums
+- The player will then be given a choice between three Major Addendums to choose from, each with a brief description of its effects. The player will only be given options for Major Addendums in slots that are not yet filled by another Major Addendum.
 - The player can only choose one, and the one they choose will be added to their loadout.
 
 #### Minor Addendum Room
 Here, we will teach the player about Minor Addendums. As the player approaches the object to upgrade their tome, the dialogue will explain what Minor Addendums are and how they work.
 - The player will then be given a choice between three Minor Addendums to choose from, each with a brief description of its effects.
 - The player can only choose one, and the one they choose will be added to their loadout.
-
-###
