@@ -10,10 +10,16 @@
 | Animation Meeting               |                |
 | Character Artist Meeting        |                |
 ## Steam Page & Next Fest Updates
-- Demo still set to release *FEBRURARY 23RD*
-- 
+- Demo still set to release *FEBRURARY 23RD* (most likely at midnight)
 
 ## What's Next?
 
+### Enemies
+
+### Animations
+
+### 2D ART!!!
+
+### Dialogue
 
 ## Summary
