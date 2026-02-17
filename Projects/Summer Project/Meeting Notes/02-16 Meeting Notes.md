@@ -1,4 +1,4 @@
-## Meeting Times
+## Meeting Time
 
 | Meeting                         | Possible Times |
 | ------------------------------- | -------------- |
@@ -9,7 +9,12 @@
 | 2D Artist                       |                |
 | Animation Meeting               |                |
 | Character Artist Meeting        |                |
-## Current State of the Game / v0.7.0 Changes
+## Steam Page & Next Fest Updates
 
 
+## What's Next?
+- Demo still set to release *FEBRURARY 23RD*
+- 
 
+
+## Summary
