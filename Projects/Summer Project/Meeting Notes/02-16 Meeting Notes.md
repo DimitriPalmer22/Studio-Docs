@@ -31,6 +31,7 @@
 ### 2D ART!!!
 - There are still *several* menus without 2D art assets, and we need those much sooner rather than later.
 - Specifically, the settings menu, spells menu, and journal menu all need 2D art assets.
+- Also, the new upgrade system (the addendums) needs 2D art assets for the various addendums that don't already have assets.
 
 ### VFX
 - The VFX for the player's spells are currently being revised and reworked.
