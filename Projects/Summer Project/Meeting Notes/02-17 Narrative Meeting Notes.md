@@ -34,7 +34,7 @@ This is where I showcase the chain lightning addendums I created to demonstrate 
 *Minor addendums* are lesser, miscellaneous effects that make the player feel stronger without necessarily affecting their playstyle too much. The effects for these can vary from simple stat increases to more complex effects that trigger when certain conditions are met. *Minor addendums can stack with each other and with major addendums.* There are no specific slots for minor addendums; they simply apply their effects to the player as long as the player has them. However, the player cannot receive duplicate minor addendums. 
 
 ##### Major vs. Minor Addendums: A Source of Confusion.
-Upon looking 
+Upon looking at some of the examples of existing Addendums, you may notice that some Minor Addendums have very similar activation conditions to Major Addendums. For instance, the "*Evasive Current*" Major Addendum sends out chain lightning when the player perfectly dodges. Meanwhile, the "*Arcane Reflex*" Minor
 
 #### Major Addendum Room
 
