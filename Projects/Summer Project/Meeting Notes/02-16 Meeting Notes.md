@@ -19,13 +19,14 @@
 - CPU performance still leaves a little to be desired, but there is a definite way we can quickly and easily improve that
 
 ### New Enemies?
-- A new enemy is currently being worked on. 
-
+- A new enemy is currently being worked on, but it most likely will not be ready for the demo.
+- More basic enemy designs & ideas are being worked on as well. 
 
 ### Animations & Stuff
 - From now on, enemies (specifically the knights) will have their weapons equipped at all times. Their animations are currently being reworked to be even more refined. Their behavior will also be reworked.
 
 ### 2D ART!!!
+- We still need 2D art assets for 
 
 ### Dialogue
 
