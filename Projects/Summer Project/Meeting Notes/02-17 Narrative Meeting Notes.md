@@ -56,3 +56,20 @@ Here, we will teach the player about Minor Addendums. As the player approaches t
 
 # Narrative Tasks
 
+## Beginning Room Dialogue
+### Initial Wake-Up Sequence
+
+### Tome Altar Tutorial
+
+### Exit Portal Tutorial
+
+## Major Addendum Room Dialogue
+
+### Entrance Dialogue
+
+## Minor Addendum Room Dialogue
+
+### Entrance Dialogue
+The minor adden
+
+## Shop Dialogue
