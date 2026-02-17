@@ -16,7 +16,7 @@ Addendums are upgrades that can be applied to the mage's spells or stats. They a
 - Major (Slotted) Addendums 
 - Minor (Unslotted) Addendums.
 #### Major Addendums
-*Major addendums* are addendums that apply powerful playstyle-changing effects to various actions the player can perform. Within the player's loadout, there are 5 slots for major addendums:
+*Major addendums* are addendums that apply powerful playstyle-changing effects to various actions the player can perform. *Each slot with a tome's loadout can only hold **ONE MAJOR ADDENDUM AT A TIME***. Within the player's loadout, there are 5 slots for major addendums:
 - **Primary Spell Slot** - Effects that apply when the player uses their primary spell / their primary spell hits an enemy (or maybe some other condition depending on the effect)
 - **Secondary Spell Slot** - Effects that apply when the player uses their secondary spell / their secondary spell hits an enemy (or maybe some other condition depending on the effect)
 - **Dodge Slot** - Effects that apply when the player dodges or executes a *perfect dodge* 
