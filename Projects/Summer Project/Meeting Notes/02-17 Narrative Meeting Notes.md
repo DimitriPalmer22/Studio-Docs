@@ -99,13 +99,17 @@ Something along the lines of "Hey, this room looks a lot like that other addendu
 
 ### Write Dialogue for Approaching the Upgrade Object
 Again the upgrade object is an anvil. The dialogue here can be a little more casual and less explanatory than the dialogue in the Major Addendum Room. 
-- As the player approaches the anvil,  
+- As the player approaches the anvil, we get dialogue explaining that Allister will get a new minor addendum for his tome, which will make him feel stronger and more powerful, but won't necessarily change how he approaches combat like the major addendums do. 
 - The dialogue here can also reference the fact that the player has already been to a Major Addendum Room and has already acquired a Major Addendum, which will help reinforce the idea that there are two types of addendums and that they are different from each other.
-
-
+### Write Dialogue for After Choosing an Addendum
+Similar to the Major Addendum Room, we can have a quick bit of text talking about how Allister feels stronger and he should try out his new addendum on some enemies.
 ## Shop Dialogue
 
 ### Room Entrance Dialogue
+The shop is one of the least fleshed-out parts of the game right now, so it's definitely difficult to write dialogue for it without knowing more about how it's gonna work. However, we can still write some basic dialogue for when the player first enters the shop.
+
+- Acknowledge the lack of an enemy presence.
+- Comment about the items scattered about, but how they are confined to the ped
 
 # Summary of Tasks
 
