@@ -36,5 +36,3 @@
 ### VFX
 - The VFX for the player's spells are currently being revised and reworked.
 - The VFX for the various transmutation circles found in the game are also being worked on.
-
-## Summary
