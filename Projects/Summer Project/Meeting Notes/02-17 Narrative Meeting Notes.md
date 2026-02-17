@@ -95,7 +95,11 @@ The minor addendum room will *ALWAYS* appear AFTER the Major Addendum room. So, 
 
 Also, The two rooms are visually similar, so an acknowledgement of this room feeling similar to the other addendum room would be a nice touch.
 
-- So, the dialogue here can be a little more casual and less explanatory than the dialogue in the Major Addendum Room. 
+Something along the lines of "Hey, this room looks a lot like that other addendum room I was just in. I wonder what we'll find in here?"
+
+### Write Dialogue for Approaching the Upgrade Object
+Again the upgrade object is an anvil. The dialogue here can be a little more casual and less explanatory than the dialogue in the Major Addendum Room. 
+- As the player approaches the anvil,  
 - The dialogue here can also reference the fact that the player has already been to a Major Addendum Room and has already acquired a Major Addendum, which will help reinforce the idea that there are two types of addendums and that they are different from each other.
 
 
