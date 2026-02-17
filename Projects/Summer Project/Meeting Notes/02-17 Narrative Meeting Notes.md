@@ -57,19 +57,23 @@ Here, we will teach the player about Minor Addendums. As the player approaches t
 # Narrative Tasks
 
 ## Beginning Room Dialogue
-### Initial Wake-Up Sequence
+### Write a New Initial Wake-Up Sequence
 
-### Tome Altar Tutorial
+### Write a Tome Altar Tutorial
 
-### Exit Portal Tutorial
+### Write a Exit Portal Tutorial
 
 ## Major Addendum Room Dialogue
 
-### Entrance Dialogue
+### WrEntrance Dialogue
 
 ## Minor Addendum Room Dialogue
 
 ### Entrance Dialogue
-The minor adden
+The minor addendum room will *ALWAYS* appear AFTER the Major Addendum room. So, by this point the player will already be familiar with the concept of addendums, and they will already have at least one major addendum in their loadout. 
+- So, the dialogue here can be a little more casual and less explanatory than the dialogue in the Major Addendum Room. 
+- The dialogue here can also reference the fact that the player has already been to a Major Addendum Room and has already acquired a Major Addendum, which will help reinforce the idea that there are two types of addendums and that they are different from each other.
+
+Also, the two rooms are visually similar, so an acknowledgement of this room feeling similar to the other addendum room would be a nice touch.
 
 ## Shop Dialogue
