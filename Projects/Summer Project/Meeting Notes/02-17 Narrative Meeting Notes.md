@@ -109,7 +109,8 @@ Similar to the Major Addendum Room, we can have a quick bit of text talking abou
 The shop is one of the least fleshed-out parts of the game right now, so it's definitely difficult to write dialogue for it without knowing more about how it's gonna work. However, we can still write some basic dialogue for when the player first enters the shop.
 
 - Acknowledge the lack of an enemy presence.
-- Comment about the items scattered about, but how they are confined to the ped
+- Comment about the items scattered about, but how they are confined to the pedestals they sit on.
+- We need to use the mana essence we've collected from defeating enemies to purchase these items.
 
 # Summary of Tasks
 
