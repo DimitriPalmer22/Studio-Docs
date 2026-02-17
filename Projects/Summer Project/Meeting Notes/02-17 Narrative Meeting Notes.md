@@ -15,16 +15,18 @@ As we know, the archmage who created *Avernoth* is responsible for inventing thi
 Addendums are upgrades that can be applied to the mage's spells or stats. They are not spells themselves, but rather upgrades that alter the mage's playstyle in various ways. There are two main categories of addendums: 
 - Major (Slotted) Addendums 
 - Minor (Unslotted) Addendums.
-
 #### Major Addendums
-Major addendums are addendums that apply powerful playstyle-changing effects to various actions the player can perform. Within the player's loadout, there are 5 slots for major addendums:
+*Major addendums* are addendums that apply powerful playstyle-changing effects to various actions the player can perform. Within the player's loadout, there are 5 slots for major addendums:
 - **Primary Spell Slot** - Effects that apply when the player uses their primary spell / their primary spell hits an enemy (or maybe some other condition depending on the effect)
 - **Secondary Spell Slot** - Effects that apply when the player uses their secondary spell / their secondary spell hits an enemy (or maybe some other condition depending on the effect)
 - **Dodge Slot** - Effects that apply when the player dodges or executes a *perfect dodge* 
 - **Damage Taken Slot** - Effects that apply when the player takes damage (or maybe some other modifier like taking a certain amount of damage in a small time)
-- **Shield Slot** - 
+- **Shield Slot** - Effects that apply when the player has more than a certain amount of shield or when their shield breaks (or maybe some other modifier like having a certain amount of shield when performing an action) 
+##### Quick Example: Chain Lightning Major Addendums
+This is where I showcase the chain lightning addendums I created to demonstrate how this system works in practice.
 
 #### Minor Addendums
+*Minor addendums* 
 
 #### Major Addendum Room
 
