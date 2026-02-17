@@ -26,7 +26,7 @@ Addendums are upgrades that can be applied to the mage's spells or stats. They a
 This is where I showcase the chain lightning addendums I created to demonstrate how this system works in practice.
 
 #### Minor Addendums
-*Minor addendums* 
+*Minor addendums* are lesser, miscellaneous effects that make the player feel stronger without necessarily affecting their playstyle too much. 
 
 #### Major Addendum Room
 
