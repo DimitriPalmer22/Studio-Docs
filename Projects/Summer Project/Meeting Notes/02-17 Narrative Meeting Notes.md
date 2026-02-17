@@ -81,8 +81,11 @@ As soon as Allister finishes the personality assessment:
 ## Major Addendum Room Dialogue
 
 ### Write Entrance Dialogue
+A quick acknowledgement that this room is nothing like the rest.
 
-### Write Dialogue for Approaching the Upgrade 
+### Write Dialogue for Approaching the Upgrade Object
+
+### Write Dialogue for After Choosing an Addendum
 
 ## Minor Addendum Room Dialogue
 
@@ -94,3 +97,19 @@ The minor addendum room will *ALWAYS* appear AFTER the Major Addendum room. So, 
 Also, the two rooms are visually similar, so an acknowledgement of this room feeling similar to the other addendum room would be a nice touch.
 
 ## Shop Dialogue
+
+# Summary of Tasks
+
+1. Beginning Room Dialogue
+	1. Wake-Up Sequence
+	2. Tome Altar Tutorial
+	3. Exit Portal Tutorial
+2. Major Addendum Room Dialogue
+	1. Room Entrance
+	2. Approaching the Upgrade Object
+	3. After Choosing an Addendum
+3. Minor Addendum Room Dialogue
+	1. Room Entrance
+	2. Approaching the Upgrade Object
+	3. After Choosing an Addendum
+4. 
