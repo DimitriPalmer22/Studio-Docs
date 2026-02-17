@@ -53,3 +53,6 @@ Here, we will teach the player about Major Addendums. As the player approaches t
 Here, we will teach the player about Minor Addendums. As the player approaches the object to upgrade their tome, the dialogue will explain what Minor Addendums are and how they work.
 - The player will then be given a choice between three Minor Addendums to choose from, each with a brief description of its effects.
 - The player can only choose one, and the one they choose will be added to their loadout.
+
+# Narrative Tasks
+
