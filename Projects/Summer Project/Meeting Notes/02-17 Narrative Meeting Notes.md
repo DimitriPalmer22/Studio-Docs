@@ -81,9 +81,9 @@ As soon as Allister finishes the personality assessment:
 ## Major Addendum Room Dialogue
 
 ### Write Entrance Dialogue
-A quick acknowledgement that this room is nothing like the rest.
-
+A quick acknowledgement that this room is nothing like the rest. 
 ### Write Dialogue for Approaching the Upgrade Object
+As of right now, the "Upgrade Object" is an anvil (I know, its a little weird, but it is what it is.) placed toward the back of the room. As the player approaches it, the dialogue will explain what Major Addendums are and how they work. The dialogue will also explain that the player can only have one Major Addendum in each slot at a time, and that they will only be given options for Major Addendums in slots that are not yet filled by another Major Addendum.
 
 ### Write Dialogue for After Choosing an Addendum
 
@@ -97,6 +97,8 @@ The minor addendum room will *ALWAYS* appear AFTER the Major Addendum room. So, 
 Also, the two rooms are visually similar, so an acknowledgement of this room feeling similar to the other addendum room would be a nice touch.
 
 ## Shop Dialogue
+
+### Room Entrance Dialogue
 
 # Summary of Tasks
 
@@ -112,4 +114,5 @@ Also, the two rooms are visually similar, so an acknowledgement of this room fee
 	1. Room Entrance
 	2. Approaching the Upgrade Object
 	3. After Choosing an Addendum
-4. 
+4. Shop Dialogue
+	1. Room Entrance
