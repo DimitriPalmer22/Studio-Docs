@@ -32,7 +32,6 @@ Here's a Google Sheet containing all the existing Addendums in the game: https:/
 This is where I showcase the chain lightning addendums I created to demonstrate how this system works in practice.
 #### Minor Addendums
 *Minor addendums* are lesser, miscellaneous effects that make the player feel stronger without necessarily affecting their playstyle too much. The effects for these can vary from simple stat increases to more complex effects that trigger when certain conditions are met. *Minor addendums can stack with each other and with major addendums.* There are no specific slots for minor addendums; they simply apply their effects to the player as long as the player has them. However, the player cannot receive duplicate minor addendums. 
-
 ##### Major vs. Minor Addendums: A Source of Confusion.
 Upon looking at some of the examples of existing Addendums, you may notice that some Minor Addendums have very similar activation conditions to Major Addendums. 
 - For instance, the "*Evasive Current*" **Major** Addendum sends out chain lightning when the player perfectly dodges. 
@@ -40,6 +39,11 @@ Upon looking at some of the examples of existing Addendums, you may notice that 
 This has led some people to ask, "Wait, if Arcane Reflex ALSO activates when perfectly dodging, why is it not a **Major** Addendum?" 
 - Well, that's because the effects of Arcane Reflex are much less impactful on the player's playstyle than Evasive Current. Arcane Reflex simply restores some mana, which is *a nice bonus but doesn't really change how the player approaches combat*.
 
+### Addendum Rooms (Upgrade Rooms)
+Throughout Avernoth are rooms where the player can upgrade their current tome by acquiring new Addendums. These rooms are called "*Addendum Rooms*". There are two types of Addendum Rooms:
+- Major Addendum Rooms: Rooms where the player can acquire new Major Addendums for their current tome.
+- Minor Addendum Rooms: Rooms where the player can acquire new Minor Addendums for their current tome.
+Each "Area" of Avernoth has one Major Addendum Room and one Minor Addendum Room. 
 #### Major Addendum Room
 
 #### Minor Addendum Room
