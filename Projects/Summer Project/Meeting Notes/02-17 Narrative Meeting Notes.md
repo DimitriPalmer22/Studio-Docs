@@ -8,11 +8,18 @@ Loadouts are the set of spells and upgrades contained within a specific tome. Sp
 - **A primary spell**: The mage's main method of attack
 - **A secondary spell**: A stronger spell the mage can use less frequently
 - **Addendums (FKA Passive Spells)**: Upgrades with unique effects that altar the mage's playstyle in various ways. These are not spells, but rather upgrades that can be applied to the mage's spells or stats. (More on this in ["Addendums"](<#"Addendums">))
-
 #### Lore
 As we know, the archmage who created *Avernoth* is responsible for inventing this device. It was used to empower the troops of the Empire, enabling them to oppress various peoples.
 
 ### "Addendums"
+Addendums are upgrades that can be applied to the mage's spells or stats. They are not spells themselves, but rather upgrades that alter the mage's playstyle in various ways. There are two main categories of addendums: 
+- Major (Slotted) Addendums 
+- Minor (Unslotted) Addendums.
+
+#### Major Addendums
+Major addendums are addendums that apply powerful playstyle-changing effects to various actions the player can perform. Within the player's loadout, there are 5 slots for  
+
+#### Minor Addendums
 
 #### Major Addendum Room
 
