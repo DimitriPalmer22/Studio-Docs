@@ -12,7 +12,7 @@ Loadouts are the set of spells and upgrades contained within a specific tome. Sp
 As we know, the archmage who created *Avernoth* is responsible for inventing this device. It was used to empower the troops of the Empire, enabling them to oppress various peoples.
 
 ### "Addendums"
-Addendums are upgrades that can be applied to the mage's spells or stats. They are not spells themselves, but rather upgrades that alter the mage's playstyle in various ways. Within the world itself, Addendums can be thought of as additional pages being added to the tome. There are two main categories of addendums: 
+Addendums are upgrades that can be applied to the mage's abilities. They are not spells themselves, but rather upgrades that alter the mage's playstyle in various ways. Within the world itself, Addendums can be thought of as additional pages being added to the tome. There are two main categories of addendums: 
 - Major (Slotted) Addendums 
 - Minor (Unslotted) Addendums.
 
