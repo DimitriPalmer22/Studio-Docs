@@ -20,7 +20,7 @@ Addendums are upgrades that can be applied to the mage's spells or stats. They a
 > The Addendum system in our game is supposed to be very much like the boon system from Hades II, whereas the Primary and Secondary spells operate much like the weapons the player chooses before their run in Hades. The spells are supposed to be relatively immutable, while the Addendums provide much of the run-to-run variety. 
 > I opted to transition to a system like this instead because the rigid structure makes it much easier to concept abilities and implement them within the game's progression system. It was much easier to operate within a structured set of rules.
 
-H
+Here's a Google Sheet containing all the existing Addendums in the game: https://docs.google.com/spreadsheets/d/1KFx0LBjvIDT_CriO2C3WWN4KZiQRiFcYdw6Axi6NLJI/edit?usp=sharing
 #### Major Addendums
 *Major addendums* are addendums that apply powerful playstyle-changing effects to various actions the player can perform. *Each slot with a tome's loadout can only hold **ONE MAJOR ADDENDUM AT A TIME***. Within the player's loadout, there are 5 slots for major addendums:
 - **Primary Spell Slot** - Effects that apply when the player uses their primary spell / their primary spell hits an enemy (or maybe some other condition depending on the effect)
@@ -31,9 +31,10 @@ H
 ##### Quick Example: Chain Lightning Major Addendums
 This is where I showcase the chain lightning addendums I created to demonstrate how this system works in practice.
 #### Minor Addendums
-*Minor addendums* are lesser, miscellaneous effects that make the player feel stronger without necessarily affecting their playstyle too much. The effects for these can vary from simple stat increases to 
+*Minor addendums* are lesser, miscellaneous effects that make the player feel stronger without necessarily affecting their playstyle too much. The effects for these can vary from simple stat increases to more complex effects that trigger when certain conditions are met. *Minor addendums can stack with each other and with major addendums.* There are no specific slots for minor addendums; they simply apply their effects to the player as long as the player has them. However, the player cannot receive duplicate minor addendums. 
 
 ##### Major vs. Minor Addendums: A Source of Confusion.
+Upon looking 
 
 #### Major Addendum Room
 
