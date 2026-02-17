@@ -58,6 +58,10 @@ Here, we will teach the player about Minor Addendums. As the player approaches t
 
 ## Beginning Room Dialogue
 ### Write a New Initial Wake-Up Sequence
+The existing initial wake-up sequence is something we've needed to rework for a bit. The main issue with it is that it's just way too long. Also, the layout of this room is gonna change AGAIN, so the dialogue needs to be reworked to fit the new layout. ALSO ALSO
+
+1. Allister - Ah my head
+2. ??? - 
 
 ### Write a Tome Altar Tutorial
 
@@ -65,11 +69,11 @@ Here, we will teach the player about Minor Addendums. As the player approaches t
 
 ## Major Addendum Room Dialogue
 
-### WrEntrance Dialogue
+### Write Entrance Dialogue
 
 ## Minor Addendum Room Dialogue
 
-### Entrance Dialogue
+### Write Entrance Dialogue
 The minor addendum room will *ALWAYS* appear AFTER the Major Addendum room. So, by this point the player will already be familiar with the concept of addendums, and they will already have at least one major addendum in their loadout. 
 - So, the dialogue here can be a little more casual and less explanatory than the dialogue in the Major Addendum Room. 
 - The dialogue here can also reference the fact that the player has already been to a Major Addendum Room and has already acquired a Major Addendum, which will help reinforce the idea that there are two types of addendums and that they are different from each other.
