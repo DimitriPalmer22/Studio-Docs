@@ -116,6 +116,8 @@ The shop is one of the least fleshed-out parts of the game right now, so it's de
 - The item pedestals themselves can be named something unique / specific to further convey their function within the game's world.
 - Maybe Allister tries to use the shop item once and gets a dialogue saying "yo bro, u gotta use mana essence to unlock this. you can clearly see this by the magical barrier surrounding the item."
 - Also, item pedestal updated: the pedestal should look much more *plain*, and we'll use a special material / VFX to show a barrier around it. Enforcing the idea that the items are locked behind a magical exchange system.
+	- We *could* have chains around it in an armillary sphere pattern.
+	- When we interact w/ it, the chains go away and the item is unlocked.
 
 # Summary of Tasks
 
