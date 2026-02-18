@@ -112,6 +112,10 @@ The shop is one of the least fleshed-out parts of the game right now, so it's de
 - Comment about the items scattered about, but how they are confined to the pedestals they sit on.
 - We need to use the mana essence we've collected from defeating enemies to purchase these items.
 
+### NOTES
+- The item pedestals themselves can be named something unique / specific to further convey their function within the game's world.
+- 
+
 # Summary of Tasks
 
 1. Beginning Room Dialogue
