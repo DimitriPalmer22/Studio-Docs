@@ -113,7 +113,7 @@ The shop is one of the least fleshed-out parts of the game right now, so it's de
 - We need to use the mana essence we've collected from defeating enemies to purchase these items.
 
 ### Interact
-At first, Allister tries to interact with the item, but grabbing it fails. We get a dialogue saying yo bro, exchange 
+At first, Allister tries to interact with the item, but grabbing it fails. We get a dialogue saying yo bro, exchange some mana essence to unlock this & remove the magical barrier surrounding the item.
 
 ### NOTES
 - The item pedestals themselves can be named something unique / specific to further convey their function within the game's world.
@@ -138,3 +138,4 @@ At first, Allister tries to interact with the item, but grabbing it fails. We ge
 	3. After Choosing an Addendum
 4. Shop Dialogue
 	1. Room Entrance
+	2. Trying to buy an item, but failing fr
