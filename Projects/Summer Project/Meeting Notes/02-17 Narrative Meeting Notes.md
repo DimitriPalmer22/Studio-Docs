@@ -83,7 +83,7 @@ As soon as Allister finishes the personality assessment:
 ### Write Entrance Dialogue
 A quick acknowledgement that this room is nothing like the rest. 
 ### Write Dialogue for Approaching the Upgrade Object
-As of right now, the "Upgrade Object" is an anvil (I know, its a little weird, but it is what it is.) placed toward the back of the room. 
+As of right now, the "Upgrade Object" is an anvil (I know, its a little weird, but it is what it is. Ok ok, special writing desk with special magical ink.) placed toward the back of the room. 
 - As the player approaches it, the dialogue will explain what Major Addendums are and how they work. 
 - The dialogue will also explain that the player can only have one Major Addendum in each slot at a time, so they should choose wisely.
 ### Write Dialogue for After Choosing an Addendum
