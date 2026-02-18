@@ -71,7 +71,7 @@ The existing initial wake-up sequence is something we've needed to rework for a 
 6. Once Magnus is done, then they have some quick banter.
 7. Before Magnus leaves, he acknowledges the Tome Altar (although he doesn't know what it is yet) and encourages Allister to go check it out. 
 ### Write a Tome Altar Tutorial
-This dialogue pops up automatically as Allister approaches the Tome Altar. *Somebody* explains that this is the Tome Altar, and that it will give Allister a tome with a set of spells and abilities (we won't say the word "Addendum" yet). They explain that the Tome Altar determines which tome to give Allister based on a quick personality assessment, so Allister should just go ahead and interact with it to see what happens. 
+This dialogue pops up automatically as Allister approaches the Tome Altar. *Magnus* explains that this is the Tome Altar, and that it will give Allister a tome with a set of spells and abilities (we won't say the word "Addendum" yet). They explain that the Tome Altar determines which tome to give Allister based on a quick personality assessment, so Allister should just go ahead and interact with it to see what happens. 
 ### Write an Exit Portal Tutorial
 As soon as Allister finishes the personality assessment:
 - Acknowledge that he got a new tome and is ready to get out of here
