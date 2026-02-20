@@ -61,7 +61,7 @@ Here, we will teach the player about Minor Addendums. As the player approaches t
 The existing initial wake-up sequence is something we've needed to rework for a bit. 
 - The main issue with it is that it's just way too long. Front-loading the game's exposition wasn't working well.
 - Also, the layout of this room is gonna change AGAIN, so the dialogue needs to be reworked to fit the new layout. 
-- ALSO ALSO, we're no longer gonna have a static portal spawn in front of Allister at the beginning, so the dialogue needs to be reworked to fit this change as well.
+	- ALSO ALSO, we're no longer gonna have a static portal spawn in front of Allister at the beginning, so the dialogue needs to be reworked to fit this change as well.
 
 1. Allister - Ah my head
 2. *Portal Spawns*
