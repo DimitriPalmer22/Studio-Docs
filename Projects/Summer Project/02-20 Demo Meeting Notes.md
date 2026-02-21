@@ -5,7 +5,7 @@
 - [ ] New Tutorial Dialogue implementation
 
 ## Combat Tutorial
-- [ ] Show correct button inputs for each action.
+- [ ] Show correct button inputs for each action (NOT WITHIN THE TEXT BECAUSE THAT IS REDICULOUSLY HARD.) Instead, add separate UI elements on the screen to show the correct button inputs for each action. These UI elements should only be visible during the combat tutorial and should disappear once the player completes the tutorial.
 
 ## "Boss Room"
 - [ ] Redo boss room mechanically
