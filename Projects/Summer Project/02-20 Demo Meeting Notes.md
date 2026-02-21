@@ -13,7 +13,7 @@
 - [ ] Unique attacks?
 
 ## Addendum Rooms (Major & Minor)
-- [ ] Implement tutorial dialogue
+- [x] Implement tutorial dialogue
 - [ ] Addendum assets from Alecks
 - [ ] The addendum "anvil" should have stronger VFX that disable once the player uses it.
 - [ ] (Ehh) Make addendum screens visually distinct
