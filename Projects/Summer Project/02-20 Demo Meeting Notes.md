@@ -38,7 +38,7 @@
 - [ ] Enemy attack sounds
 
 ### Enemy AI
-- [ ] Simplify enemy AI to just be like "attack the player if they're within range" & "if the player is not within range, get closer to the player"
+- [x] Simplify enemy AI to just be like "attack the player if they're within range" & "if the player is not within range, get closer to the player"
 - [ ] Twilight knight is not rotating correctly on its second attack, causing him to dash backwards 
 - [ ] Re-add Hammer knight pull
 
