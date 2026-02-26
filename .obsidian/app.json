@@ -3,5 +3,9 @@
   "newLinkFormat": "relative",
   "attachmentFolderPath": "_Meta/Attachments",
   "showLineNumber": true,
-  "newFileLocation": "current"
+  "newFileLocation": "current",
+  "userIgnoreFilters": [
+    "_Meta/",
+    "PrivateNotes/Daily/"
+  ]
 }
