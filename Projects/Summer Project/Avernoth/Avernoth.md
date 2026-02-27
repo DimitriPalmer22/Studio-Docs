@@ -23,6 +23,9 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 - **[Areas](<./Areas/Areas.md>)**
 - **Mechanics**
 	- **[Combat](<./Mechanics/Combat/Combat.md>)**
+		- [Addendums](<./Mechanics/Combat/Addendums.md>)
+		- [Primary Spell](<./Mechanics/Combat/Primary Spell.md>)
+		- [Secondary Spell](<./Mechanics/Combat/Secondary Spell.md>)
 		- [Shield](<./Mechanics/Combat/Shield.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
