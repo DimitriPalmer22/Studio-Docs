@@ -34,5 +34,6 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 	- [Tome Altar](<./Mechanics/Tome Altar.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
+	- **Journal Entries**
 
 %% End Landmark %%
