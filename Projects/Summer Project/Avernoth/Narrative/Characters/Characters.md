@@ -9,6 +9,7 @@
 - [Magnus](<./Magnus.md>)
 - [Tarun](<./Tarun.md>)
 - [The Archmage](<./The Archmage.md>)
+- [The Musarun Empire](<./The Musarun Empire.md>)
 - [Zythomyra](<./Zythomyra.md>)
 
 %% End Waypoint %%
