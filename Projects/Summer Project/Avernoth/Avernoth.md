@@ -22,8 +22,8 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 %% Begin Landmark %%
 - **[Areas](<./Areas/Areas.md>)**
 - **Mechanics**
+	- [Addendums](<./Mechanics/Addendums.md>)
 	- **[Combat](<./Mechanics/Combat/Combat.md>)**
-		- [Addendums](<./Mechanics/Combat/Addendums.md>)
 		- [Primary Spell](<./Mechanics/Combat/Primary Spell.md>)
 		- [Secondary Spell](<./Mechanics/Combat/Secondary Spell.md>)
 		- [Shield](<./Mechanics/Combat/Shield.md>)
