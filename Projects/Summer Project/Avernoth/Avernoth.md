@@ -23,7 +23,7 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 - **[Areas](<./Areas/Areas.md>)**
 - **Mechanics**
 	- **[Combat](<./Mechanics/Combat/Combat.md>)**
-		- [Untitled](<./Mechanics/Combat/Untitled.md>)
+		- [Shield](<./Mechanics/Combat/Shield.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
 
