@@ -15,12 +15,14 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 - **[Areas](<./Areas/Areas.md>)**
 - **Mechanics**
 	- **Combat**
-- **Narrative**
+- **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
 		- [Allister](<./Narrative/Characters/Allister.md>)
+		- [Aristide](<./Narrative/Characters/Aristide.md>)
 		- [Hidetomo](<./Narrative/Characters/Hidetomo.md>)
 		- [Magnus](<./Narrative/Characters/Magnus.md>)
 		- [Tarun](<./Narrative/Characters/Tarun.md>)
 		- [The Archmage](<./Narrative/Characters/The Archmage.md>)
+		- [Zythomyra](<./Narrative/Characters/Zythomyra.md>)
 
 %% End Waypoint %%
