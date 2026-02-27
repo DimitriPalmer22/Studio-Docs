@@ -21,3 +21,9 @@ Upon "waking up", Allister's allies communicate with him through a dialogue port
 At the start of each run, Allister uses must use the Tome Altar (he also can't use the portals within Avernoth without it, which is why they don't appear until he has one). The tome altar grants Allister a [Tome](<../../Mechanics/Tomes.md>), and Allister takes his leave.
 
 ## Standard Rooms
+
+### [Combat](<./Combat/Combat.md>)
+
+### Journal Entries
+
+Within each standard room is a journal table. 
