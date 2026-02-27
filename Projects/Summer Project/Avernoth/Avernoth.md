@@ -10,8 +10,10 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 # Links
 
 %% Begin Waypoint %%
+- **[Areas](<./Areas/Areas.md>)**
+- **Mechanics**
+	- **Combat**
 - **Narrative**
 	- **Characters**
-- **Untitled**
 
 %% End Waypoint %%
