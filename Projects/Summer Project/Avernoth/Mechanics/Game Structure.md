@@ -30,3 +30,7 @@ Each room contains a variety of enemies that are thrown at the player in waves. 
 ### [Journal Entries](<./Journal System.md#>)
 
 Within each standard room is a [Journal Table](<./Journal System.md#Journal Table>). It is the player's main goal to collect these journal entries, as they are the key to escaping [Avernoth](<../Avernoth.md>).
+
+### Rewards
+
+After completing each room. The
