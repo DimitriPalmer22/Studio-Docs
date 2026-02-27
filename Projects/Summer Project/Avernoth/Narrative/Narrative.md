@@ -6,7 +6,9 @@ These are the events that take place within Avernoth's story.
 
 > These are lore elements that are not necessarily relevant to the game, but they provide context and background for the world and its characters. They can be used to flesh out the world and make it feel more alive and immersive.
 
-[The Musarun Empire](<./Characters/The Musarun Empire.md>)
+[The Musarun Empire](<./Characters/The Musarun Empire.md>) has been around since ancient times. They long had a thirst for power and conquest and have always made efforts to expand their influence and control over other lands and peoples. 
+
+To aid in their conquest, they enlisted the help of [The Archmage](<./Characters/The Archmage.md>). The Archmage was a brilliant sorcerer who was able to create the [[Tome Altar]], a type 
 
 ## Events Leading Up to the Game
 
