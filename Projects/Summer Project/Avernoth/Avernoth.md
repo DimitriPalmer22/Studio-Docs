@@ -14,7 +14,7 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 %% Begin Waypoint %%
 - **[Areas](<./Areas/Areas.md>)**
 - **Mechanics**
-	- **Combat**
+	- **[Combat](<./Mechanics/Combat/Combat.md>)**
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
 		- [Allister](<./Narrative/Characters/Allister.md>)

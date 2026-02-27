@@ -276,9 +276,7 @@
   "lintOnFileChange": false,
   "displayLintOnFileChangeNotice": false,
   "settingsConvertedToConfigKeyValues": true,
-  "foldersToIgnore": [
-    "_Meta"
-  ],
+  "foldersToIgnore": [],
   "filesToIgnore": [],
   "linterLocale": "system-default",
   "logLevel": "ERROR",
