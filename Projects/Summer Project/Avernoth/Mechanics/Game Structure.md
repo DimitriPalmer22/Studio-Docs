@@ -27,6 +27,6 @@ At the start of each run, Allister uses must use the Tome Altar (he also can't u
 
 Each room contains a variety of enemies that are thrown at the player in waves. The player must defeat all the enemies before leaving the room.
 
-### Journal Entries
+### [Journal Entries](<./Journal System.md#>)
 
-Within each standard room is a journal table. It is the player's main goal to collect these journal entries, as they are the key to escaping [Avernoth](<../Avernoth.md>).
+Within each standard room is a [Journal Table](<./Journal System.md#Journal Table>). It is the player's main goal to collect these journal entries, as they are the key to escaping [Avernoth](<../Avernoth.md>).
