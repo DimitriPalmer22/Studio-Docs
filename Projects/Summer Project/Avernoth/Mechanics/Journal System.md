@@ -16,10 +16,10 @@ By default, the magic run accompanying this journal entry can be seen by [Allist
 
 ### Research Log
 
-Research logs are journal entries that take note of any **experiments** the Archmage was performing while continuing his research in Avernoth. 
+Research logs are journal entries that take note of any **experiments** the Archmage was performing while continuing his research in Avernoth.
 
-These research logs very clearly outline some task the player has to do to recreate the Archmage's experiment. Once that task is complete, the rune associated with this journal entry becomes visible to Allister and his allies.  
+These research logs very clearly outline some task the player has to do to recreate the Archmage's experiment. Once that task is complete, the rune associated with this journal entry becomes visible to Allister and his allies.
 
 ### Collecting Journal Entries
 
-Se
+Since Allister has his state reset anytime he restarts his run, he cannot physically carry the journal entries with him. Instead, [[../Narrative/Characters/Tarun]] copies these entries down into the [[Codex]] / his notebook.
