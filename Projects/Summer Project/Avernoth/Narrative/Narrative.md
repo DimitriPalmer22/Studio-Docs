@@ -9,4 +9,4 @@ X
 > These are the events that happen RIGHT before the game starts. They are immediately relevant to the player and should be communicated to the player.
 
 ## Events Throughout the Course of the Game
-> These are the events that *SHOULD* take place throughout the course of the game. We need to make sure that they are communicated properly, as they are important for the player to understand the story and the world. Think of these as important story beats that the player comes across OUTSIDE the game's [[Combat]]
+> These are the events that *SHOULD* take place throughout the course of the game. We need to make sure that they are communicated properly, as they are important for the player to understand the story and the world. Think of these as important story beats that the player comes across OUTSIDE the game's [Combat](<../Mechanics/Combat/Combat.md>)
