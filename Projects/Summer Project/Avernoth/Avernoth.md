@@ -27,6 +27,8 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 		- [Primary Spell](<./Mechanics/Combat/Primary Spell.md>)
 		- [Secondary Spell](<./Mechanics/Combat/Secondary Spell.md>)
 		- [Shield](<./Mechanics/Combat/Shield.md>)
+	- [Game Structure](<./Mechanics/Game Structure.md>)
+	- [Tome Altar](<./Mechanics/Tome Altar.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
 
