@@ -33,4 +33,4 @@ Within each standard room is a [Journal Table](<./Journal System.md#Journal Tabl
 
 ### Rewards
 
-After completing each room. The
+After completing each room, there is a chance that the room drops a reward for the player. These rewards can be health, [Shield](<./Combat/Shield.md>), or [[Mana Essence]]

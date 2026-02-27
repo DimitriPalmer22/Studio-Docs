@@ -30,6 +30,7 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 	- [Dialogue](<./Mechanics/Dialogue.md>)
 	- [Game Structure](<./Mechanics/Game Structure.md>)
 	- [Journal System](<./Mechanics/Journal System.md>)
+	- [Mana Essence](<./Mechanics/Mana Essence.md>)
 	- [Tome Altar](<./Mechanics/Tome Altar.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
