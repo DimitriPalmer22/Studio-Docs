@@ -5,6 +5,7 @@
 At the start of each run, the player ***wakes up*** in the same room every time, the "beginning" of [Avernoth](<../Avernoth.md>). This room serves as a consistent place that we, the game developers, can use to:
 - Communicate important story beats to the player (through dialogue)
 - Start the player's run and get them into the main game loop
+
 ### "Waking Up"
 
 Here are the narrative justifications for why we always revert back to the beginning room after each run:
@@ -26,4 +27,4 @@ At the start of each run, Allister uses must use the Tome Altar (he also can't u
 
 ### Journal Entries
 
-Within each standard room is a journal table. 
+Within each standard room is a journal table. It is the player's main goal to collect these journal entries, as they are the key to escaping [Avernoth](<../Avernoth.md>).
