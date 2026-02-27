@@ -8,7 +8,9 @@ These are the events that take place within Avernoth's story.
 
 [The Musarun Empire](<./Characters/The Musarun Empire.md>) has been around since ancient times. They long had a thirst for power and conquest and have always made efforts to expand their influence and control over other lands and peoples. 
 
-To aid in their conquest, they enlisted the help of [The Archmage](<./Characters/The Archmage.md>). The Archmage was a brilliant sorcerer who was able to create the [[Tome Altar]], a type 
+To aid in their conquest, they enlisted the help of [The Archmage](<./Characters/The Archmage.md>). The Archmage was a brilliant sorcerer who was able to invent the [[Tome Altar]], a type of magical device used to create [Tomes](<../../Mechanics/Tomes.md>) that under-skilled mages could use to gain powerful abilities (much like giving a regular person a gun). The Archmage's invention quickly bolstered the Musarun Empire's forces, allowing them to conquer more and more lands and peoples. 
+
+However, the Archmage soon after realized the weight of his actions. He saw the destruction and chaos that his invention had caused, and he felt guilty for his role in it. This led to a decline in the 
 
 ## Events Leading Up to the Game
 
