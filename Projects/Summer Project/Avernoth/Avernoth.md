@@ -4,9 +4,10 @@ aliases:
 cssclasses:
 tags:
 ---
+
 # Avernoth
 
-This is a folder detailing all the details, mechanics, story beats, and more of [Avernoth](<./Avernoth.md>). This note contains a brief synopsis of the game and it's inner workings. 
+This is a folder detailing all the details, mechanics, story beats, and more of [Avernoth](<./Avernoth.md>). This note contains a brief synopsis of the game and it's inner workings.
 
 ## Setting
 
@@ -14,7 +15,7 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 
 ## Genre
 
-*Avernoth* is a 3D, third-person, rogue-like action game. The player will explore procedurally generated levels, fight off hordes of enemies, and upgrade their character to through the game. Death means restarting your progress, but characters retain their memories (moving the plot forward). 
+*Avernoth* is a 3D, third-person, rogue-like action game. The player will explore procedurally generated levels, fight off hordes of enemies, and upgrade their character to through the game. Death means restarting your progress, but characters retain their memories (moving the plot forward).
 
 # Links
 
