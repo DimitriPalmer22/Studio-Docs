@@ -9,8 +9,13 @@ At the start of each run, the player ***wakes up*** in the same room every time,
 ### [Dialogue](<./Dialogue.md>)
 
 #### "Waking Up"
-The very first time [Allister](<../Narrative/Characters/Allister.md>) wakes up in this beginning room, it is immediately after he has been sealed in his [battle with Hidetomo](<../Narrative/Narrative.md#Events Leading Up to the Game>)
+
+Here are the narrative justifications for why we always revert back to the beginning room after each run:
+- The very first time [Allister](<../Narrative/Characters/Allister.md>) wakes up in this beginning room, it is immediately after he has been sealed in his [battle with Hidetomo](<../Narrative/Narrative.md#Events Leading Up to the Game>).
+- Any 
+
+
 
 ### [Tome Altar](<./Tome Altar.md>) (Starting The Run)
 
-##
+## 
