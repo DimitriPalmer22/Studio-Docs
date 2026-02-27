@@ -1,5 +1,6 @@
 ---
 aliases:
+  - Seal Realm
 cssclasses:
 tags:
 ---
