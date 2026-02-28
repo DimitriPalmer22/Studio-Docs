@@ -2,7 +2,7 @@
 
 Let's say in about two weeks, I want these things to be in the game:
 - A much more finalized and polished player attack system. Something we can show an 8 second clip of an have people asking "wait, what game is this?"
-- Lowkey a change in art style / environmental design because our current setup is not as appealing as I think it should be
+- Lowkey a change in art style / environmental design because our current setup is not as appealing as I think it should be. I want the game to feel more GRAND. I want to be able to show short cinematics of a blockout / level (with appropriate lighting, fog, and effects) and draw people in off of that ALONE.
 
 ## Better Player Attacks
 
@@ -22,6 +22,10 @@ Furthermore, the current movement setup we have for attacks is a little janky. Y
 ### Visual and Auditory Effects
 
 X
+
+# Art Style / Environmental Design Update
+
+After looking at some other references, I realized that
 
 ## Small Art Update
 
