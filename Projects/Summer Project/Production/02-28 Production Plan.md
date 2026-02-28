@@ -12,6 +12,14 @@ The player's attacks *can* feel even better than they already do, but we have to
 
 We have to *HARD FOCUS* on this before addressing anything else because the [Combat](<../Avernoth/Mechanics/Combat/Combat.md>) should be the main attractor of our game, and this is the base of that.
 
+### Combat Demo Level
+
+![Watch This!](https://www.youtube.com/watch?v=5PJRCz0t7yY&pp=ygUcZ2FtZSBkZXNpZ24gem9vcyBhbmQgbXVzZXVtcw%3D%3D)
+
+In game design, it is common to have showcase levels w/ the main purpose of showing off a specific mechanic. These levels are usually very small, and they are designed to be the best possible representation of the mechanic they are meant to show off. 
+
+We should have one of these for combat. It should allow devs to easily change their current spells and change the current enemy they are fighting aga
+
 ### Revised Attack Animations
 
 In my initial assessment of how the attacks should feel, I was wrong about how many frames we would need for the animations to feel good. The current animations are *too short* to have any type of *weight* or real *expression* to them.
