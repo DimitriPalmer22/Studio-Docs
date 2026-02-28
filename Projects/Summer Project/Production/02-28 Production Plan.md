@@ -14,3 +14,9 @@ Furthermore, the current movement setup we have for attacks is a little janky. Y
 - It should be noted that in games with LESS movement per attack animation, the individual attack animations are much more AOE focused.
 
 ### Visual and Auditory Effects
+X
+
+
+## Art Stuff Update
+
+### Updated Model For "Anvil Thing"
