@@ -4,7 +4,7 @@ Let's say in about two weeks, I want these things to be in the game:
 - A much more finalized and polished player attack system. Something we can show an 8 second clip of an have people asking "wait, what game is this?"
 - Lowkey a change in art style / environmental design because our current setup is not as appealing as I think it should be. I want the game to feel more GRAND. I want to be able to show short cinematics of a blockout / level (with appropriate lighting, fog, and effects) and draw people in off of that ALONE.
 - Once we start getting more content solidified, we should establish a rhythm for our marketing campaign. What types of things do we show? What *personality* do we want our content to have (is it super-cool, are we edgy, or are we laid back and chill?)? How often do we post? How do we keep engagement up between our main content drops?
-- Develop a much cleaner and intentional presentation / UI styling for the game. This includes 
+- Develop a much cleaner and intentional presentation / UI styling for the game. This includes
 	- cinematic bars appearing on-screen
 	- the in-game UI bars
 	- the fonts we use for the game
