@@ -31,6 +31,11 @@ After looking at some other references, I realized that our spaces don't feel ne
 
 ### Proper Level Design Pipeline
 
+We cannot be doing this right. As of now, the LDs are just freestyling levels in the editor with the REAL ASSETS. 
+- There is no iteration. 
+- There is no room for testing. 
+- There is no room for feedback. 
+
 ### BACKGROUND & SPACE
 
 The background elements can be obscured by **fog**.
