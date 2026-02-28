@@ -7,5 +7,6 @@
   "userIgnoreFilters": [
     "_Meta/",
     "PrivateNotes/Daily/"
-  ]
+  ],
+  "readableLineLength": true
 }
