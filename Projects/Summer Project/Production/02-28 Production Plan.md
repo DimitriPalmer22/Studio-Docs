@@ -25,7 +25,7 @@ X
 
 # Art Style / Environmental Design Update
 
-After looking at some other references, I realized that
+After looking at some other references, I realized that our spaces don't feel nearly as *OTHERWORLDLY* as they could. Our current levels feel too much like they can exist an any worldly fantasy setting. I want our levels to feel 
 
 ## Small Art Update
 
