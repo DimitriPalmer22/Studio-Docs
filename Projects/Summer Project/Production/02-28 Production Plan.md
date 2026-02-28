@@ -3,7 +3,7 @@
 Let's say in about two weeks, I want these things to be in the game:
 - A much more finalized and polished player attack system. Something we can show an 8 second clip of an have people asking "wait, what game is this?"
 - Lowkey a change in art style / environmental design because our current setup is not as appealing as I think it should be. I want the game to feel more GRAND. I want to be able to show short cinematics of a blockout / level (with appropriate lighting, fog, and effects) and draw people in off of that ALONE.
-- A more data-oriented way of storing information for levels. This will allow us to more quickly and easily store information about which levels are in the game, where they belong, and what rewards are associated with them. For the most part, this is a Dimitri thing.
+- A more data-oriented way of storing information for levels. This will allow us to more quickly and easily store information about which levels are in the game, where they belong, and what rewards are associated with them. For the most part, this is a Dimitri thing. (this will help remove some of the jank in our design process I swear)
 
 ## Better Player Attacks
 
@@ -20,6 +20,8 @@ We have to *HARD FOCUS* on this before addressing anything else because the [Com
 In game design, it is common to have showcase levels w/ the main purpose of showing off a specific mechanic. These levels are usually very small, and they are designed to be the best possible representation of the mechanic they are meant to show off. 
 
 We should have one of these for combat. It should allow devs to easily change their current spells and change the current enemy they are fighting against.
+
+*THIS WILL BE USED FOR DEVLOG CONTENT*
 
 ### Revised Attack Animations
 
