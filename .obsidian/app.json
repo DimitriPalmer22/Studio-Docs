@@ -8,5 +8,7 @@
     "_Meta/",
     "PrivateNotes/Daily/"
   ],
-  "readableLineLength": true
+  "readableLineLength": true,
+  "alwaysUpdateLinks": false,
+  "showUnsupportedFiles": true
 }

@@ -18,7 +18,7 @@ We have to *HARD FOCUS* on this before addressing anything else because the [Com
 
 ![Watch This!](https://www.youtube.com/watch?v=5PJRCz0t7yY&pp=ygUcZ2FtZSBkZXNpZ24gem9vcyBhbmQgbXVzZXVtcw%3D%3D)
 
-In game design, it is common to have showcase levels w/ the main purpose of showing off a specific mechanic. These levels are usually very small, and they are designed to be the best possible representation of the mechanic they are meant to show off. 
+In game design, it is common to have showcase levels w/ the main purpose of showing off a specific mechanic. These levels are usually very small, and they are designed to be the best possible representation of the mechanic they are meant to show off.
 
 We should have one of these for combat. It should allow devs to easily change their current spells and change the current enemy they are fighting against.
 
@@ -39,14 +39,16 @@ X
 
 As of right now, the 3D artists are idle, and I could have them do some major redesigning to the appearance of our current levels (in terms of the kits we use).
 
-After looking at some other references, I realized that our spaces don't feel nearly as *OTHERWORLDLY* as they could. Our current levels feel too much like they can exist an any worldly fantasy setting. I want our levels to feel a little more like they have an air of mystery and danger to them. 
+After looking at some other references, I realized that our spaces don't feel nearly as *OTHERWORLDLY* as they could. Our current levels feel too much like they can exist an any worldly fantasy setting. I want our levels to feel a little more like they have an air of mystery and danger to them.
+
+[02-28 Production Plan Level Design](<./02-28 Production Plan Level Design.pur>)
 
 ### Proper Level Design Pipeline
 
-We cannot be doing this right. As of now, the LDs are just freestyling levels in the editor with the REAL ASSETS. 
-- There is no iteration. 
-- There is no room for testing. 
-- There is no room for feedback. 
+We cannot be doing this right. As of now, the LDs are just freestyling levels in the editor with the REAL ASSETS.
+- There is no iteration.
+- There is no room for testing.
+- There is no room for feedback.
 
 BLOCKOUTS are our best friends. We should be using Unreal's modeling tools to create blockouts of our levels before using real assets (since I lowkey wanna get new assets anyway). This will allow us to iterate on our level design much faster, and it will allow us to get feedback on the design of the levels before we put in the time and effort to make them look good.
 
