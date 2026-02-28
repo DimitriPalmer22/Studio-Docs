@@ -1,5 +1,8 @@
 # 02-28 Production Plan
 
+Let's say in about two weeks, I want these things to be in the game:
+- A much more finalized and polished player attack system. Something we can show an 8 second clip of an have people asking "wait, what game is this?"
+
 ## Better Player Attacks
 The player's attacks *can* feel even better than they already do, but we have to figure out:
 - why the combat in existing references work
@@ -17,7 +20,7 @@ Furthermore, the current movement setup we have for attacks is a little janky. Y
 X
 
 
-## Art Stuff Update
+## Small Update
 
 ### Updated Model For Addendums Object (Anvil Thing)
 We need to get rid of the anvil as the object the player interacts with to upgrade their tome. Instead, we will replace it with a special writing desk w/ a pen that has magical ink.
