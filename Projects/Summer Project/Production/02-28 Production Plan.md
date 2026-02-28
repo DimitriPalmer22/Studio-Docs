@@ -19,4 +19,8 @@ X
 
 ## Art Stuff Update
 
-### Updated Model For "Anvil Thing"
+### Updated Model For Addendums Object (Anvil Thing)
+We need to get rid of the anvil as the object the player interacts with to upgrade their tome. Instead, we will replace it with a special writing desk w/ a pen that has magical ink.
+
+### Revise the Model for the Tome Altar
+The shape behind the Tome Altar seems a lot like the symbol for the good guys. We should maybe replace it with the symbol for the bad guys. 
