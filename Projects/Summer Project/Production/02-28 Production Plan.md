@@ -4,6 +4,7 @@ Let's say in about two weeks, I want these things to be in the game:
 - A much more finalized and polished player attack system. Something we can show an 8 second clip of an have people asking "wait, what game is this?"
 - Lowkey a change in art style / environmental design because our current setup is not as appealing as I think it should be. I want the game to feel more GRAND. I want to be able to show short cinematics of a blockout / level (with appropriate lighting, fog, and effects) and draw people in off of that ALONE.
 - A more data-oriented way of storing information for levels. This will allow us to more quickly and easily store information about which levels are in the game, where they belong, and what rewards are associated with them. For the most part, this is a Dimitri thing. (this will help remove some of the jank in our design process I swear)
+- Once we start getting more content solidified, we should establish a rhythm for our marketing campaign. What types of things do we show? What *personality* do we want our content to have (is it super-cool, are we edgy, or are we laid back and chill?)? How often do we post? How do we keep engagement up between our main content drops?
 
 ## Better Player Attacks
 
