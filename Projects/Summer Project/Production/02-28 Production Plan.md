@@ -35,7 +35,6 @@ After looking at some other references, I realized that our spaces don't feel ne
 
 The background elements can be obscured by **fog**.
 
-
 ## Small Art Update
 
 ### Updated Model For Addendums Object (Anvil Thing)
