@@ -25,6 +25,8 @@ X
 
 # Art Style / Environmental Design Update
 
+As of right now, the 3D artists are idle, and I could have them do some major redesigning to the appearance of our current levels (in terms of the k.
+
 After looking at some other references, I realized that our spaces don't feel nearly as *OTHERWORLDLY* as they could. Our current levels feel too much like they can exist an any worldly fantasy setting. I want our levels to feel a little more like they have an air of mystery and danger to them. 
 
 ### BACKGROUND & SPACE
