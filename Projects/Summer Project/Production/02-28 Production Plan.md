@@ -29,7 +29,7 @@ After looking at some other references, I realized that our spaces don't feel ne
 
 ### BACKGROUND & SPACE
 
-The background elements can be obscured by fog.
+The background elements can be obscured by **fog**.
 
 ## Small Art Update
 
