@@ -25,7 +25,11 @@ X
 
 # Art Style / Environmental Design Update
 
-After looking at some other references, I realized that our spaces don't feel nearly as *OTHERWORLDLY* as they could. Our current levels feel too much like they can exist an any worldly fantasy setting. I want our levels to feel 
+After looking at some other references, I realized that our spaces don't feel nearly as *OTHERWORLDLY* as they could. Our current levels feel too much like they can exist an any worldly fantasy setting. I want our levels to feel a little more like they have an air of mystery and danger to them. 
+
+### BACKGROUND & SPACE
+
+The background elements can be obscured by fog.
 
 ## Small Art Update
 
