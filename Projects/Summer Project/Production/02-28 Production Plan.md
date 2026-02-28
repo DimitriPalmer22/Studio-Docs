@@ -48,6 +48,8 @@ We cannot be doing this right. As of now, the LDs are just freestyling levels in
 - There is no room for testing. 
 - There is no room for feedback. 
 
+BLOCKOUTS are our best friends. We should be using Unreal's modeling tools to create blockouts of our levels before using real assets (since I lowkey wanna get new assets anyway). This will allow us to iterate on our level design much faster, and it will allow us to get feedback on the design of the levels before we put in the time and effort to make them look good.
+
 ### BACKGROUND & SPACE
 
 The background elements can be obscured by **fog**.
