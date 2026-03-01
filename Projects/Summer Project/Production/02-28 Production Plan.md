@@ -38,7 +38,7 @@ Furthermore, the current movement setup we have for attacks is a little janky. Y
 
 ### Visual and Auditory Effects
 
-Lowkey, i want to try incorporating 2D textures / ani
+Lowkey, i want to try incorporating 2D textures / animations / flipbooks for hit effects rather than pure niagara particles (no I'm not just copying Tenebyss, but they are a good reference). This will allow us to have more stylized effects and break away a little further from the traditional Unreal Engine look.
 
 ## Art Style / Environmental Design Update
 
