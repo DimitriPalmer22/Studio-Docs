@@ -38,7 +38,7 @@ Furthermore, the current movement setup we have for attacks is a little janky. Y
 
 ### Visual and Auditory Effects
 
-X
+Lowkey, i want to try incorporating 2D textures / ani
 
 ## Art Style / Environmental Design Update
 
