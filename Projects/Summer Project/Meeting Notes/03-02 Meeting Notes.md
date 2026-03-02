@@ -17,7 +17,7 @@
 ### Next Fest
 
 - Next Fest is DONE
-- We've gotten over 500 wishlists, but we definitely want more.
+- We've gotten over 500 wishlists, but we definitely want more. So, we need to keep working on marketing and boosting the game's visibility.
 
 ### Marketing & Socials
 
