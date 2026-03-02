@@ -79,3 +79,5 @@ Dimitri, Andre, and Mikel will work on these.
 Azalee is working on our next enemy model. Hopefully our next enemy is done before the end of the week. Next week, I want to start implementing the next enemy's attacks and behavior, so we can have a more complete combat experience.
 
 ### Level Atmosphere
+
+The biggest thing holding back our game in terms of level design is our environmental kit.
