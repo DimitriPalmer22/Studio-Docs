@@ -45,4 +45,6 @@ We're gonna start trying out more focused "sprints" so we can achieve our goals 
 
 Combat is the game's driving force, so we want to make sure that it is as fun and engaging as possible. So, we are making strides to make it even more engaging:
 - More weighty & expressive combat animations for the player
+- Experiment more with the VFX that are applied when enemies are hit to make them more impactful
+- Improve sound effect quality wherever possible
 - Create a demo level where we can test / showcase the player attacks (this is so we can also use it to create *content on social media*)
