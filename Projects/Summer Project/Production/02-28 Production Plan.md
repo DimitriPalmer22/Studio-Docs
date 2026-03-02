@@ -38,9 +38,13 @@ In my initial assessment of how the attacks should feel, I was wrong about how m
 Furthermore, the current movement setup we have for attacks is a little janky. Yes, it works in moving the player to the enemies, but that is not ideal (or conventional) for games with combat like this. Typically, games with combat like this don't have the player move very much from their attacking position (UNLESS they are doing an attack that has the main purpose of relocating them). Any in-engine movement is supposed to be very minimal, with only small movements that are meant to help attacks connect if they are just barely out of reach.
 - It should be noted that in games with LESS movement per attack animation, the individual attack animations are much more AOE focused.
 
-### Visual and Auditory Effects
+### VFX
 
 Lowkey, i want to try incorporating 2D textures / animations / flipbooks for hit effects rather than pure Niagara particles (no I'm not just copying Tenebyss, but they are a good reference). This will allow us to have more stylized effects and break away a little further from the traditional Unreal Engine look.
+
+### SFX
+
+Some of these sounds are pretty rough...
 
 ## Art Style / Environmental Design Update
 
