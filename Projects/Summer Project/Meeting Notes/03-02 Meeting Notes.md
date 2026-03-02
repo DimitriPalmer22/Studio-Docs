@@ -17,7 +17,7 @@
 ### Next Fest
 
 - Next Fest is DONE
-- 
+- We've gotten over 500 wishlists, but we definitely want more.
 
 ### Marketing & Socials
 
@@ -31,7 +31,9 @@ We've been updating the game throughout Next Fest, as well as updating some thin
 
 ### Small Combat Updates
 
-- **Improved hit-stop effect**: Whenever an attack lands (either from the player or an enemy) a hit-stop effect is applied to give the attack more 
+- **Improved hit-stop effect**: Whenever an attack lands (either from the player or an enemy) a hit-stop effect is applied to give the attack more weight. There was a hit-stop effect before, but it was implemented poorly.
+- **Damage Flash**: Whenever a player or enemy is hit, they briefly flash white. This gives the attacks more visual feedback and makes it easier to tell when an attack has successfully hit.
+- **Camera Shake**: Whenever the player's attack hits an enemy, the camera shakes. There was a camera shake before, but it wasn't as weighty or impactful.
 
 ### Art Style Overhaul
 
