@@ -49,7 +49,11 @@ In the remaining 3 months of time, I want us to use our time much more wisely so
 
 The main goal is that by the end of THIS WEEK, we have a firm understanding about how we want the players attacks to feel. This way, we can just focus on adding new attacks and abilities in the following weeks without wondering why the game doesn't feel as good as it can.
 
-### The Player's Attacks
+There are 3 Main Goals I have for this week:
+1. ***Improve player combat***: I want people to see the player attack and immediately be blown away by how good it looks and feels. In a 10-second clip of combat
+
+### Tasks and Assignments
+#### The Player's Attacks
 
 Combat is the game's driving force, so we want to make sure that it is as fun and engaging as possible. So, we are making strides to make it even more engaging:
 - More weighty & expressive combat animations for the player
@@ -57,6 +61,6 @@ Combat is the game's driving force, so we want to make sure that it is as fun an
 - Improve sound effect quality wherever possible
 - Create a demo level where we can test / showcase the player attacks (this is so we can also use it to create *content on social media*)
 
-### The Next Enemy
+#### The Next Enemy
 
-Hopefully our next enemy is done before the end of the week. Next week, I want to start implementing the next enemy's attacks and behavior, so we can have a more complete combat experience.
+Azalee is working on our next enemy model. Hopefully our next enemy is done before the end of the week. Next week, I want to start implementing the next enemy's attacks and behavior, so we can have a more complete combat experience.
