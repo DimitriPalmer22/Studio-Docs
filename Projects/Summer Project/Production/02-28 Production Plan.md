@@ -87,9 +87,11 @@ The 2D art style for the game isn't as cohesive as I would want it to be. Also, 
 
 ### Character Portraits
 
-With the 
+With the creation of the marketing materials and the overall aesthetic of the game's 3D elements (like props & character models), it is safe to say the character portraits don't exactly match the style / aesthetic of the game anymore.
 
-It's safe to say that the character portraits don't exactly match the style / aesthetic of the game.
+### Allister Portrait Update
+
+Allister's portrait is going to have to be updated to reflect his overall design change.
 
 ### Addendum Screen UI
 
