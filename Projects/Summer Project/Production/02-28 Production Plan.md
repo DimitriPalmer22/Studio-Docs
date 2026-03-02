@@ -9,7 +9,8 @@ Let's say in about two weeks, I want these things to be in the game:
 	- the in-game UI bars
 	- the fonts we use for the game
 	- Overall menu styling
-	- A more data-oriented way of storing information for levels. This will allow us to more quickly and easily store information about which levels are in the game, where they belong, and what rewards are associated with them. For the most part, this is a Dimitri thing. (this will help remove some of the jank in our design process I swear)
+- A more data-oriented way of storing information for levels. This will allow us to more quickly and easily store information about which levels are in the game, where they belong, and what rewards are associated with them. For the most part, this is a Dimitri thing. (this will help remove some of the jank in our design process I swear)
+- 
 
 ## Better Player Attacks
 
@@ -70,3 +71,5 @@ We need to get rid of the anvil as the object the player interacts with to upgra
 ### Revise the Model for the Tome Altar
 
 The shape behind the Tome Altar seems a lot like the symbol for the good guys. We should maybe replace it with the symbol for the bad guys.
+
+## 
