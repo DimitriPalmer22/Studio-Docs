@@ -1,4 +1,6 @@
+# 03-02 Meeting Notes
 
+## Meeting Times
 
 |Meeting|Possible Times|
 |---|---|
@@ -9,3 +11,13 @@
 |2D Artist|Sunday @ 3pm|
 |Animation Meeting||
 |Character Artist Meeting||
+
+## Updates Outside the Game
+- Next Fest is DONE
+
+### Marketing & Socials
+
+## Updates Inside the Game
+
+
+## Plans Going Forward
