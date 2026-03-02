@@ -79,4 +79,11 @@ The shape behind the Tome Altar seems a lot like the symbol for the good guys. W
 
 ## 2D Art & UI Stuff
 
+The 2D art style for the game isn't as cohesive as I would want it to be. Also, there are a couple things that are still placeholder and haven't actually had a real artist's touch yet.
+
+### Character Portraits
+
+### Addendum Screen UI
+
 ## Narrative Stuff
+
