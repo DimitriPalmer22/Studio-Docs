@@ -55,6 +55,7 @@ There are 3 Main Goals I have for this week:
 3. ***2D Art & Overall Presentation***: I want to develop a more cohesive art style / plan for the 2D art in the game. This includes the in-game UI, the character portraits, and any menus. How can we make our existing mechanics seem more visually appealing through 2D art alone?
 
 ### Tasks and Assignments
+
 #### The Player's Attacks
 
 Combat is the game's driving force, so we want to make sure that it is as fun and engaging as possible. So, we are making strides to make it even more engaging:
