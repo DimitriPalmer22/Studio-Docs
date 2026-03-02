@@ -80,4 +80,4 @@ Azalee is working on our next enemy model. Hopefully our next enemy is done befo
 
 ### Level Atmosphere
 
-The biggest thing holding back our game in terms of level design is our environmental kit.
+The biggest thing holding back our game in terms of level design is our environmental kit. Our levels can never really look too dynamic if 
