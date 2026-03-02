@@ -27,9 +27,9 @@ We've created social media accounts for the game to try to further boost our vis
 
 ## Updates Inside the Game
 
-We've been updating the game throughout Next Fest, as well as updating some things behind the scenes.
+We've been updating the game throughout Next Fest, as well as updating some things behind the scenes. These are all the updates that have happened during / after Next Fest, but have not been published to the demo build of the game.
 
-### Small Combat Update
+### Small Combat Updates
 
 ### Art Style Overhaul
 
@@ -44,5 +44,5 @@ We're gonna start trying out more focused "sprints" so we can achieve our goals 
 ### The Player's Attacks
 
 Combat is the game's driving force, so we want to make sure that it is as fun and engaging as possible. So, we are making strides to make it even more engaging:
-- More weighty combat animations for the player
-- Create a demo level where we can test / showcase the player attacks
+- More weighty & expressive combat animations for the player
+- Create a demo level where we can test / showcase the player attacks (this is so we can also use it to create *content on social media*)
