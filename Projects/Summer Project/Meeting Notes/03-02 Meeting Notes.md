@@ -52,7 +52,7 @@ The main goal is that by the end of THIS WEEK, we have a firm understanding abou
 There are 3 Main Goals I have for this week:
 1. ***Improve player combat***: I want people to see the player attack and immediately be blown away by how good it looks and feels. In a 10-second clip of combat alone, how can we get someone to play our game?
 2. ***Improve level atmosphere***: I want people to see the spaces in our game and want to physically be there. I want them to feel the mystery and danger of the world through the environments alone. How can we get someone to wishlist the game just by showing them the environments?
-3. ***2D Art & Presentation***: I want to develop a more cohesive art style / plan for the 2D art in the game. This includes the in-game UI, the character portraits, and any menus. How can we make our existing mechanics seem more visually appealing through 2D art alone?
+3. ***2D Art & Overall Presentation***: I want to develop a more cohesive art style / plan for the 2D art in the game. This includes the in-game UI, the character portraits, and any menus. How can we make our existing mechanics seem more visually appealing through 2D art alone?
 
 ### Tasks and Assignments
 #### The Player's Attacks
