@@ -87,6 +87,8 @@ The 2D art style for the game isn't as cohesive as I would want it to be. Also, 
 
 ### Character Portraits
 
+With the 
+
 ### Addendum Screen UI
 
 ## Narrative Stuff
