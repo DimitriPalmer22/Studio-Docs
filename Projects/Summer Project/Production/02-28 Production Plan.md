@@ -44,7 +44,7 @@ Lowkey, i want to try incorporating 2D textures / animations / flipbooks for hit
 
 ### SFX
 
-Some of these sounds are pretty rough...
+Some of these sounds are pretty rough…
 
 ## Art Style / Environmental Design Update
 
