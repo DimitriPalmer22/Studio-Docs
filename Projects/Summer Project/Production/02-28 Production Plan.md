@@ -6,9 +6,10 @@ Let's say in about two weeks, I want these things to be in the game:
 - Once we start getting more content solidified, we should establish a rhythm for our marketing campaign. What types of things do we show? What *personality* do we want our content to have (is it super-cool, are we edgy, or are we laid back and chill?)? How often do we post? How do we keep engagement up between our main content drops?
 - Develop a much cleaner and intentional presentation / UI styling for the game. This includes
 	- cinematic bars appearing on-screen
-	- the in-game UI bars
+	- revisiting the in-game UI bars
+	- revising how the addendums appear on-screen when they activate.
 	- the fonts we use for the game
-	- Overall menu styling
+	- overall menu styling
 - A more data-oriented way of storing information for levels. This will allow us to more quickly and easily store information about which levels are in the game, where they belong, and what rewards are associated with them. For the most part, this is a Dimitri thing. (this will help remove some of the jank in our design process I swear)
 - 
 
