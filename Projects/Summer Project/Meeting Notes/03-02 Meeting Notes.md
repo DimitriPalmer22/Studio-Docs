@@ -77,3 +77,5 @@ Dimitri, Andre, and Mikel will work on these.
 #### The Next Enemy
 
 Azalee is working on our next enemy model. Hopefully our next enemy is done before the end of the week. Next week, I want to start implementing the next enemy's attacks and behavior, so we can have a more complete combat experience.
+
+### Level Atmosphere
