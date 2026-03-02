@@ -13,28 +13,36 @@
 |Character Artist Meeting||
 
 ## Updates Outside the Game
+
 ### Next Fest
+
 - Next Fest is DONE
 - 
 
 ### Marketing & Socials
+
 We've created social media accounts for the game to try to further boost our visibility. The *plan* is to post regular updates about the game on these accounts to try to get more people interested in the game. As of right now, only the trailer for the game has been uploaded to these accounts, but we will be posting more content in the future.
-- YouTube: 
-- TikTok: 
+- YouTube:
+- TikTok:
 
 ## Updates Inside the Game
-We've been updating the game throughout Next Fest, as well as updating some things behind the scenes. 
+
+We've been updating the game throughout Next Fest, as well as updating some things behind the scenes.
 
 ### Small Combat Update
 
-
 ### Art Style Overhaul
+
 - **Tone-mapping / color grading update**: Removed UE5's default tonemapping, so the game should be MUCH more saturated now. Also, contrast has been increased, so the colors should pop a lot more.
 - **Pixel filter update**: The pixel filter / dithering that is applied to the entire screen is now stronger than it was before, so the game should look more pixelated now.
-- **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. This effect is most visible on things that move. 
+- **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. This effect is most visible on things that move.
 
 ## Plans Going Forward
 
-### Combat
+We're gonna start trying out more focused "sprints" so we can achieve our goals with a lot more efficiency.
+
+### The Player's Attacks
+
 Combat is the game's driving force, so we want to make sure that it is as fun and engaging as possible. So, we are making strides to make it even more engaging:
-- More weighty combat animations 
+- More weighty combat animations for the player
+- Create a demo level where we can test / showcase the player attacks
