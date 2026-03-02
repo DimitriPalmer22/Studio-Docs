@@ -77,4 +77,6 @@ We need to get rid of the anvil as the object the player interacts with to upgra
 
 The shape behind the Tome Altar seems a lot like the symbol for the good guys. We should maybe replace it with the symbol for the bad guys.
 
+## 2D Art & UI Stuff
+
 ## Narrative Stuff
