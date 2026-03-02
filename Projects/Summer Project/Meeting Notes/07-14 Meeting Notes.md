@@ -1,6 +1,7 @@
 # 07-14 Meeting Notes
 
 ### Meeting Times
+
 - Narrative Designer + CD Meeting
 	- Friday @ 11 am
 - 2D Artist + Narrative Designer Meeting
@@ -19,6 +20,7 @@
 	- TBD
 
 ### Playing the Game in the Meeting
+
 - If you want to play the game with the closest experience the player will have, open the the `MainMenuConcept` level and play from there.
 
 - Main menu

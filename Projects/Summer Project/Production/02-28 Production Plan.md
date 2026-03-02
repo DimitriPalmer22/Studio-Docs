@@ -95,7 +95,7 @@ The style of Allister in the Marketing Materials is a lot more in line with the 
 
 ### Allister Portrait Update
 
-Allister's portrait is going to have to be updated to reflect his overall design change. 
+Allister's portrait is going to have to be updated to reflect his overall design change.
 
 ### Addendum Screen UI
 
