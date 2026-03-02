@@ -54,3 +54,7 @@ Combat is the game's driving force, so we want to make sure that it is as fun an
 - Experiment more with the VFX that are applied when enemies are hit to make them more impactful
 - Improve sound effect quality wherever possible
 - Create a demo level where we can test / showcase the player attacks (this is so we can also use it to create *content on social media*)
+
+### The Next Enemy
+
+Hopefully our next enemy is done before the end of the week. Next week, I want to start implementing the next enemy's attacks and behavior, so we can have a more complete combat experience.
