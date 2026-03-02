@@ -81,7 +81,7 @@ The shape behind the Tome Altar seems a lot like the symbol for the good guys. W
 
 The 2D art style for the game isn't as cohesive as I would want it to be. Also, there are a couple things that are still placeholder and haven't actually had a real artist's touch yet.
 
-> NOTE: For ANY UI-related things that are full screen images, PLEASE PLEASE PLEASE use conventional canvas sizes (like 1920x1080). For any MOCKUPS that you send me (where you're demonstrating where the UI should go on the screen), PLEASE PLEASE PLEASE use conven
+> NOTE: For ANY UI-related things that are full screen images, PLEASE PLEASE PLEASE *use conventional canvas sizes* (like 1920x1080). For any MOCKUPS that you send me (where you're demonstrating where the UI should go on the screen), PLEASE PLEASE PLEASE *use conventional canvas sizes*. Fullscreen elements that are not in a 16:9 aspect ratio cause so much more grief than you would think.
 
 ### Character Portraits
 
