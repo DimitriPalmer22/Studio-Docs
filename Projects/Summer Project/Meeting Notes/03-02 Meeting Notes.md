@@ -27,9 +27,14 @@ We've been updating the game throughout Next Fest, as well as updating some thin
 
 ### Small Combat Update
 
+
 ### Art Style Overhaul
 - **Tone-mapping / color grading update**: Removed UE5's default tonemapping, so the game should be MUCH more saturated now. Also, contrast has been increased, so the colors should pop a lot more.
-- **Pixel filter update**: The pixel filter that is applied to the entire screen is now stronger than it was before, so the game should look more pixelated now.
-- **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. 
+- **Pixel filter update**: The pixel filter / dithering that is applied to the entire screen is now stronger than it was before, so the game should look more pixelated now.
+- **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. This effect is most visible on things that move. 
 
 ## Plans Going Forward
+
+### Combat
+Combat is the game's driving force, so we want to make sure that it is as fun and engaging as possible. So, we are making strides to make it even more engaging:
+- More weighty combat animations 
