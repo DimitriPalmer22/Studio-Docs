@@ -2,15 +2,15 @@
 
 ## Meeting Times
 
-|Meeting|Possible Times|
-|---|---|
-|LD Meeting||
-|Narrative Designer + CD Meeting||
-|Sound Meeting||
-|Environmental Artist Meeting||
-|2D Artist|Sunday @ 3pm|
-|Animation Meeting||
-|Character Artist Meeting||
+| Meeting                         | Possible Times |
+| ------------------------------- | -------------- |
+| LD Meeting                      |                |
+| Narrative Designer + CD Meeting |                |
+| Sound Meeting                   |                |
+| Environmental Artist Meeting    |                |
+| 2D Artist                       |                |
+| Animation Meeting               |                |
+| Character Artist Meeting        |                |
 
 ## Updates Outside the Game
 
@@ -38,6 +38,8 @@ We've been updating the game throughout Next Fest, as well as updating some thin
 - **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. This effect is most visible on things that move.
 
 ## Plans Going Forward
+
+What's the next milestone? I want to be DONE with the game by the end of May. By that point, it would have been around a full calendar year since we've started this game. So, that leaves us with around 3 full months to finish t
 
 We're gonna start trying out more focused "sprints" so we can achieve our goals with a lot more efficiency.
 
