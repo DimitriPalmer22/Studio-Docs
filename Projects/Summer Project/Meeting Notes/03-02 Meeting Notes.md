@@ -45,7 +45,6 @@ We've been updating the game throughout Next Fest, as well as updating some thin
 
 While the player is in dialogue, cinematic black bars appear at the top and bottom of the screen to give the game a more cinematic feel. It transforms the screen from a 16:9 aspect ratio to a 21:9 (ultra widescreen) aspect ratio.
 
-
 ## Plans Going Forward
 
 ### When Are We Done?
