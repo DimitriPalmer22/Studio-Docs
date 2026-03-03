@@ -110,6 +110,11 @@ So, I want to replace the anvil with a writing desk with a magical pen and ink o
 
 #### Item Pedestal (For Shops)
 
-When we first introduced the idea of item pedestals, the game's progression and upgrade system was very different. Now, the item pedestals are reserved exclusively for the shops. 
+When we first introduced the idea of item pedestals, the game's progression and upgrade system was very different. Now, the item pedestals are reserved exclusively for the shops.
 
-Lore-wise, the mage who created Avernoth left some items behind. In order to keep them safe from other people, he placed them within these item pedestals that have some kind of barrier around them.
+Lore-wise, the mage who created Avernoth left some items behind. In order to keep them safe from other people, he placed them within these item pedestals that have some kind of *barrier* around them. In order to break the barrier, the player has to spend the currency that they have collected from defeating enemies.
+
+The pedestal itself (the slab that lays on the ground) should look much more *plain* and flat, and we'll use a special material / VFX to show a barrier around it. Enforcing the idea that the items are locked behind a magical exchange system.
+- We want chains around it in an armillary sphere pattern.
+	- Note: try to keep the item inside as visible as possible.
+- When we interact w/ it, the chains go away and the item is unlocked.
