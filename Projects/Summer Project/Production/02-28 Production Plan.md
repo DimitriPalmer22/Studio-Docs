@@ -85,6 +85,8 @@ The 2D art style for the game isn't as cohesive as I would want it to be. Also, 
 
 ### In-Game UI
 
+- Find reasons for why I like these references.
+
 ### Character Portraits
 
 With the creation of the marketing materials and the overall aesthetic of the game's 3D elements (like props & character models), it is safe to say the character portraits don't exactly match the style / aesthetic of the game anymore.
@@ -97,12 +99,14 @@ The style of Allister in the Marketing Materials is a lot more in line with the 
 - REMOVE DITHERING FROM CHARACTERS
 - EXPLORE THE IDEA OF REMOVING A COUPLE CHARACTERS
 - REFS FOR POSES? WHY DON'T OUR EXISTING POSES WORK?
-- WE CAN EXPLORE MODIFYING THE EXISTING PORTRAITS WITH MORE 
+- WE CAN EXPLORE MODIFYING THE EXISTING PORTRAITS WITH MORE DYNAMIC LIGHTING AS OPPOSED OT REDRAWING
 
 ### Allister Portrait Update
 
 Allister's portrait is going to have to be updated to reflect his overall design change.
 
 ### Addendum Screen UI
+
+Find a way to make the addendum screen buttons look better and more interesting because we don't have actual art for them.
 
 ## Narrative Stuff
