@@ -82,7 +82,7 @@ Azalee is working on our next enemy model. Hopefully our next enemy is done befo
 
 #### Level of Detail
 
-The biggest thing holding back our game in terms of level design is our environmental kit. Our levels can never really look too dynamic if we're using basic rectangular prisms to make everything. 
+The biggest thing holding back our game in terms of level design is our environmental kit. Our levels can never really look too dynamic if we're using basic rectangular prisms to make everything.
 
 So, for future levels (and potentially a revision of our existing levels), we want to use more complex designs for the pieces that make up the levels. For example, walls could have a couple bevels, pillars can have more complex geometry. This is something I want to explore more in a meeting.
 
@@ -92,7 +92,7 @@ This has to do more with level composition, spacing, lighting, and VFX. As of no
 
 ### 2D Art & Overall Presentation
 
-#### In-game UI (Health bar, spell icons, etc.)
+#### In-game UI (Health Bar, Spell Icons, etc.)
 
 I have been thinking about going with a more minimal look for the in-game UI.
 
@@ -104,4 +104,12 @@ The tome altar is good, but there's one thing about it. The big diamond behind t
 
 #### Writing Desk
 
-In the game, we have our *Addendums*, or upgrades to the player. Currently, in the upgrade rooms, the player interacts with an *anvil* to get to the addendum screen. This makes no sense, though. If we're upgrade our *tome  (book)*, then why isn't the upgrade object something book-
+In the game, we have our *Addendums*, or upgrades to the player. Currently, in the upgrade rooms, the player interacts with an *anvil* to get to the addendum screen. This makes no sense, though. If we're upgrade our *tome (book)*, then why isn't the upgrade object something book-related?
+
+So, I want to replace the anvil with a writing desk with a magical pen and ink or something. This will make more sense thematically, and it will also look cooler.
+
+#### Item Pedestal (For Shops)
+
+When we first introduced the idea of item pedestals, the game's progression and upgrade system was very different. Now, the item pedestals are reserved exclusively for the shops. 
+
+Lore-wise, the mage who created Avernoth left some items behind. In order to keep them safe from other people, he placed them within these item pedestals that have some kind of barrier around them.
