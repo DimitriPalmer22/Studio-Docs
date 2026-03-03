@@ -123,3 +123,6 @@ The pedestal itself (the slab that lays on the ground) should look much more *pl
 
 - Model the slab for the pedestal
 - Model the chains for the pedestal separately, that way we can animate them or something, add VFX, and make them disappear when the player spends money.
+
+
+# Summary
