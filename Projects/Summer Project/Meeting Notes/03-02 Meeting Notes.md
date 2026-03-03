@@ -100,7 +100,7 @@ I have been thinking about going with a more minimal look for the in-game UI to 
 
 With the creation of the marketing materials and the overall aesthetic of the game's 3D elements (like props & character models), it is safe to say the character portraits don't exactly match the style / aesthetic of the game anymore.
 
-- We will find references 
+- We will find references
 
 #### Addendum Screen UI
 
