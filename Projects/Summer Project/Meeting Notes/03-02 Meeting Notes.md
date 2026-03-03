@@ -84,3 +84,7 @@ Azalee is working on our next enemy model. Hopefully our next enemy is done befo
 The biggest thing holding back our game in terms of level design is our environmental kit. Our levels can never really look too dynamic if we're using basic rectangular prisms to make everything. 
 
 So, for future levels (and potentially a revision of our existing levels), we want to use more complex designs for the pieces that make up the levels. For example, walls could have a couple bevels, pillars can have more complex geometry. This is something I want to explore more in a meeting.
+
+#### Atmosphere
+
+This has to do more with level composition, spacing, lighting, and VFX. As of now, the levels all feel kinda claustrophobic and not very "fantasy-like". I want to experiment with making the levels feel more grand and open, and I want to experiment with lighting and things like fog to make the levels feel more mysterious and dangerous. We can even experiment with making the level more open the the point where the player can see the outside world from inside the levels (granted, this means we would also have to populate the outsides of levels, but we can do this wi)
