@@ -91,3 +91,7 @@ So, for future levels (and potentially a revision of our existing levels), we wa
 This has to do more with level composition, spacing, lighting, and VFX. As of now, the levels all feel kinda claustrophobic and not very "fantasy-like". I want to experiment with making the levels feel more grand and open, and I want to experiment with lighting and things like fog to make the levels feel more mysterious and dangerous. We can even experiment with making the level more open the the point where the player can see the outside world from inside the levels (granted, this means we would also have to populate the outsides of levels, but we can do this with large towers or something and then use fog to obscure the details of the outside world)
 
 ### 2D Art & Overall Presentation
+
+
+
+###
