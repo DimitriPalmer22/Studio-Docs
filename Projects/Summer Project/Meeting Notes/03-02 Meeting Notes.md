@@ -99,4 +99,9 @@ I have been thinking about going with a more minimal look for the in-game UI.
 ### 3D Prop Stuff
 
 #### Update the Tome Altar
-The tome altar is 
+
+The tome altar is good, but there's one thing about it. The big diamond behind the altar kinda looks like the symbol that the good guys all use, which might be a little confusing since the tome altar is associated with the bad guys. So, I want to try changing the design of that symbol to that of the bad guys or something similar to it.
+
+#### Writing Desk
+
+In the game, we have our *Addendums*, or upgrades to the player. Currently, in the upgrade rooms, the player interacts with an *anvil* to get to the addendum screen. This makes no sense, though. If we're upgrade our *tome  (book)*, then why isn't the upgrade object something book-
