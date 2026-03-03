@@ -92,6 +92,6 @@ This has to do more with level composition, spacing, lighting, and VFX. As of no
 
 ### 2D Art & Overall Presentation
 
-
+#### In-game UI (Health bar, spell icons, etc.)
 
 ###
