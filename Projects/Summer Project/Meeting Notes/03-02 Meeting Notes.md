@@ -94,7 +94,7 @@ This has to do more with level composition, spacing, lighting, and VFX. As of no
 
 #### In-game UI (Health Bar, Spell Icons, etc.)
 
-I have been thinking about going with a more minimal look for the in-game UI.
+I have been thinking about going with a more minimal look for the in-game UI to modernize the aesthetic while still keeping the retro fantasy vibe.
 
 ### 3D Prop Stuff
 
