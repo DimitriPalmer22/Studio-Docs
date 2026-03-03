@@ -98,12 +98,13 @@ I have been thinking about going with a more minimal look for the in-game UI to 
 
 #### Character Portraits
 
+With the creation of the marketing materials and the overall aesthetic of the game's 3D elements (like props & character models), it is safe to say the character portraits don't exactly match the style / aesthetic of the game anymore.
+
+- We will find references 
 
 #### Addendum Screen UI
 
-
-#### 
-
+####
 
 ### 3D Prop Stuff
 
@@ -135,18 +136,20 @@ The pedestal itself (the slab that lays on the ground) should look much more *pl
 
 # Summary
 
-### Next Fest & Other Stuff:
+### Next Fest & Other Stuff
+
 - We've gotten over 500 wishlists from Next Fest! But we want more, so we need to keep working on marketing.
 - Now that next fest is done, I want to be done with the game by *The End of May*.
 
 ### Updates to the Game
+
 - Art style updates: added PS1 vertex jitter, stronger pixel filter, and updated tone-mapping to make the colors pop more.
 - Combat updates: improved hit-stop, added damage flash, improved camera shake
 - Cinematic black bars during dialogue to give the game a more cinematic feel.
 
 ### Plans Going Forward
+
 - 
 ---
 - Subscribe to the YouTube: <https://www.youtube.com/watch?v=iiwUaiCx2-k>
 - TikTok: <https://www.tiktok.com/@od_avernoth?is_from_webapp=1&sender_device=pc>
-
