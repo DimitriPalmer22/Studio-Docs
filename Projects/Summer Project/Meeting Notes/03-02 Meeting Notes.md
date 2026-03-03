@@ -30,7 +30,7 @@ We've been updating the game throughout Next Fest, as well as updating some thin
 
 ### Art Style Overhaul
 
-- **Tone-mapping / color grading update**: Removed UE5's default tonemapping, so the game should be MUCH more saturated now. Also, contrast has been increased, so the colors should pop a lot more.
+- **Tone-mapping / color grading update**: Removed UE5's default tone-mapping, so the game should be MUCH more saturated now. Also, contrast has been increased, so the colors should pop a lot more.
 - **Pixel filter update**: The pixel filter / dithering that is applied to the entire screen is now stronger than it was before, so the game should look more pixelated now.
 - **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. This effect is most visible on things that move.
 
@@ -127,9 +127,11 @@ The pedestal itself (the slab that lays on the ground) should look much more *pl
 # Summary
 
 - We've gotten over 500 wishlists from Next Fest! But we want more, so we need to keep working on marketing.
-- Art style update: added PS1 vertex jitter, stronger pixel filter, and updated tone-mapping to make the colors pop more.
+- Now that next fest is done, I want to be done with the game by *The End of May*.
+- Art style updates: added PS1 vertex jitter, stronger pixel filter, and updated tone-mapping to make the colors pop more.
 - Combat updates: improved hit-stop, added damage flash, improved camera shake
 - Cinematic black bars during dialogue to give the game a more cinematic feel.
+- 
 
 ---
 - Subscribe to the YouTube: <https://www.youtube.com/watch?v=iiwUaiCx2-k>
