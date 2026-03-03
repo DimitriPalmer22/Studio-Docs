@@ -79,4 +79,8 @@ Azalee is working on our next enemy model. Hopefully our next enemy is done befo
 
 ### Level & Atmosphere
 
-The biggest thing holding back our game in terms of level design is our environmental kit. Our levels can never really look too dynamic if 
+#### Level of Detail
+
+The biggest thing holding back our game in terms of level design is our environmental kit. Our levels can never really look too dynamic if we're using basic rectangular prisms to make everything. 
+
+So, for future levels (and potentially a revision of our existing levels), we want to use more complex designs for the pieces that make up the levels. For example, walls could have a couple bevels, pillars can have more complex geometry. This is something I want to explore more in a meeting.
