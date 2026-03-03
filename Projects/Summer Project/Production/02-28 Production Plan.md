@@ -93,6 +93,9 @@ The style of Allister in the Marketing Materials is a lot more in line with the 
 - Much more dynamic pose
 - More dramatic lighting
 
+- FIND MORE REFS FOR AN IN-GAME PORTRAIT ARTSTYLE
+- REMOVE DITHERING FROM CHARACTERS
+
 ### Allister Portrait Update
 
 Allister's portrait is going to have to be updated to reflect his overall design change.
