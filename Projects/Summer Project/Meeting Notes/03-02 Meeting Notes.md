@@ -94,4 +94,9 @@ This has to do more with level composition, spacing, lighting, and VFX. As of no
 
 #### In-game UI (Health bar, spell icons, etc.)
 
-###
+I have been thinking about going with a more minimal look for the in-game UI.
+
+### 3D Prop Stuff
+
+#### Update the Tome Altar
+The tome altar is 
