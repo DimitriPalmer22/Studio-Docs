@@ -28,17 +28,17 @@ We've created social media accounts for the game to try to further boost our vis
 
 We've been updating the game throughout Next Fest, as well as updating some things behind the scenes. These are all the updates that have happened during / after Next Fest, but have not been published to the demo build of the game.
 
+### Art Style Overhaul
+
+- **Tone-mapping / color grading update**: Removed UE5's default tonemapping, so the game should be MUCH more saturated now. Also, contrast has been increased, so the colors should pop a lot more.
+- **Pixel filter update**: The pixel filter / dithering that is applied to the entire screen is now stronger than it was before, so the game should look more pixelated now.
+- **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much _everything_ in the game should have this effect now. This effect is most visible on things that move.
+
 ### Small Combat Updates
 
 - **Improved hit-stop effect**: Whenever an attack lands (either from the player or an enemy) a hit-stop effect is applied to give the attack more weight. There was a hit-stop effect before, but it was implemented poorly.
 - **Damage Flash**: Whenever a player or enemy is hit, they briefly flash white. This gives the attacks more visual feedback and makes it easier to tell when an attack has successfully hit.
 - **Camera Shake**: Whenever the player's attack hits an enemy, the camera shakes. There was a camera shake before, but it wasn't as weighty or impactful.
-
-### Art Style Overhaul
-
-- **Tone-mapping / color grading update**: Removed UE5's default tonemapping, so the game should be MUCH more saturated now. Also, contrast has been increased, so the colors should pop a lot more.
-- **Pixel filter update**: The pixel filter / dithering that is applied to the entire screen is now stronger than it was before, so the game should look more pixelated now.
-- **PSX Vertex Jitter**: In PS1 games, the vertices of models would wiggle around a little (due to technical limitations at the time). This is one of the biggest, most recognizable parts of the PS1 aesthetic. This effect has been applied to the Master Material, so pretty much *everything* in the game should have this effect now. This effect is most visible on things that move.
 
 ### Cinematic Black Bars
 
