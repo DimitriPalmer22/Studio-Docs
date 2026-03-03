@@ -21,8 +21,8 @@
 ### Marketing & Socials
 
 We've created social media accounts for the game to try to further boost our visibility. The *plan* is to post regular updates about the game on these accounts to try to get more people interested in the game. As of right now, only the trailer for the game has been uploaded to these accounts, but we will be posting more content in the future.
-- YouTube: https://www.youtube.com/watch?v=iiwUaiCx2-k
-- TikTok: https://www.tiktok.com/@od_avernoth?is_from_webapp=1&sender_device=pc
+- YouTube: <https://www.youtube.com/watch?v=iiwUaiCx2-k>
+- TikTok: <https://www.tiktok.com/@od_avernoth?is_from_webapp=1&sender_device=pc>
 
 ## Updates Inside the Game
 
@@ -125,5 +125,10 @@ The pedestal itself (the slab that lays on the ground) should look much more *pl
 - Model the chains for the pedestal separately, that way we can animate them or something, add VFX, and make them disappear when the player spends money.
 
 # Summary
+
 - We've gotten over 500 wishlists from Next Fest, but we want more, so we need to keep working on marketing.
 - 
+
+--- 
+- Subscribe to the YouTube: <https://www.youtube.com/watch?v=iiwUaiCx2-k>
+- TikTok: <https://www.tiktok.com/@od_avernoth?is_from_webapp=1&sender_device=pc>
