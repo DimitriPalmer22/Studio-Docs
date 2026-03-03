@@ -96,6 +96,15 @@ This has to do more with level composition, spacing, lighting, and VFX. As of no
 
 I have been thinking about going with a more minimal look for the in-game UI to modernize the aesthetic while still keeping the retro fantasy vibe.
 
+#### Character Portraits
+
+
+#### Addendum Screen UI
+
+
+#### 
+
+
 ### 3D Prop Stuff
 
 #### Update the Tome Altar
@@ -134,8 +143,9 @@ The pedestal itself (the slab that lays on the ground) should look much more *pl
 - Art style updates: added PS1 vertex jitter, stronger pixel filter, and updated tone-mapping to make the colors pop more.
 - Combat updates: improved hit-stop, added damage flash, improved camera shake
 - Cinematic black bars during dialogue to give the game a more cinematic feel.
-- 
 
+### Plans Going Forward
+- 
 ---
 - Subscribe to the YouTube: <https://www.youtube.com/watch?v=iiwUaiCx2-k>
 - TikTok: <https://www.tiktok.com/@od_avernoth?is_from_webapp=1&sender_device=pc>
