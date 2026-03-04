@@ -44,5 +44,6 @@ We wanna break up the horizon line of the game, so we should add some background
 Maybe use planes / textures
 
 ## Tasks
-- **_Brian and Aiden_** focus on de-squarifying the levels for now.
-- *Mikel* will focus on the background architecture stuff first, then transition to de-squarifying
+
+- **Brian and Aiden** focus on de-squarifying the levels for now.
+- **Mikel** will focus on the background architecture stuff first, then transition to de-squarifying
