@@ -33,5 +33,8 @@ Go through your levels, and *De-squarify* them by adding new pillars and wall pi
 ### Sky Atmosphere
 
 
-### Background Architecture
-If 
+### Background Architecture / Break Up Horizon
+
+We wanna break up the horizon line of the game, so we should add some background elements to the scenes.
+
+Maybe use planes / textures 
