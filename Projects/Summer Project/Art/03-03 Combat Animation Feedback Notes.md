@@ -1,4 +1,4 @@
-# 03-03 Animation Feedback Notes
+# 03-03 Combat Animation Feedback Notes
 
 > Important note about in-engine movement + root motion: It's kinda seeming like we can only have one or the other with the way Unreal Engine is set-up. This isn't horrible or anything, but it seems like we'll have to rely on the root motion to get the proper movement in our attsack animations.
 
