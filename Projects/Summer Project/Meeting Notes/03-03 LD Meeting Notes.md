@@ -32,9 +32,10 @@ Go through your levels, and *De-squarify* them by adding new pillars and wall pi
 
 ### Sky Atmosphere
 
+Something that 
 
 ### Background Architecture / Break Up Horizon
 
-We wanna break up the horizon line of the game, so we should add some background elements to the scenes.
+We wanna break up the horizon line of the game, so we should add some background elements to the scenes. This can be really tall architecture. We just need something to make the space seem more populated than it currently is. **We can pretend that these background buildings are just more rooms of Avernoth**.
 
 Maybe use planes / textures 
