@@ -29,10 +29,11 @@ Go through your levels, and *De-squarify* them by adding new pillars and wall pi
 
 ### Fog
 
+White 
 
 ### Sky Atmosphere
 
-Something that helps 
+Something that bothered me about the skybox was that it wasn't gradient-ed at all. From top to bottom, the skybox looked the exact same, so it was kinda hard to orient yourself or get a sense of height / scale from the skybox. We should add some gradient to the skybox by adding a *sky atmosphere*, so that it gets darker as you look up and lighter as you look down. This will help with the sense of scale and height in the game.
 
 ### Background Architecture / Break Up Horizon
 
