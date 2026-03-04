@@ -25,8 +25,6 @@ Ok, if you *do* have pillars, are they just basic square pillars or cylinders?
 
 Go through your levels, and *De-squarify* them by adding new pillars and wall pieces, etc.
 
-Brian and focus 
-
 ## Exterior Levels
 
 ### Fog
@@ -44,3 +42,7 @@ Something that bothered me about the skybox was that it wasn't gradient-ed at al
 We wanna break up the horizon line of the game, so we should add some background elements to the scenes. This can be really tall architecture. We just need something to make the space seem more populated than it currently is. **We can pretend that these background buildings are just more rooms of Avernoth**.
 
 Maybe use planes / textures
+
+## Tasks
+- **_Brian and Aiden_** focus on de-squarifying the levels for now.
+- *Mikel* will focus on the background architecture stuff first, then transition to de-squarifying
