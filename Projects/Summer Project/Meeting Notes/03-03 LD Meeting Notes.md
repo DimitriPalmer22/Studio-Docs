@@ -10,4 +10,13 @@ We want to increase the *visual complexity* of the levels without adding props.
 
 Ok, if you *do* have pillars, are they just basic square pillars or cylinders? 
 
-## Exter
+## Exterior Levels
+
+
+### Fog
+
+
+### Sky Atmosphere
+
+
+### Background Architecture
