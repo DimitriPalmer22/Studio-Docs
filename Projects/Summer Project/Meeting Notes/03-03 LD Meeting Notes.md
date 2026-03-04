@@ -32,7 +32,7 @@ Go through your levels, and *De-squarify* them by adding new pillars and wall pi
 
 ### Sky Atmosphere
 
-Something that 
+Something that helps 
 
 ### Background Architecture / Break Up Horizon
 
