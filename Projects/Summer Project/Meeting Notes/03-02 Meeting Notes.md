@@ -153,6 +153,6 @@ The pedestal itself (the slab that lays on the ground) should look much more *pl
 ---
 @everyone
 # Social Media Links!
-We'll start posting to these to try and promote the game to get more wishlists as we . Please follow, like, subscribe, etc. so we can boost visibility 
+We'll start posting to these to try and promote the game to get more wishlists as we continue development. Please follow, like, subscribe, etc. so we can boost visibility! 
 - Subscribe to the YouTube: <https://www.youtube.com/watch?v=iiwUaiCx2-k>
 - TikTok: <https://www.tiktok.com/@od_avernoth?is_from_webapp=1&sender_device=pc>
