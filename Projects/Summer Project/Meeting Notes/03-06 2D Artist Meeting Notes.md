@@ -65,7 +65,8 @@ Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+t
 
 ### Dialogue Screen UI
 
-Shrink the dialogue UI a little?
+- Shrink the dialogue UI a little?
+- Move the text a little down to avoid the nameplate encroaching on the text.
 
 ## Addendum Screen UI
 
