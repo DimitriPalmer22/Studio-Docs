@@ -19,7 +19,9 @@
 
 The HUD in general takes up too much space on the screen and can make the game feel a little claustrophobic at times. We should try to make the HUD a little more minimal and less intrusive on the screen. This will allow the player to focus more on the game and less on the HUD.
 
-I think this is because
+I think this is because the 
+
+### Possible Solution
 
 ### What Elements Are Needed for Our HUD?
 - Health Bar
