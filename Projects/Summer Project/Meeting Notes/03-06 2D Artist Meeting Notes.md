@@ -31,6 +31,8 @@ The primary and secondary abilities can stay where they are. Maybe we can shrink
 
 The ribbon. The ribbon is probably the biggest concern since, no matter what, it is gonna obstruct a lot of the player's view if it is on the screen and is fully extended. Hades tends to keep their boons floating in the middle of the left side of the screen, which is a little better than having a UI element extend down from the top of the screen. But, if we're trying to keep the ribbon, I don't really know how we can make it less intrusive.
 
+We *could* just put the bars at the bottom left.
+
 ### What Elements Are Needed for Our HUD?
 
 - Health Bar
