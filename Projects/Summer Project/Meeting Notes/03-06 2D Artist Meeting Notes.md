@@ -49,6 +49,6 @@ The ribbon. The ribbon is probably the biggest concern since, no matter what, it
 
 ## Font
 
-We need a font that we can use throughout the game that looks a little **better**. The existing font
+We need a font that we can use throughout the game that looks a little **better**. The existing font can be a bit hard to read at times and seems a little too *pixelated* for the style of the game. We should find a font that is a little more readable and fits the style of the game a little better.
 
 ## Addendum Screen UI
