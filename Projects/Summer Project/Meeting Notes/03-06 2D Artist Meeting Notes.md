@@ -91,6 +91,7 @@ If we were to update the posing for these characters, we'd want to express more 
 
 ---
 
+## Portraits
 ### Shading
 
 ![](<../../../_Meta/Attachments/Pasted image 20260306171652.png>)
@@ -101,3 +102,10 @@ Thicker outlines, more dynamic shading.
 
 - Which characters already have decent poses? We can get started on those first.
 - Which peoples' poses need to be redone and how exactly?
+
+## In-Game HUD
+
+- We'll move the bars to the bottom left
+- Shrink the bars to not go over the line established by the icons in the bottom right
+- We'll either remove or move the addendums
+- See how we feel about that.
