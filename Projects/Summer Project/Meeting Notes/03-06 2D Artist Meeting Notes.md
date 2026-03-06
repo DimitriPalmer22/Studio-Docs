@@ -1,12 +1,15 @@
 # 03-06 2D Artist Meeting Notes
 
-## More Portrait Refs
+## Character Portrait Updates
 
-### Art Style
+Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
 
+The main feedback we got about the character portraits is that they aren't dynamic enough. - The poses of the characters are very static and don't really convey much personality or emotion. 
 ### Posing
 
-One of the main bits of feedback we got from people about our game's character portraits is that their poses aren't dynamic enough. 
+One of the main bits of feedback we got from people about our game's character portraits is that their poses aren't dynamic enough.
+
+If we were to update the posing for these characters, 
 
 ## Modified Portraits
 
@@ -15,7 +18,7 @@ One of the main bits of feedback we got from people about our game's character p
 
 ## In-Game HUD
 
-Reference board: https://miro.com/app/board/uXjVGJb2XGs=/
+Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
 
 ### What Isn't Working for the Existing HUD?
 
@@ -26,6 +29,7 @@ The HUD in general takes up too much space on the screen and can make the game f
 I think this is because the HUD feels like it has some wasted space in it, and kinda walls off the top left corner of the screen.
 
 ![](<../../../_Meta/Attachments/Pasted image 20260306160323.png>)
+
 ### Possible Solutions
 
 For the bars (health, mana, and shield), I think we should make the orb (for the shield) a little bit smaller. Then, we can make the health and mana bars take tall enough in total to pretty much fill up the space the orb takes up vertically.
@@ -37,6 +41,7 @@ The primary and secondary abilities can stay where they are. Maybe we can shrink
 The ribbon. The ribbon is probably the biggest concern since, no matter what, it is gonna obstruct a lot of the player's view if it is on the screen and is fully extended. Hades tends to keep their boons floating in the middle of the left side of the screen, which is a little better than having a UI element extend down from the top of the screen. But, if we're trying to keep the ribbon, I don't really know how we can make it less intrusive.
 
 ### What Elements Are Needed for Our HUD?
+
 - Health Bar
 - Mana Bar
 - Shield Bar
@@ -50,5 +55,7 @@ The ribbon. The ribbon is probably the biggest concern since, no matter what, it
 ## Font
 
 We need a font that we can use throughout the game that looks a little **better**. The existing font can be a bit hard to read at times and seems a little too *pixelated* for the style of the game. We should find a font that is a little more readable and fits the style of the game a little better.
+
+### Dialogue Screen UI
 
 ## Addendum Screen UI
