@@ -82,3 +82,16 @@ The main feedback we got about the character portraits is that they aren't dynam
 One of the main bits of feedback we got from people about our game's character portraits is that their poses aren't dynamic enough.
 
 If we were to update the posing for these characters, we'd want to express more *personality* through the posing.
+
+---
+
+### Shading
+
+![](<../../../_Meta/Attachments/Pasted image 20260306171652.png>)
+Thicker outlines, more dynamic shading.
+
+### Posing
+ Have more concrete examples of poses.
+
+- Which characters already have decent poses? We can get started on those first.
+- Which peoples' poses need to be redone and how exactly?
