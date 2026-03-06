@@ -1,16 +1,5 @@
 # 03-06 2D Artist Meeting Notes
 
-## Character Portrait Updates
-
-Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
-
-The main feedback we got about the character portraits is that they aren't dynamic enough. - The poses of the characters are very static and don't really convey much personality or emotion. 
-### Posing
-
-One of the main bits of feedback we got from people about our game's character portraits is that their poses aren't dynamic enough.
-
-If we were to update the posing for these characters, 
-
 ## Modified Portraits
 
 - Removed dithering
@@ -59,3 +48,18 @@ We need a font that we can use throughout the game that looks a little **better*
 ### Dialogue Screen UI
 
 ## Addendum Screen UI
+
+
+## Character Portrait Updates
+
+Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
+
+The main feedback we got about the character portraits is that they aren't dynamic enough. 
+- The poses weren't dynamic enough
+- The shading wasn't dynamic enough
+
+### Posing
+
+One of the main bits of feedback we got from people about our game's character portraits is that their poses aren't dynamic enough.
+
+If we were to update the posing for these characters, we'd want to express more *personality* through the posing.
