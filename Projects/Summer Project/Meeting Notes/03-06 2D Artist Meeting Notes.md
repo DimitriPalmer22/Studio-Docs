@@ -11,9 +11,9 @@
 - Removed dithering
 - More shading
 
-## In-Game UI References
+## In-Game HUD References
 
-### What Isn't Working for the Existing UI?
+### What Isn't Working for the Existing HUD?
 
 ### 
 
