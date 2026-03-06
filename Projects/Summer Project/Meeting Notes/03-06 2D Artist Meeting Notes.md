@@ -28,6 +28,10 @@ For the bars (health, mana, and shield), I think we should make the orb (for the
 
 The mana essence counter does not need to be under the HUD like this. We can move it to the top right or bottom left corners of the screen.
 
+The primary and secondary abilities can stay where they are. Maybe we can shrink those down a little, too.
+
+The ribbon. The ribbon is probably the biggest concern since, no matter what, it is gonna obstruct a lot of the player's view if it is on the screen and is fully extended. Hades tends to 
+
 ### What Elements Are Needed for Our HUD?
 - Health Bar
 - Mana Bar
