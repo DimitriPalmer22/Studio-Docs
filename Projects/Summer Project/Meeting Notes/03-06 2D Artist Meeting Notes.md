@@ -48,6 +48,7 @@ We need a font that we can use throughout the game that looks a little **better*
 Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 
 #### Possible Fonts
+
 - [Dico Font](https://www.dafont.com/dico.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 - [Pixelated English](https://www.dafont.com/pixeled-english.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 - [Venice Classic](https://www.dafont.com/venice-classic.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
@@ -61,13 +62,14 @@ Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+t
 Shrink the dialogue UI a little?
 
 ## Addendum Screen UI
+
 ON HOLD FOR NOW?
 
 ## Character Portrait Updates
 
 Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
 
-The main feedback we got about the character portraits is that they aren't dynamic enough. 
+The main feedback we got about the character portraits is that they aren't dynamic enough.
 - The poses weren't dynamic enough
 - The shading wasn't dynamic enough
 
