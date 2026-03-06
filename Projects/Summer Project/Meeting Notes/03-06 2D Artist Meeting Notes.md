@@ -58,8 +58,10 @@ Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+t
 
 ### Dialogue Screen UI
 
-## Addendum Screen UI
+Shrink the dialogue UI a little?
 
+## Addendum Screen UI
+ON HOLD FOR NOW?
 
 ## Character Portrait Updates
 
