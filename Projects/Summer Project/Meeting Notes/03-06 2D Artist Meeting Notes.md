@@ -1,23 +1,18 @@
 # 03-06 2D Artist Meeting Notes
 
-## Modified Portraits
-
-- Removed dithering
-- More shading
-
 ## In-Game HUD
 
 Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
 
-### What Isn't Working for the Existing HUD?
-
-#### Breathability
+### Breathability
 
 The HUD in general takes up too much space on the screen and can make the game feel a little claustrophobic at times. We should try to make the HUD a little more minimal and less intrusive on the screen. This will allow the player to focus more on the game and less on the HUD.
 
 I think this is because the HUD feels like it has some wasted space in it, and kinda walls off the top left corner of the screen.
 
 ![](<../../../_Meta/Attachments/Pasted image 20260306160323.png>)
+
+### Communication of Information
 
 ### Possible Solutions
 
@@ -69,8 +64,13 @@ No references, but I can outline the task.
 Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
 
 The main feedback we got about the character portraits is that they aren't dynamic enough.
-- The poses weren't dynamic enough
 - The shading wasn't dynamic enough
+- The poses weren't dynamic enough
+
+### Lighting & Shading
+
+- Removed dithering
+- More shading
 
 ### Posing
 
