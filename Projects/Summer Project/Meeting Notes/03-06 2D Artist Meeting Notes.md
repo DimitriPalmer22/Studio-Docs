@@ -21,6 +21,8 @@ In concept, the ribbon idea as we had it was pretty cool. Having the "addendums"
 
 ### Possible Solutions
 
+Reduce padding to get the UI even more out of the way.
+
 For the bars (health, mana, and shield), I think we should make the orb (for the shield) a little bit smaller. Then, we can make the health and mana bars take tall enough in total to pretty much fill up the space the orb takes up vertically.
 
 The mana essence counter does not need to be under the HUD like this. We can move it to the top right or bottom left corners of the screen.
