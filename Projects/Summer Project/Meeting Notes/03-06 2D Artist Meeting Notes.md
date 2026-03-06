@@ -14,6 +14,11 @@ I think this is because the HUD feels like it has some wasted space in it, and k
 
 ### Communication of Information
 
+In concept, the ribbon idea as we had it was pretty cool. Having the "addendums" pop up as they activate and then stay on the screen for a little while is a pretty good way to communicate to the player what addendums they have active and what they do. 
+- However, the way we had it set up, it was pretty intrusive on the screen and made it hard to see what was going on in the game.
+- Also, without intimate knowledge of each of the addendums in the game, it made it a little difficult to know which ones were active.
+- Also, the player isn't necessarily going to be looking at their HUD in the middle of combat, so having the addendums pop up there isn't necessarily the best way to communicate to the player what they have active.
+
 ### Possible Solutions
 
 For the bars (health, mana, and shield), I think we should make the orb (for the shield) a little bit smaller. Then, we can make the health and mana bars take tall enough in total to pretty much fill up the space the orb takes up vertically.
