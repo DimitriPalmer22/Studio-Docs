@@ -6,7 +6,7 @@
 
 ### Posing
 
-If we were'
+One of the main bits of feedback we got from people about our game's character portraits is that their poses aren't dynamic enough. 
 
 ## Modified Portraits
 
