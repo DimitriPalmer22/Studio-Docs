@@ -71,6 +71,8 @@ Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+t
 ## Addendum Screen UI
 
 No references, but I can outline the task.
+
+- Addendum screen paper update. Make it an actual asset.
 ## Character Portrait Updates
 
 Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
