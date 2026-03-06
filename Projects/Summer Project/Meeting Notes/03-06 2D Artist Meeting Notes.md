@@ -45,6 +45,17 @@ The ribbon. The ribbon is probably the biggest concern since, no matter what, it
 
 We need a font that we can use throughout the game that looks a little **better**. The existing font can be a bit hard to read at times and seems a little too *pixelated* for the style of the game. We should find a font that is a little more readable and fits the style of the game a little better.
 
+Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+
+#### Possible Fonts
+- [Dico Font](https://www.dafont.com/dico.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [Pixelated English](https://www.dafont.com/pixeled-english.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [Venice Classic](https://www.dafont.com/venice-classic.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [Belanidi Serif](https://www.dafont.com/belanidi-serif.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [Alagard](https://www.dafont.com/alagard.font?text=Interact&back=bitmap)
+- [Modern Dos](https://www.dafont.com/modern-dos.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [GothicPixels](https://www.dafont.com/gothicpixels.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+
 ### Dialogue Screen UI
 
 ## Addendum Screen UI
