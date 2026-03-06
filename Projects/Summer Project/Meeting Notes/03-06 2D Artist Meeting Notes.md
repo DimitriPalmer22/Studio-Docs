@@ -13,7 +13,7 @@
 
 ## In-Game HUD
 
-Reference
+Reference board: https://miro.com/app/board/uXjVGJb2XGs=/
 
 ### What Isn't Working for the Existing HUD?
 
