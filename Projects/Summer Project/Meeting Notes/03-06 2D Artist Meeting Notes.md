@@ -28,7 +28,9 @@ I think this is because
 
 - Primary spell
 - Secondary spell
-- Addendums
+- Slotted Addendums
+
+- Mana essence (currency)
 
 ## Font
 
