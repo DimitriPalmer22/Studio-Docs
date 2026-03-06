@@ -63,8 +63,7 @@ Shrink the dialogue UI a little?
 
 ## Addendum Screen UI
 
-ON HOLD FOR NOW?
-
+No references, but I can outline the task.
 ## Character Portrait Updates
 
 Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
