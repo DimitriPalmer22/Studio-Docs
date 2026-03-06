@@ -55,11 +55,11 @@ Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+t
 
 #### Possible Fonts
 
-- [Dico Font](https://www.dafont.com/dico.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [x] [Dico Font](https://www.dafont.com/dico.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 - [Pixelated English](https://www.dafont.com/pixeled-english.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 - [Venice Classic](https://www.dafont.com/venice-classic.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
-- [Belanidi Serif](https://www.dafont.com/belanidi-serif.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
-- [Alagard](https://www.dafont.com/alagard.font?text=Interact&back=bitmap)
+- [x] [Belanidi Serif](https://www.dafont.com/belanidi-serif.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
+- [x] [Alagard](https://www.dafont.com/alagard.font?text=Interact&back=bitmap)
 - [Modern Dos](https://www.dafont.com/modern-dos.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 - [GothicPixels](https://www.dafont.com/gothicpixels.font?text=This+is+the+dialogue+that+plays+the+very+first+time+you+enter+any+standard+enemy)
 
