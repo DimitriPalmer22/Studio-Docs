@@ -11,4 +11,6 @@
 - Removed dithering
 - More shading
 
+## In-Game UI
+
 ## Addendum Screen UI
