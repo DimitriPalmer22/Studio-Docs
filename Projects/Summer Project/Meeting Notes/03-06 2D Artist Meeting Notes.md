@@ -21,10 +21,12 @@ The HUD in general takes up too much space on the screen and can make the game f
 
 I think this is because the HUD feels like it has some wasted space in it, and kinda walls off the top left corner of the screen.
 
-!![](<../../../_Meta/Attachments/Pasted image 20260306160323.png>)
+![](<../../../_Meta/Attachments/Pasted image 20260306160323.png>)
 ### Possible Solution
 
-For the bars (health, mana, and shield), I think we should make the orb (for the shield) a little bit smaller. Then, we can make the health and mana bars take up 
+For the bars (health, mana, and shield), I think we should make the orb (for the shield) a little bit smaller. Then, we can make the health and mana bars take tall enough in total to pretty much fill up the space the orb takes up vertically.
+
+The mana essence counter does not need to be under the HUD like this. We can move it to the top right or bottom left corners of the screen.
 
 ### What Elements Are Needed for Our HUD?
 - Health Bar
