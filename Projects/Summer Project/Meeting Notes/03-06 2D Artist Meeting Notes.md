@@ -17,5 +17,9 @@
 
 ### 
 
+## Font
+
+We need a font that we can use throughout the game that looks a little **better**. The existing font
+
 ## Addendum Screen UI
 
