@@ -11,6 +11,8 @@
 
 - Update the existing UI
 
+- Model & texture new enemy
+
 ## New Tasks
 
 ### Current Enemy Improvements 
