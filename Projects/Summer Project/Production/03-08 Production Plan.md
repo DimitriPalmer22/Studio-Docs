@@ -18,4 +18,5 @@
 ### Current Enemy Improvements 
 
 
-### Dialogue 
+### Better Dialogue Incorporation
+The dialogue has been neglected for the most part and is only every really updated for large milestones. At this rate, the dialogue and narrative are going to feel a lot more tacked-on than I would like. 
