@@ -29,4 +29,8 @@ For testing purposes, (Dialogue-related) save data needs to be much more managea
 
 #### Have the Camera Face Allister During Dialogue
 
-Right now, we can control
+Our *framing* during dialogue is generally pretty bad. There is no intention behind what the character is looking at during dialogue, and it just feels kind of awkward. As of right now, there is no reason the dialogue can't just take up the entire screen.
+
+Right now, during dialogue, we *can* control where the camera faces (e.g. facing toward an enemy during the combat tutorial). However, for the most part, the camera just faces forward during dialogue. It would be a lot better if we could have the camera face Allister during dialogue since he's the one doing most of the talking and is the main character of the game.
+
+#### 
