@@ -16,3 +16,6 @@
 ## New Tasks
 
 ### Current Enemy Improvements 
+
+
+### Dialogue 
