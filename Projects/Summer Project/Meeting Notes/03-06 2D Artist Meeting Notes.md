@@ -14,7 +14,7 @@ I think this is because the HUD feels like it has some wasted space in it, and k
 
 ### Communication of Information
 
-In concept, the ribbon idea as we had it was pretty cool. Having the "addendums" pop up as they activate and then stay on the screen for a little while is a pretty good way to communicate to the player what addendums they have active and what they do.
+In concept, the ribbon idea as we had it was pretty cool. Having the "addendums" pop up as they activate and then stay on the screen for a little while is a pretty good way to communicate to the player what addendums they have active and what they do. 
 - However, the way we had it set up, it was pretty intrusive on the screen and made it hard to see what was going on in the game.
 - Also, without intimate knowledge of each of the addendums in the game, it made it a little difficult to know which ones were active.
 - Also, the player isn't necessarily going to be looking at their HUD in the middle of combat, so having the addendums pop up there isn't necessarily the best way to communicate to the player what they have active.
@@ -73,7 +73,6 @@ Current Font: [Alkhemikal](https://www.dafont.com/alkhemikal.font?text=This+is+t
 No references, but I can outline the task.
 
 - Addendum screen paper update. Make it an actual asset.
-
 ## Character Portrait Updates
 
 Reference board: <https://miro.com/app/board/uXjVGJb2XGs=/>
@@ -96,14 +95,12 @@ If we were to update the posing for these characters, we'd want to express more 
 ---
 
 ## Portraits
-
 ### Shading
 
 ![](<../../../_Meta/Attachments/Pasted image 20260306171652.png>)
 Thicker outlines, more dynamic shading.
 
 ### Posing
-
  Have more concrete examples of poses.
 
 - Which characters already have decent poses? We can get started on those first.
