@@ -73,8 +73,10 @@ Last week's main goals were primarily:
 3. ***2D Art & Overall Presentation***
 4. ***Complete the next enemy's model***
 
+Some of these things still need to be expanded upon, but we've made good progress on all these fronts.
+
 This week's goals are primarily:
-1. ***Expand the game's meta-progression & narr***:
+1. ***Expand the game's meta-progression & narrative***: The rogue-lite aspects of the game (the things that carry over BETWEEN runs) are underdeveloped / unimplemented right now. As a result, this doesn't feel like a game 
 
 ### Bug Tracking
 
