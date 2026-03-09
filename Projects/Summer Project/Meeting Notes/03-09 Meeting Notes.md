@@ -96,3 +96,7 @@ The crux of the game's narrative is the meta-progression (the things that carry 
 The game's meta-progression revolves around the journal entries that Allister collects during his runs. These journal entries are recorded by Tarun and some contain objectives that the player needs to complete to progress through the game.
 
 I want to start implementing the journal system a little more so we get a more complete narrative experience.
+
+### Misc.
+
+###
