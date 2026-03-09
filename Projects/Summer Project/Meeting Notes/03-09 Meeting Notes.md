@@ -14,7 +14,7 @@
 
 ## Updates To The Game
 
-### 
+### Player Combat Animations
 
 ## Plans Going Forward
 
