@@ -14,6 +14,14 @@
 
 ## Updates To The Game
 
+Last week's main goals were primarily:
+1. ***Improve player combat***
+2. ***Improve level design & atmosphere***
+3. ***Figure out more 2D Art & Overall Presentation***
+4. ***Complete the next enemy's model***
+
+Some of these things still need to be expanded upon, but we've made good progress on all these fronts.
+
 ### Player Combat Animations
 
 Allister's animations for the "*Flame Volley*" spell have been updated to feel much heavier and more impactful. From this point on, most of the animations we get for Allister should feel like this.
@@ -67,16 +75,8 @@ Font in the game has been updated to be a little more readable. The font is stil
 
 ## Plans Going Forward
 
-Last week's main goals were primarily:
-1. ***Improve player combat***
-2. ***Improve level design & atmosphere***
-3. ***2D Art & Overall Presentation***
-4. ***Complete the next enemy's model***
-
-Some of these things still need to be expanded upon, but we've made good progress on all these fronts.
-
 This week's goals are primarily:
-1. ***Expand the game's meta-progression & narrative***: The rogue-lite aspects of the game (the things that carry over BETWEEN runs) are underdeveloped / unimplemented right now. As a result, this doesn't feel like a game 
+1. ***Expand the game's meta-progression & narrative***: The rogue-lite aspects of the game (the things that carry over BETWEEN runs) are underdeveloped / unimplemented right now. As a result, this doesn't feel like a game.
 
 ### Bug Tracking
 
@@ -84,12 +84,14 @@ If you ever see a bug / a feature not working properly / a small oversight in th
 
 Link: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
 
-### Portrait Stuff
+### Meta-Progression & Narrative Expansion
+
+#### Portrait Stuff
 
 - Reshade the rest of the portraits.
 - Keep poses the same
 
-### Journal Stuff
+#### Journal Stuff
 
 The crux of the game's narrative is the meta-progression (the things that carry over between runs). In our case, the only implementation of this is the journal entries, which are collected by Allister and recorded by Tarun. BUT, the journal system has been very minimally implemented so far.
 
