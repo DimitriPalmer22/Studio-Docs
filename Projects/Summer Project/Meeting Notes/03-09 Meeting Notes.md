@@ -25,8 +25,13 @@ Allister's animations for the "*Flame Volley*" spell have been updated to feel m
 This didn't flow well with the pacing of the game and often led to the player getting hit because charging took too long.
 
 **Now**: You can hold the secondary button to charge up the secondary spell. But, there is only 1 extra tier of power. So, you can quickly tap the secondary button for a quick cast of the spell, or you can hold it down for a stronger version of the spell.
+- [ ] Time briefly slows while charging as well
 
 #### Background Elements in Levels
+
+We've experimented with adding more background elements to the existing levels to give the game a little more atmosphere and life. Examples can be found in:
+- L_Area01_Boss
+- 
 
 #### De-Square-ing the Levels
 
