@@ -20,6 +20,8 @@ Allister's animations for the "*Flame Volley*" spell have been updated to feel m
 
 #### Update to the Secondary Spells
 
+Before: You could hold the secondary button and charge up the secondary spell for 3 tiers
+
 #### Background Elements in Levels
 
 #### De-Square-ing the Levels
