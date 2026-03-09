@@ -31,7 +31,7 @@ This didn't flow well with the pacing of the game and often led to the player ge
 
 We've experimented with adding more background elements to the existing levels to give the game a little more atmosphere and life. Examples can be found in:
 - L_Area01_Boss
-- 
+- L_Area01_Room02
 
 #### De-Square-ing the Levels
 
