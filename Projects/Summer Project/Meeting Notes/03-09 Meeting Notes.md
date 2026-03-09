@@ -36,7 +36,9 @@ We've experimented with adding more background elements to the existing levels t
 #### De-Square-ing the Levels
 
 We've been making efforts to make the poly counts of the environments a little higher so we have more depth and detail in the environments. Here is the progress so far:
-- 
+- L_Area01_Room03
+
+The idea is to have a more detailed environmental kit that allows us to get a little more creative with the rest of the levels that need to be made (also will help w/ the existing levels).
 
 #### Updated Portrait Style
 
