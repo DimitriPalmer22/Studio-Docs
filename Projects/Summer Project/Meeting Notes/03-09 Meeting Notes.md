@@ -100,5 +100,5 @@ I want to start implementing the journal system a little more so we get a more c
 ### Misc.
 
 #### Bookshelves
-
--
+- Fix the Z-fighting on the bookshelf model.
+- Retexture the bookshelves to use a better wood texture.
