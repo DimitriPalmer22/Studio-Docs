@@ -35,6 +35,9 @@ We've experimented with adding more background elements to the existing levels t
 
 #### De-Square-ing the Levels
 
+We've been making efforts to make the poly counts of the environments a little higher so we have more depth and detail in the environments. Here is the progress so far:
+- 
+
 #### Updated Portrait Style
 
 #### UI Stuff
