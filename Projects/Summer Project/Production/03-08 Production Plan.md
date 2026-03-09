@@ -35,4 +35,8 @@ Our *framing* during dialogue is generally pretty bad. There is no intention beh
 
 Right now, during dialogue, we *can* control where the camera faces (e.g. facing toward an enemy during the combat tutorial). However, for the most part, the camera just faces forward during dialogue. It would be a lot better if we could have the camera face Allister during dialogue since he's the one doing most of the talking and is the main character of the game.
 
-####
+#### Journal System
+
+The crux of the game's narrative is the meta-progression (the things that carry over between runs). In our case, the only implementation of this is the journal entries, which are collected by Allister and recorded by Tarun.
+
+However, if we're just collecting the 
