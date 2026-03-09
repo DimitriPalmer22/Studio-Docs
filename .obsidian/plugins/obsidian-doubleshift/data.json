@@ -4,12 +4,12 @@
   "shortcuts": [
     {
       "command": "omnisearch:show-modal",
-      "key": "Shift",
+      "key": "ShiftLeft",
       "lastKeyUpTime": 0
     },
     {
       "command": "command-palette:open",
-      "key": "Control",
+      "key": "ControlLeft",
       "lastKeyUpTime": 0
     }
   ]
