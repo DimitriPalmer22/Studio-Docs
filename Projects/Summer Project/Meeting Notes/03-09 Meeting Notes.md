@@ -50,7 +50,7 @@ Going forward, the portraits in the game will be updated to have more detailed s
 
 Font in the game has been updated to be a little more readable. The font is still stylized, but it's not as difficult to read as the previous font.
 
-- [ ] Dico 
+- [ ] Dico
 - [ ] Belandi Serif
 - [ ] Alagard
 
