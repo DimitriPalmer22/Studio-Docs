@@ -1,9 +1,10 @@
 # 03-08 Production Plan
 
 ## Carry-over Tasks from Last Week / Last Sprint
+
 - LDs: De-square levels
 - Erin: Finish texturing the writing desk
-- Daunte: Finish pedestal model (texture)      
+- Daunte: Finish pedestal model (texture)
 
 - Get the new tome altar in the game.
 - Get the writing desk proxy in the game.
@@ -15,13 +16,14 @@
 
 ## New Tasks
 
-### Current Enemy Improvements 
-
+### Current Enemy Improvements
 
 ### Better Dialogue Incorporation
-The dialogue has been neglected for the most part and is only every really updated for large milestones. At this rate, the dialogue and narrative are going to feel a lot more tacked-on than I would like. 
+
+The dialogue has been neglected for the most part and is only every really updated for large milestones. At this rate, the dialogue and narrative are going to feel a lot more tacked-on than I would like.
 
 #### Cleaner Implementation of Save Data
+
 For testing purposes, (Dialogue-related) save data needs to be much more manageable. Right now, the only ways to manipulate save data are through actually playing the game or by using in-game commands. So, we should implement save data as data table rows.
 
 - An "empty" save-data table row.
@@ -33,4 +35,4 @@ Our *framing* during dialogue is generally pretty bad. There is no intention beh
 
 Right now, during dialogue, we *can* control where the camera faces (e.g. facing toward an enemy during the combat tutorial). However, for the most part, the camera just faces forward during dialogue. It would be a lot better if we could have the camera face Allister during dialogue since he's the one doing most of the talking and is the main character of the game.
 
-#### 
+####
