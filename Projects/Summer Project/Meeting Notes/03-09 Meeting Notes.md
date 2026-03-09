@@ -52,11 +52,11 @@ Font in the game has been updated to be a little more readable. The font is stil
 
 - [ ] Dico
 - [ ] Belandi Serif
-- [ ] Alagard
+- [x] Alagard
 
 #### Other Small Stuff
 
-- [ ] Shrunk the dialogue UI a little to allow for less of the screen to be obscured during dialogue sequences.
+- Shrunk the dialogue UI a little to allow for less of the screen to be obscured during dialogue sequences.
 - Vignette instead of black bars whenever the dialogue UI is up.
 
 ### Updated Props
