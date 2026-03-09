@@ -30,7 +30,7 @@
 
 #### Other Small Stuff
 
-- [ ] Shrunk the dialogue UI a little to allow for less of the screen to be 
+- [ ] Shrunk the dialogue UI a little to allow for less of the screen to be obscured during dialogue sequences.
 
 ## Plans Going Forward
 
