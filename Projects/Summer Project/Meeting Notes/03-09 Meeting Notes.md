@@ -68,7 +68,13 @@ Font in the game has been updated to be a little more readable. The font is stil
 ## Plans Going Forward
 
 Last week's main goals were primarily:
-- 
+1. ***Improve player combat***
+2. ***Improve level design & atmosphere***
+3. ***2D Art & Overall Presentation***
+4. ***Complete the next enemy's model***
+
+This week's goals are primarily:
+1. ***Expand the game's meta-progression & narr***:
 
 ### Bug Tracking
 
