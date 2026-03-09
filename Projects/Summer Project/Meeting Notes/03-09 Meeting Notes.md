@@ -40,4 +40,9 @@
 ## Plans Going Forward
 
 ### Bug Tracking
-If you ever see a bug / a feature not working properly / a small oversight in the game, you can submit a bug report
+If you ever see a bug / a feature not working properly / a small oversight in the game, you can submit a bug report to our bug tracking system. It takes like 10 seconds. This will allow us to keep track of all the bugs in the game and prioritize them accordingly.
+
+Link: https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US
+
+
+### 
