@@ -16,11 +16,21 @@
 
 ### Player Combat Animations
 
+#### Update to the Secondary Spells
+
 #### Background Elements in Levels
 
 #### De-Square-ing the Levels
 
 #### Updated Portrait Style
+
+#### UI Stuff
+
+#### Font
+
+#### Other Small Stuff
+
+- [ ] Shrunk the dialogue UI a little to allow for less of the screen to be 
 
 ## Plans Going Forward
 
