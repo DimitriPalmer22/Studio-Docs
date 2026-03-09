@@ -50,9 +50,14 @@ Going forward, the portraits in the game will be updated to have more detailed s
 
 Font in the game has been updated to be a little more readable. The font is still stylized, but it's not as difficult to read as the previous font.
 
+- [ ] Dico 
+- [ ] Belandi Serif
+- [ ] Alagard
+
 #### Other Small Stuff
 
 - [ ] Shrunk the dialogue UI a little to allow for less of the screen to be obscured during dialogue sequences.
+- Vignette instead of black bars whenever the dialogue UI is up.
 
 ### Updated Props
 
