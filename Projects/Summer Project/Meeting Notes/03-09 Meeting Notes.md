@@ -16,6 +16,12 @@
 
 ### Player Combat Animations
 
+#### Background Elements in Levels
+
+#### De-Square-ing the Levels
+
+#### Updated Portrait Style
+
 ## Plans Going Forward
 
 ###
