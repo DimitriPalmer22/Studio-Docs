@@ -42,6 +42,8 @@ The idea is to have a more detailed environmental kit that allows us to get a li
 
 #### Updated Portrait Style
 
+Going forward, the portraits in the game will be updated to have more detailed shading. 
+
 #### UI Stuff
 
 #### Font
