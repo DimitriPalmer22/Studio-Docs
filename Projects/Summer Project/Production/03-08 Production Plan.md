@@ -39,4 +39,4 @@ Right now, during dialogue, we *can* control where the camera faces (e.g. facing
 
 The crux of the game's narrative is the meta-progression (the things that carry over between runs). In our case, the only implementation of this is the journal entries, which are collected by Allister and recorded by Tarun.
 
-However, if we're just collecting the 
+However, if we're just collecting the journal entries, then the player would have little reason to read anything. However, since the journal entries have objectives that the player needs to actively complete, the player is incentivized to read the journal entries and the dialogue surrounding them to know what they need to do to complete them.
