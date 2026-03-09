@@ -76,7 +76,7 @@ Link: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
 ### Portrait Stuff
 
 - Reshade the rest of the portraits.
-- 
+- Keep poses the same
 
 ### Journal Stuff
 
