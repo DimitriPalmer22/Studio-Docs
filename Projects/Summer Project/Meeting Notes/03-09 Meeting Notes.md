@@ -73,12 +73,14 @@ If you ever see a bug / a feature not working properly / a small oversight in th
 
 Link: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
 
-###
+### Portrait Stuff
+
+Reshade the rest
 
 ### Journal Stuff
 
-The crux
+The crux of the game's narrative is the meta-progression (the things that carry over between runs). In our case, the only implementation of this is the journal entries, which are collected by Allister and recorded by Tarun. BUT, the journal system has been very minimally implemented so far.
 
-The game's meta-progression revolves around the journal entries that Allister collects during his runs. These journal entries are recorded by Tarun and contain objectives that the player needs to complete to progress through the game.
+The game's meta-progression revolves around the journal entries that Allister collects during his runs. These journal entries are recorded by Tarun and some contain objectives that the player needs to complete to progress through the game.
 
 I want to start implementing the journal system a little more so we get a more complete narrative experience.
