@@ -67,6 +67,9 @@ Font in the game has been updated to be a little more readable. The font is stil
 
 ## Plans Going Forward
 
+Last week's main goals were primarily:
+- 
+
 ### Bug Tracking
 
 If you ever see a bug / a feature not working properly / a small oversight in the game, you can submit a bug report to our bug tracking system. It takes like 10 seconds. This will allow us to keep track of all the bugs in the game and prioritize them accordingly.
