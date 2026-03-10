@@ -97,8 +97,13 @@ The game's meta-progression revolves around the journal entries that Allister co
 
 I want to start implementing the journal system a little more so we get a more complete narrative experience.
 
-### Misc.
+### Narrative Demo Level
+
+I'll make a level containing several things we can use to rapidly iterate on the game's dialogue and progression mechanics. This will allow us to test out different dialogue options and different ways of communicating the game's narrative to the player without having to worry about the level design or the combat mechanics.
+
+### Misc
 
 #### Bookshelves
+
 - Fix the Z-fighting on the bookshelf model.
 - Retexture the bookshelves to use a better wood texture.
