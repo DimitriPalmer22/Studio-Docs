@@ -10,5 +10,6 @@
   ],
   "readableLineLength": true,
   "alwaysUpdateLinks": false,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "showInlineTitle": true
 }
