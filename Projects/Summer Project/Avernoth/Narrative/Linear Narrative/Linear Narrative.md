@@ -21,6 +21,9 @@ Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a
 
 #### During the Chapter
 
+We learn:
+- Avernoth was created by the Archmage
+
 #### End of the Chapter
 
 Chapter 1 ends with Allister completing / collecting all the corresponding journal entries in Chapter and then reaching the end of Avernoth.
