@@ -17,9 +17,12 @@ The concept of "chapters" probably won't be directly relayed to the player, but 
 Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a very new and unfamiliar place to Allister and his allies (as well as the player), so many mechanics will need to be introduced. Mechanics like:
 - The [Tome Altar](<../../Mechanics/Tome Altar.md>)
 - The [Journal System](<../../Mechanics/Journal System.md>) & the [Codex](Codex)
+- The *Runes* that appear on the journal entries
 - The [Combat](<../../Mechanics/Combat/Combat.md>)
 
 #### During the Chapter
+
+> Make this line up with the existing journal entries that have already been written. Extra information can come from the experiment logs & the dialogue surrounding them.
 
 We learn:
 - Avernoth was created by the Archmage
