@@ -22,11 +22,11 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 %% Begin Landmark %%
 - **[Areas](<./Areas/Areas.md>)**
 - **Mechanics**
-	- [Addendums](<./Mechanics/Addendums.md>)
 	- **[Combat](<./Mechanics/Combat/Combat.md>)**
 		- [Primary Spell](<./Mechanics/Combat/Primary Spell.md>)
 		- [Secondary Spell](<./Mechanics/Combat/Secondary Spell.md>)
 		- [Shield](<./Mechanics/Combat/Shield.md>)
+	- [Addendums](<./Mechanics/Addendums.md>)
 	- [Dialogue](<./Mechanics/Dialogue.md>)
 	- [Game Structure](<./Mechanics/Game Structure.md>)
 	- [Journal System](<./Mechanics/Journal System.md>)
@@ -35,5 +35,6 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
 	- **Journal Entries**
+	- **[Linear Narrative](<./Narrative/Linear Narrative/Linear Narrative.md>)**
 
 %% End Landmark %%
