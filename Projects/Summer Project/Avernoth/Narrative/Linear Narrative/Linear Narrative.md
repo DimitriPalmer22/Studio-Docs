@@ -30,7 +30,7 @@ Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a
 
 > **Note**: These bullet points are ordered in the order that they are revealed to the player.
 
-Through the [Standard Journal Entries](<../../Mechanics/Journal System.md#Standard Journal Entry>), we learn:
+Through the [Standard Journal Entries](<../../Mechanics/Journal System.md#Standard Journal Entry>), the player learns:
 1. Avernoth was created by [The Archmage](<../Characters/The Archmage.md>). The Archmage set his study on fire and escaped into [Avernoth](<../../Avernoth.md>).
 2. The Archmage is continuing his research. The Archmage created the [Tome Altar](<../../Mechanics/Tome Altar.md>) found in Avernoth.
 3. The Archmage isn't sleeping well and is paranoid that someone followed him into Avernoth.
@@ -38,7 +38,10 @@ Through the [Standard Journal Entries](<../../Mechanics/Journal System.md#Standa
 ##### Journal Entry / Experiment Log Order
 
 1. Journal Entry 01
-2. 
+2. Journal Entry 02 - Introduce idea of experiments
+3. Experiment Log 01 - The first experiment log
+4. Journal Entry 03
+5. Experiment Log 02 - Reach the seal at the end of Avernoth
 
 #### End of the Chapter
 
