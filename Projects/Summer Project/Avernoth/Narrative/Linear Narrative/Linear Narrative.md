@@ -12,7 +12,9 @@ The concept of "chapters" probably won't be directly relayed to the player, but 
 
 ### Chapter 1
 
-Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is st
+Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a very new and unfamiliar place to Allister and his allies (as well as the player), so many mechanics will need to be introduced. Mechanics like:
+- The [Tome Altar](<../../Mechanics/Tome Altar.md>)
+- The [Journal Entries](<../Journal Entries/Journal Entries.md>) & 
 
 ### Chapter 2
 
