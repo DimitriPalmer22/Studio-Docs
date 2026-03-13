@@ -1,5 +1,7 @@
 # Linear Narrative
 
+See [Narrative](<../Narrative.md>) to get a more general understanding of the game's world and the events leading up to the start of the game.
+
 In order to make the game's story more compelling, the game's narrative MUST have some sort of linearity. We need to gate the player's progression through the game's story in a way that is tied to their progression through the game itself. This way, the dialogue the player encounters will *ALWAYS* make sense.
 
 The progression of the game's narrative is directly tied to the player's collection of the [Journal System](<../../Mechanics/Journal System.md>).
@@ -25,7 +27,7 @@ Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a
 > Make this line up with the existing journal entries that have already been written. Extra information can come from the experiment logs & the dialogue surrounding them.
 
 We learn:
-1. Avernoth was created by [The Archmage](<../Characters/The Archmage.md>)
+1. Avernoth was created by [The Archmage](<../Characters/The Archmage.md>). The Archmage set his study on fire and escaped into [Avernoth](<../../Avernoth.md>).
 2. 
 
 #### End of the Chapter
