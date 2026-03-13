@@ -17,10 +17,13 @@ Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a
 - The [Journal System](<../../Mechanics/Journal System.md>) & the [Codex](Codex)
 - The [Combat](<../../Mechanics/Combat/Combat.md>)
 
-Chapter 1 ends with Allister completing 
+Chapter 1 ends with Allister completing / collecting all the corresponding journal entries in Chapter and then reaching the end of Avernoth.
+
+The complete first set of Runes in the end of Avernoth will appear. The main cast realizes that the Runes are the key to escaping Avernoth, and they set their sights on collecting them all. This will be the main motivation for the rest of the game.
 
 ### Chapter 2
 
+Chapter 2 begins with Allister waking up again in the Beginning Room immediately after completing Chapter 1.
 ### Chapter 3
 
 ## Links
