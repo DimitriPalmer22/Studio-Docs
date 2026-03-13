@@ -2,8 +2,6 @@
 
 These are the events that take place within Avernoth's story.
 
-See [Linear Narrative](<./Linear Narrative/Linear Narrative.md>) for a more cohesive understanding of the game's narrative structure.
-
 ## LONG Before the Events of the Game
 
 > These are lore elements that are not necessarily relevant to the game, but they provide context and background for the world and its characters. They can be used to flesh out the world and make it feel more alive and immersive.
@@ -25,3 +23,5 @@ However, right before Allister is sealed away, [Magnus](<./Characters/Magnus.md>
 ## Events Throughout the Course of the Game
 
 > These are the events that *SHOULD* take place throughout the course of the game. We need to make sure that they are communicated properly, as they are important for the player to understand the story and the world. Think of these as important story beats that the player comes across OUTSIDE the game's [Combat](<../Mechanics/Combat/Combat.md>)
+
+See [Linear Narrative](<./Linear Narrative/Linear Narrative.md>) for a more cohesive understanding of the game's narrative structure.

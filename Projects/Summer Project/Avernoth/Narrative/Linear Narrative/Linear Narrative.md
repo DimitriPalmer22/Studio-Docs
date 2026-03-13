@@ -28,7 +28,7 @@ Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a
 
 We learn:
 1. Avernoth was created by [The Archmage](<../Characters/The Archmage.md>). The Archmage set his study on fire and escaped into [Avernoth](<../../Avernoth.md>).
-2. 
+2. The Archmage created the [Tome Altar](<../../Mechanics/Tome Altar.md>).
 
 #### End of the Chapter
 
