@@ -2,7 +2,7 @@
 
 In order to make the game's story more compelling, the game's narrative MUST have some sort of linearity. We need to gate the player's progression through the game's story in a way that is tied to their progression through the game itself. This way, the dialogue the player encounters will *ALWAYS* make sense.
 
-The progression of the game's narrative is directly tied to the player's collection of the [Journal Entries](<../Journal Entries/Journal Entries.md>).
+The progression of the game's narrative is directly tied to the player's collection of the [Journal System](<../../Mechanics/Journal System.md>).
 
 ## Chapters
 
@@ -14,8 +14,10 @@ The concept of "chapters" probably won't be directly relayed to the player, but 
 
 Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a very new and unfamiliar place to Allister and his allies (as well as the player), so many mechanics will need to be introduced. Mechanics like:
 - The [Tome Altar](<../../Mechanics/Tome Altar.md>)
-- The [Journal Entries](<../Journal Entries/Journal Entries.md>) & the [Codex](Codex)
+- The [Journal System](<../../Mechanics/Journal System.md>) & the [Codex](Codex)
 - The [Combat](<../../Mechanics/Combat/Combat.md>)
+
+Chapter 1 ends with Allister completing 
 
 ### Chapter 2
 

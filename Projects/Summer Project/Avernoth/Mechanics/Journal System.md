@@ -20,6 +20,8 @@ Research logs are journal entries that take note of any **experiments** the Arch
 
 These research logs very clearly outline some task the player has to do to recreate the Archmage's experiment. Once that task is complete, the rune associated with this journal entry becomes visible to Allister and his allies.
 
+Around [Avernoth](<../../Avernoth.md>) are several **interactable** objects. These objects are used for **experiments**. By interacting with these objects (while having passed certain conditions), Allister will successfully "*recreate*" the experiment. When this happens a *rune* appears in [Tarun](<../Characters/Tarun.md>)'s [Codex](Codex), further progressing the [Linear Narrative](<../Linear Narrative/Linear Narrative.md>).
+
 ### Collecting Journal Entries
 
-Since Allister has his state reset anytime he restarts his run, he cannot physically carry the journal entries with him. Instead, [[../Narrative/Characters/Tarun]] copies these entries down into the [[Codex]] / his notebook.
+Since Allister has his state reset anytime he restarts his run, he cannot physically carry the journal entries with him. Instead, [Tarun](<../Narrative/Characters/Tarun.md>) copies these entries down into the [[Codex]] / his notebook.
