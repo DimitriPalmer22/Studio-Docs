@@ -25,7 +25,8 @@ Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a
 > Make this line up with the existing journal entries that have already been written. Extra information can come from the experiment logs & the dialogue surrounding them.
 
 We learn:
-- Avernoth was created by the Archmage
+1. Avernoth was created by [The Archmage](<../Characters/The Archmage.md>)
+2. 
 
 #### End of the Chapter
 
