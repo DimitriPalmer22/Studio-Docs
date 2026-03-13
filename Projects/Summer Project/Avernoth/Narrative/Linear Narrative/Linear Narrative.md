@@ -12,10 +12,16 @@ The concept of "chapters" probably won't be directly relayed to the player, but 
 
 ### Chapter 1
 
+#### Beginning of the Chapter
+
 Chapter 1 begins right after Allister is sealed in Avernoth. Avernoth is still a very new and unfamiliar place to Allister and his allies (as well as the player), so many mechanics will need to be introduced. Mechanics like:
 - The [Tome Altar](<../../Mechanics/Tome Altar.md>)
 - The [Journal System](<../../Mechanics/Journal System.md>) & the [Codex](Codex)
 - The [Combat](<../../Mechanics/Combat/Combat.md>)
+
+#### During the Chapter
+
+#### End of the Chapter
 
 Chapter 1 ends with Allister completing / collecting all the corresponding journal entries in Chapter and then reaching the end of Avernoth.
 
@@ -23,8 +29,21 @@ The complete first set of Runes in the end of Avernoth will appear. The main cas
 
 ### Chapter 2
 
+#### Beginning of the Chapter
+
 Chapter 2 begins with Allister waking up again in the Beginning Room immediately after completing Chapter 1.
+
+#### During the Chapter
+
+#### End of the Chapter
+
 ### Chapter 3
+
+#### Beginning of the Chapter
+
+#### During the Chapter
+
+#### End of the Chapter
 
 ## Links
 
