@@ -2,4 +2,16 @@
 
 ## New Tasks
 
-### New Primary A
+### New Set of Abilities
+
+- Dimitri, Andre, Mikel
+
+#### New Primary Spell
+
+- 4-hit combo string of the *tempest* element
+
+#### New Secondary Spell
+
+- ss
+
+###
