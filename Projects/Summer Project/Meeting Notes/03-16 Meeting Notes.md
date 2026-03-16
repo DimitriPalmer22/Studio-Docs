@@ -71,11 +71,17 @@ This week's goals are primarily:
 
 ### New Set of Abilities
 
+> Note: At some point, we WILL need new UI icons for each of these abilities. Once the idea behind them is more solidified, we can start working on the icons for them.
+
 #### Primary
 
 - 4-hit combo string
 
 #### Secondary
+
+- Spinning attack with an AOE
+
+### New Addendums
 
 ### In-Run Progression
 
