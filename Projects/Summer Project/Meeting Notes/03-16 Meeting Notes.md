@@ -14,17 +14,19 @@
 
 ## Updates To The Game
 
-### Updated Model for the Addendum Room
-
-Before, the player interacted with an *anvil* to apply addendums to their tomes. Now, we have a *specialized table* asset that the player interacts with.
-
 ### Debug Menu For Easy Testing
 
 ***THIS IS FOR ALL THE PEOPLE WHO PLAY THE GAME IN-EDITOR***
 
 If you press ***'H'*** while playing the game in-editor, a special debug window will pop up. Here, there are a variety of buttons and dropdowns you can use to test specific mechanics and content in the game without having to play through the game to get to that content.
 
-### 
+### Updated Model for the Addendum Room
+
+Before, the player interacted with an *anvil* to apply addendums to their tomes. Now, we have a *specialized table* asset that the player interacts with.
+
+### Narrative & Progression
+
+So, the game's narrative has bnee
 
 ## Plans Going Forward
 
