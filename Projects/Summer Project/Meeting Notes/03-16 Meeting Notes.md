@@ -43,7 +43,12 @@ For a more detailed explanation of the journal system, see: [Journal System](<..
 
 There are 2 types of journal entries:
 - Standard journal entries, which are just notes used for lore.
-- Experiment logs, which contain interactive quests that the player must complete to progress. These should break up the monotony of 
+- Experiment logs, which contain *interactive quests* that the player must complete to progress. These should break up the monotony of just fighting enemies repeatedly.
+
+I have a proof of concept for what one of these *interactive quests* looks like:
+- This is where I either show a video of me doing it, or do it live in-call
+
+> Note: Not all quests will have the same minigame or criteria. This is just an example of ONE of the things we can do.
 
 ## Plans Going Forward
 
