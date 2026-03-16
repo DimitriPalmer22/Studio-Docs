@@ -48,6 +48,6 @@ A new enemy type that:
 
 A summoner!
 - For now, we'll have it summon the basic melee enemy, but we can make it summon a specific enemy type in the future as well.
-- It will try to maintain its
+- It will try to maintain it's distance from the player
 
 ### 
