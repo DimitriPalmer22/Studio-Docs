@@ -42,4 +42,9 @@ Implementation:
 
 Erin - Char?
 
+A new enemy type that:
+- Is not totally humanoid
+- Is not a quadruped
+- Has simple movements that should be easy to model / rig / animate for
+- Can 
 ### 
