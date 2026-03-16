@@ -37,7 +37,13 @@ For organizational purposes, the game's narrative is gonna be divided into 3 cha
 - **Chapter 2**: The player gets into a regular groove of progressing through Avernoth and collecting journal entries. They figure out more of the story and the world as they go.
 - **Chapter 3**: The player is on their way to escaping Avernoth and has a firm understanding of the backstory and the world. The player is trying to collect the last few journal entries.
 
-####
+#### Standard Journal Entries and Experiment Logs
+
+For a more detailed explanation of the journal system, see: [Journal System](<../Avernoth/Mechanics/Journal System.md>)
+
+There are 2 types of journal entries:
+- Standard journal entries, which are just notes used for lore.
+- Experiment logs, which contain interactive quests that the player must complete to progress. These should break up the monotony of 
 
 ## Plans Going Forward
 
