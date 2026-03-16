@@ -26,7 +26,12 @@ Before, the player interacted with an *anvil* to apply addendums to their tomes.
 
 ### Narrative & Progression
 
-So, the game's narrative has bnee
+So, the game's narrative has been worked on a tad bit. 
+
+For organizational purposes, the game's narrative is gonna be divided into 3 chapters:
+- Chapter 1: Introduce mechanics and the world of Avernoth to the player.
+- Chapter 2: The player gets into a regular groove of progressing through Avernoth and collecting journal entries. They figure out more of the story and the world as they go.
+- Chapter 3: The player is on their way to escaping Avernoth.
 
 ## Plans Going Forward
 
