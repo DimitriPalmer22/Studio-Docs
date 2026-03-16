@@ -73,7 +73,9 @@ There are *TWO* separate UI things that need to be made for this task:
 
 > Note: Make the pages sit flat on the screen. Having the page sit at an angle or have bends / bumps in it makes it hard for the text to sit flush on the page.
 
-The screen for the 
+The screen for the standard journal entries should be pretty much just a blank page with nothing on it. This way, we have as much real-estate as possible for the text of the journal entry. Maybe some stuff on the border of the page can be cool, idk.
+
+The screen for the experiment logs should be a little more visually interesting. Maybe we can have some diagrams or something on the page to make it look like a research log or something. We can also have some space on the page for the objectives of the quest to be listed as well.
 
 ### New Set of Abilities
 
