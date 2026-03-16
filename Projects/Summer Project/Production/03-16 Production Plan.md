@@ -31,7 +31,7 @@ Flat stat increase addendums:
 
 Dimitri - Code
 
-- Make enemies harder as you go further into the run.
+- Make enemies harder as you go further into the run. Shield?
 
 Implementation:
 - Each room has a data table row associated w/ it, detailing things like the room's name, room rewards, the area the room belongs to, etc. Then, in each room, set the information on the room manager (will require LDs to get out of their levels at some point)
@@ -45,5 +45,7 @@ A new enemy type that:
 - Is not totally humanoid
 - Is not a quadruped
 - Has simple movements that should be easy to model / rig / animate for
+
+A summoner?
 
 ### 
