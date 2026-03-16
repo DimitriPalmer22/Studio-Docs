@@ -46,6 +46,8 @@ A new enemy type that:
 - Is not a quadruped
 - Has simple movements that should be easy to model / rig / animate for
 
-A summoner?
+A summoner!
+- For now, we'll have it summon the basic melee enemy, but we can make it summon a specific enemy type in the future as well.
+- It will try to maintain its
 
 ### 
