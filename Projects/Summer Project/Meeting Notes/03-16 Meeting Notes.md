@@ -94,7 +94,13 @@ This week's goals are primarily:
 
 ### In-Run Progression
 
-The basic idea is that 
+The basic idea is that enemies will generally have flat stat increases depending on which section of Avernoth you are in.
+- Enemies in the first section of Avernoth will be at their base stats.
+- Enemies in the second section of Avernoth will have a x% increase to all their stats
+- Enemies in the third section of Avernoth will have a y% increase to all their stats.
+
+We can also *experiment* with them having different AI behaviors or using different abilities as you go further into the run as well. (This WOULD have to be visually communicated to the player through design changes, though)
+- For instance, maybe they start using a new ability that they didn't use in the earlier sections of Avernoth.
 
 ### Another Enemy Type
 
