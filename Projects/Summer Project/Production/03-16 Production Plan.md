@@ -37,4 +37,4 @@ Implementation:
 - Each room has a data table row associated w/ it, detailing things like the room's name, room rewards, the area the room belongs to, etc. Then, in each room, set the information on the room manager (will require LDs to get out of their levels at some point)
 - Each enemy has a data table associated w/ it, detailing different difficulty parameters. Things like stat overrides and any AI or ability class overrides can go here. Make a component that takes in this data row and then applies it to each of the corresponding aspects.
 
-## 
+##
