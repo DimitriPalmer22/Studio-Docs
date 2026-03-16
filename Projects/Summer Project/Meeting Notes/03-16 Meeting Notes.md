@@ -93,6 +93,8 @@ This week's goals are primarily:
 	- 5% increase to Agi
 	- 5% increase to Res
 
+> Note: For the simple flat increase addendums, maybe just show the icon for the respective stat and then an up arrow next to it or something.
+
 ### In-Run Progression
 
 The basic idea is that enemies will generally have flat stat increases depending on which section of Avernoth you are in.
