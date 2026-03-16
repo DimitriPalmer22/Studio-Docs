@@ -22,12 +22,12 @@
 
 Rage mode addendum - Increase agility, but reduce intelligence.
 Flat stat increase addendums:
-- 5% increase to health
+- 10% increase to health
 - 10% increase to mana
 - 10% increase to mana recharge rate
 - 5% increase to Int
-- 10% increase to Agi
-- 10% increase to Res
+- 5% increase to Agi
+- 5% increase to Res
 
 ### In-Run Progression
 
