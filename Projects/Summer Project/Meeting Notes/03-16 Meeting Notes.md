@@ -67,8 +67,13 @@ This week's goals are primarily:
 
 #### Updated Journal Page UI
 
-- …
-- Make the page sit flat on the screen. Having the page sit at an angle or have bends / bumps in it makes it hard for the text to sit flush on the page.
+There are *TWO* separate UI things that need to be made for this task:
+- A visually distinct screen for the *standard journal entries*
+- A visually distinct screen for the *experiment logs*
+
+> Note: Make the pages sit flat on the screen. Having the page sit at an angle or have bends / bumps in it makes it hard for the text to sit flush on the page.
+
+The screen for the 
 
 ### New Set of Abilities
 
