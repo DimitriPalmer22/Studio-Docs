@@ -107,6 +107,14 @@ We can also *experiment* with them having different AI behaviors or using differ
 
 ### Another Enemy Type
 
+This will be done by Erin.
+
+The exact design of this is not solidified yet, but the behavior is.
+
+This enemy will *summon* other enemy types to fight for it. 
+- For now, we'll have it summon the basic melee enemy, 
+- We can make it summon a specific enemy type in the future as well!
+
 ### Next Week
 
 Just as a heads up, I'm thinking that next week we'll have less tasks focused around new content. Instead, I think we'll try to focus up on any unfinished tasks that we have and then start trying to get some of the existing content polished up.
@@ -115,7 +123,7 @@ Of course, I'll re-evaluate this once we get to the end of this week and see how
 
 ## Summary
 
-- We'll be expanding on the journal entry system and the dialogue surrounding it
-- We'll be adding a new set of abilities for the player to use
-- Enemies will get stronger as you go further into the run
+- We'll be expanding on the journal entry system and the dialogue surrounding it.
+- We'll be adding a new set of abilities for the player to use.
+- Enemies will get stronger as you go further into the run.
 - We'll be adding another enemy type to the game (at least the model?)
