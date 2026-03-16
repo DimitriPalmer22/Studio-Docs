@@ -63,8 +63,19 @@ This week's goals are primarily:
 #### Journal System & Dialogue
 
 - Implement the very first journal quest into the actual flow of the game.
+- Fill out more of the actual dialogue surrounding this
+
+#### Updated Journal Page UI
+
+- …
 
 ### New Set of Abilities
+
+#### Primary
+
+- 4-hit combo string
+
+#### Secondary
 
 ### In-Run Progression
 
