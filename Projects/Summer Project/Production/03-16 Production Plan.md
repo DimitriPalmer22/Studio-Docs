@@ -26,3 +26,11 @@ Flat stat increase addendums:
 - 5% increase to Int
 - 10% increase to Agi
 - 10% increase to Res
+
+### In-Run Progression
+
+- Make enemies harder as you go further into the run.
+
+Implementation:
+- Each room has a data table row associated w/ it, detailing things like the room's name, room rewards, the area the room belongs to, etc.
+- Each enemy has a data
