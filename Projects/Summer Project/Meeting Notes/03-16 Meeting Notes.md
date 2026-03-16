@@ -14,13 +14,20 @@
 
 ## Updates To The Game
 
-### Updated Model for the Upgrade
+### Updated Model for the Addendum Room
+
+Before, the player interacted with an *anvil* to apply addendums to their tomes. Now, we have a *specialized table* asset that the player interacts with.
+
+### Debug Menu For Easy Testing
+
+***THIS IS FOR ALL THE PEOPLE WHO PLAY THE GAME IN-EDITOR***
 
 ## Plans Going Forward
 
 This week
 
 ### Next Week
-Just as a heads up, I'm thinking that next week we'll have less tasks focused around new content. Instead, I think we'll try to focus up on any unfinished tasks that we have and then start trying to get some of the existing content polished up. 
 
-Of course, I'll re-evaluate this once we get to the end of this week and see how much we get done. 
+Just as a heads up, I'm thinking that next week we'll have less tasks focused around new content. Instead, I think we'll try to focus up on any unfinished tasks that we have and then start trying to get some of the existing content polished up.
+
+Of course, I'll re-evaluate this once we get to the end of this week and see how much we get done.
