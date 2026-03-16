@@ -56,7 +56,15 @@ This week's goals are primarily:
 1. ***Continue working on the narrative & progression of the game***. Now that there's a basis for how we want to do things, we just have to expand on it and fill in the details.
 2. ***Create a New Set of Abilities***. For the longest time, we've only had the two basic spells in the game. Now that we have a better feeling for how the game's combat is supposed to be, it's time to add more.
 3. ***Work on the In-Run Progression A Little More***. As the player goes further and further into their run, the only things that's changing is the environment they fight in. How do we make the game harder / feel different as the player goes further into Avernoth?
-4. ***Another Enemy Type***. In addition to the OTHER enemy type that is *still* being worked on, 
+4. ***Start working on Another Enemy Type***. In addition to the OTHER enemy type that is *still* being worked on, we can add ANOTHER enemy to the game.
+
+### More Narrative Stuff
+
+### New Set of Abilities
+
+### In-Run Progression
+
+### Another Enemy Type
 
 ### Next Week
 
