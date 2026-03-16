@@ -19,4 +19,6 @@
 This week
 
 ### Next Week
-I'm thinking next week will be less of a 
+Just as a heads up, I'm thinking that next week we'll have less tasks focused around new content. Instead, I think we'll try to focus up on any unfinished tasks that we have and then start trying to get some of the existing content polished up. 
+
+Of course, I'll re-evaluate this once we 
