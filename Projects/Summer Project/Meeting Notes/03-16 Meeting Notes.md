@@ -14,6 +14,8 @@
 
 ## Updates To The Game
 
+### Updated Model for the Upgrade
+
 ## Plans Going Forward
 
 This week
