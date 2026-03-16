@@ -52,7 +52,9 @@ I have a proof of concept for what one of these *interactive quests* looks like:
 
 ## Plans Going Forward
 
-This week
+This week's goals are primarily:
+1. ***Continue working on the narrative & progression of the game***. Now that there's a basis for how we want to do things, we just have to expand on it and fill in the details.
+2. ***Create a New Set of Abilities***. For the longest time, we've only had the two basic spells in the game. Now that we have a better feeling for how the game's combat is supposed to be, it's time to add more
 
 ### Next Week
 
