@@ -2,9 +2,11 @@
 
 ## New Tasks
 
-### New Set of Abilities
+### New Set of Attacks & Addendums
 
-- Dimitri, Andre, Mikel
+- Dimitri - Code
+- Andre - Animations
+- Mikel - VFX
 
 #### New Primary Spell
 
@@ -14,4 +16,7 @@
 
 - ss
 
-###
+#### New *Addendums*
+
+Rage mode addendum - Increase agility, but reduce intelligence.
+Flat stat 
