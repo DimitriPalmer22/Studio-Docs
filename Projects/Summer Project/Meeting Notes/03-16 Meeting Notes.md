@@ -58,7 +58,11 @@ This week's goals are primarily:
 3. ***Work on the In-Run Progression A Little More***. As the player goes further and further into their run, the only things that's changing is the environment they fight in. How do we make the game harder / feel different as the player goes further into Avernoth?
 4. ***Start working on Another Enemy Type***. In addition to the OTHER enemy type that is *still* being worked on, we can add ANOTHER enemy to the game.
 
-### More Narrative Stuff
+### More Narrative & Progression
+
+#### Journal System & Dialogue
+
+- Implement the very first journal quest into the actual flow of the game.
 
 ### New Set of Abilities
 
