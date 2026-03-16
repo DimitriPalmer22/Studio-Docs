@@ -15,3 +15,8 @@
 ## Updates To The Game
 
 ## Plans Going Forward
+
+This week
+
+### Next Week
+I'm thinking next week will be less of a 
