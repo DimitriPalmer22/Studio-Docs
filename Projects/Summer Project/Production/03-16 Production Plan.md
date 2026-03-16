@@ -10,11 +10,13 @@
 
 #### New Primary Spell
 
-- 4-hit combo string of the *tempest* element
+- Tempest element
+- 4-hit combo string
 
 #### New Secondary Spell
 
-- ss
+- Tempest element
+- Spinning attack with an AOE
 
 #### New *Addendums*
 
@@ -50,4 +52,4 @@ A summoner!
 - For now, we'll have it summon the basic melee enemy, but we can make it summon a specific enemy type in the future as well.
 - It will try to maintain it's distance from the player
 
-### 
+###
