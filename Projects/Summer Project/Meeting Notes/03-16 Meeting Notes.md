@@ -68,6 +68,7 @@ This week's goals are primarily:
 #### Updated Journal Page UI
 
 - …
+- Make the page sit flat on the screen. Having the page sit at an angle or have bends / bumps in it makes it hard for the text to sit flush on the page.
 
 ### New Set of Abilities
 
