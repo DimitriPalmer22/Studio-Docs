@@ -113,4 +113,9 @@ Just as a heads up, I'm thinking that next week we'll have less tasks focused ar
 
 Of course, I'll re-evaluate this once we get to the end of this week and see how much we get done.
 
-## Su
+## Summary
+
+- We'll be expanding on the journal entry system and the dialogue surrounding it
+- We'll be adding a new set of abilities for the player to use
+- Enemies will get stronger as you go further into the run
+- We'll be adding another enemy type to the game (at least the model?)
