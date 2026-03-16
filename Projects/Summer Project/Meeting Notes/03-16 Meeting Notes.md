@@ -111,9 +111,10 @@ This will be done by Erin.
 
 The exact design of this is not solidified yet, but the behavior is.
 
-This enemy will *summon* other enemy types to fight for it. 
-- For now, we'll have it summon the basic melee enemy, 
-- We can make it summon a specific enemy type in the future as well!
+This enemy will *summon* other enemy types to fight for it.
+- For now, we'll have it summon the basic melee enemy,
+- In the future, we can design a simple unique fodder enemy for it to spawn.
+- We can use this enemy type exclusively in the second / third sections of Avernoth to help with the in-run progression as well.
 
 ### Next Week
 
