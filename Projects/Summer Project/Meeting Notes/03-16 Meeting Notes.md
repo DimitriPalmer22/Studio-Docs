@@ -81,9 +81,20 @@ This week's goals are primarily:
 
 - Spinning attack with an AOE
 
-### New Addendums
+#### New Addendums
+
+- "Rage mode" (name WIP) addendum - Increase agility, but reduce intelligence.
+- Flat stat increase addendums:
+	- 10% increase to health
+	- 10% increase to mana
+	- 10% increase to mana recharge rate
+	- 5% increase to Int
+	- 5% increase to Agi
+	- 5% increase to Res
 
 ### In-Run Progression
+
+The basic idea is that 
 
 ### Another Enemy Type
 
