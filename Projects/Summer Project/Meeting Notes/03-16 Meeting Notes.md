@@ -75,9 +75,11 @@ There are *TWO* separate UI things that need to be made for this task:
 
 The screen for the standard journal entries should be pretty much just a blank page with nothing on it. This way, we have as much real-estate as possible for the text of the journal entry. Maybe some stuff on the border of the page can be cool, idk.
 
-The screen for the experiment logs should be a little more visually interesting. 
-- Maybe we can have some diagrams or something on the page to make it look like a research log or something. 
+The screen for the experiment logs should be a little more visually interesting.
+- Maybe we can have some diagrams or something on the page to make it look like a research log or something.
 - Since the text of the Experiment logs tends to be a little shorter than that of the standard journal entries, the space allocated for the text can be like 3/4 the size of the page or something, and the rest of the space can be used for diagrams and stuff.
+
+![](<../../../_Meta/Attachments/Pasted image 20260316194139.png>)
 
 ### New Set of Abilities
 
