@@ -19,7 +19,10 @@ NOW, the order in which the player encounters these journal entries is pre-deter
 > Again, see [Linear Narrative](<../Avernoth/Narrative/Linear Narrative/Linear Narrative.md>) for more details.
 
 For organizational purposes and also as a way of regulating the player's progress, we are dividing the game into *chapters*.
-- Note: This is purely on our side. There will be no screen saying "chapter 2" or anything like that.
+- Note: This is purely on our (the devs') side. There will be no screen saying "chapter 2" or anything like that.
+
+The player progresses through each chapter by collecting the Journal Entries that correspond to that chapter. 
+- For example, chapter 1 has 3 journal entries and 2 experiment logs. The player completes the chapter once each of thes
 
 ## Task: Fill out the Dialogue Surrounding the Journal Entries
 
