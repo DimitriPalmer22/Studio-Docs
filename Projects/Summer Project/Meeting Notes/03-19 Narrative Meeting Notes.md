@@ -28,10 +28,12 @@ The final journal entry in each chapter will *ALWAYS* be an **experiment log** b
 
 ### Dialogue Surrounding Journal Entries
 
-With the changes made to ordering the journal entries, the journal entries are now one of the main things we have to consistently communicate the game's narrative. Furthermore, with the *quests* that are associated with the experiment logs, the game's narrative is even more closely tied to them.  
+With the changes made to ordering the journal entries, the journal entries are now one of the main things we have to consistently communicate the game's narrative. Furthermore, with the *quests* that are associated with the experiment logs, the game's narrative is even more closely tied to them.
 
-As a result, I'd like to focus a little more on the dialogue surrounding the journal entries. 
-- For starters, **EVERY** journal entry (standard journal entries AND experiment logs) must have some *response* dialogue associated with it. This means that upon collecting and reading a journal entry, some character must say something ab
+As a result, I'd like to focus a little more on the dialogue surrounding the journal entries:
+
+- **EVERY** journal entry (standard journal entries AND experiment logs) must have some *response* dialogue associated with it. This means that upon collecting and reading a journal entry, some character must say something about what the player just read.
+- Every **EXPERIMENT LOG** must have dialogue associated with completing the objective. The quests associated with these journal entries are no longer just going to be "reach x room with y spell equipped." The player must actively interact with some element to "recreate an experiment". The dialogue must be in response to that.
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
