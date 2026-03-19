@@ -52,6 +52,16 @@ Currently, there are 3 stations in this level:
 - The dialogue area - a simple space for testing specific conversations
 - The journal table area - an area focused on testing journal entries
 
+#### Quest Area
+
+This is *mainly* for me, as it is used for testing out the mechanics of a quest to see if it functions properly. However, you (I'm assuming the narrative guy is reading this) can also use it to test the dialogue you encounter after completing a specific quest.
+
+As of right now, it only contains the quest minigame for Pool01_Log01.
+
+#### Dialogue Area
+
+This is probably goin
+
 ### Debug Menu
 
 -
