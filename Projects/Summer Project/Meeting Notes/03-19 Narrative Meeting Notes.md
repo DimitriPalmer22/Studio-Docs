@@ -64,10 +64,12 @@ This is probably going to be the most useful area for you. When you step on them
 
 #### Journal Table Area
 
-This is also going to be pretty useful for you. 
+This is also going to be pretty useful for you.
 
-The journal table spawns the "next" journal entry at the time of loading the level. This depends on the user's save data, 
+The journal table spawns the "next" journal entry at the time of loading the level. This depends on the user's save data, so you may need to walk over the save / load pads to change which entry spawns in.
+
+When walked over, the pink pads make you collect a specific journal entry. So, these are probably going to be much more useful than the table would be. In the editor, you can change which entry is spawned by the pad, so edit them to your heart's content.
 
 ### Debug Menu
 
--
+A quicker tool 
