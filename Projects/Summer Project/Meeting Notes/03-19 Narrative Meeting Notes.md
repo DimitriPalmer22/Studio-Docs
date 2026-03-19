@@ -21,8 +21,10 @@ NOW, the order in which the player encounters these journal entries is pre-deter
 For organizational purposes and also as a way of regulating the player's progress, we are dividing the game into *chapters*.
 - Note: This is purely on our (the devs') side. There will be no screen saying "chapter 2" or anything like that.
 
-The player progresses through each chapter by collecting the Journal Entries that correspond to that chapter. 
-- For example, chapter 1 has 3 journal entries and 2 experiment logs. The player completes the chapter once each of thes
+The player progresses through each chapter by collecting the Journal Entries that correspond to that chapter.
+- For example, chapter 1 has 3 journal entries and 2 experiment logs. The player completes the chapter once each of these entries is completed and the player reaches the end of Avernoth to "deposit" these journal entries.
+
+The final journal entry in each chapter will *ALWAYS* be an **experiment log** basically telling the player to tamper with the seal at the end of Avernoth that is keeping Allister trapped inside. So, once Allister tampers with this seal,
 
 ## Task: Fill out the Dialogue Surrounding the Journal Entries
 
