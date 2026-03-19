@@ -60,7 +60,13 @@ As of right now, it only contains the quest minigame for Pool01_Log01.
 
 #### Dialogue Area
 
-This is probably going to be the most useful area for you. When you step on them, the blue pads on the ground will play a specific dialogue interaction. You can set u
+This is probably going to be the most useful area for you. When you step on them, the blue pads on the ground will play a specific dialogue interaction. Within the editor, you can set them up to play any interaction you want, so edit them to your heart's content.
+
+#### Journal Table Area
+
+This is also going to be pretty useful for you. 
+
+The journal table spawns the "next" journal entry at the time of loading the level. This depends on the user's save data, 
 
 ### Debug Menu
 
