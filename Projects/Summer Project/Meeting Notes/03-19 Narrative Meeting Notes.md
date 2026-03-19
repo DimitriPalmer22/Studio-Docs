@@ -104,11 +104,9 @@ Specific interactions:
 - **Pool01_Entry01 Response**: This is the very first entry in the game. The cast should acknowledge the existence of the Archmage. Dialogue should encourage the player to find the rest of the entries. If anything, follow the placeholder dialogue that already exists for this.
 - **Pool01_Log01 Response**: First experiment log in the game. The cast should acknowledge a clear visual difference in the style of the page. The cast should encourage Allister to recreate the experiment found in the note. Also, Tarun should mention how he has been copying down the contents of these entries into his own personal notebook so everyone can look back on them later.
 - **Pool01_Log01 Completion**: It worked! We got some mana essence! Tarun interrupts and mentions how a rune symbol has appeared on the same page he copied down the experiment log's contents. The rune is similar to that of the ones found on the standard entries. The cast is confused as to what the symbols mean, but they will keep an eye out.
-- **Pool01_Log02 Response**:
+- **Pool01_Log02 Response**: The entry details that 5 runes are needed to escape. The cast figures out that the runes needed to break the seal are the ones found on the pages! There's one missing, though. Perhaps we need to come into contact with this
 - **Pool01_Log02 Completion**:
 
 Note: The contents of the experiment logs for this chapter haven't been written yet, but here's the jist of what is on their pages.
 - **Pool01_Log01 Contents**: The Archmage was testing out drawing out the magic power from another tome to get mana essence in return. Results of the experiment: successful (the player will get some mana essence (money) for completing this quest's minigame)
-- **Pool01_Log02 Contents**: The Archmage was testing out the idea of creating some type of magical seal spell (the same one that locks the exit to Avernoth). Result: The Archmage successfully created a layer of the seal and managed to seal an exit. However, he needed to break the seal in order to leave the room. *Most* of the runes needed to undo the seal 
-- 
-- The runes are on the page (in the game world. not on the actual asset). However,
+- **Pool01_Log02 Contents**: The Archmage was testing out the idea of creating some type of magical seal spell (the same one that locks the exit to Avernoth). Result: The Archmage successfully created a layer of the seal and managed to seal an exit. However, he needed to break the seal in order to leave the room using a sequence of 5 runes.
