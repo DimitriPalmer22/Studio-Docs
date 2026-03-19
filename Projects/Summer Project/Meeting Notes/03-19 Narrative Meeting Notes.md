@@ -90,4 +90,8 @@ This section contains:
 
 The setup for the dialogue system in the game *should* be fully complete (barring any additional improvements we want to make). It is also *completely* different from how it was before, so most documentation on that is obsolete.
 
-## Task: Fill out the Ch Dialogue For the Journal Entries
+Everything dialogue-related used **data tables** now.
+
+## Task: Fill out the Ch.1 Dialogue For the Journal Entries
+
+Here is a spreadsheet containing a list of the journal entries and the dialogue a
