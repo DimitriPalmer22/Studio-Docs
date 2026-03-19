@@ -14,9 +14,14 @@ BEFORE, there would be a pool of active journal entries. The player would collec
 
 NOW, the order in which the player encounters these journal entries is pre-determined and fully linear. This way, we can have the dialogue of characters reference details in previous entries they found without having to worry about whether the player has actually encountered that information yet.
 
-###
+### "Chapters"
 
-## Filling out the Dialogue Surrounding the Journal Entries
+> Again, see [Linear Narrative](<../Avernoth/Narrative/Linear Narrative/Linear Narrative.md>) for more details.
+
+For organizational purposes and also as a way of regulating the player's progress, we are dividing the game into *chapters*.
+- Note: This is purely on our side. There will be no screen saying "chapter 2" or anything like that.
+
+## Task: Fill out the Dialogue Surrounding the Journal Entries
 
 ## Narrative Demo Level
 
