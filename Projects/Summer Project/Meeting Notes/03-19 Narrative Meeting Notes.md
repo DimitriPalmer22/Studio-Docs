@@ -43,7 +43,7 @@ I remember at some point a couple months ago, you mentioned that there isn't rea
 
 ### Narrative Demo Level
 
-I have created a level strictly for testing out any narrative / dialogue / quest stuff. It's called *L_Demo_Narrative*.
+I have created a level strictly for testing out any narrative / dialogue / quest stuff. It's called *L_Demo_Narrative*. The level is set up so that editing it should result in very few merge conflicts if any ever. So, feel free to edit some things for the sake of testing out the game's narrative.
 
 It can seem a bit intimidating at first, so here's a quick overview:
 
@@ -60,7 +60,7 @@ As of right now, it only contains the quest minigame for Pool01_Log01.
 
 #### Dialogue Area
 
-This is probably goin
+This is probably going to be the most useful area for you. When you step on them, the blue pads on the ground will play a specific dialogue interaction. You can set u
 
 ### Debug Menu
 
