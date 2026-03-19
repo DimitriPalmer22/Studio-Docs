@@ -45,7 +45,12 @@ I remember at some point a couple months ago, you mentioned that there isn't rea
 
 I have created a level strictly for testing out any narrative / dialogue / quest stuff. It's called *L_Demo_Narrative*.
 
-It can seem a 
+It can seem a bit intimidating at first, so here's a quick overview:
+
+Currently, there are 3 stations in this level:
+- The quest area - a little area to test the minigames and such associated with the quests
+- The dialogue area - a simple space for testing specific conversations
+- The journal table area - an area focused on testing journal entries
 
 ### Debug Menu
 
