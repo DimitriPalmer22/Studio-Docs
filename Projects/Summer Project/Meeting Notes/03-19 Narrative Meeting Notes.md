@@ -108,4 +108,4 @@ Specific interactions:
 - **Pool01_Log02 Completion**:
 
 Note: The contents of the experiment logs for this chapter haven't been written yet, but here's the jist of what is on their pages.
-- **Pool01_Log01 Contents**: An experiment detailing 
+- **Pool01_Log01 Contents**: The Archmage was testing out
