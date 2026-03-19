@@ -109,4 +109,6 @@ Specific interactions:
 
 Note: The contents of the experiment logs for this chapter haven't been written yet, but here's the jist of what is on their pages.
 - **Pool01_Log01 Contents**: The Archmage was testing out drawing out the magic power from another tome to get mana essence in return. Results of the experiment: successful (the player will get some mana essence (money) for completing this quest's minigame)
-- **Pool01_Log02 Contents**: The Archmage was testing out the idea of creating some type of magical seal spell (the same one that locks the exit to Avernoth) using a sequence of magical runes. The runes are on the page (in the game world. not on the actual asset). However,
+- **Pool01_Log02 Contents**: The Archmage was testing out the idea of creating some type of magical seal spell (the same one that locks the exit to Avernoth). Result: The Archmage successfully created a layer of the seal and managed to seal an exit. However, he needed to break the seal in order to leave the room. *Most* of the runes needed to undo the seal 
+- 
+- The runes are on the page (in the game world. not on the actual asset). However,
