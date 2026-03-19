@@ -26,7 +26,11 @@ The player progresses through each chapter by collecting the Journal Entries tha
 
 The final journal entry in each chapter will *ALWAYS* be an **experiment log** basically telling the player to tamper with the seal at the end of Avernoth that is keeping Allister trapped inside. So, once Allister tampers with this seal 3 times, he escapes Avernoth.
 
-## Task: Fill out the Dialogue Surrounding the Journal Entries
+### Dialogue Surrounding Journal Entries
+
+With the changes made to ordering the journal entries, the journal entries are now one of the main things we have to consistently communicate the game's narrative. Furthermore, the  As a result, I'd like to focus a little more on the dialogue surrounding that  
+
+## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
 ## Narrative Demo Level
 
