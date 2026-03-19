@@ -102,7 +102,7 @@ Some of these dialogue interactions have specific things I want them to talk abo
 
 Specific interactions:
 - **Pool01_Entry01 Response**: This is the very first entry in the game. The cast should acknowledge the existence of the Archmage. Dialogue should encourage the player to find the rest of the entries. If anything, follow the placeholder dialogue that already exists for this.
-- **Pool01_Log01 Response**: First experiment log in the game. The cast should acknowledge a clear visual difference in the style of the page. The cast should encourage Allister to recreate the experiment found in the note.
-- **Pool01_Log01 Completion**:
+- **Pool01_Log01 Response**: First experiment log in the game. The cast should acknowledge a clear visual difference in the style of the page. The cast should encourage Allister to recreate the experiment found in the note. Also, Tarun should mention how he has been copying down the contents of these entries into his own personal notebook so everyone can look back on them later.
+- **Pool01_Log01 Completion**: Tarun should mention how a rune symbol has appeared on the same page he copied down the experiment log's contents. The rune is similar to that of the ones found on the  The cast is confused as to what the symbols mean, but they will keep an eye out.
 - **Pool01_Log02 Response**:
 - **Pool01_Log02 Completion**:
