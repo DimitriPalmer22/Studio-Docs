@@ -74,4 +74,16 @@ When walked over, the pink pads make you collect a specific journal entry. So, t
 
 A quicker tool you can use in *any* level is the **Debug Menu**. You can open the debug menu by pressing **H**, and you can dock it anywhere or even drag it to another monitor. It'll even stay open after stopping your play session.
 
+I'm not going to lie, this is probably going to be much more useful and quick to use than the 
+
 This debug menu has buttons and dropdowns for testing most features in the game. However, you'll probably focus more on the dialogue section.
+
+![](<../../../_Meta/Attachments/Pasted image 20260319181017.png>)
+
+This section contains:
+- a dropdown to load specific save data
+- a button to clear your existing save data
+- a dropdown to play a specific dialogue interaction
+- a dropdown to open a specific journal entry
+- a button to force the journal table in the current room to spawn a journal entry
+- a dropdown to collect the "item" associated with a quest
