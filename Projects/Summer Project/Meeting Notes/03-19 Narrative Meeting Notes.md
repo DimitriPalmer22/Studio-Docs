@@ -101,8 +101,8 @@ Here is a spreadsheet containing a list of the journal entries and the dialogue 
 Some of these dialogue interactions have specific things I want them to talk about. The rest of them can be pretty simple reactions to the information in the entries.
 
 Specific interactions:
-- **Pool01_Entry01 Response**: This is the very first entry in the game. The cast should acknowledge the existence of the Archmage. Dialogue should encourage the player to find the rest of the entries. If anything, follow the placeholder dialogue that already exist f
-- **Pool01_Log01 Response**:
+- **Pool01_Entry01 Response**: This is the very first entry in the game. The cast should acknowledge the existence of the Archmage. Dialogue should encourage the player to find the rest of the entries. If anything, follow the placeholder dialogue that already exists for this.
+- **Pool01_Log01 Response**: First experiment log in the game. The cast should acknowledge a clear visual difference in the style of the page. The cast should encourage Allister to recreate the experiment found in the note.
 - **Pool01_Log01 Completion**:
 - **Pool01_Log02 Response**:
 - **Pool01_Log02 Completion**:
