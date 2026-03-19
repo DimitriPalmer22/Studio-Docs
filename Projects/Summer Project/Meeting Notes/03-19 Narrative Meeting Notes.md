@@ -32,11 +32,17 @@ With the changes made to ordering the journal entries, the journal entries are n
 
 As a result, I'd like to focus a little more on the dialogue surrounding the journal entries:
 
-- **EVERY** journal entry (standard journal entries AND experiment logs) must have some *response* dialogue associated with it. This means that upon collecting and reading a journal entry, some character must say something about what the player just read.
-- Every **EXPERIMENT LOG** must have dialogue associated with completing the objective. The quests associated with these journal entries are no longer just going to be "reach x room with y spell equipped." The player must actively interact with some element to "recreate an experiment". The dialogue must be in response to that.
+- *Response dialogue*: **EVERY** journal entry (standard journal entries AND experiment logs) must have some *response* dialogue associated with it. This means that upon collecting and reading a journal entry, some character must say something about what the player just read.
+- *Completion dialogue*: Every **EXPERIMENT LOG** must have dialogue associated with completing the objective. The quests associated with these journal entries are no longer just going to be "reach x room with y spell equipped." The player must actively interact with some element to "recreate an experiment". The dialogue must be in response to that.
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
-## Narrative Demo Level
+## Testing the Dialogue
+
+I remember at some point a couple months ago, you mentioned that there isn't really a way for to test the dialogue in-game without playing the game yourself. This has been remedied.
+
+### Narrative Demo Level
 
 I have created a level strictly for testing out any narrative / dialogue / quest stuff. It's called *L_Demo_Narrative*.
+
+### Debug Menu
