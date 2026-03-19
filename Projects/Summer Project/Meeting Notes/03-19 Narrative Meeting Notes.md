@@ -72,4 +72,6 @@ When walked over, the pink pads make you collect a specific journal entry. So, t
 
 ### Debug Menu
 
-A quicker tool 
+A quicker tool you can use in *any* level is the **Debug Menu**. You can open the debug menu by pressing **H**, and you can dock it anywhere or even drag it to another monitor. It'll even stay open after stopping your play session.
+
+This debug menu has buttons and dropdowns for testing most features in the game. However, you'll probably focus more on the dialogue section.
