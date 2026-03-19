@@ -35,8 +35,6 @@ As a result, I'd like to focus a little more on the dialogue surrounding the jou
 - *Response dialogue*: **EVERY** journal entry (standard journal entries AND experiment logs) must have some *response* dialogue associated with it. This means that upon collecting and reading a journal entry, some character must say something about what the player just read.
 - *Completion dialogue*: Every **EXPERIMENT LOG** must have dialogue associated with completing the objective. The quests associated with these journal entries are no longer just going to be "reach x room with y spell equipped." The player must actively interact with some element to "recreate an experiment". The dialogue must be in response to that.
 
-## Task: Fill out the Ch.1 Dialogue For the Journal Entries
-
 ## Testing the Dialogue
 
 I remember at some point a couple months ago, you mentioned that there isn't really a way for to test the dialogue in-game without playing the game yourself. This has been remedied.
@@ -74,7 +72,7 @@ When walked over, the pink pads make you collect a specific journal entry. So, t
 
 A quicker tool you can use in *any* level is the **Debug Menu**. You can open the debug menu by pressing **H**, and you can dock it anywhere or even drag it to another monitor. It'll even stay open after stopping your play session.
 
-I'm not going to lie, this is probably going to be much more useful and quick to use than the 
+I'm not going to lie, this is probably going to be much more useful and quick to use than the level I set up specifically for the narrative. But, you have the option to use either.
 
 This debug menu has buttons and dropdowns for testing most features in the game. However, you'll probably focus more on the dialogue section.
 
@@ -87,3 +85,9 @@ This section contains:
 - a dropdown to open a specific journal entry
 - a button to force the journal table in the current room to spawn a journal entry
 - a dropdown to collect the "item" associated with a quest
+
+## Implementing & Updating Dialogue
+
+The setup for the dialogue system in the game *should* be fully complete (barring any additional improvements we want to make). It is also *completely* different from how it was before, so most documentation on that is obsolete.
+
+## Task: Fill out the Ch Dialogue For the Journal Entries
