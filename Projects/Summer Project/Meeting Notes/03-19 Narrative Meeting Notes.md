@@ -96,6 +96,8 @@ TODO: *The Rest*
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
+> Note: This includes implementation btw.
+
 Here is a spreadsheet containing a list of the journal entries and the dialogue associated with them: <https://docs.google.com/spreadsheets/d/1pjRz5dA8ngFP_Ry3ltzbb2U_9H8KCBFXYC4ikuIb2-Q/edit?usp=sharing>
 
 Some of these dialogue interactions have specific things I want them to talk about. The rest of them can be pretty simple reactions to the information in the entries.
