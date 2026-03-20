@@ -122,6 +122,8 @@ All of these tables can be found in `/Game/Avernoth/Narrative/Tables`
 
 1. The tables to edit the lines of dialogue are named with the following pattern `Lines_NameOfDialogueInteraction`. Search this up, and you'll see a table for each dialogue interaction in the game. Open the table for the interaction you want to edit / add a line to.
 2. Each row in this table corresponds to an individual line of dialogue.
+![](<../../../_Meta/Attachments/Pasted image 20260320165012.png>)
+
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
