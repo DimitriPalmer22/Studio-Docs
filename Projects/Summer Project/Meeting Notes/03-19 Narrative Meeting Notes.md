@@ -86,13 +86,15 @@ This section contains:
 - a button to force the journal table in the current room to spawn a journal entry
 - a dropdown to collect the "item" associated with a quest
 
-## Implementing & Updating Dialogue
+## Implementing & Updating Dialogue / Journal Entries
 
 The setup for the dialogue system in the game *should* be fully complete (barring any additional improvements we want to make). It is also *completely* different from how it was before, so most documentation on that is obsolete.
 
 Everything dialogue-related used **data tables** now.
 
-TODO: *The Rest*
+### Creating / Editing Journal Entries
+
+> Every single journal entry for the
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
