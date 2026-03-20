@@ -138,6 +138,7 @@ Specific interactions:
 - **Pool01_Log01 Response**: First experiment log in the game. The cast should acknowledge a clear visual difference in the style of the page. The cast should encourage Allister to recreate the experiment found in the note. Also, Tarun should mention how he has been copying down the contents of these entries into his own personal notebook so everyone can look back on them later.
 - **Pool01_Log01 Completion**: (complete the button mashing minigame) It worked! We got some mana essence! Tarun interrupts and mentions how a rune symbol has appeared on the same page he copied down the experiment log's contents. The rune is similar to that of the ones found on the standard entries. The cast is confused as to what the symbols mean, but they will keep an eye out.
 - **Pool01_Log02 Response**: The entry details that 5 runes are needed to escape. The cast figures out that the runes needed to break the seal are the ones found on the pages! There's one missing, though. Perhaps we need to come into contact with this seal for the final rune to appear
+	- We are most likely going to need an *alternate* dialogue in case the player has already reached the end of Avernoth once before. 
 - **Pool01_Log02 Completion**: (reach the end of Avernoth). Tarun acknowledges that the final rune appears on the page. We should now have everything we need to dispel a layer on the seal to the door over there!
 
 Note: The contents of the experiment logs for this chapter haven't been written yet, but here's the jist of what is on their pages.
