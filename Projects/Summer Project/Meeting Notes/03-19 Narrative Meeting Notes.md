@@ -98,7 +98,8 @@ Everything dialogue-related used **data tables** now.
 > Furthermore, all of the necessary dialogue interactions associated with the journal entries should also already be created. So, you probably don't need to create any new dialogue interactions either. You may just need to edit some of the existing ones.
 
 To create a new journal entry:
-- 
+1. The data tables for the journal entries can be found in "/Game/Avernoth/Narrative/JournalEntries". Here, there are a couple data tables, with each one corresponding to a specific chapter of the game. Open the data table for the chapter you want to add an entry to / edit the entry you want to edit.
+2. 
 ### Creating New Dialogue Interactions
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
