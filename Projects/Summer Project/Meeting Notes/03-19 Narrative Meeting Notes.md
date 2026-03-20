@@ -102,9 +102,9 @@ Everything dialogue-related used **data tables** now.
 3. For the most part, you will probably only need to edit the portions circled in red. The entry text is, of course, the text you see when you open up the entry in-game. The *Response Dialogue Row* and *Completion Dialogue Row* are the dialogue interactions that play when you read the entry and complete the quest associated with the entry, respectively. These should already be properly linked to the corresponding dialogue interactions. However, if you ever experience an issue where the wrong dialogue is playing for a specific entry / no dialogue is playing at all, you can check here to make sure the correct dialogue interactions are linked.
 ![](<../../../_Meta/Attachments/Pasted image 20260320162552.png>)
 
-### Creating New Dialogue Interactions
+### Creating / Editing Dialogue Interactions
 
--
+Okay, this is a little more complicated. Each dialogue interaction has **TWO** data tables associated with it.
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
