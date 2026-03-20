@@ -112,7 +112,7 @@ All of these tables can be found in `/Game/Avernoth/Narrative/Tables`
 
 #### Creating / Editing the **Interaction Information**
 
-1. The tables to edit the information surrounding the interaction are named with the following pattern `DT_Dialogue_…`. Search this up, and you'll see a table for each type of dialogue interaction in the game. Open the table for the type of interaction you want to edit / add a row to.
+1. The tables to edit the information surrounding the interaction are named with the following pattern `DT_Dialogue_TypeOfInteraction`. Search this up, and you'll see a table for each type of dialogue interaction in the game. Open the table for the type of interaction you want to edit / add a row to.
 2. Each row in this table corresponds to a specific dialogue interaction. You can create a new line to create a new dialogue interaction or edit an existing one.
 ![](<../../../_Meta/Attachments/Pasted image 20260320163924.png>)
 3. The main thing that matters here is the **Lines Data Table**, which is the data table that contains all the lines of dialogue for this specific interaction. Make sure this is properly linked to the correct data table that contains the lines of dialogue for this interaction. If you ever experience an issue where the wrong lines of dialogue are playing for a specific interaction / no dialogue is playing at all, you can check here to make sure the correct data table is linked.
@@ -120,7 +120,8 @@ All of these tables can be found in `/Game/Avernoth/Narrative/Tables`
 
 #### Creating / Editing the **LINES**
 
-1. The tables to edit the lines of dialogue are named with the following pattern `DT_DialogueLines_…`. Search this up, and you'll see a table for each dialogue interaction in the game. Open the table for the interaction you want to edit / add a line to.
+1. The tables to edit the lines of dialogue are named with the following pattern `Lines_NameOfDialogueInteraction`. Search this up, and you'll see a table for each dialogue interaction in the game. Open the table for the interaction you want to edit / add a line to.
+2. Each row in this table corresponds to an individual line of dialogue.
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
