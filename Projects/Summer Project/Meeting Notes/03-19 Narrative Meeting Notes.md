@@ -100,6 +100,8 @@ Everything dialogue-related used **data tables** now.
 To create a new journal entry:
 1. The data tables for the journal entries can be found in "/Game/Avernoth/Narrative/JournalEntries". Here, there are a couple data tables, with each one corresponding to a specific chapter of the game. Open the data table for the chapter you want to add an entry to / edit the entry you want to edit.
 2. Each row in the data table corresponds to a journal entry. You can create a new row for a new journal entry or edit the existing row for an existing journal entry.
+3. For the most part, you will probably only need to edit the portions circled in red. The entry text is, of course, the text you see when you open up the entry in-game. The *Response Dialogue Row* and *Completion Dialogue Row* are the dialogue interactions that play when you read the entry and complete the quest associated with the entry, respectively. These should already be properly linked to the corresponding dialogue interactions. However, if you ever experience an issue where the wrong dialogue is playing for a specific entry / no dialogue is playing at all, you can check here to make sure the correct dialogue interaction is linked.
+![](<../../../_Meta/Attachments/Pasted image 20260320162552.png>)
 ### Creating New Dialogue Interactions
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
