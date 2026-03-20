@@ -94,7 +94,12 @@ Everything dialogue-related used **data tables** now.
 
 ### Creating / Editing Journal Entries
 
-> Every single journal entry for the
+> Every single journal entry for the game should already have an asset associated with it, so you probably don't need to *create any new ones.*
+> Furthermore, all of the necessary dialogue interactions associated with the journal entries should also already be created. So, you probably don't need to create any new dialogue interactions either. You may just need to edit some of the existing ones.
+
+To create a new journal entry:
+- 
+### Creating New Dialogue Interactions
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
