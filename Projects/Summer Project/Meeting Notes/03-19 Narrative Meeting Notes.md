@@ -118,12 +118,12 @@ All of these tables can be found in `/Game/Avernoth/Narrative/Tables`
 3. The main thing that matters here is the **Lines Data Table**, which is the data table that contains all the lines of dialogue for this specific interaction. Make sure this is properly linked to the correct data table that contains the lines of dialogue for this interaction. If you ever experience an issue where the wrong lines of dialogue are playing for a specific interaction / no dialogue is playing at all, you can check here to make sure the correct data table is linked.
 4. The other things under the **Conditions** and **Updates** categories are probably things I would set up beforehand, so you probably won't have to worry about those.
 
-#### Creating / Editing the **LINES**
+#### Editing the **LINES**
 
 1. The tables to edit the lines of dialogue are named with the following pattern `Lines_NameOfDialogueInteraction`. Search this up, and you'll see a table for each dialogue interaction in the game. Open the table for the interaction you want to edit / add a line to.
 2. Each row in this table corresponds to an individual line of dialogue.
 ![](<../../../_Meta/Attachments/Pasted image 20260320165012.png>)
-
+3. The only things that would really matter for you here are the character, which corresponds to which character is speaking the line, and the text, which is the actual line of dialogue.
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
