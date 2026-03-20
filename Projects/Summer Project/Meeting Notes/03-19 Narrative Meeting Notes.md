@@ -104,7 +104,13 @@ Everything dialogue-related used **data tables** now.
 
 ### Creating / Editing Dialogue Interactions
 
-Okay, this is a little more complicated. Each dialogue interaction has **TWO** data tables associated with it.
+Okay, this is a little more complicated. Each dialogue interaction has **TWO** data tables associated with it:
+- One contains the information surrounding when the interaction will play
+- The other contains all the lines of dialogue in the interaction
+
+All of these tables can be found in `/Game/Avernoth/Narrative/Tables`
+
+1. The tables to edit the information surrounding the interaction
 
 ## Task: Fill out the Ch.1 Dialogue For the Journal Entries
 
