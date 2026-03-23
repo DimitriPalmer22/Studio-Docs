@@ -16,6 +16,10 @@
 
 ### "Summoner" Enemy Functionality
 
+I created the new "summoner" enemy using placeholder visual assets (model & animation). However, it should behave pretty much like how the final version of the enemy will behave. 
+
+The summoner will spawn in a few other enemies near it
+
 ### "Chapter 1"'s Quests Are All "Complete"
 
 Functionally speaking, the player should be able to complete all the quests associated with chapter 1 and see the corresponding dialogue and journal entries. However, there are still some placeholder elements that need to be replaced with the final versions.
@@ -28,7 +32,7 @@ This week's goals are primarily:
 3. ***Finish Up Work from Previous Weeks***:
 	- Properly de-squaring levels
 	- Completing more updated character portraits
-	- New enemy models - I still don't have a design for the new one I gave Erin.
+	- New enemy models - (I still don't have a design for the new one I gave Erin).
 
 ## Bug Tracking
 
