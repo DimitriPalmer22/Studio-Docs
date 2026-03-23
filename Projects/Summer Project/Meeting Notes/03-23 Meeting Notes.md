@@ -16,9 +16,9 @@
 
 ### "Summoner" Enemy Functionality
 
-I created the new "summoner" enemy using placeholder visual assets (model & animation). However, it should behave pretty much like how the final version of the enemy will behave. 
+I created the new "summoner" enemy using placeholder visual assets (model & animation). However, it should behave pretty much like how the final version of the enemy will behave.
 
-The summoner will spawn in a few other enemies near it
+The summoner will spawn **a maximum of 3** other enemies near it at a time. The summoner will wait until the enemies it spawned are defeated before it can spawn more. The summoner itself won't really do anything other than spawn other enemies, so it will be a pretty easy enemy to deal with if the player focuses on it. However, if the player ignores it, it can quickly become overwhelming as more and more enemies are spawned.
 
 ### "Chapter 1"'s Quests Are All "Complete"
 
@@ -33,9 +33,10 @@ This week's goals are primarily:
 	- Properly de-squaring levels
 	- Completing more updated character portraits
 	- New enemy models - (I still don't have a design for the new one I gave Erin).
+	- Other 2D UI assets
 
 ## Bug Tracking
 
-If you ever see a bug / a feature not working properly / a small oversight in the game, you can submit a bug report to our bug tracking system. It takes like 10 seconds. This will allow us to keep track of all the bugs in the game and prioritize them accordingly.
-
 Link: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
+
+If you ever see a bug / a feature not working properly / a small oversight in the game, you can submit a bug report to our bug tracking system. It takes like 10 seconds. This will allow us to keep track of all the bugs in the game and prioritize them accordingly.
