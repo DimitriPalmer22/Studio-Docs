@@ -21,12 +21,13 @@ Some of these things still need to be expanded upon, but we've made good progres
 
 ### "Summoner" Enemy Functionality
 
-
-
 ## Plans Going Forward
 
 This week's goals are primarily:
 1. ***1234***:
+2. ***Finish Up Work from Previous Weeks***:
+	- Properly de-squaring levels
+	- 
 
 ### Bug Tracking
 
