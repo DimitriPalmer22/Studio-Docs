@@ -50,7 +50,13 @@ Once we have this in *ALONG WITH* the two new enemies we're trying to make, we s
 
 ### Solution 2: Re-design the Enemy Variants
 
-The knight and wraith enemy types each have 3 variants (6 enemies total). 
+The knight and wraith enemy types each have 3 variants (6 enemies total). Although the variants DO have different attack types, they still look and behave pretty much the same:
+- Knight enemies will all do their attack once the player is in range. Otherwise, they will chase the player down.
+- Wraith enemies will stay in place and shoot at the player once the player is in range. Otherwise, they will just stay in place.
+
+I think we'd be able to get away with these enemy types each having basic similar behavior if they looked different enough from each other.
+
+
 
 ## Bug Tracking
 
