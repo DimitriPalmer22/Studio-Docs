@@ -34,6 +34,7 @@ This week's goals are primarily:
 	- Completing more updated character portraits
 	- New enemy models - (I still don't have a design for the new one I gave Erin).
 	- Other 2D UI assets
+	- More animations & animation revisions
 
 ## Bug Tracking
 
