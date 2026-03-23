@@ -36,6 +36,12 @@ This week's goals are primarily:
 	- Other 2D UI assets
 	- More animations & animation revisions
 
+## An Idea Real Quick: The Enemies
+
+**Problem**: We know our enemy variety in the game is pretty lacking right now. We only have 2 enemy types (the "melee" knight enemies and the "ranged" wraith enemies). Furth
+
+ After these two enemies that are currently being made are done, I'm thinking of adding just 1 more enemy type
+
 ## Bug Tracking
 
 Link: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
