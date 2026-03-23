@@ -39,6 +39,7 @@ This week's goals are primarily:
 ## An Idea Real Quick: The Enemies
 
 **Problem**: We know our enemy variety in the game is pretty lacking right now. We only have 2 enemy types (the "melee" knight enemies and the "ranged" wraith enemies). Furthermore, the fact that they all look alike makes them feel *even more* similar.
+- Them looking similar is something that has been noted on. The fact that our enemies are all essentially re-skins of each other makes us seem a little *uninspired* as developers.
 
 I'm thinking about implementing two solutions that will hopefully add some more variety to the enemies in the game without requiring us to create a ton of new assets.
 
