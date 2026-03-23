@@ -24,9 +24,10 @@ Some of these things still need to be expanded upon, but we've made good progres
 ## Plans Going Forward
 
 This week's goals are primarily:
-1. ***1234***:
+1. ***Finish up "Chapter 1" of the game***: By the end of this week, I want the player to be able to complete all the quests associated with the first "chapter" of the game. This includes the necessary dialogue and journal entry text associated with the quest as well.
 2. ***Finish Up Work from Previous Weeks***:
 	- Properly de-squaring levels
+	- Completing more updated character portraits
 	- 
 
 ### Bug Tracking
