@@ -56,7 +56,7 @@ The knight and wraith enemy types each have 3 variants (6 enemies total). Althou
 
 I think we'd be able to get away with these enemy types each having basic similar behavior if they looked different enough from each other.
 
-
+**Here's what I think**: Our enemies can all fit within a specific visual theme / aesthetic. This way, there isn't a lot of visual conflict in the enemy designs. Then, once we decide that, we use that artistic direction to inform the *REVISED* designs for the existing enemy types.
 
 ## Bug Tracking
 
