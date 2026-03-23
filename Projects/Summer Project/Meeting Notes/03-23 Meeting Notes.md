@@ -46,7 +46,11 @@ I'm thinking about implementing two solutions that will hopefully add some more 
 
  After these two enemies that are currently being made are done, I'm thinking of adding just 1 more enemy type: a large, healthy, slow-moving, heavy-hitting tank enemy.
 
-### Solution 2
+Once we have this in *ALONG WITH* the two new enemies we're trying to make, we should be able to make a decent variety of **enemy combinations** in the game.
+
+### Solution 2: Re-design the Enemy Variants
+
+The knight and wraith enemy types each have 3 variants (6 enemies total). 
 
 ## Bug Tracking
 
