@@ -14,12 +14,11 @@
 
 ## Updates To The Game
 
-Last week's main goals were primarily:
-1. .
-
-Some of these things still need to be expanded upon, but we've made good progress on all these fronts.
-
 ### "Summoner" Enemy Functionality
+
+### "Chapter 1"'s Quests Are All "Complete"
+
+Functionally speaking, the player should be able to complete all the quests associated with chapter 1 and see the corresponding dialogue and journal entries. However, there are still some placeholder elements that need to be replaced with the final versions.
 
 ## Plans Going Forward
 
