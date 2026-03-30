@@ -31,6 +31,8 @@ Last week's main goals were primarily:
 
 1. ***Lay the groundwork for the game's unfinished features (e.g. enemies, journal system, etc.)***
 
+> This is where I show the "Feature Tracking" section of the ClickUp.
+
 Given that more and more of the game's features are more thought out now, we can start to make placeholder assets for the things that we know will be in the game. This way, we can start to test these things in the game and iterate on their design BEFORE we put in the time and effort to make them look and feel good.
 
 ### Very Basic Enemy Placeholders
