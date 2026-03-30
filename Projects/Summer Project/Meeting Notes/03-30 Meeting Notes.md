@@ -21,13 +21,13 @@ Last week's main goals were primarily:
 
 ## Progress Check
 
-For the multiple sets of tasks we have going on at the same time, I am kinda losing track of the current progress for each of them. So, I'm
+For some of the sets of tasks we have going on at the same time, I am kinda losing track of the current progress for each of them. So, I'm gonna ask what the progress is looking like for each of them.
 
 ### De-Square-ing the Levels
 
 ### Character Portraits
 
-### Journal Stuff
+### Journal Page UI Things
 
 ## Plans Going Forward
 
@@ -36,6 +36,8 @@ For the multiple sets of tasks we have going on at the same time, I am kinda los
 > This is where I show the "Feature Tracking" section of the ClickUp.
 
 Given that more and more of the game's features are more thought out now, we can start to make placeholder assets for the things that we know will be in the game. This way, we can start to test these things in the game and iterate on their design BEFORE we put in the time and effort to make them look and feel good.
+
+Also, given that I'm probably the most available person to work on the game at any given point, I'll try to go out of my way to make things go as 
 
 ### Very Basic Enemy Placeholders
 
@@ -46,4 +48,4 @@ The enemy types are:
 - Poe enemy (little floating bat enemy thing)
 - Heavy enemy
 
-###
+### 
