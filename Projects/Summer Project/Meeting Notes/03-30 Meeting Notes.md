@@ -17,14 +17,22 @@
 Last week's main goals were primarily:
 1.
 
-### Player Combat Animations
-
-#### Updated Portrait Style
-
-Going forward, the portraits in the game will be updated to have more detailed shading.
+### New Primary Spell
 
 ## Progress Check
 
+### De-Square-ing the Levels
 
+### Character Portraits
+
+### Journal Stuff
 
 ## Plans Going Forward
+
+### Very Basic Enemy Placeholders
+
+There are at least 3 different enemy types that have not been implemented into the game yet. I want to create fully functional basic placeholders for these enemies so we can start to test them in the game and iterate on their design. 
+
+The enemy types are the 
+
+### 
