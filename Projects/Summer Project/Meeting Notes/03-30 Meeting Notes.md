@@ -21,6 +21,8 @@ Last week's main goals were primarily:
 
 ## Progress Check
 
+For the multiple sets of tasks we have going on at the same time, I am kinda losing track of the current progress for each of them. So, I'm
+
 ### De-Square-ing the Levels
 
 ### Character Portraits
