@@ -34,7 +34,7 @@ For some of the sets of tasks we have going on at the same time, I am kinda losi
 
 - No bends in the page; lay it flat on the screen
 - No lines on the paper either.
-- Roughly the same size as the placeholder asset 
+- Roughly the same size as the placeholder asset
 	- 672 x 948
 
 ## Plans Going Forward
