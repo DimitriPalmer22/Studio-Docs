@@ -32,6 +32,11 @@ For some of the sets of tasks we have going on at the same time, I am kinda losi
 
 ### Journal Page UI Things
 
+- No bends in the page; lay it flat on the screen
+- No lines on the paper either.
+- Roughly the same size as the placeholder asset 
+	- 672 x 948
+
 ## Plans Going Forward
 
 1. ***Lay the groundwork for the game's unfinished features (e.g. enemies, journal system, etc.)***
