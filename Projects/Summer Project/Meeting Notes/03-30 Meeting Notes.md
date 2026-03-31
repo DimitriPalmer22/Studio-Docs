@@ -27,6 +27,8 @@ For some of the sets of tasks we have going on at the same time, I am kinda losi
 
 ### Character Portraits
 
+- Currently doing Magnus
+
 ### Journal Page UI Things
 
 ## Plans Going Forward
