@@ -23,7 +23,6 @@ For some of the sets of tasks we have going on at the same time, I am kinda losi
 ### De-Square-ing the Levels
 
 - Mikel & Brian are the only ones de-squaring the levels.
-- 
 
 ### Character Portraits
 
