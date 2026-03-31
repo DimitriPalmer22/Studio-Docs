@@ -14,9 +14,6 @@
 
 ## Updates To The Game
 
-Last week's main goals were primarily:
-1.
-
 ### New Primary Spell
 
 ## Progress Check
