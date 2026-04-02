@@ -22,4 +22,14 @@ I need more ways to introduce variety and interesting mechanics into the game, a
 
 When it is about to attack, have a bright red flash, wait 1/4 second, then fire toward the enemy as a projectile. It will do damage on contact and then disappear.
 
-> Their automatic nature makes it hard for the player to manage this resource intentionally. Therefore, we probably shouldn't have these be purchasable in the shop. They
+> Their automatic nature makes it hard for the player to manage this resource intentionally. Therefore, we probably shouldn't have these be purchasable in the shop. They should mainly spawn from addendum effects.
+
+### Healing Wisp
+
+- Summoned and remains until effect is used.
+- Hovers around the player.
+- Will automatically heal the player when they take damage, but only if the player is below a certain health threshold.
+
+When it is about to heal, have a bright green flash, wait 1/4 second, then heal the player for a certain amount. It will then disappear. 
+
+### 
