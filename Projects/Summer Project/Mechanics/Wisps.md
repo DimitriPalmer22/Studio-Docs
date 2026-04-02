@@ -30,6 +30,14 @@ When it is about to attack, have a bright red flash, wait 1/4 second, then fire 
 - Hovers around the player.
 - Will automatically heal the player when they take damage, but only if the player is below a certain health threshold.
 
-When it is about to heal, have a bright green flash, wait 1/4 second, then heal the player for a certain amount. It will then disappear. 
+When it is about to heal, have a bright green flash, wait 1/4 second, then heal the player for a certain amount. It will then disappear.
 
-### 
+> This wisp is more of a utility wisp, so it can be purchasable in the shop. Too strong to be from addendum effects, though.
+
+### Tempest Wisp
+
+- Summoned and remains until effect is used.
+- Hovers around the player.
+- On dodge, release a massive wind blast around the player that pushes enemies away significantly & staggers them
+
+> Hard to control when it is used. Spawn from addendum effects.
