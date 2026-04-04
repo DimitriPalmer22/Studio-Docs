@@ -73,8 +73,6 @@ Reorder these room ideas:
 
 No dying in end rooms, reset to a checkpoint or something?
 
-
-
 ## End Seal
 
 ![](<../../../_Meta/Attachments/Pasted image 20260403203829.png>)
@@ -82,3 +80,11 @@ No dying in end rooms, reset to a checkpoint or something?
 - Put this in the end room.
 - Break the end seals
 - When the seals are all finally broken, the player interacts with this and the screen fades to white.
+
+---
+
+![](<../../../_Meta/Attachments/Pasted image 20260403204848.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20260403204853.png>)
+
+![](<../../../_Meta/Attachments/Pasted image 20260403204905.png>)
