@@ -64,10 +64,17 @@ During my 2nd time getting this far, do I have to fully navigate this maze again
 
  eh
 
+## Overall Notes
+
+Reorder these room ideas:
+1. Primordial
+2. Twilight
+3. Tempest
+
 ## End Seal
 
 ![](<../../../_Meta/Attachments/Pasted image 20260403203829.png>)
 
-- Put this in the end room. 
+- Put this in the end room.
 - Break the end seals
-- When the seals are all finally broken
+- When the seals are all finally broken, the player interacts with this and the screen fades to white.
