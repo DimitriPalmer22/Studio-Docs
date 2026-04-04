@@ -71,6 +71,10 @@ Reorder these room ideas:
 2. Twilight
 3. Tempest
 
+No dying in end rooms, reset to a checkpoint or something?
+
+
+
 ## End Seal
 
 ![](<../../../_Meta/Attachments/Pasted image 20260403203829.png>)
