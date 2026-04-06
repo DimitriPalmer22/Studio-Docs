@@ -46,6 +46,8 @@ Given that these are a little more difficult and time-consuming to make, they wi
 
 ### New Plan for Reaching The End of Avernoth
 
+Before, there wasn't a real room set up for when the player reached the end of Avernoth. We just had a placeholder. Now, each chapter will have a different room that has a seal at the end of it.
+
 ## Plans Going Forward
 
 ### Finish the "End of Avernoth" Rooms
