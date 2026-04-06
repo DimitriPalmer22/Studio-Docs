@@ -31,6 +31,8 @@ These are cutscenes that involve chaining together simple actions to create a fu
 
 These will be more common.
 
+> This is where I show off a basic cutscene in one of the levels.
+
 #### Sequencer-Based Cutscenes
 
 Fully cinematic cutscenes that are made using Unreal's Sequencer tool. These cutscenes will have:
@@ -39,6 +41,8 @@ Fully cinematic cutscenes that are made using Unreal's Sequencer tool. These cut
 - specific visual effects
 
 Given that these are a little more difficult and time-consuming to make, they will be reserved for important story moments / the first time the player encounters specific mechanics.
+
+> 
 
 ### New Plan for Reaching The End of Avernoth
 
