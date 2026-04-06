@@ -50,7 +50,7 @@ Before, there wasn't a real room set up for when the player reached the end of A
 
 ### Minor Camera Change
 
-The camera during regular exploration AND combat are both closer than they were before. This way, the player feels a little closer to the action without compromising visibility too much. 
+The camera during regular exploration AND combat are both closer than they were before. This way, the player feels a little closer to the action without compromising visibility too much.
 
 ## Plans Going Forward
 
