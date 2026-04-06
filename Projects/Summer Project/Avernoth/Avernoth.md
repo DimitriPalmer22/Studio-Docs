@@ -32,8 +32,10 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 	- [Journal System](<./Mechanics/Journal System.md>)
 	- [Mana Essence](<./Mechanics/Mana Essence.md>)
 	- [Tome Altar](<./Mechanics/Tome Altar.md>)
+	- [Wisps](<./Mechanics/Wisps.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
-	- **[Journal System](<./Mechanics/Journal System.md>)tive/Linear Narrative.md>)**
+	- **Journal Entries**
+	- **[Linear Narrative](<./Narrative/Linear Narrative/Linear Narrative.md>)**
 
 %% End Landmark %%
