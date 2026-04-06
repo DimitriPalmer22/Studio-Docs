@@ -14,4 +14,8 @@
 
 ## Updates To The Game
 
+### Cutscenes
+
+### New Plan for reaching the End
+
 ## Plans Going Forward
