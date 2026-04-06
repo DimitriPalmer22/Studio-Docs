@@ -67,3 +67,6 @@ I want to have all the basic tutorials for the game implemented so that we can g
 > Note: This includes the cutscenes & dialogue that relates to them.
 
 ### More Narrative Stuff
+
+- Create more journal entry quests (including their corresponding minigames)
+- Create working placeholders for more dialogue interactions (like the ones that appear after collecting journal entries).
