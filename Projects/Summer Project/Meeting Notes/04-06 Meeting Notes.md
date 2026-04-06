@@ -14,7 +14,7 @@
 
 ## Updates To The Game
 
-### Cutscenes!
+### Cutscenes
 
 I have created a whole new cutscene system that WILL be used throughout the game to increase the quality of the game's presentation. Things from entering rooms to tutorials will now have much more thought put behind them, and they will be much more cinematic and engaging than whatever we had before.
 
@@ -72,3 +72,14 @@ I want to have all the basic tutorials for the game implemented so that we can g
 - Create working placeholders for more dialogue interactions (like the ones that appear after collecting journal entries).
 
 ### Work on Another Set of Attacks for Allister
+
+We can get a new set of animations in for Allister so that we have more variety in his attacks.
+
+### Finish Any Other Unfinished Work from Previous Weeks
+
+Ongoing work:
+- New Enemy 1
+- New Enemy 2
+- New character portraits
+- New UI assets for journal entry screen
+- 
