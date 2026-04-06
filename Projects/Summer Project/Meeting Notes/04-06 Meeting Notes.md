@@ -55,3 +55,15 @@ Before, there wasn't a real room set up for when the player reached the end of A
 - Finish / keep working on the rooms themselves.
 - Draft up any cutscenes for these rooms.
 - Implement the mechanic for switching between the different end rooms based on which chapter the player is currently in.
+
+### Finish Any Basic Tutorials
+
+I want to have all the basic tutorials for the game implemented so that we can get to a point where people who have never played the game can pick it up and understand the core mechanics of the game without needing an outside explanation. This includes things like:
+- The tome altar
+- Combat
+- The journal entries / journal tables
+- Addendums
+
+> Note: This includes the cutscenes & dialogue that relates to them.
+
+### More Narrative Stuff
