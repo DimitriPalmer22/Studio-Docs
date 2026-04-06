@@ -16,6 +16,8 @@
 
 ### Cutscenes
 
-### New Plan for reaching the End
+#### Basic Cut
+
+### New Plan for Reaching The End of Avernoth
 
 ## Plans Going Forward
