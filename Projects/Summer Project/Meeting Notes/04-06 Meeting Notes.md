@@ -42,7 +42,7 @@ Fully cinematic cutscenes that are made using Unreal's Sequencer tool. These cut
 
 Given that these are a little more difficult and time-consuming to make, they will be reserved for important story moments / the first time the player encounters specific mechanics.
 
-> 
+> This is where I show off the *unfinished* cutscene Brian made a while back for getting a tome at the beginning of the game.
 
 ### New Plan for Reaching The End of Avernoth
 
