@@ -48,6 +48,10 @@ Given that these are a little more difficult and time-consuming to make, they wi
 
 Before, there wasn't a real room set up for when the player reached the end of Avernoth. We just had a placeholder. Now, each chapter will have a different room that has a seal at the end of it. Each of these is going to have some type of "challenge" the player will have to overcome in order to reach the seal, and then they will have to undo the seal in order to progress to the next chapter (they can only undo the seal if they have collected / completed the corresponding journal entries).
 
+### Minor Camera Change
+
+The camera during regular exploration AND combat are both closer than they were before. This way, the player feels a little closer to the action without compromising visibility too much. 
+
 ## Plans Going Forward
 
 ### Finish the "End of Avernoth" Rooms
