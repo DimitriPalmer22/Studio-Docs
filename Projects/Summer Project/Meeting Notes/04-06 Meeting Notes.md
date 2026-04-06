@@ -27,7 +27,7 @@ These are cutscenes that involve chaining together simple actions to create a fu
 - interacting with objects
 - displaying very specific dialogue
 - tutorials
-- etc
+- Etc.
 
 These will be more common.
 
@@ -43,3 +43,7 @@ Given that these are a little more difficult and time-consuming to make, they wi
 ### New Plan for Reaching The End of Avernoth
 
 ## Plans Going Forward
+
+### Finish the "End of Avernoth" Rooms
+
+
