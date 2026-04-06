@@ -46,4 +46,6 @@ Given that these are a little more difficult and time-consuming to make, they wi
 
 ### Finish the "End of Avernoth" Rooms
 
-
+- Finish / keep working on the rooms themselves.
+- Draft up any cutscenes for these rooms.
+- Implement the mechanic for switching between the different end rooms based on which chapter the player is currently in.
