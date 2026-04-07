@@ -86,4 +86,3 @@ Ongoing work:
 - New Enemy 2
 - New character portraits
 - New UI assets for journal entry screen
-- 
