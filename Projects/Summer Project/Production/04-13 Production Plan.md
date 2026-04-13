@@ -15,3 +15,5 @@ We have basic enemies, but we have nothing to re-order the hierarchy of prioriti
 No developments for the game's narrative have been made in the past like 2 weeks. I need to get on that.
 
 - Working placeholders of all "quest items" so that the game is technically completable if they cheat in all the necessary items.
+
+Also need to connect the game's current chapters to the end levels.
