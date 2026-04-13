@@ -10,6 +10,8 @@ At this point, my implementation is really just a unique version of a state tree
 
 We have basic enemies, but we have nothing to re-order the hierarchy of priorities for the player during combat.
 
+### Refine the way I Declare Enemy Stats
+
 ### Story Implementation
 
 No developments for the game's narrative have been made in the past like 2 weeks. I need to get on that.
