@@ -18,6 +18,10 @@ Not much of the work from last week's plans going forward have been completed.
 
 ## Plans Going Forward
 
+### Enemy AI and Behavior Rework
+
+### Again, Creating More Minigames for Experiment Logs
+
 ### Finish Any Other Unfinished Work from Previous Weeks
 
 Ongoing work:
