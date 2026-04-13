@@ -20,10 +20,13 @@ Not much of the work from last week's plans going forward have been completed.
 
 ### Enemy AI and Behavior Rework
 
+Last week, I had to take a look again at the game's combat to see why it still feels lackluster. The main issue is that we have 
+
 ### Again, Creating More Minigames for Experiment Logs
 
 This was not completed from the previous weeks, so it is being put on the list of things to do again.
-s
+- I've got a couple in the ClickUp that I want to bang out, but I'll be adding more.
+
 ### Finish Any Other Unfinished Work from Previous Weeks
 
 Ongoing work:
