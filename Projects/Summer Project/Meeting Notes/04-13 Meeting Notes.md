@@ -20,7 +20,9 @@ Not much of the work from last week's plans going forward have been completed.
 
 ### Enemy AI and Behavior Rework
 
-Last week, I had to take a look again at the game's combat to see why it still feels lackluster. The main issue is that we have 
+Last week, I had to take a look again at the game's combat to see why it still feels lackluster. The main issue is that we have no way to change up the **player's hierarchy of priorities**.
+
+For example, the melee enemies ALL just chase the player and attack once. Therefore, the enemy that is 
 
 ### Again, Creating More Minigames for Experiment Logs
 
