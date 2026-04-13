@@ -12,6 +12,10 @@ We have basic enemies, but we have nothing to re-order the hierarchy of prioriti
 
 ### Refine the way I Declare Enemy Stats
 
+I have no idea how I am currently defining the base stats for each enemy type. I need to set up a more organized way to do this so that I can easily adjust the stats for each enemy type as I continue to iterate on the combat.
+- Basic stats
+- Move speed
+
 ### Story Implementation
 
 No developments for the game's narrative have been made in the past like 2 weeks. I need to get on that.
