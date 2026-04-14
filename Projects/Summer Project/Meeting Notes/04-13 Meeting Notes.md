@@ -29,6 +29,15 @@ For example, the melee enemies ALL just chase the player and attack once they ar
 This was not completed from the previous weeks, so it is being put on the list of things to do again.
 - I've got a couple in the ClickUp that I want to bang out, but I'll be adding more.
 
+## Enemies, Yet Again...
+
+![](<../../../_Meta/Attachments/Pasted image 20260413202900.png>)
+
+Given the hierarchy of priorities we are trying to establish, let's redesign the enemy attacks:
+
+### Primordial Wraith:
+Creates a wall of fire that limits t
+
 ### Finish Any Other Unfinished Work from Previous Weeks
 
 Ongoing work:
