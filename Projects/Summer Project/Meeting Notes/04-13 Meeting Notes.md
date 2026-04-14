@@ -1,17 +1,5 @@
 # 04-13 Meeting Notes
 
-## Meeting Times
-
-| Meeting                         | Possible Times |
-| ------------------------------- | -------------- |
-| LD Meeting                      |                |
-| Narrative Designer + CD Meeting |                |
-| Sound Meeting                   |                |
-| Environmental Artist Meeting    |                |
-| 2D Artist                       |                |
-| Animation Meeting               |                |
-| Character Artist Meeting        |                |
-
 ## Updates To The Game
 
 Not much of the work from last week's plans going forward have been completed.
