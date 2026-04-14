@@ -52,7 +52,10 @@ Creates a wall of fire that limits the player's space to move.
 - Instead, we have it make a lightning strike on the player's location.
 - Beneath the player's feet will be a big bright circle that shows where the lightning strike is going to hit, and the player will have a second or two to get out of the way before the lightning strike hits.
 
-### Kamikaze e
+### Kamikaze Enemy 
+
+- The one Azalee is supposed to be making.
+- Runs towards the player and explodes or something idk.
 
 ### Finish Any Other Unfinished Work from Previous Weeks
 
