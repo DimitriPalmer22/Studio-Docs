@@ -58,7 +58,8 @@ Creates a wall of fire that limits the player's space to move.
 - Runs towards the player and explodes or something idk.
 - Leaves behind a little area of effect fart cloud behind if it BLOWS up.
 	- If you kill it before it blows up, it does not leave behind the cloud
-- 
+- low health, two hits to kill?
+- Could have a chain reaction thing where if one gets set off within a certain radius of another, it sets that one off too.
 
 ### Finish Any Other Unfinished Work from Previous Weeks
 
