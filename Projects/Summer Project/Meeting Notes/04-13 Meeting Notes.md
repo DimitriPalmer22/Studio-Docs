@@ -61,6 +61,8 @@ Creates a wall of fire that limits the player's space to move.
 - low health, two hits to kill?
 - Could have a chain reaction thing where if one gets set off within a certain radius of another, it sets that one off too.
 
+![](<../../../_Meta/Attachments/Pasted image 20260413210739.png>)
+
 ### Finish Any Other Unfinished Work from Previous Weeks
 
 Ongoing work:
