@@ -44,6 +44,10 @@ Creates a wall of fire that limits the player's space to move.
 ### Twilight Wraith
 
 - Keep this guy, but make him shoot a projectile normally like the OLD primordial wraith did.
+### Tempest (Lightning) Wraith
+- No more tracking projectile. That is booboo.
+- Instead, we have it make a lightning strike on the player's location.
+- Beneath the player's feet will be a big bright circle 
 
 ### Finish Any Other Unfinished Work from Previous Weeks
 
