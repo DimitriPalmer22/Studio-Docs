@@ -29,14 +29,21 @@ For example, the melee enemies ALL just chase the player and attack once they ar
 This was not completed from the previous weeks, so it is being put on the list of things to do again.
 - I've got a couple in the ClickUp that I want to bang out, but I'll be adding more.
 
-## Enemies, Yet Again...
+## Enemies, Yet Again
 
 ![](<../../../_Meta/Attachments/Pasted image 20260413202900.png>)
 
 Given the hierarchy of priorities we are trying to establish, let's redesign the enemy attacks:
 
-### Primordial Wraith:
-Creates a wall of fire that limits t
+### Primordial Wraith
+
+Creates a wall of fire that limits the player's space to move.
+- The player will take damage if they step into this wall.
+- We can hide (ranged) enemies behind the wall to make them inaccessible until kill the fire wraith creating the fire wall.
+
+### Twilight Wraith
+
+- Keep this guy, but make him shoot a projectile normally like the OLD primordial wraith did.
 
 ### Finish Any Other Unfinished Work from Previous Weeks
 
