@@ -43,6 +43,12 @@ For example, here are some of the existing minigames in the game's code:
 
 #### Hold & Release - Imbuing a Weapon with Magic
 
+- In one of the rooms, there will be a weapon lying around and a forge.
+- The player can pick this weapon up
+- They can then interact with the forge to imbue the weapon with magic
+- A hold-and-release minigame triggers, where the player has to hold a button to fill a bar, and then release it when the bar is nearly full to successfully imbue the weapon with magic and complete the quest.
+- Note: Allister does not use this weapon afterward. It's just for the sake of the quest and the minigame.
+
 ## Plans Going Forward
 
 ### Polish Content Accessible in Demo
@@ -69,6 +75,7 @@ The game is difficult, even for me. We need to do some balancing to make sure th
 - Player health and damage values
 - Health pickup distribution
 - Shop currency distribution
+- Shop item selection
 - etc.
 
 #### Missing SFX and VFX
@@ -84,8 +91,6 @@ For example,
 - A lot of placeholder dialogue is still in the game, so we should replace those with either ACTUAL dialogue or better placeholders.
 - There are some *Addendums* without Icons or descriptions, so I guess we'll have to use some existing icons as placeholders for those.
 
-
-
 #### General Bug Fixing and Polish
 
-- Report bugs to the bug reporting form: https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US
+- Report bugs to the bug reporting form: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
