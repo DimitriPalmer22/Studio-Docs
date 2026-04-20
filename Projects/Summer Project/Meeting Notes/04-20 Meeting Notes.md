@@ -45,4 +45,8 @@ For example, here are some of the existing minigames in the game's code:
 
 ## Plans Going Forward
 
-### Polish Con
+### Polish Content Accessible in Demo
+
+The game is feeling the best it has ever felt.
+
+Once we polish the content accessible in the demo (which is foundational content necessary for the rest of the game), we can
