@@ -43,9 +43,8 @@ For example, here are some of the existing minigames in the game's code:
 
 #### Hold & Release - Imbuing a Weapon with Magic
 
-- In one of the rooms, there will be a weapon lying around and a forge.
-- The player can pick this weapon up
-- They can then interact with the forge to imbue the weapon with magic
+- In one of the rooms, there will be a weapon lying in / at a forge.
+- The player can interact with the forge to imbue the weapon with magic
 - A hold-and-release minigame triggers, where the player has to hold a button to fill a bar, and then release it when the bar is nearly full to successfully imbue the weapon with magic and complete the quest.
 - Note: Allister does not use this weapon afterward. It's just for the sake of the quest and the minigame.
 
