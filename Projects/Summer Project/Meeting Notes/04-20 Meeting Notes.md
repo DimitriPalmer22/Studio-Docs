@@ -40,3 +40,5 @@ For example, here are some of the existing minigames in the game's code:
 - There are a set of braziers laid out in a room.
 - When the player approaches the braziers and interacts with (*some item around the braziers*), fire sparks from the braziers in the specific order that they need to be interacted with.
 - The player must interact with the braziers in the correct order to complete the quest.
+
+#### Hold & Release - Imbuing a Weapon with Magic
