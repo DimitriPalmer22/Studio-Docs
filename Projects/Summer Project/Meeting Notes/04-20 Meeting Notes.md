@@ -47,6 +47,12 @@ For example, here are some of the existing minigames in the game's code:
 
 ### Polish Content Accessible in Demo
 
-The game is feeling the best it has ever felt.
+- Combat feels the best it has felt in a while due to enemy improvements.
+- Overall presentation of information & cutscenes feels good.
+- However, some aspects of the game can still be improved.
+
+#### Revise Enemy Wave Setups
+
+No
 
 Once we polish the content accessible in the demo (which is foundational content necessary for the rest of the game), we can
