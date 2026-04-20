@@ -53,6 +53,10 @@ For example, here are some of the existing minigames in the game's code:
 
 #### Revise Enemy Wave Setups
 
-No
+Now that the enemies have been changed, we need to change up the enemy wave setups in the demo to make them more engaging and fun with the new enemy behaviors. A big part of our enemy designs are based around the enemies working together, so keep that in mind.
+
+Some waves have too many of one type of enemy (especially fire wraiths. Use those sparingly). Some waves have ONLY melee enemies or ONLY ranged enemies, which is not ideal. We want to have a good mix of different types of enemies in each wave to make them more engaging and fun.
+
+> Note: Also consider how much space the player has to operate in for each wave. Some enemies block off space or require you to move around ALOT to fight them
 
 Once we polish the content accessible in the demo (which is foundational content necessary for the rest of the game), we can
