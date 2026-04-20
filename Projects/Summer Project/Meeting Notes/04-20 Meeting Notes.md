@@ -79,4 +79,6 @@ For example,
 - The new minigames (especially the pattern memorization one)
 - etc.
 
-#### 
+#### Placeholder Dialogue Or Assets
+
+A lot of placeholder dialogue is still in the game, so we should replace those with either ACTUAL dialogue or better placeholders.
