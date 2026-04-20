@@ -51,12 +51,14 @@ For example, here are some of the existing minigames in the game's code:
 - Overall presentation of information & cutscenes feels good.
 - However, some aspects of the game can still be improved.
 
+In about a week and a half, we'll be funneling more people to the demo, so we should probably polish up the content that's currently accessible in the demo to make sure it's as good as it can be. This includes:
+
 #### Revise Enemy Wave Setups
 
 Now that the enemies have been changed, we need to change up the enemy wave setups in the demo to make them more engaging and fun with the new enemy behaviors. A big part of our enemy designs are based around the enemies working together, so keep that in mind.
 
 Some waves have too many of one type of enemy (especially fire wraiths. Use those sparingly). Some waves have ONLY melee enemies or ONLY ranged enemies, which is not ideal. We want to have a good mix of different types of enemies in each wave to make them more engaging and fun.
 
-> Note: Also consider how much space the player has to operate in for each wave. Some enemies block off space or require you to move around ALOT to fight them
+> Note: Also consider how much space the player has to operate in for each wave. Some enemies block off space or require you to move around ALOT to fight them, so we should consider that when designing the waves. Maybe some rooms just aren't cut out for specific enemies.
 
-Once we polish the content accessible in the demo (which is foundational content necessary for the rest of the game), we can
+#### 
