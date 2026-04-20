@@ -82,3 +82,7 @@ For example,
 #### Placeholder Dialogue Or Assets
 
 A lot of placeholder dialogue is still in the game, so we should replace those with either ACTUAL dialogue or better placeholders.
+
+#### General Bug Fixing and Polish
+
+- Report bugs to the bug reporting form: 
