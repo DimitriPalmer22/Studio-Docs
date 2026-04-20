@@ -61,4 +61,14 @@ Some waves have too many of one type of enemy (especially fire wraiths. Use thos
 
 > Note: Also consider how much space the player has to operate in for each wave. Some enemies block off space or require you to move around ALOT to fight them, so we should consider that when designing the waves. Maybe some rooms just aren't cut out for specific enemies.
 
+#### Game Balancing
+
+The game is difficult, even for me. We need to do some balancing to make sure the game is challenging, but also fair and fun. This includes:
+- Distribution of enemies per-wave (too few vs. too many)
+- Enemy health and damage values
+- Player health and damage values
+- Health pickup distribution
+- Shop currency distribution
+- etc.
+
 #### 
