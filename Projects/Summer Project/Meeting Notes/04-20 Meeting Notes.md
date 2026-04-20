@@ -81,7 +81,10 @@ For example,
 
 #### Placeholder Dialogue Or Assets
 
-A lot of placeholder dialogue is still in the game, so we should replace those with either ACTUAL dialogue or better placeholders.
+- A lot of placeholder dialogue is still in the game, so we should replace those with either ACTUAL dialogue or better placeholders.
+- There are some *Addendums* without Icons or descriptions, so I guess we'll have to use some existing icons as placeholders for those.
+
+
 
 #### General Bug Fixing and Polish
 
