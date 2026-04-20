@@ -21,7 +21,7 @@ We currently have 3 types of minigames for the experiment logs:
 
 These are just generic minigames that can then be slapped onto different quests with different themes and aesthetics.
 
-For example:
+For example, here are some of the existing minigames in the game's code:
 
 #### Button Mashing - Cauldron Minigame
 
