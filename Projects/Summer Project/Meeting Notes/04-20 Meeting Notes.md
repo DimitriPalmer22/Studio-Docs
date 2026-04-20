@@ -23,7 +23,16 @@ These are just generic minigames that can then be slapped onto different quests 
 
 For example:
 
-#### Cauldron Minigame
+#### Button Mashing - Cauldron Minigame
 
 - The player has to collect various items in the room
-- Once they have all the required items, they can then interact with a cauldron in the room to add
+- Once they have all the required items, they can then interact with a cauldron in the room to add them to the cauldron
+- Then, a button mashing minigame triggers to stir the cauldron and mix the ingredients together. The player has to fill the bar before the timer runs out to successfully mix the ingredients.
+
+#### Button Mashing - Channeling Mana from a Tome
+
+- The player walks up to a pre-existing tome that's just laying around one of the levels.
+- They can interact with it to channel energy from it
+- A button mashing minigame triggers, where the player has to repeatedly mash a button to draw the energy out of the tome and into themselves. If they fill the bar before the timer runs out, they successfully draw the energy out and complete the quest.
+
+#### Pattern -
