@@ -35,4 +35,8 @@ For example:
 - They can interact with it to channel energy from it
 - A button mashing minigame triggers, where the player has to repeatedly mash a button to draw the energy out of the tome and into themselves. If they fill the bar before the timer runs out, they successfully draw the energy out and complete the quest.
 
-#### Pattern -
+#### Pattern Memorization - Brazier Puzzle
+
+- There are a set of braziers laid out in a room.
+- When the player approaches the braziers and interacts with (*some item around the braziers*), fire sparks from the braziers in the specific order that they need to be interacted with.
+- The player must interact with the braziers in the correct order to complete the quest.
