@@ -10,4 +10,9 @@ Each of the wraiths now have different attacks:
 - **The twilight (shadow) wraith** - fires a projectile in a straight line toward the player. They cannot move, but will rotate toward the player.
 - **The tempest (lightning) wraith** - summons a lightning strike on the player's location. A big bright circle appears on the ground where the lightning strike is going to hit, and indicates how much time the player has to get out of the way before the lightning strike hits.
 
-This helpss 
+This helped a good amount with making the combat a lot more engaging.
+
+### Minigame Stuff
+
+I created two new types of minigames for the experiment logs:
+- A pattern recognition minigame
