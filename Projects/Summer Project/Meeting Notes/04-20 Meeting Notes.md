@@ -71,4 +71,12 @@ The game is difficult, even for me. We need to do some balancing to make sure th
 - Shop currency distribution
 - etc.
 
+#### Missing SFX and VFX
+
+Anything that might need some type of sound or visual cue should be handled.
+For example,
+- The new wraith attacks
+- The new minigames (especially the pattern memorization one)
+- etc.
+
 #### 
