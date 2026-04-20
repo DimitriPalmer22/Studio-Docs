@@ -15,4 +15,6 @@ This helped a good amount with making the combat a lot more engaging.
 ### Minigame Stuff
 
 I created two new types of minigames for the experiment logs:
-- A pattern recognition minigame
+- A pattern memorization minigame where you have to memorize a pattern and then interact with those items in the correct order.
+- A hold-and-release minigame where you have to hold a button to fill a bar, and then release it when the bar is *nearly* full.
+
