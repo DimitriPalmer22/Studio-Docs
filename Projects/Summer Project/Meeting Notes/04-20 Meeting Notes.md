@@ -42,3 +42,7 @@ For example, here are some of the existing minigames in the game's code:
 - The player must interact with the braziers in the correct order to complete the quest.
 
 #### Hold & Release - Imbuing a Weapon with Magic
+
+## Plans Going Forward
+
+### Polish Con
