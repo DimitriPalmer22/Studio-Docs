@@ -93,3 +93,8 @@ For example,
 #### General Bug Fixing and Polish
 
 - Report bugs to the bug reporting form: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
+
+---
+
+- [ ] Blueprint GE to use as a cooldown
+- [ ] 
