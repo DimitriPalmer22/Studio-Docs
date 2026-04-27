@@ -96,8 +96,8 @@ For example,
 
 ---
 
-- [ ] Blueprint GE to use as a cooldown (tie to attribute & curve).
-	- [ ] Make a gameplay tag for dodge cooldown.
-- [ ] Increase base cooldown.
+- [x] Blueprint GE to use as a cooldown (tie to attribute & curve).
+	- [x] Make a gameplay tag for dodge cooldown.
+- [x] Increase base cooldown.
 - [ ] Create a BP base class for the dodge ability & derive abilities from that
 - [ ] 
