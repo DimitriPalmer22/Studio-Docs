@@ -99,5 +99,6 @@ For example,
 - [x] Blueprint GE to use as a cooldown (tie to attribute & curve).
 	- [x] Make a gameplay tag for dodge cooldown.
 - [x] Increase base cooldown.
-- [ ] Create a BP base class for the dodge ability & derive abilities from that
-- [ ] 
+- [x] Create a BP base class for the dodge ability & derive abilities from that
+
+- [ ] TODO: As a simple fallback, test for tome quest completion whenever rooms are complete (After any mandatory dialogue).
