@@ -104,4 +104,8 @@ For example,
 - [ ] TODO: As a simple fallback, test for tome quest completion whenever rooms are complete (After any mandatory dialogue).
 
 - [ ] Allow save data in the demo, but still block progress beyond area 1 of the game.
-- [ ] Button to clear save data.
+- [ ] New game vs. continue buttons
+	- [ ] Confirmation screen when detecting existing save data & clicking new game
+- [ ] A way to detect breaking changes with save data.
+	- [ ] If we release a version of the game that breaks save data, clear the existing save data.
+	- [ ] Create a message screen that informs the player that their save data was cleared due to a breaking change.
