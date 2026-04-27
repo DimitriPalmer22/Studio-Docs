@@ -102,3 +102,4 @@ For example,
 - [x] Create a BP base class for the dodge ability & derive abilities from that
 
 - [ ] TODO: As a simple fallback, test for tome quest completion whenever rooms are complete (After any mandatory dialogue).
+- [ ] Allow save data in the demo, but still block progress beyond area 1 of the game.
