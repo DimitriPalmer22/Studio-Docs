@@ -93,19 +93,3 @@ For example,
 #### General Bug Fixing and Polish
 
 - Report bugs to the bug reporting form: <https://forms.clickup.com/90131425169/f/2ky40twh-3873/ZFSTRRZKQYU57356US>
-
----
-
-- [x] Blueprint GE to use as a cooldown (tie to attribute & curve).
-	- [x] Make a gameplay tag for dodge cooldown.
-- [x] Increase base cooldown.
-- [x] Create a BP base class for the dodge ability & derive abilities from that
-
-- [ ] TODO: As a simple fallback, test for tome quest completion whenever rooms are complete (After any mandatory dialogue).
-
-- [ ] Allow save data in the demo, but still block progress beyond area 1 of the game.
-- [x] New game vs. continue buttons
-	- [ ] Confirmation screen when detecting existing save data & clicking new game
-- [ ] A way to detect breaking changes with save data.
-	- [ ] If we release a version of the game that breaks save data, clear the existing save data.
-	- [ ] Create a message screen that informs the player that their save data was cleared due to a breaking change.
