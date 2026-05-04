@@ -10,12 +10,12 @@
 
 The quests implementation is still very loose and underwhelming.
 
-- Dialogue for when a quest item 
+- Dialogue for when a quest item has spawned in the room!
+- Plays before / after the dialogue for a journal table has played!
 
 Quest 1:
 - Lights when the quest tome has spawned successfully.
 - Sparkles around the tome.
-
 
 ## Boss 1
 
