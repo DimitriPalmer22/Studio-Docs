@@ -10,7 +10,7 @@
 
 The quests implementation is still very loose and underwhelming.
 
-- [ ] Dialogue for when a quest item has spawned in the room!
+- [ ] Dialogue for when a quest item has spawned in the room! (separate data table)
 - [x] Plays before / after the dialogue for a journal table has played!
 
 Quest 1:
