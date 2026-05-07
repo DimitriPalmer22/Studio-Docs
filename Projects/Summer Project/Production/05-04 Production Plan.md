@@ -6,6 +6,8 @@
 
 ## Secondary Spells
 
+- [ ] R
+
 ## Quests
 
 The quests implementation is still very loose and underwhelming.
