@@ -14,7 +14,7 @@ The quests implementation is still very loose and underwhelming.
 - [x] Plays before / after the dialogue for a journal table has played!
 
 Quest 1:
-- [ ] Lights when the quest tome has spawned successfully.
+- [x] Lights when the quest tome has spawned successfully.
 - [ ] Sparkles around the tome.
 
 ## Boss 1
