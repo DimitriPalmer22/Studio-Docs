@@ -6,7 +6,8 @@
 
 ## Secondary Spells
 
-- [ ] R
+- [ ] Remove CA and Vignette DURING charge.
+- [ ] Only apply after fully charged.
 
 ## Quests
 
