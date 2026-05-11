@@ -112,7 +112,7 @@ The game is supposed to have a variety of enemies and enemy combinations to keep
 - To increase enemy variety and combat dynamics a little more, we can have variations of the summoner that buff / heal other enemies.
 	- For instance, the "buffer" enemy temporarily increase the defense of specific enemies, almost making them invulnerable until the effect wears off / the "buffer" dies.
 
-## Narrative & Dialogue
+### Narrative & Dialogue
 
 Avernoth is supposed to be a story-rich experience in which the characters frequently interact with the player. Dialogue is supposed to accompany most of the game's features to make the game's world feel a little more lived-in.
 
@@ -130,7 +130,7 @@ Avernoth is supposed to be a story-rich experience in which the characters frequ
 
 - Less dialogue?
 
-## Overarching Progress / Completing the Game
+### Overarching Progress / Completing the Game
 
 Over the course of multiple runs, collect journal entries. Some journal entries contain experiment logs, which are interactive quests that the player must complete to progress. Collect all entries and complete all logs to fully understand the story and escape Avernoth.
 
@@ -144,6 +144,7 @@ Over the course of multiple runs, collect journal entries. Some journal entries 
 - Still need some more minigame variety
 - Still need the accompanying quests for each minigame
 - All quest entries still need to be written.
+
 - Mechanic for determining which end room you go into is not done
 - End rooms not done visually
 - End rooms are not done mechanically
@@ -153,7 +154,7 @@ Over the course of multiple runs, collect journal entries. Some journal entries 
 
 - Reduce the number of journal entries required to beat the game.
 	- Less quests to come up with / program
-	- 
+	- Less dialogue to write and implement
 
 ## Plans Going Forward?
 
