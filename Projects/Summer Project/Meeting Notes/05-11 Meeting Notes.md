@@ -15,9 +15,13 @@ At the beginning of the game, there is a [**Tome Altar**](<../Avernoth/Mechanics
 - (Possibly) Some starting [Addendums (Passive Abilties)](<../Avernoth/Mechanics/Addendums.md>)
 - The player's starting stats
 
-***COMPLETED WORK:***, the mechanic works. We can determine spells and stats and everything through the questions.
+***COMPLETED WORK***:
+- the mechanic works. We can determine spells and stats and everything through the questions.
 
-
+***INCOMPLETE WORK***:
+- We still have just one test question. WE NEED MORE.
+- In order for this mechanic to feel meaningful, we need to have a good variety of questions that can lead to different combinations of spells and stats. We need to create more questions and make sure they lead to interesting combinations.
+- Related UI specifically for this mechanic.
 
 ### Normal Levels
 
