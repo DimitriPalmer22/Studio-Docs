@@ -100,11 +100,16 @@ The game is supposed to have a variety of enemies and enemy combinations to keep
 
 #### Incomplete Work
 
-- Enemies don't feel too different from area to area. The game doesn't scale well in terms of difficulty and variety as you go further into the run. 
+- Enemies don't feel too different from area to area. The game doesn't scale well in terms of difficulty and variety as you go further into the run.
 - Knight variation looks can be updated just a little bit
 - Wraith variation looks can also be updated quite a bit
-- Summoner enemy is still being worked on.
+- Summoner enemy (that Erin is working on) is still being worked on, but is close to completion
+- The enemy that Azalee was working on probably won't be finished anytime soon...
+
 #### Possible Pivot
+
+- We *could* have Andre work on finishing the model Azalee started. That way, we at least have another enemy in the game.
+- To increase enemy variety and combat dynamics a little more, we can have variations of the summoner that buff /
 
 ## Narrative & Dialogue
 
