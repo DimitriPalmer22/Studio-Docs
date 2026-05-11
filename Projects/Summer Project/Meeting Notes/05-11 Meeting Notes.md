@@ -37,20 +37,13 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 ### Normal Levels
 
 #### Completed Work
+Area is is pretty much complete.
 
 #### Incomplete Work
 
 #### Possible Pivot
 
 ### Boss Levels
-
-#### Completed Work
-
-#### Incomplete Work
-
-#### Possible Pivot
-
-### End Rooms
 
 #### Completed Work
 
@@ -66,8 +59,9 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 
 #### Possible Pivot
 
-
 ## Narrative Writing
+
+## Overarching Narrative / Completing the Game
 
 ## Plans Going Forward?
 
