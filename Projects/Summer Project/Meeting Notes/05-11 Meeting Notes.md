@@ -1,5 +1,7 @@
 # 05-11 Meeting Notes
 
+Development has slowed to a crawl. I was hoping to be done with the game by the end of May. If things keep moving at the same rate they have been, the game will never be finished. So, we have to make a couple changes.
+
 ## Unfinished Features
 
 This is a list of the main features in the game that still need serious work before being considered complete. It contains:
@@ -43,7 +45,7 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 
 #### Incomplete Work
 
-https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2rO4s/edit?usp=sharing
+<https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2rO4s/edit?usp=sharing>
 
 - Area01_Roo05 isn't done yet I don't think
 - 3 of Area02 Levels are not done yet
@@ -55,8 +57,10 @@ https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2r
 
 A big problem with the later (Area03) levels is that it's kinda difficult to come up with new room designs. Also, it's difficult to create new room types without blowing up the prop list. We also can't expect too many new props / textures either.
 
-SO, here's what we can try:
-- Lower the number of rooms per area.
+So, here's what we can try:
+- Lower the number of rooms per area. I wanted 8 per area, but maybe that isn't gonna happen… We can do like 6 or 7 instead per area.
+- Move a level from Area01 to Area02 or Area03 (and re-skin it to fit the area's theme)
+- Re-use some of the existing rooms as templates for new rooms. This way, we can create new rooms without having to come up with completely new designs from scratch.
 
 ### Boss Levels
 
