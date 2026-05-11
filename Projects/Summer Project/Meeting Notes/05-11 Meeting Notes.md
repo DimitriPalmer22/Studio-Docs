@@ -128,20 +128,32 @@ Avernoth is supposed to be a story-rich experience in which the characters frequ
 
 #### Possible Pivots
 
-- With the amount of stuff that has to be writt
+- Less dialogue?
 
-## Overarching Narrative / Completing the Game
+## Overarching Progress / Completing the Game
 
 Over the course of multiple runs, collect journal entries. Some journal entries contain experiment logs, which are interactive quests that the player must complete to progress. Collect all entries and complete all logs to fully understand the story and escape Avernoth.
 
 #### Completed Work
 
+- Journal & quest system works
+- Some minigames have been implemented for the quests
+
 #### Incomplete Work
 
+- Still need some more minigame variety
+- Still need the accompanying quests for each minigame
+- All quest entries still need to be written.
 - Mechanic for determining which end room you go into is not done
 - End rooms not done visually
 - End rooms are not done mechanically
 - No code implemented for when the player actually manages to collect all journal entries
+
+#### Possible Pivots
+
+- Reduce the number of journal entries required to beat the game.
+	- Less quests to come up with / program
+	- 
 
 ## Plans Going Forward?
 
