@@ -104,12 +104,13 @@ The game is supposed to have a variety of enemies and enemy combinations to keep
 - Knight variation looks can be updated just a little bit
 - Wraith variation looks can also be updated quite a bit
 - Summoner enemy (that Erin is working on) is still being worked on, but is close to completion
-- The enemy that Azalee was working on probably won't be finished anytime soon...
+- The enemy that Azalee was working on probably won't be finished anytime soon…
 
 #### Possible Pivot
 
 - We *could* have Andre work on finishing the model Azalee started. That way, we at least have another enemy in the game.
-- To increase enemy variety and combat dynamics a little more, we can have variations of the summoner that buff /
+- To increase enemy variety and combat dynamics a little more, we can have variations of the summoner that buff / heal other enemies.
+	- For instance, the "buffer" enemy temporarily increase the defense of specific enemies, almost making them invulnerable until the effect wears off / the "buffer" dies.
 
 ## Narrative & Dialogue
 
@@ -124,6 +125,10 @@ Avernoth is supposed to be a story-rich experience in which the characters frequ
 
 - Only 2 / 6 character portraits are done.
 - Most of the game's dialogue is placeholder or just not implemented at all. We need to write and implement the actual dialogue for the game.
+
+#### Possible Pivots
+
+- With the amount of stuff that has to be writt
 
 ## Overarching Narrative / Completing the Game
 
