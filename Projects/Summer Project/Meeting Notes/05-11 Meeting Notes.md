@@ -66,6 +66,9 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 
 #### Possible Pivot
 
+
+## Narrative Writing
+
 ## Plans Going Forward?
 
 At this point, it seems a little unrealistic to deliver the product I originally planned to deliver within a reasonable time. Therefore, I think it would be best to **re-evaluate the scope of the project** and figure out what the most important features are that we want to have in the game.
