@@ -83,7 +83,12 @@ At the end of each area is a "boss room". These are supposed to be more unique a
 Even though we have a "boss" for Area01, it is completely underwhelming. Also, the chance of us getting new BOSS designs for the other areas is VERY LOW.
 
 So, here's what we can try:
-- Instead of a straight-up fight against a bigger, badder enemy, we should lean more into the mechanics of the boss fights. For instance, a boss could 
+- The enemy designs can literally just be modified, bigger, versions of the existing enemy assets.
+	- Area01 - Big knight
+	- Area02 - Big wraith
+	- Area03 - Big summoner
+- Instead of a straight-up fight against a bigger, badder enemy, we should lean more into the mechanics of the boss fights. For instance, a boss could be invulnerable and send out attacks UNTIL they are exposed, and then the player has a small window to attack them before they go back to being invulnerable again. This way, we can create more interesting boss fights without having to create completely new enemy designs.
+- 
 
 ### Enemies
 
