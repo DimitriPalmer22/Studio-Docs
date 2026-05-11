@@ -111,11 +111,19 @@ Avernoth is supposed to be a story-rich experience in which the characters frequ
 
 - Only 2 / 6 character portraits are done.
 - Most of the game's dialogue is placeholder or just not implemented at all. We need to write and implement the actual dialogue for the game.
-- 
 
 ## Overarching Narrative / Completing the Game
 
 Over the course of multiple runs, collect journal entries. Some journal entries contain experiment logs, which are interactive quests that the player must complete to progress. Collect all entries and complete all logs to fully understand the story and escape Avernoth.
+
+#### Completed Work
+
+#### Incomplete Work
+
+- Mechanic for determining which end room you go into is not done
+- End rooms not done visually
+- End rooms are not done mechanically
+- No code implemented for when the player actually manages to collect all journal entries
 
 ## Plans Going Forward?
 
