@@ -38,7 +38,9 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 
 #### Completed Work
 
-Area is is pretty much complete.
+- Area 1 is is pretty much complete.
+- Boss room 1 is complete
+- Some
 
 #### Incomplete Work
 
@@ -73,6 +75,7 @@ Avernoth is supposed to be a story-rich experience in which the characters frequ
 
 - Only 2 / 6 character portraits are done.
 - Most of the game's dialogue is placeholder or just not implemented at all. We need to write and implement the actual dialogue for the game.
+- 
 
 ## Overarching Narrative / Completing the Game
 
