@@ -73,10 +73,17 @@ At the end of each area is a "boss room". These are supposed to be more unique a
 #### Incomplete Work
 
 - Area01's boss (the big knight with two swords) is not done behavior-wise
-- Area02's boss room is not done. Also, we have no boss for this.
-- Area03's boss room is not 
+- Area02's boss room is not done.
+- Also, we have no boss for Area02.
+- Area03's boss room is not done
+- Also, we have no boss for Area03.
 
 #### Possible Pivot
+
+Even though we have a "boss" for Area01, it is completely underwhelming. Also, the chance of us getting new BOSS designs for the other areas is VERY LOW.
+
+So, here's what we can try:
+- Instead of a straight-up fight against a bigger, badder enemy, we should lean more into the mechanics of the boss fights. For instance, a boss could 
 
 ### Enemies
 
