@@ -16,11 +16,11 @@ At the beginning of the game, there is a [**Tome Altar**](<../Avernoth/Mechanics
 - (Possibly) Some starting [Addendums (Passive Abilities)](<../Avernoth/Mechanics/Addendums.md>)
 - The player's starting stats
 
-#### COMPLETED WORK
+#### Completed Work
 
 - the mechanic works. We can determine spells and stats and everything through the questions.
 
-#### INCOMPLETE WORK
+#### Incomplete Work
 
 - We still have just one test question. WE NEED MORE.
 - In order for this mechanic to feel meaningful, we need to have a good variety of questions that can lead to different combinations of spells and stats.
@@ -28,18 +28,35 @@ At the beginning of the game, there is a [**Tome Altar**](<../Avernoth/Mechanics
 - We do also need a good variety of spells and abilities to make this mechanic feel meaningful.
 - Related UI specifically for this mechanic.
 
-#### POSSIBLE PIVOTS
+#### Possible Pivot
 
-Hypothetically, we can completely throw away the whole idea of the questionnaire. Instead, we can have the altar just give the player a random combination of spells and stats without any input from the player. 
-- This would be much easier to implement, but it would also make the game feel less personalized and less engaging at the beginning of the game. It would also take away from the replayability of the game, since the player would have no control over their starting setup.
+Hypothetically, we can completely throw away the whole idea of the questionnaire. Instead, we can have the altar just give the player a random combination of spells and stats without any input from the player.
+- This would be much easier to implement, but it would also make the game feel less personalized and less engaging at the beginning of the game.
+- It *does* keep the roguelike aspect of the game's beginning, but it does eliminate the fun of having at least some choice in the player's starting setup.
 
 ### Normal Levels
 
+#### Completed Work
+
+#### Incomplete Work
+
+#### Possible Pivot
+
 ### Boss Levels
+
+#### Completed Work
+
+#### Incomplete Work
+
+#### Possible Pivot
 
 ### End Rooms
 
-### F
+#### Completed Work
+
+#### Incomplete Work
+
+#### Possible Pivot
 
 ## Plans Going Forward?
 
