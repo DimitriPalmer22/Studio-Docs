@@ -61,7 +61,13 @@ Area is is pretty much complete.
 
 ## Narrative Writing
 
+Avernoth is supposed to be a story-rich experience in which the characters frequently interact with the player.  Dialogue is supposed to accompany most of the 
+
 ## Overarching Narrative / Completing the Game
+
+Over the course of multiple runs, collect journal entries. Some journal entries contain experiment logs, which are interactive quests that the player must complete to progress. Collect all entries and complete all logs to fully understand the story and escape Avernoth.
+
+
 
 ## Plans Going Forward?
 
