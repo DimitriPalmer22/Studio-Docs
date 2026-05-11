@@ -10,8 +10,14 @@ This is a list of the main features in the game that still need serious work bef
 ### Questions the Start of the Game
 
 At the beginning of the game, there is a [**Tome Altar**](<../Avernoth/Mechanics/Tome Altar.md>). When the player interacts with it, they are given a quick, randomized questionnaire. The answers to these questions determine:
-- the player's primary spell
-- the player's secondary sp
+- The player's primary spell
+- The player's secondary spell
+- (Possibly) Some starting [Addendums (Passive Abilties)](<../Avernoth/Mechanics/Addendums.md>)
+- The player's starting stats
+
+***COMPLETED WORK:***, the mechanic works. We can determine spells and stats and everything through the questions.
+
+
 
 ### Normal Levels
 
