@@ -62,11 +62,19 @@ So, here's what we can try:
 - Move a level from Area01 to Area02 or Area03 (and re-skin it to fit the area's theme)
 - Re-use some of the existing rooms as templates for new rooms. This way, we can create new rooms without having to come up with completely new designs from scratch.
 
-### Boss Levels
+### Boss Levels & Boss Fights
+
+At the end of each area is a "boss room". These are supposed to be more unique and interesting than the normal levels.
 
 #### Completed Work
 
+- Area01's boss room is complete
+
 #### Incomplete Work
+
+- Area01's boss (the big knight with two swords) is not done behavior-wise
+- Area02's boss room is not done. Also, we have no boss for this.
+- Area03's boss room is not 
 
 #### Possible Pivot
 
