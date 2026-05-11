@@ -2,9 +2,14 @@
 
 ## Unfinished Features
 
-This is a list of the main features in the game that still need serious work before being considered complete.
+This is a list of the main features in the game that still need serious work before being considered complete. It contains:
+- A brief overview of the feature
+- The current progress on the feature
+- The remaining work that needs to be done for the feature
 
 ### Questions the Start of the Game
+
+At the be
 
 ### Normal Levels
 
