@@ -37,6 +37,7 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 ### Normal Levels
 
 #### Completed Work
+
 Area is is pretty much complete.
 
 #### Incomplete Work
@@ -59,15 +60,23 @@ Area is is pretty much complete.
 
 #### Possible Pivot
 
-## Narrative Writing
+## Narrative & Dialogue
 
-Avernoth is supposed to be a story-rich experience in which the characters frequently interact with the player.  Dialogue is supposed to accompany most of the 
+Avernoth is supposed to be a story-rich experience in which the characters frequently interact with the player. Dialogue is supposed to accompany most of the game's features to make the game's world feel a little more lived-in.
+
+#### Completed Work
+
+- The code for playing dialogue is pretty much done.
+- The dialogue UI is pretty much done.
+
+#### Incomplete Work
+
+- Only 2 / 6 character portraits are done.
+- Most of the game's dialogue is placeholder or just not implemented at all. We need to write and implement the actual dialogue for the game.
 
 ## Overarching Narrative / Completing the Game
 
 Over the course of multiple runs, collect journal entries. Some journal entries contain experiment logs, which are interactive quests that the player must complete to progress. Collect all entries and complete all logs to fully understand the story and escape Avernoth.
-
-
 
 ## Plans Going Forward?
 
