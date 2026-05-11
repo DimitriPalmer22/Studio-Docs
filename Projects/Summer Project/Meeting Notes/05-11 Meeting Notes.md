@@ -40,9 +40,15 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 
 - Area 1 is is pretty much complete.
 - Boss room 1 is complete
-- Some
 
 #### Incomplete Work
+
+https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2rO4s/edit?usp=sharing
+
+- Area01_Roo05 isn't done yet I don't think
+- 3 of Area02 Levels are not done yet
+- Area02 boss isn't done yet.
+- 
 
 #### Possible Pivot
 
