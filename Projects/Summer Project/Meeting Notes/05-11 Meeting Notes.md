@@ -48,9 +48,15 @@ https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2r
 - Area01_Roo05 isn't done yet I don't think
 - 3 of Area02 Levels are not done yet
 - Area02 boss isn't done yet.
-- 
+- We only have like 1 or 2 levels done for area03
+- Area03 boss room isn't even close to being done.
 
 #### Possible Pivot
+
+A big problem with the later (Area03) levels is that it's kinda difficult to come up with new room designs. Also, it's difficult to create new room types without blowing up the prop list. We also can't expect too many new props / textures either.
+
+SO, here's what we can try:
+- Lower the number of rooms per area.
 
 ### Boss Levels
 
