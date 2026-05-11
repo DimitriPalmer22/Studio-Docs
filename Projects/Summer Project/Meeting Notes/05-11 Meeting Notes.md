@@ -2,4 +2,10 @@
 
 ## Unfinished Features
 
-### Levels
+### Questions the Start of the Game
+
+### Normal Levels
+
+### End Rooms
+
+### Boss Levels
