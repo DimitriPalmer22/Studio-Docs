@@ -11,4 +11,9 @@
 
 - [ ] Pure ref for updated knight designs for better differentiation
 - [ ] Pure ref for updated wraith designs for better differentiation
-- [ ] 
+- [ ] Buff enemy (variation to the summoner enemy)
+
+## Overarching Progress
+
+- [ ] Decide on a reduced number of total experiment logs.
+- [ ] Redistribute the number of experiment logs per chapter.
