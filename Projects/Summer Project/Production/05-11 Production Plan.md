@@ -15,5 +15,13 @@
 
 ## Overarching Progress
 
+### Experiment Logs
+
 - [ ] Decide on a reduced number of total experiment logs.
 - [ ] Redistribute the number of experiment logs per chapter.
+- [ ] Come up with the appropriate minigames for each experiment log.
+	- [ ] Establish the core content for each experiment log
+- [ ] Outline UI elements for the quests
+
+### End Rooms
+
