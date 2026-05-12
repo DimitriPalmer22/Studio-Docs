@@ -25,3 +25,4 @@
 
 ### End Rooms
 
+- [ ] Put the player into the correct end room when they beat the area03 boss.
