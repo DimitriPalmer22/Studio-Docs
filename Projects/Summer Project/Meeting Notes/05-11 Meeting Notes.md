@@ -162,3 +162,5 @@ Over the course of multiple runs, collect journal entries. Some journal entries 
 ## Plans Going Forward?
 
 At this point, it seems a little unrealistic to deliver the product I originally planned to deliver within a reasonable time. Therefore, I think it would be best to **re-evaluate the scope of the project** and figure out what the most important features are that we want to have in the game. Some things need to be reduced / cut so that the core elements of the game can shine more.
+
+We are trying to get the game's core elements complete by the end of May / Early June for a release in Early July.
