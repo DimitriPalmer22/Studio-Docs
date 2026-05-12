@@ -146,6 +146,7 @@ Over the course of multiple runs, collect journal entries. Some journal entries 
 - Still need some more minigame variety
 - Still need the accompanying quests for each minigame
 - All quest entries still need to be written.
+- UI for the minigames
 
 - Mechanic for determining which end room you go into is not done
 - End rooms not done visually
