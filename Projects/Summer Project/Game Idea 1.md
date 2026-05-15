@@ -1,3 +1,5 @@
+# Game Idea 1
+
 ## 0. Jotting down Ideas
 
 - Genre: Fantasy (Magic) Roguelike
@@ -16,27 +18,32 @@
 ### Main Mechanics
 
 #### The Tome
+
 - A tome is a magical book that contains a collection of spells and abilities the player can use.
 - A core idea I want for the game is that your tome is only so modifiable.
 	- If you want to significantly change / upgrade your tome, you have to find a new one.
 
 ##### Stats
+
 - Separate from the player's stats, the tome has its own stats.
 - These stats serve as percentage modifiers to the player's stats.
 	- For example: +12% to spell damage, +5% to spell cooldown, etc.
 - Having the tomes be a separate entity from the player allows us to have a more interesting progression system / makes it easier to randomize them and make them feel distinct.
 
 ##### Primary Spell
+
 - Each tome comes with a primary spell.
 - This is the main spell the player will be using to fight enemies.
 - Should be able to be used with no cost / drawback.
 
 ##### Secondary Spell
+
 - Each tome comes with a secondary spell.
 - This is an additional spell the player will use in conjunction with the primary spell.
 - These can be used at a much less regular interval than the primary spell since they are more powerful.
 
 ##### Ultimate Spell (OPTIONAL)
+
 - Some tomes have an ultimate spell.
 - These spells are very powerful, and can be used to get the player out of a pinch instantly.
 - However, they recharge very slowly / have extreme recharge conditions. For example,
@@ -46,6 +53,7 @@
 - Each use of these spells should feel grand and powerful (using VFX and sound design to make them feel impactful).
 
 ##### Transformation (OPTIONAL)
+
 - Some tomes have a transformation ability.
 - These are not a literal change in form, but more a temporary augment to the player's abilities / stats.
 - For example:
@@ -56,11 +64,13 @@
 		- Tome B's meter fills up when the player dodges enemy attacks.
 
 ##### Passive Abilities
+
 - Each tome has a number of passive ability slots
 - Some tomes come with most / all of these slots pre-filled, but some slots may remain empty so the player can acquire more throughout their run.
 - These passive abilities can be anything from stat boosts to effects that trigger under specific circumstances.
 
 #### Progressing Through the Run / Getting Stronger
+
 - After completing a floor, the player has to answer another question. Depending on their response, they get a different set of random base-stat boosts.
 - At the end of each floor, the player has a couple options. They can choose to:
 	- *Relinquish* (name pending)
@@ -85,7 +95,9 @@
 		- Can also buy special upgrades for their tome.
 		- No sacrifice btw.
 		- Use currency to determine how powerful the new spell is
+
 ### Starting a Run
+
 - Every time you start a run, you are given a series of random questions from a very LARGE pool of possible questions (Use data assets or something for this)
 	- These questions have a LARGE list of possible responses
 	- Each response does something random (well, not entirely random. The response will have a general mood, and based on that mood, the effect will be different)
@@ -98,6 +110,7 @@
 		- The number of questions in the beginning sequence is tied to how far you've made it in your runs / how many times you made it very far.
 
 ### Incentive to Keep Going
+
 - Given that some powers / abilities have time-based mechanics, there needs to be a way to prevent the player from waiting in safe spaces for the cooldowns to finish.
 - *Idea*: Stop the timers while the rooms / areas are not active?
 - *Idea*: Have a time-based incentive at the end of the floor
@@ -110,6 +123,7 @@
 ### Structure of the Game
 
 #### What is an "Area"?
+
 - ***Areas*** are like the floors in a roguelike. They are themed areas that the player must traverse to reach the final boss.
 	- Think the floors in *Hades*, *Enter the Gungeon*, *The Binding of Isaac*, etc.
 - Each area is broken up into a series of "rooms". Each room is a small space that contains a series of enemies, traps, and other obstacles.
@@ -125,6 +139,7 @@
 	- The enemies in each area will also reflect this theme.
 
 #### Level Design Methodology
+
 - The game is designed to be procedurally generated, but the individual rooms are pre-defined.
 - This means that there are a series of rooms that are designed to be used in the game, but the order in which they are encountered is random.
 - As a result, there does not need to be much continuity between the rooms.
@@ -144,12 +159,19 @@
 - Each level designer can work asynchronously on their rooms while regularly checking in with each other / the CD to make sure the rooms are cohesive and fit within the overall theme of the game.
 
 #### Area 1
+
 - Theme: Area with gray brick & magic crystals
+
 #### Area 2
+
 - Theme:
+
 #### Area 3
+
 - Theme:
+
 #### Final Boss Area
+
 - Boss area is the only predetermined area in the game.
 - Instead of having a series of rooms the player must fight through, the final boss consists of a couple utility rooms and then the boss arena room.
 
