@@ -10,11 +10,15 @@ Idea: the tome creation process is more customizable, BUT you need to unlock the
 
 The player is presented with 3 possible combinations of primary and secondary spells. They can choose one of the combinations to determine their starting spells. These are NOT completely random, they are chosen from a pre-set pool of combinations that we create. This way, we can ensure that the combinations are all interesting and viable, while still giving the player some choice in their starting setup.
 
+![](<../../../_Meta/Attachments/Pasted image 20260515191029.png>)
+
 ## Step 2: Choose Your Starting Stats
 
 > This is unlocked at the beginning of chapter 2.
 
+By default, each set of primary and secondary spells has a pre-determined set of starting stats associated with it. If this customization option is NOT unlocked yet, the player will just get the default stats associated with their chosen spells.
 
+However, once this option is unlocked, the player gets (idk, 5?) ADDITIONAL attribute points that they can distribute among their starting stats however they want. This allows the player to further customize their starting setup and playstyle. But,
 
 How do we explain this narratively?
 - Every time we unlock a new option for the tome altar, an explanation is given at the beginning of the run.
