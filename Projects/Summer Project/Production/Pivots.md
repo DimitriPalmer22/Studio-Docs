@@ -18,7 +18,15 @@ The player is presented with 3 possible combinations of primary and secondary sp
 
 By default, each set of primary and secondary spells has a pre-determined set of starting stats associated with it. If this customization option is NOT unlocked yet, the player will just get the default stats associated with their chosen spells.
 
-However, once this option is unlocked, the player gets (idk, 5?) ADDITIONAL attribute points that they can distribute among their starting stats however they want. This allows the player to further customize their starting setup and playstyle. But,
+However, once this option is unlocked, the player gets (idk, 5?) ADDITIONAL attribute points that they can distribute among their starting stats however they want. This allows the player to further customize their starting setup and playstyle. But, the player cannot remove points from their default stats, they can only add additional points on top of their default stats.
+
+![](<../../../_Meta/Attachments/Pasted image 20260515191310.png>)
+
+### Step 3: Choose Your Starting Addendum
+
+> This is unlocked at the beginning of chapter 3.
+
+By default, the loadouts come
 
 How do we explain this narratively?
 - Every time we unlock a new option for the tome altar, an explanation is given at the beginning of the run.
