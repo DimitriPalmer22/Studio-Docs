@@ -9,7 +9,7 @@ Idea: the tome creation process is MUCH more customizable, BUT you need to unloc
 - Chapter 3: You can GUARANTEE X starting addendums.
 
 How do we explain this narratively?
-- 
+- Every
 
 ## Normal Levels
 
