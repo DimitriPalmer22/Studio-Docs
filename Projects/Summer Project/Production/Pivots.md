@@ -27,7 +27,11 @@ Idea: the tome creation process is MUCH more customizable, BUT you need to unloc
 - Play animation
 - Get up to X allies in range.
 - Apply a Gameplay Effect to them
-	- Have a correspo
+	- Have a corresponding gameplay cue
+- Gameplay cue:
+	- A shield around them?
+	- A rune above them
+	- A rune above the buffing enemy as well to let the player know they're linked?
 
 ## Narrative
 
