@@ -9,7 +9,8 @@ Idea: the tome creation process is MUCH more customizable, BUT you need to unloc
 - Chapter 3: You can GUARANTEE X starting addendums.
 
 How do we explain this narratively?
-- Every
+- Every time we unlock a new option for the tome altar, an explanation is given at the beginning of the run.
+- We can have 
 
 ## Normal Levels
 
