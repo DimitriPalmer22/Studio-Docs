@@ -32,10 +32,15 @@ However, once this option is unlocked, the player can also choose one addendum t
 
 ![](<../../../_Meta/Attachments/Pasted image 20260515191615.png>)
 
-How do we explain this narratively?
+### How Do We Explain This Narratively?
+
 - Every time we unlock a new option for the tome altar, an explanation is given at the beginning of the run.
 - We can have *some character* be in charge of understanding how to use the tome altar and explaining it to the player. At the beginning of chapters 2 and 3, they'll explain the new options that are now available to the player and how to use them.
 
+### Another Thing
+
+For the locked steps of the tome creation process, should we show the locked options in the UI, but just make them unclickable and have a lock icon on them or something? Or should we just not show them at all until they're unlocked?
+- I think showing them with a lock icon is better, because it gives the player a visual representation of the fact that there are more options to unlock and it gives them something to look forward to unlocking.
 
 ## Normal Levels
 
