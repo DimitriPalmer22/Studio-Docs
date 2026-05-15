@@ -22,7 +22,12 @@ Idea: the tome creation process is MUCH more customizable, BUT you need to unloc
 
 ### Unfinished Azalee Enemy
 
-### Summoner
+### Summoner Variation: Buffing Enemy
+
+- Play animation
+- Get up to X allies in range.
+- Apply a Gameplay Effect to them
+	- Have a correspo
 
 ## Narrative
 
