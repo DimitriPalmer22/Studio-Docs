@@ -12,7 +12,17 @@ Idea: the tome creation process is MUCH more customizable, BUT you need to unloc
 
 ## Boss Levels
 
+### Boss 1: Knight
+
+### Boss 2: Wraith
+
+### Boss 3: Summoner
+
 ## Enemies
+
+### Unfinished Azalee Enemy
+
+### Summoner
 
 ## Narrative
 
