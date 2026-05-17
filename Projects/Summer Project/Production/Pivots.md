@@ -8,7 +8,8 @@ Idea: the tome creation process is more customizable, BUT you need to unlock the
 
 > This is unlocked by default.
 
-The player is presented with 3 possible combinations of primary and secondary spells. They can choose one of the combinations to determine their starting spells. These are NOT completely random, they are chosen from a pre-set pool of combinations that we create. This way, we can ensure that the combinations are all interesting and viable, while still giving the player some choice in their starting setup.
+The player is presented with
+3 possible combinations of primary and secondary spells. They can choose one of the combinations to determine their starting spells. These are NOT completely random, they are chosen from a pre-set pool of combinations that we create. This way, we can ensure that the combinations are all interesting and viable, while still giving the player some choice in their starting setup.
 
 ![](<../../../_Meta/Attachments/Pasted image 20260515191029.png>)
 
