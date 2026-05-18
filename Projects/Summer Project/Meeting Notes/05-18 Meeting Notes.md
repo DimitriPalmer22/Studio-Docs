@@ -18,4 +18,6 @@ See [Tome Altar](<../Production/Pivots.md#Tome Altar>) for more details. At this
 - Also, the UI for this has NOT been implemented yet.
 - The layout and 2D elements are still placeholders.
 
-###
+### Summoner Variation: Buffing Enemy
+
+The summoner enemy's model & animations are close to completion (It's not done being textured, yet).
