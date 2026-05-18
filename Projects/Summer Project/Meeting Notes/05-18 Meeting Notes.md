@@ -36,12 +36,19 @@ The normal levels for Area 03 are still very incomplete. We only have 1 or 2 lev
 - Use an existing room from Area 01 or 02 as an overall layout template.
 - Change the overall aesthetic of the level by
 	- Making the level look more abstract & otherworldly (exposed sky, weirder shapes)
-	- Changing the lighting to make sure it mathe
+	- Changing the lighting to make sure it matches the lighting of the other levels in Area 03
 
 If you are struggling with this, look at the existing levels in Area03 as a style reference.
 
-## Tasks and Such
+## Plans Going Forward
 
-### Normal Levels
-
-- Brian - We need another new Level for Area 03.
+- We need another new Level for Area 03.
+	- Brian
+- Keep working on character portraits.
+	- Alecks
+- Work on Summoner animations
+	- Andre
+- Work on Summoner Textures
+	- Erin
+- Finish implementing the new tome creation process
+	- Dimitri
