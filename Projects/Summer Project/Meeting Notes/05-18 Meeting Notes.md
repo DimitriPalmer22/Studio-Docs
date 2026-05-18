@@ -52,3 +52,7 @@ If you are struggling with this, look at the existing levels in Area03 as a styl
 	- Erin
 - Finish implementing the new tome creation process
 	- Dimitri
+- Work on Boss Fight Ideas
+	- Dimitri, Andre, and Mikel
+- Work on trimming the narrative's scope (in terms of the number of tasks)
+	- Dimitri and Chelle
