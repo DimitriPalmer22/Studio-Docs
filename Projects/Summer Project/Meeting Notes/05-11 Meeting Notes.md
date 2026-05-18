@@ -47,7 +47,7 @@ Hypothetically, we can completely throw away the whole idea of the questionnaire
 
 <https://docs.google.com/spreadsheets/d/1vxJl3exbdb2liDQKJrhAyyD7ETsiEauVnJ0WTo2rO4s/edit?usp=sharing>
 
-- Area01_Roo05 isn't done yet I don't think
+- Area01_Room05 isn't done yet I don't think
 - 3 of Area02 Levels are not done yet
 - Area02 boss isn't done yet.
 - We only have like 1 or 2 levels done for area03
