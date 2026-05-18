@@ -28,4 +28,4 @@ To help a little with enemy variety, a variation of the summoner enemy is being 
 - While enemies are "buffed", their resilience (defense) increased dramatically. So, they take very little damage from the player's attacks.
 - Players will need to either wait for the effect to wear off or kill the Buffing Enemy to get rid of the buff on the other enemies.
 
-The behavior and logic 
+The behavior and logic for this has been implemented, so designers *can* begin placing this enemy in levels (preferably in Areas 02 and 03). However, the model is incomplete, so it looks like a placeholder for now. This also applies to the base summoner enemy, whose logi
