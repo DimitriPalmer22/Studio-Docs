@@ -18,6 +18,14 @@ See [Tome Altar](<../Production/Pivots.md#Tome Altar>) for more details. At this
 - Also, the UI for this has NOT been implemented yet.
 - The layout and 2D elements are still placeholders.
 
-### Summoner Variation: Buffing Enemy
+### Summoner & Summoner Variation (Buffing Enemy)
 
 The summoner enemy's model & animations are close to completion (It's not done being textured, yet).
+
+![](<../../../_Meta/Attachments/Pasted image 20260518194048.png>)
+
+To help a little with enemy variety, a variation of the summoner enemy is being created that will buff other enemies.
+- While enemies are "buffed", their resilience (defense) increased dramatically. So, they take very little damage from the player's attacks.
+- Players will need to either wait for the effect to wear off or kill the Buffing Enemy to get rid of the buff on the other enemies.
+
+The behavior and logic 
