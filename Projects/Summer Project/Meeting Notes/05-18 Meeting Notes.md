@@ -32,7 +32,13 @@ The behavior and logic for this has been implemented, so designers *can* begin p
 
 ### Normal Levels
 
-The normal levels for Area 03 are still very incomplete. We only have 1 or 2 levels done, and they don't have much variety in terms of room types or enemy placement. So, we should try tackling that by going with the [05-11 Meeting Notes](<./05-11 Meeting Notes.md#Normal Levels#>)
+The normal levels for Area 03 are still very incomplete. We only have 1 or 2 levels done, and they don't have much variety in terms of room types or enemy placement. So, we should try tackling that by going with the [pivot discussed in last week's meeting](<./05-11 Meeting Notes.md#Normal Levels#>).
+- Use an existing room from Area 01 or 02 as an overall layout template.
+- Change the overall aesthetic of the level by
+	- Making the level look more abstract & otherworldly (exposed sky, weirder shapes)
+	- Changing the lighting to make sure it mathe
+
+If you are struggling with this, look at the existing levels in Area03 as a style reference.
 
 ## Tasks and Such
 
