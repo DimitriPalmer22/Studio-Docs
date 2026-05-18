@@ -14,7 +14,7 @@ Before, when the player interacted with the Tome Altar in the beginning room, th
 
 Instead, we have a new 3-step tome creation process that is more customizable, but also more structured and easier to implement. The player will still have some choice in their starting setup, but it will be more guided than the original questionnaire idea.
 
-See [Tome Altar](<../Production/Pivots.md#Tome Altar>) for more details. At this point, steps 1 and 2 have been implemented, but step 3 still needs to be implemented.
+See [the Tome Altar Pivot](<../Production/Pivots.md#Tome Altar>) for more details. At this point, steps 1 and 2 have been implemented, but step 3 still needs to be implemented.
 - Also, the UI for this has NOT been implemented yet.
 - The layout and 2D elements are still placeholders.
 
@@ -28,4 +28,6 @@ To help a little with enemy variety, a variation of the summoner enemy is being 
 - While enemies are "buffed", their resilience (defense) increased dramatically. So, they take very little damage from the player's attacks.
 - Players will need to either wait for the effect to wear off or kill the Buffing Enemy to get rid of the buff on the other enemies.
 
-The behavior and logic for this has been implemented, so designers *can* begin placing this enemy in levels (preferably in Areas 02 and 03). However, the model is incomplete, so it looks like a placeholder for now. This also applies to the base summoner enemy, whose logi
+The behavior and logic for this has been implemented, so designers *can* begin placing this enemy in levels (preferably in Areas 02 and 03). However, the model is incomplete, so it looks like a placeholder for now. This also applies to the base summoner enemy, whose logic is also complete.
+
+## Plans Going Forward

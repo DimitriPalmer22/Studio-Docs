@@ -13,7 +13,7 @@ The player is presented with
 
 ![](<../../../_Meta/Attachments/Pasted image 20260515191029.png>)
 
-## Step 2: Choose Your Starting Stats
+### Step 2: Choose Your Starting Stats
 
 > This is unlocked at the beginning of chapter 2.
 
