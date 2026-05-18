@@ -30,4 +30,12 @@ To help a little with enemy variety, a variation of the summoner enemy is being 
 
 The behavior and logic for this has been implemented, so designers *can* begin placing this enemy in levels (preferably in Areas 02 and 03). However, the model is incomplete, so it looks like a placeholder for now. This also applies to the base summoner enemy, whose logic is also complete.
 
-## Plans Going Forward
+### Normal Levels
+
+The normal levels for Area 03 are still very incomplete. We only have 1 or 2 levels done, and they don't have much variety in terms of room types or enemy placement. So, we should try tackling that by going with the [05-11 Meeting Notes](<./05-11 Meeting Notes.md#Normal Levels#>)
+
+## Tasks and Such
+
+### Normal Levels
+
+- Brian - We need another new Level for Area 03.
