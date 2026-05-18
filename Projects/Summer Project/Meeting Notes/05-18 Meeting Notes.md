@@ -14,6 +14,8 @@ Before, when the player interacted with the Tome Altar in the beginning room, th
 
 Instead, we have a new 3-step tome creation process that is more customizable, but also more structured and easier to implement. The player will still have some choice in their starting setup, but it will be more guided than the original questionnaire idea.
 
-See [Tome Altar](<../Production/Pivots.md#Tome Altar>) for more details. At this point, steps 1 and 2 have been implemented
+See [Tome Altar](<../Production/Pivots.md#Tome Altar>) for more details. At this point, steps 1 and 2 have been implemented, but step 3 still needs to be implemented.
+- Also, the UI for this has NOT been implemented yet.
+- The layout and 2D elements are still placeholders.
 
 ###
