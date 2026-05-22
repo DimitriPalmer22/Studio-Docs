@@ -87,9 +87,23 @@ Players are teleported to another zone/phase/area by an item or the boss, in ord
 A single, very big hit of damage is required to have some special effect on a mob.
 - In our case, this can be our secondary spells. However, this would require our secondaries to frequently be readily available.
 
+#### **Damage Immunity Windows**
+
+The boss is invulnerable except during specific moments the player must recognize and exploit.
+
+#### **Environmental Hazard**
+
+The arena itself becomes a weapon (rising lava, shrinking platforms, rotating walls).
+
 #### **Burst Your Bubble**
 
 The boss shields themselves, requiring a burst of DPS to break the shield and interrupt the boss before they cast some kind of Spell Of Doom.
+
+#### **Bait And Punish**
+
+The boss has a dangerous attack with a long recovery window that is the primary damage opportunity.
+
+**Clone / Doppelganger** — The boss creates decoys or copies of itself that the player must identify and distinguish.
 
 ### Boss 1: Knight
 
