@@ -47,6 +47,10 @@ For the locked steps of the tome creation process, should we show the locked opt
 
 ## Boss Levels
 
+Ideas from:
+- https://www.reddit.com/r/RPGdesign/comments/148o0t4/boss_fight_mechanics_worth_stealing_from/
+- https://www.mmo-champion.com/threads/676950-Encyclopaedia-of-Boss-Fight-Mechanics
+
 To make the boss fights more interesting and unique, we should try to make each boss have a unique **mechanic or gimmick**. Such as:
 - Multi-phase fights, with each phase of the boss having different attacks and behaviors.
 - Environmental hazards or mechanics that the player needs to navigate while fighting the boss.
