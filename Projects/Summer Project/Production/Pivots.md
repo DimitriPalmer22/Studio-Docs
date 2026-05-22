@@ -61,6 +61,8 @@ Given that each **Boss**'s design is derived from that of an existing enemy, we 
 
 > It should be noted that the boss fight arenas for Area 01 and Area 02 have already been created without consideration for any boss mechanics. So, we should try to come up with boss mechanics that can work within the existing arenas for Area 01 and Area 02. However, the boss fight arena for Area 03 has not been created yet, so we can design that arena with the boss mechanics in mind.
 
+$
+
 ### Boss 1: Knight
 
 In terms of mechanics and abilities, the existing knight enemies in the game are our most basic enemy type. It's a little difficult to come up with ideas for mechanics that rely on the enemy's existing behavior. HOWEVER, this means we can kinda play around with externally modifying the boss fight's mechanics.
