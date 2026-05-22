@@ -57,9 +57,16 @@ Given that each **Boss**'s design is derived from that of an existing enemy, we 
 
 ### Boss 1: Knight
 
-In terms of mechanics and abilities, the existing knight e
+In terms of mechanics and abilities, the existing knight enemies in the game are our most basic enemy type. It's a little difficult to come up with ideas for mechanics that rely on the enemy's existing behavior. HOWEVER, this means we can kinda play around with externally modifying the boss fight's mechanics.
+- Focus less on the boss itself.
+- Focus more on the overall fight's mechanics and the environment of the fight.
 
 ### Boss 2: Wraith
+
+The existing wraith enemies have the most varied set of mechanics and behaviors in the game. So, we can play around with those mechanics and behaviors to create a really interesting and unique boss fight.
+- Primordial wraith: Fire wall
+- Tempest wraith: Lightning strike
+- Twilight wraith: Simple shado
 
 ### Boss 3: Summoner
 
