@@ -67,7 +67,12 @@ Ideas from:
 
 The boss starts chargin' his laser. Interrupt the spell before it finishes casting or it will wipe the raid.
 
-####
+#### **Till Death Do They Part**
+
+The encounter consists of two bosses that must die at roughly the same time or terrible things ensue.
+
+- Think of the Godskin Duo in Elden Ring.
+- Think of the Trigger Twio
 
 ### Boss 1: Knight
 
