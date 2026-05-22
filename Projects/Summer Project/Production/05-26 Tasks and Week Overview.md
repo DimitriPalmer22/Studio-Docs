@@ -1,6 +1,9 @@
+# 05-26 Tasks and Week Overview
+
 Matthew's level will be the POC level. We are going to hard-focus getting all of those asset to look nice and play well with each other. I want to get a real feel of how the game will look and feel.
 
 ### Programmers
+
 I'm working on adding an attack system for the spells and aim to have a simple attack working as soon as possible.
 
 The next thing I want to do is implement enemies. They will not move or attack, but I need them to take damage and die.
