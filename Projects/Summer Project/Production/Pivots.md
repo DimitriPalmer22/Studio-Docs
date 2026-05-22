@@ -136,6 +136,8 @@ This room's arena is very different from the others in the sense that rather tha
 
 #### Idea 1: 3 Wraiths, 1 Boss
 
+[**Teleportal**](<#**Teleportal**>)
+
 Each area of the level has an associated "Boss" version of one of the three wraith types.
 - Each "Boss" version of the wraiths will have more health and stronger versions of the mechanics of their regular wraith counterparts.
 - The player won't *just* be fighting the enhanced wraith enemy; they will also be fighting a regular wave of enemies as well.
