@@ -47,10 +47,6 @@ For the locked steps of the tome creation process, should we show the locked opt
 
 ## Boss Levels
 
-Ideas from:
-- https://www.reddit.com/r/RPGdesign/comments/148o0t4/boss_fight_mechanics_worth_stealing_from/
-- https://www.mmo-champion.com/threads/676950-Encyclopaedia-of-Boss-Fight-Mechanics
-
 To make the boss fights more interesting and unique, we should try to make each boss have a unique **mechanic or gimmick**. Such as:
 - Multi-phase fights, with each phase of the boss having different attacks and behaviors.
 - Environmental hazards or mechanics that the player needs to navigate while fighting the boss.
@@ -61,7 +57,17 @@ Given that each **Boss**'s design is derived from that of an existing enemy, we 
 
 > It should be noted that the boss fight arenas for Area 01 and Area 02 have already been created without consideration for any boss mechanics. So, we should try to come up with boss mechanics that can work within the existing arenas for Area 01 and Area 02. However, the boss fight arena for Area 03 has not been created yet, so we can design that arena with the boss mechanics in mind.
 
-$
+### Some Generic Mechanic Ideas
+
+Ideas from:
+- <https://www.reddit.com/r/RPGdesign/comments/148o0t4/boss_fight_mechanics_worth_stealing_from/>
+- <https://www.mmo-champion.com/threads/676950-Encyclopaedia-of-Boss-Fight-Mechanics>
+
+#### **Kick The 'Laser'**
+
+The boss starts chargin' his laser. Interrupt the spell before it finishes casting or it will wipe the raid.
+
+####
 
 ### Boss 1: Knight
 
