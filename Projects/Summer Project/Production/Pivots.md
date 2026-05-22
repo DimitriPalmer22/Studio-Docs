@@ -164,9 +164,12 @@ The summoner enemy's mechanics very clearly rely on the presence of other enemie
 **BETWEEN THE PHASES**
 
 [**Clone / Doppelganger**](<#**Clone / Doppelganger**>)
-
+[**Timed Execution**](<#**Timed Execution**>)
 
 Between phases the boss will try to recover. Stop it before it successfully recovers!
+- To confuse the player, the summoner spawns two clones of itself. The player needs to identify which one is the real summoner and kill it before it finishes recovering.
+- Attacking the wrong clone stuns the player for a short duration (getting the summoner closer to recovering)
+- If the summoner successfully recovers, they heal themselves (not fully) and restart tjhe 
 
 ## Enemies
 
