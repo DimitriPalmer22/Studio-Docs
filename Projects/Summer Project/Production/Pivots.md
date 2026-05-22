@@ -108,6 +108,13 @@ This room's arena is very different from the others in the sense that rather tha
 - Each section has an objective that needs to be complete in order to progress / damage the boss.
 - In each section, the boss takes on a different wraith form with different mechanics and behaviors. So, the player needs to adapt their strategy and playstyle in order to defeat the boss in each section.
 
+#### Idea 1: 3 Wraiths, 1 Boss
+
+Each area of the level has an associated "Boss" version of one of the three wraith types. 
+Each "Boss" version of the wraiths will have more health and stronger versions of the mechanics of their regular wraith counterparts. 
+
+
+
 ### Boss 3: Summoner
 
 The summoner enemy's mechanics very clearly rely on the presence of other enemies. So, we can play around with that and make the boss fight's mechanics rely on the presence of other enemies as well.
