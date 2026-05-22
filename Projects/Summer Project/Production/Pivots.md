@@ -57,6 +57,8 @@ Given that each **Boss**'s design is derived from that of an existing enemy, we 
 
 ### Boss 1: Knight
 
+In terms of mechanics and abilities, the existing knight e
+
 ### Boss 2: Wraith
 
 ### Boss 3: Summoner
