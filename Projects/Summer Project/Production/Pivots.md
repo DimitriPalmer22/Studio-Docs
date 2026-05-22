@@ -72,7 +72,9 @@ The boss starts chargin' his laser. Interrupt the spell before it finishes casti
 The encounter consists of two bosses that must die at roughly the same time or terrible things ensue.
 
 - Think of the Godskin Duo in Elden Ring.
-- Think of the Trigger Twio
+- Think of the Trigger Twins in Enter the Gungeon
+
+#### 
 
 ### Boss 1: Knight
 
