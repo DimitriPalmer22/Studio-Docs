@@ -103,6 +103,10 @@ The boss shields themselves, requiring a burst of DPS to break the shield and in
 
 The boss has a dangerous attack with a long recovery window that is the primary damage opportunity.
 
+#### **Adds Management**
+
+The boss periodically spawns minions that the player must prioritize or manage alongside the main threat.
+
 #### **Clone / Doppelganger**
 
 The boss creates decoys or copies of itself that the player must identify and distinguish.
@@ -142,6 +146,11 @@ Each area of the level has an associated "Boss" version of one of the three wrai
 ### Boss 3: Summoner
 
 The summoner enemy's mechanics very clearly rely on the presence of other enemies. So, we can play around with that and make the boss fight's mechanics rely on the presence of other enemies as well.
+
+#### Idea 1: 3 (Potentially More) Phases
+
+DURING THE PH
+The boss summons a wave of enemies. While these enemies are alive, the boss is invulnerable (due to being in. The player needs to kill all of the summoned enemies in order to make the boss vulnerable and be able to damage it. Once the boss becomes vulnerable, it will start summoning more enemies. So, the player needs to repeat this process several times in order to defeat the boss. 
 
 ## Enemies
 
