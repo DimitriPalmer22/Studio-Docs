@@ -115,8 +115,9 @@ This room's arena is very different from the others in the sense that rather tha
 Each area of the level has an associated "Boss" version of one of the three wraith types.
 - Each "Boss" version of the wraiths will have more health and stronger versions of the mechanics of their regular wraith counterparts.
 - The player won't *just* be fighting the enhanced wraith enemy; they will also be fighting a regular wave of enemies as well.
-- Additionally, the player won't just be able to outright attack the boss wraiths; they will have to complete an objective in order to make the boss wraith vulnerable to damage. 
-	- For example, finish the rest of the enemies of the wave first, 
+- Additionally, the player won't just be able to outright attack the boss wraiths; they will have to complete an objective in order to make the boss wraith vulnerable to damage.
+	- For example, at first the boss wraith will be in an inaccessible part of the level, still firing spells at the player.
+	- Once the player finishes the objective (kills the rest of the wave & interacts with something, idk), the wraith gets warped into the main area and becomes vulnerable.
 
 ### Boss 3: Summoner
 
