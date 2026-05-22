@@ -97,6 +97,8 @@ In terms of mechanics and abilities, the existing knight enemies in the game are
 - Focus less on the boss itself.
 - Focus more on the overall fight's mechanics and the environment of the fight.
 
+####
+
 ### Boss 2: Wraith
 
 The existing wraith enemies have the most varied set of mechanics and behaviors in the game. So, we can play around with those mechanics and behaviors to create a really interesting and unique boss fight.
@@ -110,10 +112,11 @@ This room's arena is very different from the others in the sense that rather tha
 
 #### Idea 1: 3 Wraiths, 1 Boss
 
-Each area of the level has an associated "Boss" version of one of the three wraith types. 
-Each "Boss" version of the wraiths will have more health and stronger versions of the mechanics of their regular wraith counterparts. 
-
-
+Each area of the level has an associated "Boss" version of one of the three wraith types.
+- Each "Boss" version of the wraiths will have more health and stronger versions of the mechanics of their regular wraith counterparts.
+- The player won't *just* be fighting the enhanced wraith enemy; they will also be fighting a regular wave of enemies as well.
+- Additionally, the player won't just be able to outright attack the boss wraiths; they will have to complete an objective in order to make the boss wraith vulnerable to damage. 
+	- For example, finish the rest of the enemies of the wave first, 
 
 ### Boss 3: Summoner
 
