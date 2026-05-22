@@ -47,6 +47,8 @@ For the locked steps of the tome creation process, should we show the locked opt
 
 ## Boss Levels
 
+To make the boss fights more interesting
+
 ### Boss 1: Knight
 
 ### Boss 2: Wraith
