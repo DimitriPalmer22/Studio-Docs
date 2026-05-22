@@ -150,12 +150,23 @@ The summoner enemy's mechanics very clearly rely on the presence of other enemie
 #### Idea 1: 3 (Potentially More) Phases
 
 **DURING THE PHASE**
+
+[**Adds Management**](<#**Adds Management**>)
+
 - The boss summons a wave of enemies.
 - While these enemies are alive, the boss is invulnerable (due to being in an inaccessible part of the level).
 - The player needs to kill all of the summoned enemies in order to make the boss vulnerable and be able to damage it.
+- While the other enemies are active within the phase, the boss will try to do one of the following for the phase:
+	- Heal several enemies
+	- Apply temporary defensive buffs to several enemies
+	- Apply an attack speed / damage buff to an enemy, making it a pseudo-boss
 
 **BETWEEN THE PHASES**
-- The boss will try to 
+
+[**Clone / Doppelganger**](<#**Clone / Doppelganger**>)
+
+
+Between phases the boss will try to recover. Stop it before it successfully recovers!
 
 ## Enemies
 
