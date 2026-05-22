@@ -47,7 +47,10 @@ For the locked steps of the tome creation process, should we show the locked opt
 
 ## Boss Levels
 
-To make the boss fights more interesting
+To make the boss fights more interesting and unique, we should try to make each boss have a unique **mechanic or gimmick**. Such as:
+- Multi-phase fights, with each phase of the boss having different attacks and behaviors.
+
+Given that each **Boss**'s design is derived from that of an existing enemy, we should play on 
 
 ### Boss 1: Knight
 
