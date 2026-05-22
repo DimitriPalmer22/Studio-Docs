@@ -82,6 +82,11 @@ A pair of mobs with linked health pools, allowing the encounter to require more 
 - Think of the Godskin Duo in Elden Ring.
 - Think of the Trigger Twins in Enter the Gungeon
 
+#### **Boom, Headshot!**
+
+A single, very big hit of damage is required to have some special effect on a mob.
+- In our case, this can be our secondary spells. However, this would require our secondaries to frequently be readily available.
+
 ### Boss 1: Knight
 
 In terms of mechanics and abilities, the existing knight enemies in the game are our most basic enemy type. It's a little difficult to come up with ideas for mechanics that rely on the enemy's existing behavior. HOWEVER, this means we can kinda play around with externally modifying the boss fight's mechanics.
