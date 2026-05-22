@@ -74,7 +74,9 @@ The encounter consists of two bosses that must die at roughly the same time or t
 - Think of the Godskin Duo in Elden Ring.
 - Think of the Trigger Twins in Enter the Gungeon
 
-#### 
+#### **Teleportal**
+
+Players are teleported to another zone/phase/area by an item or the boss, in order to do part of the fight.
 
 ### Boss 1: Knight
 
