@@ -55,7 +55,7 @@ To make the boss fights more interesting and unique, we should try to make each 
 
 Given that each **Boss**'s design is derived from that of an existing enemy, we should play on the existing mechanics of that enemy and try to expand on them in interesting ways for the boss fights.
 
-> It should be noted 
+> It should be noted that the boss fight arenas for Area 01 and Area 02 have already been created without consideration for any boss mechanics. So, we should try to come up with boss mechanics that can work within the existing arenas for Area 01 and Area 02. However, the boss fight arena for Area 03 has not been created yet, so we can design that arena with the boss mechanics in mind.
 
 ### Boss 1: Knight
 
@@ -69,6 +69,8 @@ The existing wraith enemies have the most varied set of mechanics and behaviors 
 - Primordial wraith: Fire wall
 - Tempest wraith: Lightning strike
 - Twilight wraith: Simple shadow ball projectile
+
+This room's arena is very different from the others in the sense that rather than be one large arena, it is split into several smaller sections with teleporters between them. I think we should leverage this
 
 ### Boss 3: Summoner
 
