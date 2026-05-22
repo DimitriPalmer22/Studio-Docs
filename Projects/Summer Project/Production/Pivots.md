@@ -49,8 +49,11 @@ For the locked steps of the tome creation process, should we show the locked opt
 
 To make the boss fights more interesting and unique, we should try to make each boss have a unique **mechanic or gimmick**. Such as:
 - Multi-phase fights, with each phase of the boss having different attacks and behaviors.
+- Environmental hazards or mechanics that the player needs to navigate while fighting the boss.
+- Objectives or conditions that need to be fulfilled before the boss can be damaged or defeated.
+- Minigames or quick-time events that the player needs to complete during the boss fight.
 
-Given that each **Boss**'s design is derived from that of an existing enemy, we should play on 
+Given that each **Boss**'s design is derived from that of an existing enemy, we should play on the existing mechanics of that enemy and try to expand on them in interesting ways for the boss fights.
 
 ### Boss 1: Knight
 
