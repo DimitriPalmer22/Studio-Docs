@@ -70,11 +70,13 @@ The existing wraith enemies have the most varied set of mechanics and behaviors 
 - Tempest wraith: Lightning strike
 - Twilight wraith: Simple shadow ball projectile
 
-This room's arena is very different from the others in the sense that rather than be one large arena, it is split into several smaller sections with teleporters between them. I think we should leverage this
+This room's arena is very different from the others in the sense that rather than be one large arena, it is split into several smaller sections with teleporters between them. I think we should leverage this unique layout.
+- Each section has an objective that needs to be complete in order to progress / damage the boss.
+- In each section, the boss takes on a different wraith form with different mechanics and behaviors. So, the player needs to adapt their strategy and playstyle in order to defeat the boss in each section.
 
 ### Boss 3: Summoner
 
-The summoner enemy's mechanics very clearly rely on the presence of other enemies. So, we can play around with that and make the boss fight's mechanics rely on the presence of other enemies as well. 
+The summoner enemy's mechanics very clearly rely on the presence of other enemies. So, we can play around with that and make the boss fight's mechanics rely on the presence of other enemies as well.
 
 ## Enemies
 
