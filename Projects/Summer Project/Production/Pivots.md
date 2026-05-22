@@ -72,20 +72,24 @@ The boss starts chargin' his laser. Interrupt the spell before it finishes casti
 The encounter consists of two bosses that must die at roughly the same time or terrible things ensue.
 - Think of the Trigger Twins in Enter the Gungeon
 
-#### **Teleportal**
-
-Players are teleported to another zone/phase/area by an item or the boss, in order to do part of the fight.
-
 #### **Two Mobs One Boss**
 
 A pair of mobs with linked health pools, allowing the encounter to require more than one tank and giving positional or other challenges while not having to deal with the question of "what if X dies before Y".
 - Think of the Godskin Duo in Elden Ring.
 - Think of the Trigger Twins in Enter the Gungeon
 
+#### **Teleportal**
+
+Players are teleported to another zone/phase/area by an item or the boss, in order to do part of the fight.
+
 #### **Boom, Headshot!**
 
 A single, very big hit of damage is required to have some special effect on a mob.
 - In our case, this can be our secondary spells. However, this would require our secondaries to frequently be readily available.
+
+#### **Burst Your Bubble**
+
+The boss shields themselves, requiring a burst of DPS to break the shield and interrupt the boss before they cast some kind of Spell Of Doom.
 
 ### Boss 1: Knight
 
