@@ -103,7 +103,13 @@ The boss shields themselves, requiring a burst of DPS to break the shield and in
 
 The boss has a dangerous attack with a long recovery window that is the primary damage opportunity.
 
-**Clone / Doppelganger** — The boss creates decoys or copies of itself that the player must identify and distinguish.
+#### **Clone / Doppelganger**
+
+The boss creates decoys or copies of itself that the player must identify and distinguish.
+
+#### **Timed Execution**
+
+A mechanic that only works if the player does something within a tight time window.
 
 ### Boss 1: Knight
 
