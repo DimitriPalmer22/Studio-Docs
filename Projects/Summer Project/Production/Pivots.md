@@ -149,8 +149,13 @@ The summoner enemy's mechanics very clearly rely on the presence of other enemie
 
 #### Idea 1: 3 (Potentially More) Phases
 
-DURING THE PH
-The boss summons a wave of enemies. While these enemies are alive, the boss is invulnerable (due to being in. The player needs to kill all of the summoned enemies in order to make the boss vulnerable and be able to damage it. Once the boss becomes vulnerable, it will start summoning more enemies. So, the player needs to repeat this process several times in order to defeat the boss. 
+**DURING THE PHASE**
+- The boss summons a wave of enemies.
+- While these enemies are alive, the boss is invulnerable (due to being in an inaccessible part of the level).
+- The player needs to kill all of the summoned enemies in order to make the boss vulnerable and be able to damage it.
+
+**BETWEEN THE PHASES**
+- The boss will try to 
 
 ## Enemies
 
