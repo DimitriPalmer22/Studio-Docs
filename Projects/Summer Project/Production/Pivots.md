@@ -147,6 +147,17 @@ Each area of the level has an associated "Boss" version of one of the three wrai
 
 [**Two Mobs One Boss**](<#**Two Mobs One Boss**>)
 
+Mikel's idea:
+
+Go through first 3 rooms, fighting 1 wraith variation in each room.
+	- Get to end platform, each wraith takes turns coming to the center, 1v1 the player with fodder enemies.
+	- When the player gets a wraith low, it teleports back to its side platform.
+	- After teleporting back, wraith is shielded, rune spawns behind wraith
+	- Each wraith has unique rune that is shielding them
+	- player must identify all 3 runes, and interact with them on a wall or smth among all the other "incorrect" runes
+
+![](<../../../_Meta/Attachments/Pasted image 20260522214848.png>)
+
 ### Boss 3: Summoner
 
 The summoner enemy's mechanics very clearly rely on the presence of other enemies. So, we can play around with that and make the boss fight's mechanics rely on the presence of other enemies as well.
