@@ -123,7 +123,10 @@ In terms of mechanics and abilities, the existing knight enemies in the game are
 
 #### Idea 1
 
-[[#ur]]
+**During Straight Up Combat**
+
+**While Shielded**
+[**Burst Your Bubble**](<#**Burst Your Bubble**>)
 
 ### Boss 2: Wraith
 
