@@ -176,6 +176,8 @@ Between phases the boss will try to recover. Stop it before it successfully reco
 - If the summoner successfully recovers, they heal themselves (not fully) and restart the current phase.
 - If the player manages to prevent the summoner from recovering, the fight progresses to the next phase / finishes if the enemy dies.
 
+- ANOTHER IDEA: the player needs to stand in a specific area (like a circle on the ground or something) to indicate which enemy is NOT the doppelganger.
+
 ## Enemies
 
 ### Unfinished Azalee Enemy
