@@ -145,6 +145,8 @@ Each area of the level has an associated "Boss" version of one of the three wrai
 	- For example, at first the boss wraith will be in an inaccessible part of the level, still firing spells at the player.
 	- Once the player finishes the objective (kills the rest of the wave & interacts with something, idk), the wraith gets warped into the main area and becomes vulnerable.
 
+[**Two Mobs One Boss**](<#**Two Mobs One Boss**>)
+
 ### Boss 3: Summoner
 
 The summoner enemy's mechanics very clearly rely on the presence of other enemies. So, we can play around with that and make the boss fight's mechanics rely on the presence of other enemies as well.
