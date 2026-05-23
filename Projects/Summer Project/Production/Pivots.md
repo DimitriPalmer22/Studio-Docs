@@ -121,7 +121,9 @@ In terms of mechanics and abilities, the existing knight enemies in the game are
 - Focus less on the boss itself.
 - Focus more on the overall fight's mechanics and the environment of the fight.
 
-####
+#### Idea 1
+
+[[#ur]]
 
 ### Boss 2: Wraith
 
