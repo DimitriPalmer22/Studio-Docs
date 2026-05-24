@@ -45,4 +45,7 @@ Experiment Log 1:
 - Find an unused tome somewhere and channel the energy from it. (Spam E minigame).
 - After picking up this log, this *unused tome* can be found on any of the journal tables in the game.
 - When the player interacts with the tome, they will have to spam the E key to channel the energy from the tome into themselves.
-- I *do* have placeholder text for after
+- I *do* have placeholder text for after the player picks up the log, but it can be rewritten if you think of something better.
+
+Experiment Log 2:
+- 
