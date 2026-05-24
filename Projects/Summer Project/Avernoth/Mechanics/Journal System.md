@@ -14,7 +14,7 @@ Standard journal entries are just notes that The Archmage wrote while he was in 
 
 By default, the magic run accompanying this journal entry can be seen by [Allister](<../Narrative/Characters/Allister.md>) and his allies.
 
-### Research Log
+### Experiment Log
 
 Research logs are journal entries that take note of any **experiments** the Archmage was performing while continuing his research in Avernoth.
 
