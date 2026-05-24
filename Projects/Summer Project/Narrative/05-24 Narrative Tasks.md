@@ -26,3 +26,9 @@ We might need to scale down & redistribute the number of [Experiment Logs](<../A
 In terms of the game's general dialogue, we might need to reduce the amount of non-essential dialogue in the game ([Click here for more](<../Meeting Notes/05-11 Meeting Notes.md#Narrative & Dialogue>))
 - A lot of the dialogue in the game is meant to add flavor and make the world feel more lived-in, but it doesn't really add much to the core gameplay experience. So, we might need to cut down on some of the non-essential dialogue to free up time for other things.
 
+Boss fights are going to be a thing ([Click here to read more](<../Meeting Notes/05-11 Meeting Notes.md#Boss Levels & Boss Fights>)).
+- Our "boss rooms" are very lackluster
+- Rather than get unique enemy assets for these rooms, we can lean harder into having unique mechanics / objectives for the boss rooms
+- These *are* going to need at least a little dialogue from the characters.
+
+##
