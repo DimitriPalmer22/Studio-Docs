@@ -41,5 +41,8 @@ Write / implement the following text for ***THREE*** experiment logs:
 - Text for after the player completes the experiment log's quest.
 
 Experiment Log 1:
+- Note: This *is* the first experiment log in the game.
 - Find an unused tome somewhere and channel the energy from it. (Spam E minigame).
-- After picking up this log, this *unused tome* 
+- After picking up this log, this *unused tome* can be found on any of the journal tables in the game.
+- When the player interacts with the tome, they will have to spam the E key to channel the energy from the tome into themselves.
+- I *do* have placeholder text for after
