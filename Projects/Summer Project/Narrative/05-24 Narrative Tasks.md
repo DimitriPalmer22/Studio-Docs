@@ -33,4 +33,4 @@ Boss fights are going to be a thing ([Click here to read more](<../Meeting Notes
 
 ## Task
 
-Write / implement the 
+Write / implement the text for two journal entries:
