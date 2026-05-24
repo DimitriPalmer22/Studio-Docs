@@ -18,7 +18,11 @@ The questions at the beginning of the game are getting scrapped ([Click here for
 - The amount of content we have in the game doesn't really justify this
 - We don't have enough of them implemented at this point to really get a feel for how we want them to be (not just style-wise, but how they affect gameplay).
 
-We might need to scale down & redistribute the number of [Experiment Logs](<../Avernoth/Mechanics/Journal System.md#Experiment Log>) ([Overarching Progress / Completing the Game](<../Meeting Notes/05-11 Meeting Notes.md#Overarching Progress / Completing the Game>))
+We might need to scale down & redistribute the number of [Experiment Logs](<../Avernoth/Mechanics/Journal System.md#Experiment Log>) ([Click here for more](<../Meeting Notes/05-11 Meeting Notes.md#Overarching Progress / Completing the Game>))
 - Each one of these requires a unique experiment that the player has to recreate, which is a lot of work to design and implement.
 - Each minigame requires some type of UI element or something to indicate the player's progress in the experiment
 - Each log also requires written text that matches the experiment.
+
+In terms of the game's general dialogue, we might need to reduce the amount of non-essential dialogue in the game ([Click here for more](<../Meeting Notes/05-11 Meeting Notes.md#Narrative & Dialogue>))
+- A lot of the dialogue in the game is meant to add flavor and make the world feel more lived-in, but it doesn't really add much to the core gameplay experience. So, we might need to cut down on some of the non-essential dialogue to free up time for other things.
+
