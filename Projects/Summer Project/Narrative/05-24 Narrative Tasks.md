@@ -42,4 +42,4 @@ Write / implement the following text for ***THREE*** experiment logs:
 
 Experiment Log 1:
 - Find an unused tome somewhere and channel the energy from it. (Spam E minigame).
-- 
+- After picking up this log, this *unused tome* 
