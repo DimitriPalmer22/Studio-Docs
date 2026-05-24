@@ -33,4 +33,7 @@ Boss fights are going to be a thing ([Click here to read more](<../Meeting Notes
 
 ## Task
 
-Write / implement the text for two journal entries:
+Write / implement the following text for two experiment logs:
+- The text of the experiment log itself.
+- (If necessary) Text 
+- 
