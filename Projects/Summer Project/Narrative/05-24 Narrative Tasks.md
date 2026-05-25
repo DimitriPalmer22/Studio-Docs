@@ -35,7 +35,7 @@ Boss fights are going to be a thing ([Click here to read more](<../Meeting Notes
 
 I'm still feeling out how many logs each chapter should have and what they should be. So, in the meantime, you can work on this.
 
-Write / implement the following text for ***THREE*** experiment logs:
+Write / implement the following text for ***TWO*** experiment logs:
 - The text of the experiment log itself.
 - (If necessary) Text for immediately after the player picks up the log.
 - Text for after the player completes the experiment log's quest.
