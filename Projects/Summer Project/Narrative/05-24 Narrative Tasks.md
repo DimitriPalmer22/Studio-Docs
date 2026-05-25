@@ -40,7 +40,7 @@ Write / implement the following text for ***TWO*** experiment logs:
 - (If necessary) Text for immediately after the player picks up the log.
 - Text for after the player completes the experiment log's quest.
 
-[[]]
+[[../Meeting Notes/03-19 Narrative Meeting Notes.md#|03-19 Narrative Meeting Notes]]
 
 Experiment Log 1:
 - Note: This *is* the very first experiment log in the game.
@@ -55,4 +55,4 @@ Experiment Log 2:
 - The player must mix the contents around to create a new substance.
 - Upon completing the minigame, the water turns from blue to red.
 
-> NOTE: I'm not having you write the torch pattern minigame yet because it isn't *completely* 
+> NOTE: I'm not having you write the torch pattern minigame yet because it isn't *completely* designed yet.
