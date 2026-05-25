@@ -35,17 +35,19 @@ Boss fights are going to be a thing ([Click here to read more](<../Meeting Notes
 
 I'm still feeling out how many logs each chapter should have and what they should be. So, in the meantime, you can work on this.
 
-Write / implement the following text for ***TWO*** experiment logs:
+Write / implement the following text for ***THREE*** experiment logs:
 - The text of the experiment log itself.
 - (If necessary) Text for immediately after the player picks up the log.
 - Text for after the player completes the experiment log's quest.
 
 Experiment Log 1:
-- Note: This *is* the first experiment log in the game.
+- Note: This *is* the very first experiment log in the game.
 - Find an unused tome somewhere and channel the energy from it. (Spam E minigame).
 - After picking up this log, this *unused tome* can be found on any of the journal tables in the game.
 - When the player interacts with the tome, they will have to spam the E key to channel the energy from the tome into themselves.
 - I *do* have placeholder text for after the player picks up the log, but it can be rewritten if you think of something better.
 
 Experiment Log 2:
-- 
+- The cauldron stirring minigame. (Spam E minigame)
+- The player must find a special cauldron in one of the levels (*covered in sparkles*).
+- The player must mix the contents around to create 
