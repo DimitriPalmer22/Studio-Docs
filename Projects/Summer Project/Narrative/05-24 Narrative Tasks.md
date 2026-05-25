@@ -35,12 +35,12 @@ Boss fights are going to be a thing ([Click here to read more](<../Meeting Notes
 
 I'm still feeling out how many logs each chapter should have and what they should be. So, in the meantime, you can work on this.
 
-Write / implement the following text for ***TWO*** experiment logs:
+Write the following text for ***TWO*** experiment logs:
 - The text of the experiment log itself.
 - (If necessary) Text for immediately after the player picks up the log.
 - Text for after the player completes the experiment log's quest.
 
-[[../Meeting Notes/03-19 Narrative Meeting Notes.md#|03-19 Narrative Meeting Notes]]
+> Note: Don't worry about implementation right this second. When I send the rest of the itemized list of what to write is when you can start implementing.
 
 Experiment Log 1:
 - Note: This *is* the very first experiment log in the game.
