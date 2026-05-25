@@ -40,6 +40,8 @@ Write / implement the following text for ***THREE*** experiment logs:
 - (If necessary) Text for immediately after the player picks up the log.
 - Text for after the player completes the experiment log's quest.
 
+[[]]
+
 Experiment Log 1:
 - Note: This *is* the very first experiment log in the game.
 - Find an unused tome somewhere and channel the energy from it. (Spam E minigame).
@@ -50,4 +52,9 @@ Experiment Log 1:
 Experiment Log 2:
 - The cauldron stirring minigame. (Spam E minigame)
 - The player must find a special cauldron in one of the levels (*covered in sparkles*).
-- The player must mix the contents around to create 
+- The player must mix the contents around to create a new substance.
+- Upon completing the minigame, the water turns from blue to red.
+
+Experiment Log 3:
+- d
+- d
