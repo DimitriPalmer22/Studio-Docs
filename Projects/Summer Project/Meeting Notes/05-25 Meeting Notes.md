@@ -4,6 +4,8 @@
 
 ### Tome Beginning Process "Completed"
 
+- 
+
 ### Boss Level Ideas / WIP
 
 In summary, we can't expect to get completely unique enemies for our "boss rooms." Instead, our boss rooms will focus more on having unique mechanics. [Click here for more](<../Production/Pivots.md#Boss Levels>).
