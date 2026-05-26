@@ -4,11 +4,18 @@
 
 ### Tome Beginning Process "Completed"
 
-- 
+[Click here to read more](<../Production/Pivots.md#Tome Altar>)
+
+Functionally, complete.
+Still looks bad.
 
 ### Boss Level Ideas / WIP
 
 In summary, we can't expect to get completely unique enemies for our "boss rooms." Instead, our boss rooms will focus more on having unique mechanics. [Click here for more](<../Production/Pivots.md#Boss Levels>).
+
+### Normal Levels
+
+
 
 ## Plans Going Forward
 
