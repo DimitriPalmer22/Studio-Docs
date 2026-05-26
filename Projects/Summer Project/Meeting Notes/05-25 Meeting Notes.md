@@ -22,9 +22,15 @@ In summary, we can't expect to get completely unique enemies for our "boss rooms
 - Primordial one is *almost* done.
 - The actual end room itself needs to be done.
 
-
 ## Plans Going Forward
 
 - Let Erin know to straighten out the cloth part of the new enemy so it can be animated properly.
 - If Brian was working on a level before he left, look into finishing that level.
 - Continue working on character portraits.
+
+- Finish the mechanics of the boss fights.
+- Mikel is gonna continue working on the end rooms.
+- Try to set up the logic for getting into the correct end room at the end of the game.
+- Erin is gonna 
+	- fix the lower end of the summoner enemies to make them more animatable w/ cloth physics
+	- texture the summoner enemies
