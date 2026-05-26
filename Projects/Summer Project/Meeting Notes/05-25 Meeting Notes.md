@@ -31,5 +31,6 @@ In summary, we can't expect to get completely unique enemies for our "boss rooms
 	- fix the lower end of the summoner enemies to make them more animatable w/ cloth physics
 	- texture the summoner enemies
 - Continue working on character portraits.
-- Update the designs of the knight enemies by giving them helmet variations. Just having the different variations be recolors isn't very intersetin
-	- 
+- Update the designs of the knight enemies by giving them helmet variations. Just having the different variations be recolors isn't very interesting visually.
+	- Idk, add a plume or something to some of them?
+	- Add horns? idk, just an idea.
