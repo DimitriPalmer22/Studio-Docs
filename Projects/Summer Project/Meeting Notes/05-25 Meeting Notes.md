@@ -10,5 +10,6 @@ In summary, we can't expect to get completely unique enemies for our "boss rooms
 
 ## Plans Going Forward
 
+- Let Erin know to straighten out the cloth part of the new enemy so it can be animated properly.
 - If Brian was working on a level before he left, look into finishing that level.
 - Continue working on character portraits.
