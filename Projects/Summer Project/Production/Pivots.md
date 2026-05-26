@@ -191,6 +191,8 @@ Between phases the boss will try to recover. Stop it before it successfully reco
 	- To further disorient the player, we'll do a white screen flash and play a sound effect when the summoner spawns its clones.
 	- There *SHOULD* be some consistent visual element that the player can learn to identify in order to be able to tell which one is the real summoner. Otherwise, it would just be a coin flip every time and that would be really frustrating.
 - Attacking the wrong clone stuns the player for a short duration (getting the summoner closer to recovering)
+	- Also, hitting the wrong clone doesn't kill the clone
+	- Also, shuffles the clones around to make it more difficult to identify the real summoner on the next attempt.
 - If the summoner successfully recovers, they heal themselves (not fully) and restart the current phase.
 - If the player manages to prevent the summoner from recovering, the fight progresses to the next phase / finishes if the enemy dies.
 
