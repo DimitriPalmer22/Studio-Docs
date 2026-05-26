@@ -15,6 +15,12 @@ In summary, we can't expect to get completely unique enemies for our "boss rooms
 
 ### Normal Levels
 
+- Still working on getting these in.
+
+### End Rooms
+
+- Primordial one is *almost* done.
+- The actual end room itself needs to be done.
 
 
 ## Plans Going Forward
