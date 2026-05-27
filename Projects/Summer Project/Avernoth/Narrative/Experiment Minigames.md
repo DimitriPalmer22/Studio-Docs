@@ -40,7 +40,9 @@ These are the quests that are meant to be a bit more "involved" than the simple 
 
 ### Absorb Energy from the "Sun"(?) Minigame
 
-In a room, there is a section where the room is open to the sky.
+In a room, there is a section where the room is open to the sky (there is a hole cut out in the ceiling). On the ground, in the section that is exposed to the "sky", there is a magical rune. This experiment aims to capture the energy from the "sun".
+
+The player must walk over this rune and interact with it to activate the minigame. Once the minigame is started,  
 
 ## Advanced Quests
 
