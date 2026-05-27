@@ -52,9 +52,9 @@ Once the minigame is started, enemies will begin to manifest (due to the large a
 
 These quests are even more "involved" than the intermediate quests. They might have a lot of steps to them, or might be quite difficult to complete.
 
-### Pick up an "Experimental" Addendum & Beat
+### Pick up an "Experimental" Addendum & Beat a Boss Minigame
 
-In some level, there will be a floating page that is covered in sparkles to indicate its importance. When the player interacts with this page, they will pick up an addendum that
+In some level, there will be a floating page that is covered in sparkles to indicate its importance. This is an [Addendum](<../Mechanics/Addendums.md>). When the player interacts with this page, they will pick up an addendum that
 - Harshly lowers defense
 - Allows the user to dodge twice in a row before the dodge cooldown activates.
 
