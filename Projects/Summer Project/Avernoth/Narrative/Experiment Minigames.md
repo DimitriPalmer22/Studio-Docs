@@ -4,6 +4,8 @@ These are the specific minigames that the player will have to complete in order 
 
 ## Simple Quests
 
+These are the more basic quests found in the earlier chapters of the game. They are meant to be more straightforward and easier to complete.
+
 ### Channel Energy From Tome Minigame
 
 After starting the quest that uses this minigame, tomes will begin appearing on the journal tables. When the player interacts with one of these tomes, they will have to spam the E key to channel the energy from the tome into themselves. Once they have successfully channeled the energy, they will have completed the minigame.
@@ -34,8 +36,12 @@ The player can interact with the forge to imbue the weapon with magic. When they
 
 ## Intermediate Quests
 
+These are the quests that are meant to be a bit more "involved" than the simple quests. They might have more steps to them, or might be a little more difficult to complete.
+
 ###
 
-## Difficult Quests
+## Advanced Quests
+
+These quests are even more "involved" than the intermediate quests. They might have a lot of steps to them, or might be quite difficult to complete.
 
 ###
