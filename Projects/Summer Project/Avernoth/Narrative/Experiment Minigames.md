@@ -20,7 +20,7 @@ Once the minigame has started, the torches will flash in a specific pattern. The
 
 Once the player successfully repeats the pattern, they will have completed the minigame.
 
-### Imbue Weapon with Magic Minigame
+## Imbue Weapon with Magic Minigame
 
 In a room, there will be a weapon laying in / at a forge (like in the image below).
 
@@ -30,4 +30,4 @@ The player can interact with the forge to imbue the weapon with magic. When they
 
 > Note: Allister does not use this weapon afterward. It's just for the sake of the quest and the minigame.
 
-###
+## 
