@@ -6,6 +6,8 @@ These are the specific minigames that the player will have to complete in order 
 
 ## Cauldron Stirring Minigame
 
+After starting the quest that uses this minigame, tomes will begin appearing on the journal tables.
+
 ## Torch Pattern Minigame
 
 In a room, there will be a large magical rune on the ground. The player must walk over this rune and interact with it to activate the minigame. Nearby, surrounding the rune will be several lit torches.
