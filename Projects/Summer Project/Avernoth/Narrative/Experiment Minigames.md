@@ -40,7 +40,7 @@ These are the quests that are meant to be a bit more "involved" than the simple 
 
 ### Absorb Energy from the "Sun"(?) Minigame
 
-
+In a room, there is a section where the room is open to the sky.
 
 ## Advanced Quests
 
