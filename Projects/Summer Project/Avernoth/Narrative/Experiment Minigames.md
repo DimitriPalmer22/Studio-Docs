@@ -64,4 +64,5 @@ I need a way to document a variety of unique characteristics per level so I can 
 	- Furnaces can be used for some type of quest
 - A01R05 - A level that is literally underground. Also has a large room with an open skylight.
 	- We can describe the room with the "underground" aspect.
-	-
+	- We can describe the open skylight portion of the room as well.
+	- We can place quest items in this open skylight portion. Idk, we can place a rune on the ground or something that the player has to interact with for a quest.
