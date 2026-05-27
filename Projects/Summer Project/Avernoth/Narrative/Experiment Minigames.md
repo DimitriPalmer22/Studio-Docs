@@ -42,7 +42,11 @@ These are the quests that are meant to be a bit more "involved" than the simple 
 
 In a room, there is a section where the room is open to the sky (there is a hole cut out in the ceiling). On the ground, in the section that is exposed to the "sky", there is a magical rune. This experiment aims to capture the energy from the "sun".
 
-The player must walk over this rune and interact with it to activate the minigame. Once the minigame is started,  
+The player must walk over this rune and interact with it to activate the minigame. Absorbing the energy from the "sun" takes a little while.
+
+Once the minigame is started, enemies will begin to manifest (due to the large amount of residual mana). The player must defeat these enemies to complete the quest.
+
+> Note: The Archmage did not have to deal with any enemies while he was performing the original experiment. However, you, the player, do. Theref
 
 ## Advanced Quests
 
