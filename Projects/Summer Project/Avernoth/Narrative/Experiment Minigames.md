@@ -45,3 +45,12 @@ These are the quests that are meant to be a bit more "involved" than the simple 
 These quests are even more "involved" than the intermediate quests. They might have a lot of steps to them, or might be quite difficult to complete.
 
 ###
+
+---
+
+## Unique Level Characteristics
+
+I need a way to document a variety of unique characteristics per level so I can come up with more unique ideas for the experiment logs and the quests that the player has to complete for those logs.
+
+- A01R01 - Has a variety of (closed) doors that don't go anywhere. If possible, I *can* make one of these doors open for the quest and put something behind it.
+- A01R02 -
