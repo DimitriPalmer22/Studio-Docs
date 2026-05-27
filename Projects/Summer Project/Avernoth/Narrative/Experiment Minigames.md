@@ -8,7 +8,7 @@ These are the more basic quests found in the earlier chapters of the game. They 
 
 ### Channel Energy From Tome Minigame
 
-After starting the quest that uses this minigame, tomes will begin appearing on the journal tables. When the player interacts with one of these tomes, they will have to spam the E key to channel the energy from the tome into themselves. Once they have successfully channeled the energy, they will have completed the minigame.
+After starting the quest that uses this minigame, tomes will begin appearing on the journal tables (these tomes will be covered in sparkles to indicate their importance). When the player interacts with one of these tomes, they will have to spam the E key to channel the energy from the tome into themselves. Once they have successfully channeled the energy, they will have completed the minigame.
 
 > Note: This tome is not used for anything. Allister doesn't pick this tome up and use it or anything. It is just for the sake of the quest and the minigame.
 
