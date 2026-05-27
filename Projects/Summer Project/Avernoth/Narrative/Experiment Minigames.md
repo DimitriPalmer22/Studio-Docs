@@ -62,4 +62,6 @@ I need a way to document a variety of unique characteristics per level so I can 
 	- We can draw power from the huge crystal or something.
 - A01R04 - Has two large furnaces near the entrance.
 	- Furnaces can be used for some type of quest
-- A01R05 - 
+- A01R05 - A level that is literally underground. Also has a large room with an open skylight.
+	- We can describe the room with the "underground" aspect.
+	-
