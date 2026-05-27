@@ -52,5 +52,9 @@ These quests are even more "involved" than the intermediate quests. They might h
 
 I need a way to document a variety of unique characteristics per level so I can come up with more unique ideas for the experiment logs and the quests that the player has to complete for those logs.
 
-- A01R01 - Has a variety of (closed) doors that don't go anywhere. If possible, I *can* make one of these doors open for the quest and put something behind it.
-- A01R02 -
+- A01R01 - Has a variety of (closed) doors that don't go anywhere. 
+	- If possible, I *can* make one of these doors open for the quest and put something behind it.
+- A01R02 - Large open room with a large number of torch braziers in it. Also, there are a lot of upturned tables in this room.
+	- I can use the torches for the brazier puzzle.
+	- I can use the upturned tables to describe the room
+- A
