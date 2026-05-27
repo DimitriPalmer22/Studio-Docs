@@ -57,4 +57,6 @@ I need a way to document a variety of unique characteristics per level so I can 
 - A01R02 - Large open room with a large number of torch braziers in it. Also, there are a lot of upturned tables in this room.
 	- I can use the torches for the brazier puzzle.
 	- I can use the upturned tables to describe the room
-- A
+- A01R03 - Has a (inaccessible) cauldron in it. Also has plenty of little cubbies that have tables in them. Also has a HUGE crystal near the entrance. Also has an upstairs portion that is inaccessible, but can probably be accessed for a quest.
+	- Cauldron can be used for cauldron quest if we move the stuff out of the way
+	- Huge cryu
