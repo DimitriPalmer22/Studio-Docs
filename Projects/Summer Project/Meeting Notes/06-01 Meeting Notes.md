@@ -10,6 +10,11 @@ Code-wise, the functionality for getting to the end rooms *should* be complete.
 
 > Note: Small bug, the player is falling through the floor when entering the room through the game, but we'll fix this…
 
+### Boss Fight 03 WIP
+
+I have been working on the third boss fight, but I haven't had much time to work on it this week. So, it's still a WIP.
+- The boss has it's abilities coded, but doesn't know when to use them yet.
+
 ## Plans Going Forward
 
 ### Baking Lights and Large Pushes
@@ -40,6 +45,12 @@ Daunte has made some updated models for the knights' helmets. We need to impleme
 ### Merge Andre's Changes into Main
 
 Andre has:
-- made the animations for the third and final primary attack set in the game. 
+- made the animations for the third and final primary attack set in the game.
 - made some new dodge animations exclusive to that set of attacks as well.
-- concepted an "afterimage" that gets left behind when
+- concepted an "afterimage" that gets left behind when they dodge.
+
+We need these in main so we can start incorporating them into the main game.
+
+### Continue Working on Boss Fight 03 and Eventually Boss Fight 02
+
+I'll keep working on 
