@@ -35,4 +35,11 @@ Mikel, at some point, make a PR so we have the updated versions of the end rooms
 
 Daunte has made some updated models for the knights' helmets. We need to implement those at some point.
 
-> NOTE: Daunte, before you push to your branch again, make sure to update your branch from main. It's been a couple months since you last did this, so trying to merge your changes into the main branch *most likely will cause merge conflicts*. If after 
+> NOTE: Daunte, before you push to your branch again, make sure to update your branch from main. It's been a couple months since you last did this, so trying to merge your changes into the main branch *most likely will cause merge conflicts*. If after updating the project, it doesn't open, let me know. I can help with that.
+
+### Merge Andre's Changes into Main
+
+Andre has:
+- made the animations for the third and final primary attack set in the game. 
+- made some new dodge animations exclusive to that set of attacks as well.
+- concepted an "afterimage" that gets left behind when
