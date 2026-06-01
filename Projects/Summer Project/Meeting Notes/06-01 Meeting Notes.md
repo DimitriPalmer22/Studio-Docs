@@ -23,3 +23,5 @@ However, I increased the budget for the project within GitHub (Up to $3 per mont
 The list of objectives the player needs to complete for each chapter is almost complete (in terms of ideation). Hopefully, it'll be done earlier in the week so that I can start implementing the quests and objectives for each chapter in the game.
 
 Once we get this going, the game's real progression should be set up and ready to go.
+
+A WIP list of these objectives is in this document
