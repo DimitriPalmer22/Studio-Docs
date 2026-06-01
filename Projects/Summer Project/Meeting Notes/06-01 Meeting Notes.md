@@ -53,4 +53,8 @@ We need these in main so we can start incorporating them into the main game.
 
 ### Continue Working on Boss Fight 03 and Eventually Boss Fight 02
 
-I'll keep working on 
+I'll keep working on the boss fight concepts so that we can eventually implement them into the game. Boss fight 03 is the one I'm working on right now, but eventually, I'll get to boss fight 02 as well. I want to try to have both of these done by the end of the week.
+
+### Continue Working on Character Portraits
+
+Alecks will keep working on the character portraits.
