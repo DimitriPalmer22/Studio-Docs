@@ -24,4 +24,9 @@ The list of objectives the player needs to complete for each chapter is almost c
 
 Once we get this going, the game's real progression should be set up and ready to go.
 
-A WIP list of these objectives is in this document
+- A WIP list of these objectives is in [this document](<../Avernoth/Narrative/Experiment Minigames.md>).
+- You can also see a chart of these objectives in [this Google Sheet](https://docs.google.com/spreadsheets/d/1pjRz5dA8ngFP_Ry3ltzbb2U_9H8KCBFXYC4ikuIb2-Q/edit?usp=sharing).
+
+### Continue Working on the End Rooms
+
+Mikel, at some point, make a PR so we have the updated versions of the end rooms in the main branch.
