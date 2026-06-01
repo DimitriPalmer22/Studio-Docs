@@ -30,3 +30,9 @@ Once we get this going, the game's real progression should be set up and ready t
 ### Continue Working on the End Rooms
 
 Mikel, at some point, make a PR so we have the updated versions of the end rooms in the main branch.
+
+### Implement Daunte's Updated Models
+
+Daunte has made some updated models for the knights' helmets. We need to implement those at some point.
+
+> NOTE: Daunte, before you push to your branch again, make sure to update your branch from main. It's been a couple months since you last did this, so trying to merge your changes into the main branch *most likely will cause merge conflicts*. If after 
