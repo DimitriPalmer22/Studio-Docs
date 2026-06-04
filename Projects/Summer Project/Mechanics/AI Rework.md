@@ -13,3 +13,7 @@ AI System Components:
 I need to create a system that allows me to:
 - inject unique behaviors into the state tree for each enemy type.
 - preserve the overall structure of the state tree between different enemy types
+
+---
+
+![AI Rework Graph](<./AI Rework Graph.png>)
