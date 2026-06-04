@@ -15,7 +15,8 @@ I need to create a system that allows me to:
 - preserve the overall structure of the state tree between different enemy types
 
 I can implement custom behaviors by:
-- Using a custom schema to allow 
+- Using a custom schema to allow unique variables to be set & guaranteed for each tree
+- Using "parallel tree tasks" w/ custom parameters to define unique behaviors for each enemy type that can be injected into the state tree at runtime.
 
 ---
 
