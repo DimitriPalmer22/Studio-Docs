@@ -14,6 +14,9 @@ I need to create a system that allows me to:
 - inject unique behaviors into the state tree for each enemy type.
 - preserve the overall structure of the state tree between different enemy types
 
+I can implement custom behaviors by:
+- Using a custom schema to allow 
+
 ---
 
 ![AI Rework Graph](<./AI Rework Graph.png>)

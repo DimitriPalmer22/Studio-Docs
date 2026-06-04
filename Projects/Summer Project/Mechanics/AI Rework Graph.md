@@ -39,7 +39,9 @@ In Combat ^M2kW6dxD
 Can enter only when certain conditions are met? ^W8DmXmwv
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbgg2XEIAGQBlGAAOAHkU4shYRHLA7CiOZWDWksxuZ3iABjH+EpgRgHYJqcgKEnVu
 
@@ -141,4 +143,5 @@ yM3APkVeq9XkYciUw4yRR38SUH0BAZngpAeboUdyMVHIAVR0gDUf0OaBDD5Rt0REbsDdZhs0Wj5HAF0M
 
 Y2skOFVo5q2IXEOEDL1zgZwQAA==
 ```
+
 %%
