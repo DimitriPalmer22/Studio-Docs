@@ -17,7 +17,7 @@ I need to create a system that allows me to:
 I can implement custom behaviors by:
 - Using a custom schema to allow unique variables to be set & guaranteed for each tree
 - Using "parallel tree tasks" w/ custom parameters to define unique behaviors for each enemy type that can be injected into the state tree at runtime.
-- Using custom variable values to tweak
+- Using custom variable values to tweak the behavior of certain tasks (e.g. how long the enemy should wait before attacking, how long they should chase the player, etc.)
 
 ---
 
