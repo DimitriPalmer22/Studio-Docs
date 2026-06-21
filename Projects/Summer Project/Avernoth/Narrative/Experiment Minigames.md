@@ -64,7 +64,7 @@ In some level, there will be a floating page that is covered in sparkles to indi
 
 ---
 
-> Note: Ignore this part for right now. This is just for brainstorming.
+> Note: Ignore the part below this. This is just for brainstorming.
 ## Unique Level Characteristics
 
 I need a way to document a variety of unique characteristics per level so I can come up with more unique ideas for the experiment logs and the quests that the player has to complete for those logs.
