@@ -3,6 +3,7 @@
 9 people are gonna be out of town from Tuesday to Thursday. We come back Friday, but idk how available people will be that day.
 
 ### Who's Going? (9 People)
+
 - Dimitri
 - Andre
 - Mikel

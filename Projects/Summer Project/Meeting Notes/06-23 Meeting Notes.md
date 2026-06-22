@@ -104,6 +104,7 @@ Upgrade rooms are places where the player receives FREE upgrades to their tome.
 - This should address the issue of the player's strength scaling with the difficulty of the game.
 
 ##### Idea 2: Enchantment Table
+
 - The upgrade room contains an enchantment table.
 - Normally, Allister doesn't know how to use it, but one of his allies is able to walk him through the process.
 	- This implies that there would be some type of dialogue portal or something that the player can interact with to upgrade their tome.
@@ -116,6 +117,7 @@ The shop is a place where the player can purchase items to help them on their jo
 The shop is more like a workshop where the player can use the magic residue to "craft" items n whatnot.
 
 ##### Possible Items to Purchase
+
 - Consumables (like how in Enter The Gungeon, you can buy keys or blanks)
 - Other Tomes (if you are displeased with the tome you have, you can purchase a new one)
 - Upgrades for the player's max health
@@ -129,12 +131,14 @@ The shop is more like a workshop where the player can use the magic residue to "
 - Is there a shopkeeper in the shop? What is stopping Allister from just taking the items?
 
 ##### Gameplay Considerations for the Shop
+
 - Allowing the player to get items too easily within the shop dampens the difficulty of the game.
 - So, we should
 	- Make items pretty expensive
 	- Don't allow items to infinitely restock
 
 ### Currency
+
 - Currency - Magic residue that the enemies drop
 	- can be used to upgrade upgrades and buy stuff from the shop
 
@@ -146,6 +150,7 @@ The shop is more like a workshop where the player can use the magic residue to "
 	- Whene
 
 #### Extra Idea for Currency
+
 - As of right now, the upgrade rooms are completely free, and the items in the shop are not the most compelling thing in the world to spend money on.
 - Also, since our game is completely linear, the player can't really go back to a shop or upgrade room once they leave.
 - We can use these rooms as gates to reward the player for good gameplay.

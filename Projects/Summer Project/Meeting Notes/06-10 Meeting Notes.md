@@ -1,4 +1,3 @@
-
 # POC Can Actually Be Delivered This Week
 
 - I know that I've been pushing the POC deadline back a lot, but I think we can actually deliver a product this week.
@@ -28,7 +27,9 @@
 	- The placeholders I put in a couple weeks ago HAVE TO GO
 - Any Enemy behavior
 	- There's literally no enemy behavior
+
 #### Env. Art Asset List
+
 - Mikel is going to put together a list of props that we need. The other designers can also contribute to this list.
 	- This can't *just* be a list of the types of props
 	- Stylistic references are needed as well. Provide refs for the two bullet points below
@@ -38,6 +39,7 @@
 - Also, try to think about props that will decorate the upper sections of the rooms. They're not just going to be empty spaces, so we need props that will fill them up.
 
 #### Character Portrait
+
 - Magnus should be posed in a way that shows off his gloves
 
 # C++ Conversion
@@ -57,6 +59,7 @@ This is what took up the majority of my time last week, which is why there have 
 With that being said, though, any feature I need to do should come out WAYYYYYYY quicker from now on.
 
 # Dept. Meetings
+
 - 2D artist + Narrative Designer: 12pm Saturday
 - Level Designers: 3pm Friday
 - Environmental Artists: 5pm Friday

@@ -1,3 +1,5 @@
+# 06-20 LD Meeting
+
 ### ClickUp Changes
 
 - Designers are gonna be using Clickup A LOT more
@@ -35,6 +37,7 @@ Upgrade rooms are places where the player receives FREE upgrades to their tome.
 I currently have 2 ideas for how the upgrade room should be implemented. We'll run a poll or something in the weekly group meeting for what the upgrade room should be.
 
 ##### Idea 1: Another Person Inside Avernoth
+
 - Inside the upgrade room, Allister finds another person.
 - This person is also someone who has been sealed within Avernoth during the current war.
 - This person has the special ability to upgrade your tome.
@@ -49,6 +52,7 @@ This idea does raise a couple concerns:
 	- How do they manage to be found in the upgrade room(s) of every floor? Are they following Allister or are they just chilling there by coincidence?
 
 ##### Idea 2: Enchantment Table
+
 - The upgrade room contains an enchantment table.
 - Normally, Allister doesn't know how to use it, but one of his allies is able to walk him through the process.
 	- This implies that there would be some type of dialogue portal or something that the player can interact with to upgrade their tome.
@@ -59,6 +63,7 @@ This idea does raise a couple concerns:
 The shop is a place where the player can purchase items to help them on their journey. The items the player gets in the shop are distinct from the upgrades they get within the upgrade room.
 
 ##### Possible Items to Purchase
+
 - Consumables (like how in Enter The Gungon, you can buy keys or blanks)
 - Other Tomes (if you are displeased with the tome you have, you can purchase a new one)
 - Upgrades for the player's max health
@@ -72,12 +77,14 @@ The shop is a place where the player can purchase items to help them on their jo
 - Is there a shopkeeper in the shop? What is stopping Allister from just taking the items?
 
 ##### Gameplay Considerations for the Shop
+
 - Allowing the player to get items too easily within the shop dampens the difficulty of the game.
 - So, we should
 	- Make items pretty expensive
 	- Don't allow items to infinitely restock
 
 ### Currency
+
 - It doesn't make sense for the currency to be gold or money.
 - We know that, like most rogue-likes, the player will get currency whenever they defeat enemies / clear their current room.
 - So, we should probably focus on the enemies themselves to theme the currency.
@@ -93,6 +100,7 @@ The shop is a place where the player can purchase items to help them on their jo
 - We'll talk about this more in the weekly group meeting.
 
 #### Extra Idea for Currency
+
 - As of right now, the upgrade rooms are completely free, and the items in the shop are not the most compelling thing in the world to spend money on.
 - Also, since our game is completely linear, the player can't really go back to a shop or upgrade room once they leave.
 - We can use these rooms as gates to reward the player for good gameplay.

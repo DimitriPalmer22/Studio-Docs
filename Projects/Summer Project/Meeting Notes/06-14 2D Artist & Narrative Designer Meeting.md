@@ -1,4 +1,3 @@
-
 # Figure out the Lighting In-Engine?
 
 - With the character art & environment art, there might be too much of a different style between the two. They might not be fully cohesive.
@@ -9,6 +8,7 @@
 - There are too many variables at play here, so we need a way to control the visual style while interacting with the portal so that the 2D artists can make the art cohesive w/ the environment
 
 ### The Cutscene Idea
+
 - When interacting with the portal, the player kinda goes to this new 'space' (that looks kinda 'portally'). Here, this is where Allister can talk to whoever.
 	- Animated skybox or something moving in the background just to keep the game visually interesting while talking to people
 - This helps with keeping the environment art consistent while talking to peeps
@@ -16,10 +16,12 @@
 	- Camera zooms into the portal (like a fly-in) <- This was Chelle's idea
 
 ### FIGURE OUT THE COLOR OF THE PORTAL AREA
+
 - This is important for the coloring of the portraits as well
 - I'm gonna try to make a mock-up of this whole sequence so we can get a much better idea of how this will look in-game
 
 # Other Stuff
+
 ### Magnus's Character Design
 
 - We're good. I don't think anything really needs to change.
