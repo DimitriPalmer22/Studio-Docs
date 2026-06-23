@@ -1,9 +1,5 @@
 # 06-22 Meeting Notes
 
-make a little list of the mechanics in boss 3 so mikel can make a sketch.
-
-2 of the end rooms are done. tempest room is being worked on.
-
 # Remaining Features Being Worked On
 
 ## Levels
@@ -51,7 +47,6 @@ Just as a reminder, the player needs to collect these to progress through each c
 
 Of the 12(?) experiment logs we want to have in the game, only two have been written. Here's a link to a google spreadsheet to keep track of the experiment logs that have been written, and the ones that still need to be written (it's under the quests tab): <https://docs.google.com/spreadsheets/d/1pjRz5dA8ngFP_Ry3ltzbb2U_9H8KCBFXYC4ikuIb2-Q/edit?usp=sharing>
 
-
 ## Enemies
 
 ### Knight Enemy Variations
@@ -63,3 +58,7 @@ Daunte has created several variations of the knight enemies so they are more vis
 The animators have been working on rigging the summoner enemy, but we still need:
 - animations
 - textures
+
+### Enemy Distributions
+
+Enemies still need to be properly distributed throughout the levels now that we have a new enemy type.
