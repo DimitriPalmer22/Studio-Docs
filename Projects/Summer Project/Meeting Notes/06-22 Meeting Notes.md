@@ -11,7 +11,11 @@ make a little list of the mechanics in boss 3 so mikel can make a sketch.
 
 ### Standard Levels
 
-We want **AT LEAST** 8 rooms per area
+We want **AT LEAST** 8 rooms per area of the game (so **AT LEAST** 24 standard rooms total).
+So far, we have
+- [x] 9 FINISHED Rooms in area 01
+- [ ] 4 FINISHED Rooms in area 02, 4 unfinished
+- [ ] 1 FINISHED Rooms in area 03, 2 unfinished
 
 ## Narrative
 
