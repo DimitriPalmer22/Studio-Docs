@@ -50,3 +50,16 @@ Just as a reminder, the player needs to collect these to progress through each c
 ### Experiment Logs
 
 Of the 12(?) experiment logs we want to have in the game, only two have been written. Here's a link to a google spreadsheet to keep track of the experiment logs that have been written, and the ones that still need to be written (it's under the quests tab): <https://docs.google.com/spreadsheets/d/1pjRz5dA8ngFP_Ry3ltzbb2U_9H8KCBFXYC4ikuIb2-Q/edit?usp=sharing>
+
+
+## Enemies
+
+### Knight Enemy Variations
+
+Daunte has created several variations of the knight enemies so they are more visually interesting, but we have yet to implement them.
+
+### Summoner Enemy
+
+The animators have been working on rigging the summoner enemy, but we still need:
+- animations
+- textures
