@@ -12,6 +12,10 @@ we still need those standard levels done lol
 
 ## Standard Journal Entries
 
-Of the 18(?) standard entries we want to have in the game, only 7 are done. 
+Of the 18(?) standard entries we want to have in the game, only 7 are done. Here's a link to the ones that have been written thus far: <https://docs.google.com/document/d/1fPXqUteASUqkibwUp5ObOOwUCh2P4IH8DkB1fv_49i0/edit?usp=sharing>
+
+Just as a reminder, the player needs to collect these to progress through each chapter of the game.
 
 ### Experiment Logs
+
+Of the 12(?) experiment logs we want to have in the game, only two have been written. Here's a link to a google spreadsheet to keep track of the experiment logs that have been written, and the ones that still need to be written: 
