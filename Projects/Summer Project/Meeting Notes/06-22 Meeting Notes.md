@@ -34,7 +34,10 @@ Boss fight is being worked on, but still needs:
 
 ### Boss Room For Area 03
 
-
+Boss fight is being worked on, but still needs:
+- A proper boss fight arena
+- The summoner enemy asset
+- Minor enemy waves properly set up
 
 ## Narrative
 
