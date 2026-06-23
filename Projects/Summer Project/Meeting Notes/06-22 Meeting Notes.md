@@ -6,7 +6,6 @@ make a little list of the mechanics in boss 3 so mikel can make a sketch.
 
 # Remaining Features Being Worked On
 
-
 ## Levels
 
 ### Standard Levels
@@ -16,6 +15,16 @@ So far, we have
 - [x] 9 FINISHED Rooms in area 01
 - [ ] 4 FINISHED Rooms in area 02, 4 unfinished
 - [ ] 1 FINISHED Rooms in area 03, 2 unfinished
+
+Since it's a lot of work to create fully new levels, the plan was to either:
+- move rooms from other areas into the area that needs more rooms
+- create a new room by modifying an existing room.
+
+### Boss Room For Area 01
+
+### Boss Room For Area 02
+
+### Boss Room For Area 03
 
 ## Narrative
 
