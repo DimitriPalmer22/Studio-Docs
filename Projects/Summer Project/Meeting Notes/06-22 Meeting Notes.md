@@ -24,10 +24,17 @@ Since it's a lot of work to create fully new levels, the plan was to either:
 
 Boss fight is being worked on, but still needs:
 - Placed "fountains" for the boss fight
+- Proper waves set up for the minor enemies
+- Some unique animations for the boss fight
 
 ### Boss Room For Area 02
 
+- Boss arena still being worked on
+- No mechanics have been implemented at all for this.
+
 ### Boss Room For Area 03
+
+
 
 ## Narrative
 
