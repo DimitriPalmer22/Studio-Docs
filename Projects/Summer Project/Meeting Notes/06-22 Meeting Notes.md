@@ -22,6 +22,9 @@ Since it's a lot of work to create fully new levels, the plan was to either:
 
 ### Boss Room For Area 01
 
+Boss fight is being worked on, but still needs:
+- Placed "fountains" for the boss fight
+
 ### Boss Room For Area 02
 
 ### Boss Room For Area 03
