@@ -18,12 +18,13 @@ After the wave(s) are cleared, the boss transitions to the **damage phase**.
 
 ## Damage Phase
 
-The damage phase is a timed segment in which the player wants to do as much damage to the boss as possible before it transitions back to the invulnerable phase.
+The damage phase is a timed segment (20 seconds) in which the player wants to do as much damage to the boss as possible before it transitions back to the invulnerable phase.
+
 > The player can only do a max of 1/3 of the boss's total health during this phase. If the player does more than that, the boss will transition back to the invulnerable phase early.
 
 At the start of the damage phase, the boss spawns 2 clones of itself. The boss and the 2 clones are then teleported to random (from a list of points) locations in the arena.
 
-Idea: At the same time, a wave of minor enemies will spawn in the arena to distract the player from the boss and its clones. Once the phase is complete, these enemies will die 
+**Idea**: At the same time, a wave of minor enemies will spawn in the arena to distract the player from the boss and its clones. Once the phase is complete, these enemies will die (if they haven't already).
 
 If the player hits a clone:
 - the player is stunned temporarily, wasting time from the damage phase
