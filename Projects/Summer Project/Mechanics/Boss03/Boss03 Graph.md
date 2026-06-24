@@ -71,7 +71,9 @@ A wave of enemies spawns to distract the player from attacking the boss. Also ma
 - The boss plays a little animation to apply the shield to itself. ^oPbq1APL
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbghSAAYAawAxABYAUQBGAFUU4shYRHLA7CiOZWCOksxuSv4SmG5nesqJgsgKEnVu
 
@@ -237,4 +239,5 @@ v+zjwJEP9MICa4OmC5gZE6kGWhSAO4FIBwwONFOytgc7MuzKsnBBgjUsuwH3J1MNKgkQ4AcrOchHs4IB
 
 zOAb7IbAslObAWxVLEvEwZRwYcCAA===
 ```
+
 %%
