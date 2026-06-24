@@ -2,4 +2,4 @@
 
 ## Invulnerable Phase
 
-## Vulnerable Phase
+## Damage Phase
