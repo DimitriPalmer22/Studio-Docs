@@ -4,4 +4,6 @@
 
 ## Invulnerable Phase
 
+The boss starts out in the 
+
 ## Damage Phase
