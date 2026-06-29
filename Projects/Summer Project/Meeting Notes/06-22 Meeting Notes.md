@@ -56,8 +56,16 @@ Daunte has created several variations of the knight enemies so they are more vis
 ### Summoner Enemy
 
 The animators have been working on rigging the summoner enemy, but we still need:
-- animations
 - textures
+- animations
+
+#### Summoner Textures
+
+- Default summoner texture
+- Texture (recolor) for the "buffer" variant of the summoner
+- Texture (recolor) for the boss variant
+
+#### Summoner Animations
 
 ### Enemy Distributions
 
