@@ -67,7 +67,10 @@ The animators have been working on rigging the summoner enemy, but we still need
 
 #### Summoner Animations
 
-- 
+At least 3 animations for using an ability. 
+- The base summoner enemy will use one of these
+- The "buffer" enemy variant will also use one of these
+- The boss will use th
 
 ### Enemy Distributions
 
