@@ -67,6 +67,8 @@ The animators have been working on rigging the summoner enemy, but we still need
 
 #### Summoner Animations
 
+- 
+
 ### Enemy Distributions
 
 Enemies still need to be properly distributed throughout the levels now that we have a new enemy type.
