@@ -9,5 +9,6 @@
 At this point, having these weekly meetings might not be very effective anymore. Not enough is getting done on a weekly basis to warrant a meeting / new distribution of tasks every week.
 
 It might be a lot more effective to:
-- ping specific people for specific things
-- try to be much more active within the Discord itself to keep each other updated
+- try to outline specific features we want to complete
+- ping specific people for specific tasks
+- try to be much more active within the Discord itself to keep each other updated on things that are getting done or need to be done.
