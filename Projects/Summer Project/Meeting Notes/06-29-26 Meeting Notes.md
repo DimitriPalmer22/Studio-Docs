@@ -6,6 +6,8 @@
 
 ## Final Meeting?
 
-At this point, having these weekly meetings might not be very effective anymore.
+At this point, having these weekly meetings might not be very effective anymore. Not enough is getting done on a weekly basis to warrant a meeting / new distribution of tasks every week.
 
-it might be a lot more effective to stop these weekly meetings and instead ping specific people for specific things. 
+It might be a lot more effective to:
+- ping specific people for specific things
+- try to be much more active within the Discord itself to keep each other updated
