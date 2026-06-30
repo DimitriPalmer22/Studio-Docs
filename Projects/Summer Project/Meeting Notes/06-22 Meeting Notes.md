@@ -35,7 +35,6 @@ Boss fight is being worked on, but still needs:
 - The summoner enemy asset
 - Minor enemy waves properly set up
 
-
 ### End Rooms
 
 Layouts for all 3 are pretty much done.
