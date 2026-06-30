@@ -36,7 +36,10 @@ Boss fight is being worked on, but still needs:
 - Minor enemy waves properly set up
 
 
+### End Rooms
 
+Layouts for all 3 are pretty much done.
+We just need to get the mechanics for those going.
 
 ## Narrative
 
