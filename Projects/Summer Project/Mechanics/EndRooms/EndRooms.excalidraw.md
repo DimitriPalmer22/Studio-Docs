@@ -4,12 +4,12 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Do the corresponding challenge associated with the end room & interact w/ the end door.
 - Maze
 - Fire puzzle
@@ -28,16 +28,18 @@ Beat Boss 03 ^Bao47N29
 
 Reach the large monument showing several seals? ^bB5rrue5
 
-The party realizes they can't open the door... ^LTwyprMy
+The party realizes they can't open the door… ^LTwyprMy
 
-Return to the start of Avernoth... ^N939M4lX
+Return to the start of Avernoth… ^N939M4lX
 
 Party acknowledges that they need to collect more of the pages to unlock the rest of the runes. ^Cbtb8bYY
 
 Magnus forcibly activates the spell to send Allister back ^cR4JbqLq
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggATQBZAA4AUUwASUkqfhLYRHLA7CiOZWCU4shMbmcANgAGCbbIGFGAVimZiAoS
 
@@ -139,4 +141,5 @@ g9XOfK3AGIpALmZAchAkBuNKTQA6Ubf5ZhGMb3EoyJmIBVAG+Rh3AB2if4uYIAVRhInxEO74AlkW40EA
 
 ca7FnAtNCARiFzDLp8R1iYQQStGmILwawE+gGw98hD0Qyw9KoAwOmXxPDcw9A4u4Biw7iMBMT7wX1JsZ7SXG9EgcIGFUEyBCBVReFPwblkCBIgmAmQFpPKS5MVcfJXe5E35J8lWziAYqzhBejgBax5TEJjo4WEwA0nlK/oRE92Fk2QQeIN9cICSR5wDggAA=
 ```
+
 %%
