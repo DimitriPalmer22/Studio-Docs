@@ -9,6 +9,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Interact w/ the large monument showing w/ several seals.
  ^vCMD1m8o
 
@@ -58,7 +59,9 @@ At the final end room
 Play a cutscene showing the escape from Avernoth ^Rt2AMR6c
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggATQBZAA4AUUwASUkqfhLYRHLA7CiOZWCU4shMbmcANgAGCbbIGFGAVimZiAoS
 
@@ -208,4 +211,5 @@ sRAMzHP4uwW+jxRNsdWSlwjcLj4lALpqQDPApAOGCxYHsZABexPsVzE8xOOgQ6nKMYh+Rykb6HAAcxSW
 
 tIwQfEDnThASxFUjDgQAA===
 ```
+
 %%
