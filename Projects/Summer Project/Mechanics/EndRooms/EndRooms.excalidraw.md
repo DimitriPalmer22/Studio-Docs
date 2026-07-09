@@ -64,7 +64,9 @@ We need at least 6 dialogues total for the end sequence.
 - 3 `Failure`. One for each chapter. ^lsDQCjA7
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggATQBZAA4AUUwASUkqfhLYRHLA7CiOZWCU4shMbmcANgAGCbbIGFGAVimZiAoS
 
@@ -216,4 +218,5 @@ ccQOHTvhfKPZI/RFsd2imCNsUoGpgxBBfQPcekLJYgxRgHDxHaDAAQANwV8IySg4hsXTF7is5LcBMQpA
 
 w4EAA===
 ```
+
 %%
