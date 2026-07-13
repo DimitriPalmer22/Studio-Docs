@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Quick Description ^vNSd7lvt
 
 After picking up the corresponding experiment log, a tome will begin appearing in the place of the journal entries on the journal tables.
@@ -61,7 +62,9 @@ Table ^FN1m4V5p
 Win ^ZJ2c3stt
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbghlAEY4AFEAdgA2AA4AEQaANR4mgAlsZha6gCsGgFlKlOLIWERywOwojmVgiZLM
 
@@ -191,4 +194,5 @@ P54HP/nrL9p5VNNWNTt/TL5p/SAOckPJX8C6p78+ef0gqp5arqWXZ6nfP5XlL3EiC8Sgzs/wPaJCHwAk
 
 ov1T+KjneK/TtrSEYCQG+MMhZfayRYHH7F8yfGwmALdrr8J/y/+wd/XQqwgRXhAdWi4ecEAA
 ```
+
 %%
