@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Standard ^DAb17VPg
 
 Spawn ^kwF9LQ5y
@@ -287,9 +288,9 @@ Chapter 3 ^q1FpSowX
 
 Changes in the proposed setup ^ZoXCqwbZ
 
-In each chapter, the size of the run / the number of rooms per-area is controlled by the number of entries currently collected /  the current chapter.
+In each chapter, the size of the run / the number of rooms per-area is controlled by the number of entries currently collected / the current chapter.
 
-I.E. during chapter 1, the player can only complete up to boss 1 until they are transported to the corresponding end room. Ch2 = up to boss 2... ^kaPADBhE
+I.E. during chapter 1, the player can only complete up to boss 1 until they are transported to the corresponding end room. Ch2 = up to boss 2… ^kaPADBhE
 
 End
 Area ^JzpBWwoJ
@@ -307,7 +308,9 @@ This gives the player a chance to deposit their journal entries and experiment l
 I.E, depositing 3 entries in chapter 1 will increase the size of the first area. Depositing all of them unlocks up to (a reduced version of) area 2. As we deposit more entries, we can unlock more upgrade rooms and stuff per area. ^adAkXxOX
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbghEAFZCUgAtBABBFOLIWERywOwojmVg5pLMbmcATgAGUf4SmCGAdnHJyAoSdW4e
 
@@ -831,4 +834,5 @@ fb0L1snIgq6UAoV+vxm4nGwYEACMAMXTV7PxAIAmMB0gGEFZCjoAiwefZD7qFkuAFMFIAfnnMkJAGaN2
 
 VOo4GHAQAA==
 ```
+
 %%
