@@ -307,7 +307,7 @@ This gives the player a chance to deposit their journal entries and experiment l
 
 I.E, depositing 3 entries in chapter 1 will increase the size of the first area. Depositing all of them unlocks up to (a reduced version of) area 2. As we deposit more entries, we can unlock more upgrade rooms and stuff per area. ^adAkXxOX
 
-Interact w/ 
+Interact w/
 Seal Monument ^63y5SAld
 
 No entries
@@ -321,7 +321,7 @@ Entry of chapter ^FkQwvywO
 Is NOT
 Final Chapter ^ZilbKd99
 
-Is 
+Is
 Final Chapter ^4MuSmZcE
 
 Check for upgrades.
@@ -339,7 +339,9 @@ Say something about breaking the seal. ^7MuhamAk
 Say something about discovering ALL the runes in the X layer of the seal. ^dvZpMw25
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbghEAFZCUgAtBABBFOLIWERywOwojmVg5pLMbmcATgAGUf4SmCGAdnHJyAoSdW4e
 
@@ -925,4 +927,5 @@ BA5bbS6vAASgcT5t6Vm7bbaIAJgygG1AW0Eif0T4mAeqByfST7iIIogIfGD7ceWfUDAXCX3kBMH1A2vS
 
 goEHlgmQC3Iu/AW4dY14OMNSYApG4bAufSGfccFVMSe0Gfsz/9SqplJOdIwmf47aZKwL6CfH98LAe+jSARvU4AUz8WQh7EpwkfFS04QHVOo4GHAQAA==
 ```
+
 %%
