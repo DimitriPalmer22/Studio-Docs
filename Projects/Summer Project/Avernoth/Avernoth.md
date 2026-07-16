@@ -35,7 +35,6 @@ This is a folder detailing all the details, mechanics, story beats, and more of 
 	- [Wisps](<./Mechanics/Wisps.md>)
 - **[Narrative](<./Narrative/Narrative.md>)**
 	- **[Characters](<./Narrative/Characters/Characters.md>)**
-	- **Journal Entries**
 	- **[Linear Narrative](<./Narrative/Linear Narrative/Linear Narrative.md>)**
 	- [Experiment Minigames](<./Narrative/Experiment Minigames.md>)
 
