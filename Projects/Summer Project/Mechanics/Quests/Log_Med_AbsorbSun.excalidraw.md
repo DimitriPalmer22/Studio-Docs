@@ -55,7 +55,9 @@ You can only fail this by dying. ^A3vQGCcF
 Dialogue telling you to interact with the rune. ^gjZnzFGS
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggABgBVCn0AIQ4ARhz+EthEcsDsKI5lYJTiyExuZ3iKitbIGBGAFnHJiAoSdW4A
 
@@ -189,4 +191,5 @@ CgIfp3/oCpgi98MqhaP57/SCs+M7wPzekn8l/pBaexAZi4LNCiQ+rfof5izeF8qSR7fJv5P2H/8Qu/WQ
 
 0cBnmIWheBoYcCCARMgIQCJF0eXr1WxAgJ1CUgD4CrlIDefWqFgtZA65UuUgEEgA3MJA/40NdegUIMEDefYsEwATAsuj9BpApsAJYIEG1mItggRUGAAxwEcCAA==
 ```
+
 %%
