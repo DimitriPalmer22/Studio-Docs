@@ -133,10 +133,12 @@ int ^IOqAqNpd
 
 Verify that this provides a satisfactory outcome. ^9j642L2X
 
-Make this a data row ref so I can easily edit externally... ^cEI7gYGD
+Make this a data row ref so I can easily edit externally… ^cEI7gYGD
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggAdgBxAFkAKQBWSQBpABkAKwBhAHU2ZQBOUhqARwAzZwBJHP4S2ERywOwojmVg
 
@@ -426,4 +428,5 @@ NndCq8AffAagl/B7REc5cgcZAmbfIQ/QZUGqg/YAsoM0E6g5XCVwA4ErAhABwlO5z6kcNTjId0ATbXGZ
 
 FbFitwNbBOgUAQvoS3I70Mqj1CFQTTWD0EUglWA4zTMG6Cbmg1AEgBy5JkBpguAB34WcFSggoBCkELjqUVMBigoCAe8ItCuwYnLhAPKyq4B8BAAA
 ```
+
 %%
