@@ -71,7 +71,7 @@ MAP
 - Room types
 - Array of levels ^2d7p1y9T
 
-DATA  TABLE: Generated Floor ^MFdPSDIv
+DATA TABLE: Generated Floor ^MFdPSDIv
 
 A generated floor can be represented as an array of GENERATED ROOMS or as a data table with rows of GENERATED ROOMS. ^lrAmSt9H
 
@@ -102,7 +102,9 @@ Represents the current floor. ^T3SgXFid
 DOING THIS ONE! ^H2mvpOpO
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggAdgBxAFkAKQBWSQBpABkAKwBhAHU2ZQBOUhqARwAzZwBJHP4S2ERywOwojmVg
 
@@ -328,4 +330,5 @@ TrniAK8QshOwbwjkLgZxonbmgUKrH9b8AA2FIBlATEAAAKRcAPxp53gGnwAQXuAABKLkHaRlAZ0EXCVn
 
 2cDdO+4gQMAjrcqhwUkE0IADkMFs4wDaCoMuccBmAR+feZi4HrCdA0FkKwKsVgAehSpEhCDkcyoFrmYlg+clBeCAdxbOJqASAaqaZBEFuAC3xJFp+f7n2wMzkkpUwTuaAh2OH1GthqHcIAcs+cB8CAA=
 ```
+
 %%
