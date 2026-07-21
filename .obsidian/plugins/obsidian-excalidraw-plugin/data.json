@@ -1,8 +1,10 @@
 {
+  "showTabTitlebarButtons": true,
   "copyLinkToElemenetAnchorTo100": false,
   "copyFrameLinkByName": false,
   "disableDoubleClickTextEditing": false,
   "phoneFooterSafeAreaPadding": false,
+  "tabletFooterSafeAreaPadding": false,
   "folder": "_META/Excalidraw",
   "cropFolder": "",
   "annotateFolder": "",
@@ -85,7 +87,7 @@
   "pageTransclusionCharLimit": 200,
   "wordWrappingDefault": 0,
   "removeTransclusionQuoteSigns": true,
-  "iframelyAllowed": false,
+  "oEmbedAllowed": false,
   "pngExportScale": 1,
   "exportWithTheme": true,
   "exportWithBackground": true,
@@ -99,6 +101,7 @@
   "embedType": "excalidraw",
   "embedMarkdownCommentLinks": true,
   "embedWikiLink": true,
+  "embedPlaceholderImage": true,
   "syncExcalidraw": false,
   "experimentalFileType": false,
   "experimentalFileTag": "✏️",
@@ -111,6 +114,7 @@
   "zoteroCompatibility": false,
   "fieldSuggester": true,
   "enableOnloadScripts": false,
+  "enableCommandLinks": false,
   "compatibilityMode": false,
   "drawingOpenCount": 0,
   "library": "deprecated",
@@ -986,11 +990,6 @@
     "margin": "normal"
   },
   "disableContextMenu": false,
-  "showTabTitlebarButtons": true,
-  "tabletFooterSafeAreaPadding": false,
-  "oEmbedAllowed": false,
-  "embedPlaceholderImage": true,
-  "enableCommandLinks": false,
   "isDebugMode": false,
   "defaultTrayMode": false
 }
