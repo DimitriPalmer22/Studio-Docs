@@ -55,7 +55,9 @@ Response dialogue indicating that there is a new rune in Tarun's notebook. ^Y3tk
 Failure ^jTVpnc39
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZR5tHgBmbXiaOiCEfQQOKGZuAG1wMFAwYogSbggABgBVCn0AIQ4ARhz+EthEcsDsKI5lYJTiyExuZ3iKitbIGBGAFnHJiAoSdW4A
 
@@ -257,4 +259,5 @@ KRFsIzvSAWOzt2uBrwP6lQ6wQEgGsrgOnLqFccwKlTusMZEgBAQN2ArgKpzwwDFK7WqyhBwx8UToAAhc
 
 AYkTgboEIBGACoVeBNui3jCBggYHqMrPGIQBuADAUzq2wsC9es4oDASDmh6luvyNCBgYYHtB6B0SCp8MJdCAEcBUGQ9BeAoYcCBARMgM0OklnicE1wxAgL5AUgj4Lbpe7UO6qFON/upVoyw+DYgHWMcQb7rgA9Ubnuq7gO4sEwAMej7j9BfupsC8YoEW3lo9wgSNjHARwIAA
 ```
+
 %%
