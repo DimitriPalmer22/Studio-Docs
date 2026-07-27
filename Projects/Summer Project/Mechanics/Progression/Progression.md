@@ -30,11 +30,21 @@ The rewards for collecting journal entries / experiment logs are NOT all receive
 
 ## Progression: Tome Construction
 
+This changes around the 1/3 mark of each chapter.
+
+The player gets a new customization option for their tome at the beginning of each chapter. This is to give the player more options for how they want to play the game as they progress through it.
+
 ## Progression: Generated Avernoth Layouts
+
+This changes around the 2/3 mark of each chapter.
+
+A new room type gets added to the newest floor of Avernoth. This is to give the player more variety in the rooms they can encounter as they progress through the game.
 
 ## Progression: End Room Location
 
-This changes at the end of each chapter. This essentially controls:
+This changes whenever the player completes a chapter.
+
+This essentially controls:
 - Up to which boss fight the player can do
 - How long the run is
 - Which end room appears
