@@ -5,11 +5,16 @@ Up to this point, progression in Avernoth was not substantial. Every change here
 As the player progresses through the game, the following change on a run-to-run basis:
 - The selections available to them when constructing their tome at the beginning
 - The generated layouts of Avernoth (length, rooms available)
-- After which boss fight the end room appears
+- After which boss fight the end room appears / Which end room appears
 
-
+These aspects of progression are controlled through the game's chapters.
 
 ## Chapters
 
 ### Progressing Through Chapters
 
+## Progression: Tome Construction
+
+## Progression: Generated Avernoth Layouts
+
+## Progression: End Room Location
