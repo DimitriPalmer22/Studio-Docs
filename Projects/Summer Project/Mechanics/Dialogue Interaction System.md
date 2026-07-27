@@ -1,6 +1,7 @@
 This is more of a personal note for me to keep track of how the DIS (Dialogue Interaction System) works in Avernoth. You probably want to read [Using the Dialogue Interaction System](<./Using the Dialogue Interaction System.md>) instead.
 
 I need some way to represent the dialogue system in-engine so that dialogue can start being implemented properly.
+
 # What is a Dialogue Interaction?
 
 - A dialogue interaction is a list of *"Dialogue Lines"* from one or more characters.
@@ -19,6 +20,7 @@ Dialogue Lines are characterized by:
 - Any special formatting for that line?
 
 ### Dialogue Character
+
 - The character that is speaking the line of dialogue.
 
 Dialogue Characters are defined by:

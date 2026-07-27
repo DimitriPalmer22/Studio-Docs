@@ -1,4 +1,3 @@
-
 ### What is a Stat
 
 - A stat is a struct that contains the following:

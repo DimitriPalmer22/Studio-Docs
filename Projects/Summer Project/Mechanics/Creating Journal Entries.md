@@ -1,3 +1,5 @@
+# Creating Journal Entries
+
 > Since the journal entries are just text (for right now), the process for putting them in the game should be much more straight forward than adding dialogue interactions.
 
 ### Creating Journal Entries

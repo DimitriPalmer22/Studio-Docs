@@ -1,3 +1,5 @@
+# Creating Tome Questions
+
 > Note: For this week, you'll just be modifying the questions that are already in the game rather than adding assets for new questions. This is because I eventually want to streamline the process of adding new questions to the game, and I don't want to have to write two separate docs for that. So, I'll only write the info for modifying the assets now and eventually, I'll write a new doc for adding new questions.
 
 The different questions can be found in `Avernoth > Tomes > Questions`.
@@ -20,7 +22,6 @@ For each type of question you wrote last week:
 	2. To decrease the number of answers, use the same little down arrow to delete one of the possible answer choices.
 5. For each possible answer, change the `Answer Text` field to the updated answer text.
 ![](<../../../_Meta/Attachments/Pasted image 20250822052634.png>)
-6. Don't worry about editing any of the other values here. Things need to be rebalanced anyway, so those values will change. 
-
+6. Don't worry about editing any of the other values here. Things need to be rebalanced anyway, so those values will change.
 
 lmk if anything blows up or is confusing. I can help you out with it.
