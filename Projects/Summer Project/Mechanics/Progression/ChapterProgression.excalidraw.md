@@ -20,11 +20,13 @@ Set flags for tome creation. ^u4L4SsjM
 
 Possible Unlocks ^TLGN9tEd
 
-Persists through 
+Persists through
 entire chapter ^SQmvkAnN
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCGwOAEkAKSgAITriNNLIWERKwOwojmVgtrLMbmcANgAGCf4ymFGAFimZyAoS
 
@@ -84,4 +86,5 @@ wKnDvLgBk82Ag1KF9Kh2gKRo0G8JTKQMoCCAABTRTUC8BLRXeXcTBMMACUmI0Mcuwlrix3Z30w8mX3d3
 
 /GvNdJItdWaoBgnFsvC90zwltwO0wvov4v+AZ6PXjgzAiPim7lrUKi2QQgPZEASh0I+oyg54gQyITA2QAyGA/PSPGH6YjQ5SbvDPAfuPVCXcKiJAR8+oM03PpZ/QYfLkW3NBmAOvFaAYvPr4DTXA4AQ5WIOI4Qd7dZe4QAA=
 ```
+
 %%
