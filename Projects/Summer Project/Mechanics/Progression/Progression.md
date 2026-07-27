@@ -13,6 +13,12 @@ These aspects of progression are controlled through the game's chapters.
 
 ### Progressing Through Chapters
 
+The player progresses through the game's chapters by **depositing** [Journal Entries and Experiment Logs](<../../Avernoth/Mechanics/Journal System.md>)
+
+
+
+---
+
 ## Progression: Tome Construction
 
 ## Progression: Generated Avernoth Layouts
