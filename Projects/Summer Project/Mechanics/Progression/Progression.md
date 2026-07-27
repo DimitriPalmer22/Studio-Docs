@@ -18,9 +18,13 @@ The player progresses through the game's chapters by **depositing** [Journal Ent
 Experiment logs and journal entries are first *collected.*
 They are then *deposited* when the player reaches the end room, completes the end room's objective, and reaches the end room's special seal.
 
-Once the player deposits their collected journal entries and experiment logs for a given chapter of the game, the game progresses to the next chapter. 
+Once the player deposits their collected journal entries and experiment logs for a given chapter of the game, the game progresses to the next chapter.
 
 This way, there is incentive for reaching the end of a run / completing the objective within the end room even if the player has not collected all journal entries yet.
+
+The rewards for collecting journal entries / experiment logs are NOT all received when finishing a chapter. Instead, some are received when depositing them, and some are received when the player collects them. This is to encourage the player to deposit journal entries as soon as they get them.
+
+> Note: Dying with journal entries and experiment logs in your inventory does not cause you to lose them. You will keep them on your next run.
 
 ---
 
@@ -29,3 +33,8 @@ This way, there is incentive for reaching the end of a run / completing the obje
 ## Progression: Generated Avernoth Layouts
 
 ## Progression: End Room Location
+
+This changes at the end of each chapter. This essentially controls:
+- Up to which boss fight the player can do
+- How long the run is
+- Which end room appears
