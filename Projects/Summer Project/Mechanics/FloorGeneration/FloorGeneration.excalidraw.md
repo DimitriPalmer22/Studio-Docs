@@ -155,7 +155,9 @@ When upgrading a floor layout, find the floor with the matching area. Replace th
 Send player to end rooms from boss rooms ^fa2rGNEN
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAB2AHEAWQApBMkAaQAZACsAYQB1NmUATlI6gEcAM2cASTz+MthESsDsKI5l
 
@@ -501,4 +503,5 @@ wACAAPAcYCdtTlskALsJoyeGU+EeQGeBSAA+Ft2CQAHflkJMmU2AU8GIy8QCQB/JFZBO9vYdgsc8QMmf
 
 4BiJ9gTHBczggNqxfgCwRGAOgQYen7Zm7ldRfCHUQsOEYzIsjAcmTj8URKOjxCEqEBSpO8zizGD0FQRABHACJsVqPqx54F9hnQJoI+VFIUMGECJoRBnIRnMsy/6arA9Fs8yfUeUzVYHUASAIwVmQA8y4APgRiWWUy/6Z2B1uGCzOAEUyQIKVZu0G7BQXOEAm4GegnwEAA===
 ```
+
 %%
