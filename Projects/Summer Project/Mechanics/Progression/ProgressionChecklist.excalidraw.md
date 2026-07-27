@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Structure to represent the current chapter:
 - Current journal entries
 - Upgrades for collecting entries
@@ -28,7 +29,9 @@ This is some text ^lEk2ugHg
 This is some text ^dl6VxTQq
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABxZWIACTqABQARAEY00shYRErA7CiOZWCOssxuZx4ABkn+MphxhOnZyAoS
 
@@ -76,4 +79,5 @@ Xt6VaAAEosR25lB9RutegZ7cBZ6ZgyMT617N6i6AasbWbscr4taNsGN25jQTpBhlqzhsh+7B7uBh78qi
 
 x95sghBrKyh8aYQ3pGhAgUQmBshsUMAyHP6tr8TdrLI3oMHP7MTzHmB94SBpcjQFYiG4BrHTH+HkGtG2BMB8QRGb6SGWwCquBwAYLsRcRwhlrxxRwgA=
 ```
+
 %%
