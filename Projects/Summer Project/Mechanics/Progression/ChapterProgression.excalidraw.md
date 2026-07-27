@@ -9,6 +9,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Chapter 1 ^OPmOUhRH
 
 # Entries Deposited: ^9GDI6cmw
@@ -36,7 +37,7 @@ Starting stuff ^ni1chKSA
 
 1 ^YG3v7ZPp
 
-2... ^6mYBAGCM
+2… ^6mYBAGCM
 
 10 ^JRihphbP
 
@@ -52,16 +53,18 @@ Choose a starting passive ability for your tome loadout ^yYHAnV1Z
 
 Unlock a new room type for the first area? ^lx7qwbXr
 
-Unlock something else... ^OmTuSTjJ
+Unlock something else… ^OmTuSTjJ
 
-Unlock something else... ^rIe8tjCa
+Unlock something else… ^rIe8tjCa
 
 Starting stuff ^Y1xQ4pGU
 
 Starting stuff ^SS4T5LIB
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCGwOAEkAKSgAITriNNLIWERKwOwojmVgtrLMbmcANgAGCf4ymFGAFimZyAoS
 
@@ -207,4 +210,5 @@ CB5wUrWijbUHlEaA3gKP2UAQQAAApg8XgGAQCorYSKkfgAAEpMQAmC5JduH2FIBso3AByjpgbnCaiSo8
 
 EkjosBDS7M1QAwA9Nggb6LigxJXbluABwR6OejXoquE8jHAZgHGjXgdFggg5UbIC6tFGdQS61+gPmECAf+IODHgMAEhEOimIoqHCl8Y5C3Ji7o3GKKhepYgE5E/4EhGHC5oW6ImifnNEkwBwYoQgDBroxsFXYuBcgn/5ggBUGAAxwEcCAA==
 ```
+
 %%
