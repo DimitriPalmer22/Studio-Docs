@@ -15,7 +15,8 @@ These aspects of progression are controlled through the game's chapters.
 
 The player progresses through the game's chapters by **depositing** [Journal Entries and Experiment Logs](<../../Avernoth/Mechanics/Journal System.md>)
 
-
+Experiment logs and journal entries are first *collected.*
+They are then *deposited* when the player reaches the end room, completes the end room's objective, and reaches the 
 
 ---
 
