@@ -44,10 +44,13 @@ Play a cutscene (level sequence) when completing the chapter… ^XAohsjpx
 Actually write placeholder dialogue ^E25i9wfw
 
 ## Embedded Files
+
 d0e0ddac593c929ee89fcd423da51521a63e43f4: [[../Quests/QuestStructure.excalidraw.png]]
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABxZWIACTqABQARAEY00shYRErA7CiOZWCOssxuZx4ABkn+MphxhOnZyAoS
 
@@ -149,4 +152,5 @@ G0kXNbW5G8wHqsLQIZyPEAb4bAdyHCNwCaBggv4TecUpIA4YGkBdVPb0GUCgglNMyagLwEzC9GejEyVo
 
 MgbJLgB3gNICkDDcRUThKvOP3YDA+IFE2qQPmhAK2sJhAPCfwCFIkjjgZgAcdYg5A2wN8bIEIDW6hECBjQQICiCYBaaWw+xn46mwCI4DITvxjKeEmYA3wSAQfEE5jDgDAwRT9RsU3RUwCEn64QYCo+5EqB2SAsSBbELiHCB77xwo4IAA
 ```
+
 %%
