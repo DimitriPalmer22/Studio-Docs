@@ -4,13 +4,13 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
-Initial 
+
+Initial
 Beginning Room ^WGSB9Po7
 
 Wake up ^nQygjpgj
@@ -24,7 +24,7 @@ Tome altar camera change as Allister is walking up to it. ^wSIwWQYp
 
 Cutscene for acquiring the tome from the Tome Altar ^5poAE7bL
 
-Initial 
+Initial
 Journal Table ^K0Z5lKY7
 
 Exit the room. ^DFgMfuYO
@@ -33,9 +33,9 @@ camera change as the exit portal opens up. ^ZKj2YwgV
 
 Camera change as the player loads into the beginning room. ^sZwkfjUy
 
-After the room is cleared, camera change on the journal table... ^xlc96Oaj
+After the room is cleared, camera change on the journal table… ^xlc96Oaj
 
-Note: Make this somehow work in ALL rooms so I don't have to keep redoing it... ^Fd7cX8zp
+Note: Make this somehow work in ALL rooms so I don't have to keep redoing it… ^Fd7cX8zp
 
 Dialogue acknowledging a mysterious presence in the room ^oSasWg2z
 
@@ -50,7 +50,9 @@ Post-entry dialogue ^Deg7FKUx
 - ^EEuDwkNZ
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAB2AAliBIpJAEcARjTSyFhESsDsKI5lYPayzG5nZIAGCf4ymDGeKZnIChJ1
 
@@ -152,4 +154,5 @@ CDGr1ZG/0xAIxGwDTgHM6FT4DXlNxIB6YDsDMN4NTFIBV1cAAACg7jCC2jvAeaJcG0AtAAAlBiGhjnSX
 
 GwQwynKOhi7OMsJW4K0WBgXEBkGRN7QcTLuW4EJqhMIAYT+AJODEccDMA6FrwHIO2BIk6hwTKBqEPQmZiBA4y3EJuBgFBM1pd9WYBmKnHoQfGBT5xl/VmCMQkBly2PXEICbgCin+TGUSo78MwD4mkTyx4E62E9ojZ1CmIbEOEGn2ThxwQAA=
 ```
+
 %%
