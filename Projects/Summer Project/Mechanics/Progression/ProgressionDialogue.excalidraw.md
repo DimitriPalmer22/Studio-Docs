@@ -47,7 +47,7 @@ Actual journal entry ^wUaC3onI
 
 Post-entry dialogue ^Deg7FKUx
 
-First 
+First
 End Room 01
 Visit (Twilight) ^EEuDwkNZ
 
@@ -77,7 +77,7 @@ Dialogue acknowledging the seal monument. What do these runes mean? ^2J2Hl5Gx
 
 Interact with the seal monument. (Dialogue depending on # of entries). ^vJaj6wXE
 
-Dialogue saying there's still no way out... Magnus can reset the spell. ^okU68iOH
+Dialogue saying there's still no way out… Magnus can reset the spell. ^okU68iOH
 
 Lowkey, force the player to interact with the first journal entry to avoid having to write too much dialogue for this scenario ^ePpcARmV
 
@@ -86,7 +86,9 @@ Force restart run. ^rP4UhSRw
 Dialogue for when the player tries to leave before interacting w/ table ^xxDkVM1n
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAB2AAliBIpJAEcARjTSyFhESsDsKI5lYPayzG5nFoAGCf4ymDGeKZnIChJ1
 
@@ -270,4 +272,5 @@ lYICQBChLkM8zcKv4M45NVoqHigcwrwPYU90uAJPpDhcsDoKTVH+C0DH6NoCjAfS3eJkikAY1ZPrTApq
 
 5FZwBgDiA41veIaqhAp0KjWihb8Nj7wGNrM4rpg3Ci8DbW4EBxJagyNWvlX5AwNzCBAlZCJA9wyBb1VgV6YJfmLJiNYVD9V6YHemV5kCLDVwAnCNLU3VBEgGKYAFNcEC41HAPDVgc/TOthB8GWuECD5Y4COBAAA=
 ```
+
 %%
