@@ -14,5 +14,29 @@
       ],
       "key": "W"
     }
+  ],
+  "obsidian-excalidraw-plugin:save": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "s"
+    },
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
+  ],
+  "editor:save-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "S"
+    },
+    {
+      "modifiers": [],
+      "key": "F7"
+    }
   ]
 }
