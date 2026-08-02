@@ -89,7 +89,9 @@ Dialogue for when the player tries to leave before interacting w/ table ^xxDkVM1
 Trap the player in the cutscene (to walk forward till a point) ^x8m43Hvw
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAB2AAliBIpJAEcARjTSyFhESsDsKI5lYPayzG5nFoAGCf4ymDGeKZnIChJ1
 
@@ -279,4 +281,5 @@ WYlc7EQALQweTaDIYCNaA00ICMGIhYxNoIsbgSTAOGDDIsDScDwNjwKQCL1/9RqFd1dgH2A34cwshhwA
 
 ADw0MNveMQ1gc/TOthB8GWuEA35Y4COBAAA=
 ```
+
 %%
