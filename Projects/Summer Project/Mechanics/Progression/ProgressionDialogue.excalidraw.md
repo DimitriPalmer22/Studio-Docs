@@ -61,34 +61,34 @@ fade-in ^qzANeQNb
 Dialogue acknowledging the lack of enemy presence, but also acknowledging the strong mana presence within the room. Go find out what it is. ^dvrkQe3b
 
 TRIGGER
-Walk a little further into the room.  ^bTnPyLek
+Walk a little further into the room. ^bTnPyLek
 
-DIALOGUE: 
+DIALOGUE:
 thick fog and difficulty seeing anything. Try to find the exit
 (ChallengeAcknowledge) ^uil0YzFD
 
 TRIGGER
-Walk to the WRONG exit.  ^OwsuE6UH
+Walk to the WRONG exit. ^OwsuE6UH
 
-DIALOGUE: 
+DIALOGUE:
 this is the wrong exit. ^wklHkUVR
 
 TRIGGER
-Walk to the CORRECT exit.  ^RtKsVU7T
+Walk to the CORRECT exit. ^RtKsVU7T
 
-DIALOGUE: 
+DIALOGUE:
 this must be the exit. ^Su9JPDw4
 
 TRIGGER
-Seal monument room.  ^nly8jOCJ
+Seal monument room. ^nly8jOCJ
 
-DIALOGUE: 
+DIALOGUE:
 acknowledge seal monument. What do the runes mean? Touch it. ^2J2Hl5Gx
 
 INTERACT
 Seal monument. (Dialogue depending on # of entries). ^vJaj6wXE
 
-DIALOGUE: 
+DIALOGUE:
 There's still no way out… Magnus can reset the spell. ^okU68iOH
 
 Lowkey, force the player to interact with the first journal entry to avoid having to write too much dialogue for this scenario ^ePpcARmV
@@ -113,21 +113,23 @@ Force restart run ^dTxLUhVt
 Level cinematic ^OrmIxU8t
 
 TRIGGER
-Walk a little further into the room.  ^RNzhOqMb
+Walk a little further into the room. ^RNzhOqMb
 
-DIALOGUE: 
-Exit visible! magma tiles... Reach the exit without getting hit ^EdAkps45
+DIALOGUE:
+Exit visible! magma tiles… Reach the exit without getting hit ^EdAkps45
 
 Trap the player in the cutscene (to walk forward till a point) ^80GxXpcF
 
 TRIGGER
-Seal monument room.  ^47T5qd47
+Seal monument room. ^47T5qd47
 
-DIALOGUE: 
+DIALOGUE:
 More runes? ^k7UpkFD4
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAB2AAliBIpJAEcARjTSyFhESsDsKI5lYPayzG5nFoAGCf4ymDGeKZnIChJ1
 
@@ -357,4 +359,5 @@ GJovfzbC8Wl0gN4KQBh0wlCQBBCalDkvEAeIC2IxgN82CAkAaYS5DPM3Cr+Bw2BS6Kh4oHMK8DMwpAD3
 
 mspwH0CEAjAA2ivAay0MO2gwQMCv+gpCDxEGAZi+eTU+SI2JQGAeMdCu94hqqECnQwK6CtvwOvmjMOKziumDcKLwCWXgQHElqCArxhT4UDAnNW+hcZ8IhgDIYLyzfPpg3heyn/LrRcZp9Y+mc1U4g3y3ACcIXK1ssESAYpgDorN+GGC/LYHP0zrYQfBlrhAChWOAjgQAA===
 ```
+
 %%
