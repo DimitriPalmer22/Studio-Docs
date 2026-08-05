@@ -9,6 +9,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Phase 1 ^spLRP6vF
 
 TRIGGER
@@ -43,11 +44,11 @@ Draw a line to the current fountain ^a1BR0OJR
 
 FINISH ANIM ^DjvJxYck
 
-Look over at the correct fountain for a couple secs... ^QooPcmJb
+Look over at the correct fountain for a couple secs… ^QooPcmJb
 
 Trigger shield release anim on boss ^XPN5OLQq
 
-Cutscene that focuses on the boss  ^mQRWpbya
+Cutscene that focuses on the boss ^mQRWpbya
 
 Remove shield VFX ^ulyKrC5f
 
@@ -56,7 +57,9 @@ Remove line to current fountain ^8gtpKWE1
 Stop boss's AI ^CfxJQ3gM
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCGY4ABkAJQAFADZ6ADE00shYREqoLCgOssxuZwAWAAZx/jKYEZ4J6cgKEnVu
 
@@ -170,4 +173,5 @@ NfAL0artWnUYAFKbmQEGx0I0JVANwpAXyf2JIDxnFZTt4gNSBzyKauGJAPxGwCrgJTF4Vgt246iFRm4E
 
 fQRN3dGjOEdggD3Bur8A9dqCzlmCBaSMe2esiLOeuy4W4jKRU0AYEpAZAz7JffAKEC/K7397wIA4hbccDMAVJwQIEDkH6B+JsgQgbe5iXRATsGggQEkEwGyBVYMAm94IIk0awm5K4E7Ge9vfbR+ISAcANgL/BXu4BWpGDpB4HY21ALMAj90+ylPXulRQK4XAVKSHJAPkDb+MYSEAA===
 ```
+
 %%
