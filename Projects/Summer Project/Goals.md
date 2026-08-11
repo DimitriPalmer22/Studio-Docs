@@ -8,7 +8,7 @@ Place this into ClickUp.
 
 - [ ] Start working on ANOTHER empty arena space for combat
 
-### Rework Shield (Parry) System AGAIN
+### DONE Rework Shield (Parry) System AGAIN
 
 Currently, the shield mechanic feels a little… confused. I want it to feel like a more essential skill-based mechanic within the game. It is not an alternative to the dodge. It is a useful way for the player to prevent damage and launch a quick counterattack.
 - [x] Shield is only usable when the meter is full.
@@ -101,4 +101,4 @@ Loading in and out of levels is still a little iffy. I need to find a way to mak
 
 ### End Room 03
 
--
+- 
