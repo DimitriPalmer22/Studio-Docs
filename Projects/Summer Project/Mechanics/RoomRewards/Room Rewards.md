@@ -8,7 +8,9 @@ Room rewards should NOT be an automatically acquired thing.
 
 ## Spawning Rewards in Rooms
 
-After completing a room,
+After completing a room, rewards will spawn in dedicated spots within the level. These spots should:
+- Be within view of the exit
+- Be in a c within close proximity of the exit to avoid unnecessary
 
 ## Rewards As Data
 
