@@ -53,8 +53,11 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 	- This means health orbs can no longer just be health orbs alone. They must be an object the player walks up to an presses the interact button on. Then, it can burst into orbs.
 - [ ] Point the player's camera to it
 - [ ] Call attention to it in a tutorial. Don't allow them to leave without picking it up.
-- [ ] Force reward flag in generated room info. This is so that the player is guaranteed to get a reward in a room for tutorial purposes.
+- [x] Force reward flag in generated room info. This is so that the player is guaranteed to get a reward in a room for tutorial purposes.
+- [x] Create room reward spawn point actor.
 - [ ] Place dedicated spots in each room where rewards can spawn. This SHOULD be within view of the room exit.
+- [ ] No collision fallback
+- [ ] Remove shield reward
 
 ### Better Levels Infrastructure
 

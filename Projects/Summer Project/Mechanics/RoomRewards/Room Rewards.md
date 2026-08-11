@@ -23,7 +23,7 @@ Rewards should be stored as **pools**, allowing random selection from a variety 
 
 Individual rewards should contain data
 
-## Force Rewards in Room Generation 
+## Force Rewards in Room Generation
 
 For pre-determined run layouts, I need the ability to ensure a reward will / will not spawn in a given room.
 
@@ -35,7 +35,7 @@ For pre-determined run layouts, I need the ability to ensure a reward will / wil
 
 An actor that is placed in a level to designate where a reward can spawn.
 
-There should also be a static utility function to find the current reward spawn point & should also handle whether one is present. 
+There should also be a static utility function to find the current reward spawn point & should also handle whether one is present.
 
 There **SHOULD** be a fallback for when a reward cannot spawn at a given point (like if the spawn point isn't placed in the level).
 - In this case, spawn the actor where the player currently is
