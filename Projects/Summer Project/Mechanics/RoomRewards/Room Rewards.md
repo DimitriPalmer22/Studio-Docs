@@ -29,7 +29,9 @@ Individual rewards should contain data
 ### ACTOR: Reward Spawn Point
 An actor that is placed in a level to designate where a reward can spawn.
 
-> Note: Reward actors **can** have colliders. HOWEVER
+There **SHOULD** be a fallback for when a reward cannot spawn at a given point (like if the spawn point isn't placed in the level).
+- In this case, spawn the actor where the player currently is
+- If we spawn the actor on the player, DISABLE ALL COLLIDERS. Implement this as a virtual function in the base class so that it can be overridden for specific reward actors that need to have colliders enabled.
 ### ACTORS: Reward Actors
 Actors that are spawned in the level to represent a reward. These actors should have a component that can be interacted with. 
 - Have them extend from a base reward actor class.
