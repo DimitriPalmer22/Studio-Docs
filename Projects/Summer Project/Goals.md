@@ -29,9 +29,9 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 
 ## Cutscene Infrastructure
 
-- [ ] Allow checkboxes for adding / removing cinematic black bars
+- [x] Allow checkboxes for adding / removing cinematic black bars
 	- Add & remove function
-- [ ] Allow checkboxes for blocking / allowing player input
+- [x] Allow checkboxes for blocking / allowing player input
 	- Add & remove function
 - [ ] Add a function to remove all active cinematic elements. Useful for removing any black bars or allowing player input early.
 
