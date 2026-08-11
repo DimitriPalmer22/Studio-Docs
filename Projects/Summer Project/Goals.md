@@ -42,9 +42,9 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - [ ] Take a look at Brian's new level
 - [ ] Implement it in the game if it is ready
 - [ ] Document the necessary steps to implement a new level in the game.
-	- Mark as lighting scenario in levels menu
-	- Add to data table for level information
-	- Add it to the level pool
+	- [x] Mark as lighting scenario in levels menu
+	- [ ] Add to data table for level information
+	- [ ] Add it to the level pool
 
 ### Room Rewards
 
