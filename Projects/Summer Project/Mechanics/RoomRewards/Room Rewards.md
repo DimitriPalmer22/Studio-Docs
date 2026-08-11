@@ -31,6 +31,8 @@ An actor that is placed in a level to designate where a reward can spawn.
 
 ### ACTORS: Reward Actors
 Actors that are spawned in the level to represent a reward. These actors should have a component that can be interacted with. 
-- Have them
+- Have them extend from a base reward actor class.
+- Include an interaction component in this base class.
 
 ### DATA: Reward Pool
+A list of representations of rewards that can be spawned in a room. 
