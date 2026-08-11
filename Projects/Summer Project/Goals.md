@@ -11,9 +11,11 @@ Place this into ClickUp.
 ### Rework Shield (Parry) System AGAIN
 
 Currently, the shield mechanic feels a little… confused. I want it to feel like a more essential skill-based mechanic within the game. It is not an alternative to the dodge. It is a useful way for the player to prevent damage and launch a quick counterattack.
-- [ ] Shield is only usable when the meter is full.
-- [ ] Make shield increase gradually (with a gameplay effect)
-- [ ] Shield regen stat is instead used to control how long it takes for shield to refill.
+- [x] Shield is only usable when the meter is full.
+- [x] Make shield increase gradually (with a gameplay effect)
+- [x] Shield regen stat is instead used to control how long it takes for shield to refill.
+- [x] Remove functionality for restoring shield on room start
+- [ ] Ensure tutorial still works with the new shield system.
 
 ### Reference Gathering For Target Experience
 
