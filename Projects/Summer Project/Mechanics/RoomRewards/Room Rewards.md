@@ -21,3 +21,16 @@ The player will walk up to these rewards and **interact** with them.
 Rewards should be stored as **pools**, allowing random selection from a variety of available items.
 
 Individual rewards should contain data
+
+---
+
+## Components
+
+### ACTOR: Reward Spawn Point
+An actor that is placed in a level to designate where a reward can spawn.
+
+### ACTORS: Reward Actors
+Actors that are spawned in the level to represent a reward. These actors should have a component that can be interacted with. 
+- Have them
+
+### DATA: Reward Pool
