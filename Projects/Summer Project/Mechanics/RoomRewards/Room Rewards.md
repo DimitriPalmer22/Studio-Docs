@@ -29,6 +29,7 @@ Individual rewards should contain data
 ### ACTOR: Reward Spawn Point
 An actor that is placed in a level to designate where a reward can spawn.
 
+> Note: Reward actors **can** have colliders. HOWEVER
 ### ACTORS: Reward Actors
 Actors that are spawned in the level to represent a reward. These actors should have a component that can be interacted with. 
 - Have them extend from a base reward actor class.
