@@ -13,8 +13,9 @@ After completing a room, rewards will spawn in dedicated spots within the level.
 - Be in a convenient spot:
 	- within close proximity of the exit
 	- within close proximity to the player at the time of spawn (might cause complications)
+- NOT obstruct the player's path to the exit. The player should be able to leave the room without having to pick up the reward.
 
-The player will walk up to these rewards and interact with them.
+The player will walk up to these rewards and **interact** with them.
 ## Rewards As Data
 
 Rewards should be stored as **pools**, allowing random selection from a variety of available items.
