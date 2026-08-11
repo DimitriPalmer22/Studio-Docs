@@ -58,6 +58,7 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 - [ ] Place dedicated spots in each room where rewards can spawn. This SHOULD be within view of the room exit.
 - [ ] No collision fallback
 - [ ] Remove shield reward
+- [ ] Force reward entry (to avoid drawing from pool)
 
 ### Better Levels Infrastructure
 
