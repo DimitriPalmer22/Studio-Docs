@@ -1,6 +1,6 @@
 # Room Rewards
 
-## Manual Acquisition!
+## Manual Acquisition
 
 Room rewards should NOT be an automatically acquired thing.
 - When they are automatic, the player seems to rarely notice when they are acquired
@@ -10,7 +10,7 @@ Room rewards should NOT be an automatically acquired thing.
 
 After completing a room, rewards will spawn in dedicated spots within the level. These spots should:
 - Be within view of the exit
-- Be in a convenient spot: 
+- Be in a convenient spot:
 	- within close proximity of the exit
 	- within close proximity to the player at the time of spawn (might cause complications)
 - 
