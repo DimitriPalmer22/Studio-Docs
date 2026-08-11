@@ -2,7 +2,7 @@
 
 ## Manual Acquisition
 
-Room rewards should NOT be an automatically acquired thing.
+Room rewards **should NOT be an automatically acquired thing**.
 - When they are automatic, the player seems to rarely notice when they are acquired
 - Automatic rewards also rob the player of the choice of getting the upgrade or not.
 
