@@ -10,7 +10,10 @@ Room rewards should NOT be an automatically acquired thing.
 
 After completing a room, rewards will spawn in dedicated spots within the level. These spots should:
 - Be within view of the exit
-- Be in a c within close proximity of the exit to avoid unnecessary
+- Be in a convenient spot: 
+	- within close proximity of the exit
+	- within close proximity to the player at the time of spawn (might cause complications)
+- 
 
 ## Rewards As Data
 
