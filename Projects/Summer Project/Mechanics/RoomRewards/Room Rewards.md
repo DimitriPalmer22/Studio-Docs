@@ -31,7 +31,7 @@ Individual rewards should contain data
 
 An actor that is placed in a level to designate where a reward can spawn.
 
-There should also be a static utility function to find the current reward spawn point & should also handle whether t 
+There should also be a static utility function to find the current reward spawn point & should also handle whether one is present. 
 
 There **SHOULD** be a fallback for when a reward cannot spawn at a given point (like if the spawn point isn't placed in the level).
 - In this case, spawn the actor where the player currently is
