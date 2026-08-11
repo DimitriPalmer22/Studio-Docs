@@ -23,6 +23,10 @@ Rewards should be stored as **pools**, allowing random selection from a variety 
 
 Individual rewards should contain data
 
+## Force Rewards in Room Generation 
+
+For pre-determined run layouts, I need the ability to ensure a reward will / will not spawn in a given room.
+
 ---
 
 ## Components
