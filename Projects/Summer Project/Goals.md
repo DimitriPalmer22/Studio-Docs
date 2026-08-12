@@ -59,6 +59,7 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 - [ ] No collision fallback
 - [ ] Remove shield reward
 - [ ] Force reward entry (to avoid drawing from pool)
+- [ ] Create spawners for actors.
 
 ### Better Levels Infrastructure
 
