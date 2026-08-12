@@ -58,7 +58,7 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 - [ ] Place dedicated spots in each room where rewards can spawn. This SHOULD be within view of the room exit.
 - [x] No collision fallback
 - [x] Remove shield reward
-- [ ] Force reward entry (to avoid drawing from pool)
+- [x] Force reward entry (to avoid drawing from pool)
 - [x] Create spawners for actors.
 	- [x] Need to be added to pools...
 
