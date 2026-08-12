@@ -20,7 +20,7 @@ Currently, the shield mechanic feels a little… confused. I want it to feel lik
 ### Reference Gathering For Target Game Experience
 
 - [ ] Gather more style references for combat animations and game feel
-- [ ] I want to increase the number of enemies the player is fighting at once without increasing congnitive load too much. Gather more refs for combat in large crowds so I can better understand how to make this work. (KH2, DMC5, Bayonetta, etc.)
+- [ ] I want to increase the number of enemies the player is fighting at once without increasing cognitive load too much. Gather more refs for combat in large crowds so I can better understand how to make this work. (KH2, DMC5, Bayonetta, etc.)
 
 ### Upgrade Improvements
 
