@@ -56,8 +56,8 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 - [x] Force reward flag in generated room info. This is so that the player is guaranteed to get a reward in a room for tutorial purposes.
 - [x] Create room reward spawn point actor.
 - [ ] Place dedicated spots in each room where rewards can spawn. This SHOULD be within view of the room exit.
-- [ ] No collision fallback
-- [ ] Remove shield reward
+- [x] No collision fallback
+- [x] Remove shield reward
 - [ ] Force reward entry (to avoid drawing from pool)
 - [x] Create spawners for actors.
 	- [x] Need to be added to pools...
