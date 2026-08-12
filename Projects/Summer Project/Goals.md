@@ -60,7 +60,7 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 - [ ] Remove shield reward
 - [ ] Force reward entry (to avoid drawing from pool)
 - [x] Create spawners for actors.
-	- [ ] Need to be added to pools...
+	- [x] Need to be added to pools...
 
 ### Better Levels Infrastructure
 
