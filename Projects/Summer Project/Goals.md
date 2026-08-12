@@ -39,7 +39,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 
 ### Brian's New Level
 
-- [ ] Take a look at Brian's new level
+- [x] Take a look at Brian's new level
 - [ ] Implement it in the game if it is ready
 - [ ] Document the necessary steps to implement a new level in the game.
 	- [x] Mark as lighting scenario in levels menu
