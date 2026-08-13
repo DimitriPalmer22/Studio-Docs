@@ -35,6 +35,10 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 	- Add & remove function
 - [ ] Add a function to remove all active cinematic elements. Useful for removing any black bars or allowing player input early.
 
+## Loadout Tweaks
+
+- [ ] Be a little more intentional with how much starting max mana I give to each loadout. It should be in terms of 1x, 1.5x, or 2x the secondary ability's mana cost.
+
 ## Levels
 
 ### Brian's New Level
