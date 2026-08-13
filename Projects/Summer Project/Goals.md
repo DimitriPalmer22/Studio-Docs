@@ -70,6 +70,7 @@ Currently, getting a room reward is insignificant / the player barely notices wh
 ### Health & Money Orbs Change
 
 Instead of being a whole bunch of tiny orbs that check for collision, let it be one actor that spawns a whole bunch of GPU-managed particles. This should reduce CPU overhead and make it easier to manage the orbs.
+- [ ] Create a new visual for the orbs actor.
 - [ ] Create a new health orb actor that spawns a bunch of GPU-managed particles.
 
 ### Better Levels Infrastructure

@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Shield ^BSV6jI9c
 
 Primary Attack ^dRekN3Lt
@@ -21,7 +22,7 @@ Secondary Attack ^6zN29fVT
 Dodge ^cdOwVJ3i
 
 CONDITION:
-On-hit 
+On-hit
 - effects that are UNIQUE to the specific attacks. ^zwDLSBj8
 
 Max shield uses +1 ^2SqADnTb
@@ -70,14 +71,14 @@ Conditional additional money ^aUDwBPUH
 
 Room Rewards ^4RMegRXo
 
-+ Chance to spawn a reward ^wOqkQDyE
+- Chance to spawn a reward ^wOqkQDyE
 
 Guarantee a reward after X rooms ^Smu59y8I
 
 Change the reward pool to include more fantastical rewards. ^nLGS4qVa
 
 Can only take damage & heal damage in fixed increments. (like the one upgrade from "Another Door")
-- Obsoletes the defense stat... ^CfWxio8t
+- Obsoletes the defense stat… ^CfWxio8t
 
 CONDITION
 Perfect Dodge ^OXVYgWpu
@@ -188,7 +189,9 @@ Secondary Ability Upgrade ^N1b1Ge2e
 Defensive Option / MISC Upgrade ^YaLmXlU4
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAANHgAVAGt8CmUAWTTSyFhESsDsKI5lYPayzG5nAA4ABkn+MpgxgDZp2cgK
 
@@ -512,4 +515,5 @@ OQhv0NQh0pROxZ2IuxJvw4xGw0AiAGDvotzzhq0EQeMVaIRwDNWQgzSxZqizx0xEgKvBUgJd+lwzgB7L
 
 eIyA/hI+gDhmxSLUhSknhNf4cRGgJjgGYAihPeA30Eggp4X1ArhNpm820GQ6YiUg68AwAdWAsJCeMPgnYCCgJUmcJShJi01aDt2xAGgUxoCOgDhIxsAwFqJlhM5UnJGWG0RMxE+BLLxVIhHQDuB/84QGAJE4DHAQAA==
 ```
+
 %%
