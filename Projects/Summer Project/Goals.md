@@ -26,8 +26,9 @@ Currently, the shield mechanic feels a little… confused. I want it to feel lik
 
 The upgrades currently feel useless. The player can kill singular enemies too quickly and larger crowds are still insignificant.
 - [ ] Understand how to make upgrades feel more impactful. Gather references for upgrades in other games and analyze how they work. (Crowd control vs. single target upgrades, etc.) -> Hades, DMC5, KH2, Bayonetta, etc.
-- https://u.gg/lol/items
-- https://wiki.leagueoflegends.com/en-us/ARAM:_Mayhem/Augments#Hide
+- <https://u.gg/lol/items>
+- <https://wiki.leagueoflegends.com/en-us/ARAM>:_Mayhem/Augments#Hide
+
 ## Cutscene Infrastructure
 
 - [x] Allow checkboxes for adding / removing cinematic black bars
