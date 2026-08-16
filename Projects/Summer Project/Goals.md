@@ -29,13 +29,15 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - <https://u.gg/lol/items>
 - <https://wiki.leagueoflegends.com/en-us/ARAM>:_Mayhem/Augments#Hide
 
-### Stat Reword
+### Stat Rework
 
 The values of stats need to be re-defined in how they are represented. Currently, I use a curve to define how much a stat is worth. This *works*, but the selected values are arbitrary and don't make much sense in terms of how the player perceives them. I want to make the stat values more intuitive and understandable for the player.
 
 For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 
 - [ ] Re-do stats so they work on a +/-% scale instead of being a multiplier that is applied to the base value. This will make it easier for the player to understand how much of an effect a stat has on their character.
+- [ ] Reorganize the attributes file so that it is easier to understand and modify. Right now, it is a bit of a mess.
+- [ ] Use the item spawn chance as a flat percentage boost that is added AFTER reward chance calculation. 
 
 ## Cutscene Infrastructure
 
