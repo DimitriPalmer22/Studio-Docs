@@ -47,7 +47,8 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Move speed calculation
 - [ ] Rooms w/out dialogue
 - [ ] Currency
-- [ ] Storing and retrieving 
+- [ ] Storing and retrieving stats from data tables
+- [ ] Remove elemental stats / store them in another attribute class
 
 ## Cutscene Infrastructure
 
