@@ -29,6 +29,9 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - <https://u.gg/lol/items>
 - <https://wiki.leagueoflegends.com/en-us/ARAM>:_Mayhem/Augments#Hide
 
+### Stat Reword
+The values of stats need to be re-defined in how they are represented. Currently, I use a 
+
 ## Cutscene Infrastructure
 
 - [x] Allow checkboxes for adding / removing cinematic black bars
