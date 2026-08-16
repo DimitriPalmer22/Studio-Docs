@@ -39,6 +39,12 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Reorganize the attributes file so that it is easier to understand and modify. Right now, it is a bit of a mess.
 - [ ] Use the item spawn chance as a flat percentage boost that is added AFTER reward chance calculation.
 
+- [ ] Health Calculation (GE)
+- [ ] Mana Calculation (GE)
+- [ ] Shield Calculation (GE)
+- [ ] Damage calculation
+- [ ] Critical hit chance calcuation & damage
+
 ## Cutscene Infrastructure
 
 - [x] Allow checkboxes for adding / removing cinematic black bars
