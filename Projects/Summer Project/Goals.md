@@ -49,7 +49,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Rooms w/out dialogue
 - [ ] Currency
 - [ ] Storing and retrieving stats from data tables
-- [ ] Remove elemental stats / store them in another attribute class
+- [x] Remove elemental stats / store them in another attribute class
 - [ ] Dodge stats
 - [ ] Shield stats
 
