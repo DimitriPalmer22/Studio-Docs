@@ -41,6 +41,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 
 - [ ] Health Calculation (GE)
 - [ ] Mana Calculation (GE)
+	- [ ] Queued mana cost.
 - [ ] Shield Calculation (GE)
 - [ ] Damage calculation
 - [ ] Critical hit chance calculation & damage
@@ -49,6 +50,8 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Currency
 - [ ] Storing and retrieving stats from data tables
 - [ ] Remove elemental stats / store them in another attribute class
+- [ ] Dodge stats
+- [ ] Shield stats
 
 ## Cutscene Infrastructure
 
