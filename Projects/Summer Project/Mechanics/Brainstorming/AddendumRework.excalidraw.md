@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 FText
 Name ^2dyR5DXK
 
@@ -47,7 +48,9 @@ Each category of rarity has a flat percentage chance of being chosen.
 From there, multiply the weight of each VALID upgrade by the category's percent to be selected. ^4nproCj9
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABpAFUABQAOGsIAeU000shYRErA7CiOZWCOssxuZwAWAAYp/jKYceSZucgK
 
@@ -139,4 +142,5 @@ poBpIMB/VlBsgeG+uHhzdVEB0NpWCOWUEQLyrtNYU0UEjH+ReDDNkAS/K8FIBww+VPICzUwFw2aB8Npm
 
 VcvNZAubn1oI0DaywmADLfNRDC+bWwdzO+EbmJ7BBVQwAKcBOCAA
 ```
+
 %%
