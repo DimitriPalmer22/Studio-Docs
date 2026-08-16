@@ -37,7 +37,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 
 - [ ] Re-do stats so they work on a +/-% scale instead of being a multiplier that is applied to the base value. This will make it easier for the player to understand how much of an effect a stat has on their character.
 - [ ] Reorganize the attributes file so that it is easier to understand and modify. Right now, it is a bit of a mess.
-- [ ] Use the item spawn chance as a flat percentage boost that is added AFTER reward chance calculation. 
+- [ ] Use the item spawn chance as a flat percentage boost that is added AFTER reward chance calculation.
 
 ## Cutscene Infrastructure
 
