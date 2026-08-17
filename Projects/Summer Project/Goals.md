@@ -43,15 +43,15 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [x] Mana Calculation (GE)
 	- [x] Queued mana cost.
 - [x] Shield Calculation (GE)
-- [ ] Damage calculation
-- [ ] Critical hit chance calculation & damage
-- [ ] Move speed calculation
+- [x] Damage calculation
+- [x] Critical hit chance calculation & damage
+- [x] Move speed calculation
 - [ ] Rooms w/out dialogue
 - [ ] Currency
 - [ ] Storing and retrieving stats from data tables
 - [x] Remove elemental stats / store them in another attribute class
 - [ ] Dodge stats
-- [ ] Shield stats
+- [x] Shield stats
 - [ ] Convert all GEs to use new attributes.
 
 ## Cutscene Infrastructure
