@@ -39,10 +39,10 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Reorganize the attributes file so that it is easier to understand and modify. Right now, it is a bit of a mess.
 - [ ] Use the item spawn chance as a flat percentage boost that is added AFTER reward chance calculation.
 
-- [ ] Health Calculation (GE)
-- [ ] Mana Calculation (GE)
-	- [ ] Queued mana cost.
-- [ ] Shield Calculation (GE)
+- [x] Health Calculation (GE)
+- [x] Mana Calculation (GE)
+	- [x] Queued mana cost.
+- [x] Shield Calculation (GE)
 - [ ] Damage calculation
 - [ ] Critical hit chance calculation & damage
 - [ ] Move speed calculation
@@ -52,6 +52,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [x] Remove elemental stats / store them in another attribute class
 - [ ] Dodge stats
 - [ ] Shield stats
+- [ ] Convert all GEs to use new attributes.
 
 ## Cutscene Infrastructure
 
