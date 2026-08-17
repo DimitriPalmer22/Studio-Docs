@@ -53,6 +53,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Dodge stats
 - [x] Shield stats
 - [ ] Convert all GEs to use new attributes.
+- [ ] Separate gameplay effects by feature / function / accompanying ability
 
 ## Cutscene Infrastructure
 
