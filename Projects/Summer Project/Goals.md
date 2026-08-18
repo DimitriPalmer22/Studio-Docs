@@ -56,6 +56,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Separate gameplay effects by feature / function / accompanying ability
 - [ ] Fix tome loadout screen 2.
 - [ ] Rebalance all enemy stats
+- [ ] Remove applied stats when removing tomes
 
 ## Cutscene Infrastructure
 
