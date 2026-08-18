@@ -32,7 +32,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - [ ] Create a new system for implementing addendums
 	- Keep boon rarity as an idea maybe?
 	- Use addendum slots to filter
-	- Implement
+	- Implement GE's using curve tables in case we want to use rarities.
 - [ ] Recreate all of the existing addendums using the new system
 - [ ] Get rid of ALL old addendum BPs
 - [ ] Remove old attributes class.
