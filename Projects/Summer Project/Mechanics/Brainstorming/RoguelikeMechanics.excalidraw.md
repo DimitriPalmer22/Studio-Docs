@@ -12,6 +12,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Shield ^BSV6jI9c
 
 Primary Attack ^dRekN3Lt
@@ -224,7 +225,9 @@ Increase passive mana regen while *tag* is active. ^MvP7qD6K
 Flat money increase ^mK3gxwAn
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAANHgAVAGt8CmUAWTTSyFhESsDsKI5lYPayzG5nAA4ABkn+MpgxgDZp2cgK
 
@@ -608,4 +611,5 @@ hcsyAPoVOGNcq7lRcvBE3RSHlUAFzlwLKps48snl43LVQM8qLluMCaFC8oTlUQHjY6MieAzvxCAoIRXl
 
 paiYQGCA8UmygMMAEYpMH0AtQFFQjgxAc7qWLlGQDiVX0Gt0biWukjAAiV9/HYhRQDfgdaAMVuQQWgRIX1AoStymmc056gQGnISkHXgGACII7ipjldaE7AQUAKkwSsMVpSiQ4Z23exhTVCw/isRsAwB6VHitc0g8g4GWSuREdCqbATYgnQduk8s4QCQVE4DHAQAA
 ```
+
 %%
