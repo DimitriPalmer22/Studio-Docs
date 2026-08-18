@@ -61,7 +61,9 @@ The idea is that I want the player's current addendums be easily reconstructed.
  ^brJp8GAl
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABpAFUABQAOGsIAeU000shYRErA7CiOZWCOssxuZwAWAAYp/jKYceSZucgK
 
@@ -181,4 +183,5 @@ gF+rKRxw5aCIHLYCjqAKI4IeqaK5D0VR+o/0CzR5SPl3B2g7UfwPNofdth3g5Mc0PAz8vYo86azY6P4H
 
 agDAgpS5fMgjWhAIsFLqlzS+/oy8IAjgZgD84+BljoIHKbIJyzJc88yegwZ/NFgRWRyMAjpNFwWEAfbwZTygEl789P2T8LexAWE8dAJdwAruRriZya7LCYBeX51EMES9bBNTf4ghH2sEFVDAApwE4IAA
 ```
+
 %%
