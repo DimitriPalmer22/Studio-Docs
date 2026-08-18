@@ -30,7 +30,9 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - <https://wiki.leagueoflegends.com/en-us/ARAM>:_Mayhem/Augments#Hide
 
 - [ ] Create a new system for implementing addendums
-	- No boon rarity?
+	- Keep boon rarity as an idea maybe?
+	- Use addendum slots to filter
+	- Implement
 - [ ] Recreate all of the existing addendums using the new system
 - [ ] Get rid of ALL old addendum BPs
 - [ ] Remove old attributes class.
