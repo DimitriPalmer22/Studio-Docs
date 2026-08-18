@@ -29,6 +29,12 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - <https://u.gg/lol/items>
 - <https://wiki.leagueoflegends.com/en-us/ARAM>:_Mayhem/Augments#Hide
 
+- [ ] Create a new system for implementing addendums
+	- No boon rarity?
+- [ ] Recreate all of the existing addendums using the new system
+- [ ] Get rid of ALL old addendum BPs
+- [ ] Remove old attributes class.
+
 ### Stat Rework
 
 The values of stats need to be re-defined in how they are represented. Currently, I use a curve to define how much a stat is worth. This *works*, but the selected values are arbitrary and don't make much sense in terms of how the player perceives them. I want to make the stat values more intuitive and understandable for the player.
