@@ -47,13 +47,14 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [x] Critical hit chance calculation & damage
 - [x] Move speed calculation
 - [ ] Rooms w/out dialogue
-- [ ] Currency
+- [ ] Currency & shop
 - [ ] Storing and retrieving stats from data tables
 - [x] Remove elemental stats / store them in another attribute class
 - [ ] Dodge stats
 - [x] Shield stats
 - [ ] Convert all GEs to use new attributes.
 - [ ] Separate gameplay effects by feature / function / accompanying ability
+- [ ] Fix tome loadout screen 2.
 
 ## Cutscene Infrastructure
 
