@@ -39,7 +39,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - [ ] Get rid of ALL old addendum BPs
 - [ ] Remove old attributes class.
 
-- [ ] Use the rarity to define the level of the gameplay effect being applied so I can use the curve tables to easily define boosts for each rarity. This will make it easier to balance the addendums.
+- [x] Use the rarity to define the level of the gameplay effect being applied so I can use the curve tables to easily define boosts for each rarity. This will make it easier to balance the addendums.
 - [ ] Parse the description to add the modifier to the description text automatically.
 	- [ ] Fall back to "???" if a value cannot be found.
 
