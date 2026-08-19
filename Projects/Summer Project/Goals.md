@@ -39,6 +39,8 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - [ ] Get rid of ALL old addendum BPs
 - [ ] Remove old attributes class.
 
+- [ ] Use the rarity to define the level of the gameplay effect being applied so I can use the curve tables to easily define boosts for each rarity. This will make it easier to balance the addendums.
+
 ### Stat Rework
 
 The values of stats need to be re-defined in how they are represented. Currently, I use a curve to define how much a stat is worth. This *works*, but the selected values are arbitrary and don't make much sense in terms of how the player perceives them. I want to make the stat values more intuitive and understandable for the player.

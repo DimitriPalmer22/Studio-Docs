@@ -254,7 +254,9 @@ For effects w/ multiple instances (with different levels), use rarity entry in d
 Be sure to convey the strength of the upgrade in the desc. ^VjWjpxCN
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAANHgAVAGt8CmUAWTTSyFhESsDsKI5lYPayzG5nAA4ABkn+MpgxgDZp2cgK
 
@@ -670,4 +672,5 @@ iWbXiRW4gCEgfTWbAWYCxW9jQIASS2Dm/8Ar8WK0fYPBBbzA6A9ADiS4AcUw5qSFTkaYq2uwY4BYCymA
 
 QGGC8MMmD6AWoDioDRUlsQNKdODIAPWr6AoybxLvSRgBXWl/hhIyACOAZgCDm94C/QSCAchfUAXMHgSBQeqTDIeNKKQIpAYAU63BAEi11oTsCI2gYCbWzG3w2utD3bV7ElNTMiHWimx42jG3xQTK3FgXgY/W3EQpWnC1lcCdCC8HdThATy0TgMcBAAA=
 ```
+
 %%
