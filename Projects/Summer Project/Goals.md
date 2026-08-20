@@ -42,7 +42,8 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - [x] Use the rarity to define the level of the gameplay effect being applied so I can use the curve tables to easily define boosts for each rarity. This will make it easier to balance the addendums.
 - [ ] Parse the description to add the modifier to the description text automatically.
 	- [ ] Fall back to "???" if a value cannot be found.
-- [ ] Distingu
+- [ ] Distinguish between minor and major addendum screens.
+	- Can be easily implemented by having two versions of the screen BP: one for each room.
 
 ### Stat Rework
 
