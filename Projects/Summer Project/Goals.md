@@ -29,7 +29,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - <https://u.gg/lol/items>
 - <https://wiki.leagueoflegends.com/en-us/ARAM>:_Mayhem/Augments#Hide
 
-- [ ] Create a new system for implementing addendums
+- [x] Create a new system for implementing addendums
 	- Keep boon rarity as an idea maybe?
 	- Use addendum slots to filter
 	- Implement GE's using curve tables in case we want to use rarities.
