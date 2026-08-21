@@ -40,7 +40,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 - [ ] Recreate all of the existing addendums using the new system
 - [ ] Get rid of ALL old addendum BPs
 - [ ] Remove old attributes class.
-- [ ] Re-connect
+- [ ] Re-connect addendums to ribbon UI?
 
 - [x] Use the rarity to define the level of the gameplay effect being applied so I can use the curve tables to easily define boosts for each rarity. This will make it easier to balance the addendums.
 - [ ] Parse the description to add the modifier to the description text automatically.
