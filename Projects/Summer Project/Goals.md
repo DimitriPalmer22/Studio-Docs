@@ -16,6 +16,8 @@ Currently, the shield mechanic feels a little… confused. I want it to feel lik
 - [x] Shield regen stat is instead used to control how long it takes for shield to refill.
 - [x] Remove functionality for restoring shield on room start
 - [x] Ensure tutorial still works with the new shield system.
+- [ ] Update the shader on the shield UI item to only glow when the shield is available to be used
+- [ ] Also, make the glow more intense.
 
 ### Reference Gathering For Target Game Experience
 
