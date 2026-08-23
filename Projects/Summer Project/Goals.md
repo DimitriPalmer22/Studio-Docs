@@ -49,7 +49,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 	- [x] Also parse the duration.
 - [ ] Distinguish between minor and major addendum screens.
 	- [ ] Can be easily implemented by having two versions of the screen BP: one for each room.
-	- [ ] The minor screen only has options for stats, while the major one allows for upgrades to the primary, the secondary, and the dodge.
+	- [x] The minor screen only has options for stats, while the major one allows for upgrades to the primary, the secondary, and the dodge.
 
 ### Stat Rework
 
