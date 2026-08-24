@@ -85,6 +85,11 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Implement combo counter w/ gameplay effects and stack refreshes
 - [ ] Implement new attribute class for primary attacks & secondary attack stats.
 
+## Difficulty Rework
+Now that the stats represent additive modifiers (and not arbitrary values), I can make a more reliable difficulty system that scales with the levels.
+- For each type of enemy, make 1 gameplay effect that affects MULTIPLE stats.
+- This GE should also have its own cuir
+
 ## Cutscene Infrastructure
 
 - [x] Allow checkboxes for adding / removing cinematic black bars
