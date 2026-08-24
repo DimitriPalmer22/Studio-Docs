@@ -80,6 +80,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [ ] Convert all GEs to use new attributes.
 - [x] Separate gameplay effects by feature / function / accompanying ability
 - [ ] Fix tome loadout screen 2.
+- [ ] Fix tome loadout screen 3.
 - [ ] Rebalance all enemy stats
 - [x] Remove applied stats when removing tomes
 - [ ] Implement combo counter w/ gameplay effects and stack refreshes
