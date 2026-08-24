@@ -88,7 +88,8 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 ## Difficulty Rework
 Now that the stats represent additive modifiers (and not arbitrary values), I can make a more reliable difficulty system that scales with the levels.
 - For each type of enemy, make 1 gameplay effect that affects MULTIPLE stats.
-- This GE should also have its own cuir
+- This GE should also have its own curve table, representing the added stats of the enemy at different levels.
+- The "levels" represent the different areas of the game.
 
 ## Cutscene Infrastructure
 
