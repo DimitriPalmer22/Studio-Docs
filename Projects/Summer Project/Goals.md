@@ -7,6 +7,9 @@ Place this into ClickUp.
 ### ANOTHER Combat Test Arena
 
 - [ ] Start working on ANOTHER empty arena space for combat
+	- Endless combat arena
+	- 5 - 10 waves and then a boss fight
+	- After each cycle of waves, increase the difficulty of the enemies (apply gameplay effects)
 
 ### DONE Rework Shield (Parry) System AGAIN
 
