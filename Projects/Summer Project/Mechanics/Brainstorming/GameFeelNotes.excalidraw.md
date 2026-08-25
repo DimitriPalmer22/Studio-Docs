@@ -4,15 +4,15 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Movement ^PAYx0017
 
-Rotation speed too slow / sluggish. 
+Rotation speed too slow / sluggish.
 - Feels like I'm moving through mud.
 - Can lead to issues in scenarios where the player is facing threats in multiple directions. ^ACcFPpFZ
 
@@ -26,7 +26,7 @@ Player often doesn't rotate to the correct direction when close enough
 - Leads to constant whiffing (directional) ^w58VZvZR
 
 Attacks startups could be faster for combo starters
-- Slow windups feel a little too weighty and sluggish for my liking... ^V9FkhvNp
+- Slow windups feel a little too weighty and sluggish for my liking… ^V9FkhvNp
 
 At the ends of animations (like a dodge or the shield), there is too much rest time where the player cannot move.
 - Allow them to cancel out of the animation sooner and move around.
@@ -37,7 +37,9 @@ Kingdom Hearts II's movement allows Sora to spin in place. ^OqckfUdA
 Kingdom Hearts II's dodge roll into movement feels very seamless. ^BSNVME0Q
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABrACtmAA4AWQAxfSE00shYRErA7CiOZWCOssxuZ2SABkn+MphxgEZp2cgK
 
@@ -111,4 +113,5 @@ AQHBiGRtAIaHCJuASJXjBx+LK4vcDvCkBKRh3EgCW1ILWjIQnE3MEXAYpxjeJxAIZO5BvGNjgg/4JURx
 
 hUf5PRLsA1AMCzAfELDDgCiSEAOUwKaEIuB+xGA94BaPgBNEJxIeYQYIDPS4B24h8Bgb8TDUkEhCzh8hAwPiAyAdSA+J8B4F2DqkIAGpHwMASB0gBXkJJ7EHIK2EaDZB2gNUpsTCAdj9hAgm2T0ZxgwCwxcpfY0GFlTcgOwqppdOMaDEaAkA4AbAWEaVOOzP9Bg10qScFIM6YARp7Uz7BVMqDL8uA4ANKtiFxDhATRk4ccEAA===
 ```
+
 %%
