@@ -41,7 +41,7 @@ The upgrades currently feel useless. The player can kill singular enemies too qu
 	- Lowkey, that's a LOT of work…
 	- Instead, have multiple versions of each w/ different values associated w/ them. Map those values to a curve table.
 - [ ] Recreate all of the existing addendums using the new system
-- [ ] Get rid of ALL old addendum BPs
+- [x] Get rid of ALL old addendum BPs
 - [ ] Remove old attributes class.
 - [ ] Re-connect addendums to ribbon UI?
 - [ ] Max-health related addendums should heal as well.

@@ -50,10 +50,12 @@ Going from one attack to the next takes unreasonably long.
 
 Attacks have users trapped in for too long.
 - Rather than having the entire ability prevent the user from moving
-- use tags within the montage to  control movement (line it up w/ the attack notify) ^emtjNhNF
+- use tags within the montage to control movement (line it up w/ the attack notify) ^emtjNhNF
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABrACtmAA4AWQAxfSE00shYRErA7CiOZWCOssxuZ2SABkn+MphxgEZp2cgK
 
@@ -157,4 +159,5 @@ AQJ4+r+CZq/W9AYTuAVzDMAIz4nJgqJvEs9NSO2GEAoRgHGUa95fwTQMMQYNQbuDbx41QEEE3EaIBXJr
 
 Q8h4wBwgQVEJIayQYBtVmpiw0DGKrRnBgGp+bezsaAkAPVFIgkBougGZnkzwJhzfnUwBOnTTPsNU5UGYXto2uPHDEdQanATggAA=
 ```
+
 %%
