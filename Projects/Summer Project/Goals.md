@@ -101,7 +101,6 @@ Now that the stats represent additive modifiers (and not arbitrary values), I ca
 ## Loadout Tweaks
 
 - [ ] Be a little more intentional with how much starting max mana I give to each loadout. It should be in terms of 1x, 1.5x, or 2x the secondary ability's mana cost.
-- [ ] 
 
 ## Levels
 
