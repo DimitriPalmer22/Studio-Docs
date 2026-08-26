@@ -49,7 +49,9 @@ Going from one attack to the next takes unreasonably long.
 - It's still too difficult to kill singular enemies quickly. ^rNfZRUg8
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABrACtmAA4AWQAxfSE00shYRErA7CiOZWCOssxuZ2SABkn+MphxgEZp2cgK
 
@@ -145,4 +147,5 @@ j4UgBl0gCQgSAFU04P5oF3EAiQjkt2eipIDDJPIb2yjSUgulWQSAHBYAsVQ+DnLlAoIVzNDUiw67eA4c
 
 10saYQYIGvSSjO5R8BgEHWLWvGc8jlBTAwASAyBt6U4fK4+A8G7A16EAdej4LgKfEQBuy8u94DkDbCNBsg7QFuSCA8h4wBwgQVEGlqyQYBlVle1rUDGKrb7BgFep4TJkaAkAHVFIkvcfjxhX7g9Fm/OpgCH2t6fYZeyoAwvbRtceOGIjzVOAnBAA
 ```
+
 %%
