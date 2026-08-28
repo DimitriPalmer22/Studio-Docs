@@ -4,12 +4,12 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Status Effect GE Class ^AtZAZJTA
 
 Status Effects (GE) ^6Et6LOQS
@@ -26,12 +26,14 @@ Has a duration tied to it. ^aYZ9nlkw
 
 Applies any stat modifiers ^JTSlqWqx
 
-Handle stacking... ^KWUx2Kfs
+Handle stacking… ^KWUx2Kfs
 
 Status Effect GCC Class ^DOiIVhnF
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCASARgBpbFqAYWSAFTTSyFhESsDsKI5lYPayzG5nABYABkn+Mpgx6unZyAoS
 
@@ -97,4 +99,5 @@ cAP8GYKUiUGTBRBgCFAXHx4iJ8EANfLunES3JIMsgZMQ0GegGCsDTg2QOgelEYHF0iApA/9CPVOAXoFe
 
 ECBcIAIuSEDe3iyBBBoKIWZBgAvSRD8wyvFKMiWsg3tUhVg4jp2GYC6ISAcANgAaAOiJC4AGwxYWkPsGCJxhbATAA0KKFd1khLYHYk8iawYgEKioYAFOAnBAA===
 ```
+
 %%
