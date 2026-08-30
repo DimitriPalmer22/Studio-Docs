@@ -74,7 +74,7 @@ For example, an *Intelligence* stat of 3 means the player does 1x damage… Why?
 - [x] Remove elemental stats / store them in another attribute class
 - [x] Dodge stats
 - [x] Shield stats
-- [ ] Convert all GEs to use new attributes.
+- [x] Convert all GEs to use new attributes.
 - [x] Separate gameplay effects by feature / function / accompanying ability
 - [ ] Fix tome loadout screen 2.
 - [ ] Fix tome loadout screen 3.
