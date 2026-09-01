@@ -50,3 +50,13 @@ Actors that are spawned in the level to represent a reward. These actors should 
 ### DATA: Reward Pool
 
 A list of representations of rewards that can be spawned in a room.
+
+
+---
+
+- Money
+- HP Restore
+- Stat Up
+	- Damage
+	- Attack Speed
+	- Defense
