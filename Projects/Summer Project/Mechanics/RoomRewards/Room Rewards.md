@@ -51,7 +51,6 @@ Actors that are spawned in the level to represent a reward. These actors should 
 
 A list of representations of rewards that can be spawned in a room.
 
-
 ---
 
 - Money
