@@ -55,16 +55,18 @@ Apply item effect ^cjBPeDhl
 Data Params
 - FText: name
 
---- 
+---
 
 - int: price
 
 - class: Shop item actor
-- row handle: Addendum 
+- row handle: Addendum
 - float: Level ^YQnbMZZB
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4AVm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAArABEOAE4AVR4AJWI00shYRErA7CiOZWCOssxuZ2SABkn+MphxnmnZyAoS
 
@@ -178,4 +180,5 @@ VMVqmhqgUDzbMmalKMJHBoACEX6/mPgpv4jR1wA2AW9Q3hssiC4D4UgOe32uQgSAN0/6r7QDv5hXGP8/
 
 2Y7GQ+O1uVdt2Aqg22ZgPiBBS6m2A0dkFNvfTbnB+gPTBAI+FGHeZk7RZguHerxUpYhA9wAwKLevRBSTlLxF9fiFfsU5MZFF2xjfcYD32PgMRaJRAEcDMB+77waGNBDWjZAhAV9v6zCGNDKBgSgQYsuiE3gYAL7cd/m9mDFxHcsHW94h5Pf2vZg1oJAO/IpePtTsKHRDgexruRaYBAHkwkMFHdbDDkx0kU0ReEB7sTgxwQAA
 ```
+
 %%
