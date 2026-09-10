@@ -9,11 +9,12 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 1. Base Loadout ^MSV8HnzF
 
 Choose primary spell & secondary spell combination ^dICIAfNb
 
-2. Stat reallocation ^nrWIlLyl
+1. Stat reallocation ^nrWIlLyl
 
 The player get's X (integer) "notches" to redistribute additional points to their stats. ^yRoKk3zh
 
@@ -31,7 +32,7 @@ Percentage modifier for each notch ^WgZdBB9o
 
 Possible QOL: Store the previous notch allocation to make repeated runs quicker to start. ^eYcjQbuz
 
-3. Additional Addendum ^OvbJVYb6
+1. Additional Addendum ^OvbJVYb6
 
 A special addendum screen to choose an addendum at the start. ^oTaFWHvF
 
@@ -52,7 +53,9 @@ Used to look up point value ^m8cTalWQ
 Apply stat values (from buttons) to struct ^FMkEkKjc
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4Adm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCAA2AFUAUQBOUkkEAFk00shYRErA7CiOZWCOssxuAAZ+MphuZx5xyaLIChJ1
 
@@ -174,4 +177,5 @@ kwE2Hy5/CHBWXELvQHCCWgihuYTw5UJAgyBRI8nzwdmjK/4hOOOE7NZAkeDUIuoAEwrtZ3K4QDVOBk5K
 
 QuECBLxhB9HfCtBsgQgRN+skcCDBuYgQTEEwGyCTwMAlrhN5o5yitASA9NnZNG7gDgV431rzi3U0wDlvggObjgLG4bDUi74DRVTcECldjgRwQAA=
 ```
+
 %%
