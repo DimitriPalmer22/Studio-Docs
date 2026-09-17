@@ -9,6 +9,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 I_OpenableUI ^yKyj4Sjh
 
 Open()
@@ -42,7 +43,9 @@ Event ^Bli3LnBX
 - User calls the Exit() externally ^AhGIGDax
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4Adm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABHAA4AJWZkgCs2XDTSyFhESsDsKI5lYPayzG5nHgAGCf4ymDHJ6aLIChJ1
 
@@ -126,4 +129,5 @@ zakkByM78FHB8A5ikBlAoIDJMZN4AoFgl1Aa4NoCODLCzgcMZQIaCYQ9B/FuADJNMAkSpKJgESkYdor0
 
 A5cEC2rnBc+jAXJR8AGXR0g4GQMfhOVmxNJ7o+gShXTi2bp8dpdvAwASA+Ur9gVK5e4NkUuhPLFFkJS3NoscDMBwY7wczl+DprZBiRGfM0aZBGTExAgqINiC4gwCdRDluch4nTRIBwA2AJoOaJcrgAjJblzkNxbZMwBgrggny65S2DS6noQiAQ4IKqGADjhRwQAA
 ```
+
 %%
