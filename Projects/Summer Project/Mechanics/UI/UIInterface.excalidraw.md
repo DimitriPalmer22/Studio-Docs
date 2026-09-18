@@ -47,7 +47,9 @@ AVOID having too much code in each widget class. Instead, each widget can hold a
 I.E. Codex widget class holds a UObject responsible for getting widget information. We can then use a form of dependency injection to test / work on our widget. ^IiJU8Rus
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4Adm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABHAA4AJWZkgCs2XDTSyFhESsDsKI5lYPayzG5nHgAGCf4ymDHJ6aLIChJ1
 
@@ -141,4 +143,5 @@ JRICKzeAIoRPmNrzA7Z1Zo24gErTcWeb0Yv4VOVNsYWtazg5OeJT0GUCgh6knk3gBQSO3hKJg2gI4G8L
 
 OnkGzpeCkBltxOlnd1uxVYVmABICaHAEW3OQBdwQKhucEH6MAvtHwAnWFKzgZALlAMCZLjH0C3gr0CvOBdZW1AGACQ6u1/povy5I0FdCAJXYSTFq7dzUFldGO8Ei7gQla2QcUT3xspOQtkzMQIKiGEiroMAE0QXWZospK0SAQqk0LtAl1wAtkMugKGttLCYATdwQC5VLpbDoSP0uRYocEFVDABxwo4IAA===
 ```
+
 %%
