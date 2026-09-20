@@ -4,12 +4,12 @@ excalidraw-plugin: parsed
 tags: [excalidraw]
 
 ---
-==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
-
+==⚠ Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠== You can decompress Drawing data with the command palette: 'Decompress current Excalidraw file'. For more info check in plugin settings under 'Saving'
 
 # Excalidraw Data
 
 ## Text Elements
+
 Entry Title ^VmN2LHlk
 
 Rune ^JBaeTd0c
@@ -22,7 +22,7 @@ Ch 3 ^G4U8iDLA
 
 Entry Text
 
-Rune super-imposed on the background 
+Rune super-imposed on the background
 (if complete) ^CQeeZN8t
 
 ??? ^Vr1UCmQJ
@@ -66,7 +66,9 @@ Rune ^kuIp7yDE
 Select an Entry ^MPpKSCOV
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4Adm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCHxMACVNAEUAER4hNNLIWERKwOwojmVgtrLMbmdkgAZx/jKYUYAWSenIChJ1
 
@@ -194,4 +196,5 @@ BC8IeEvCAU98YXL06qEAlME0Hcn6CRuGQ2QPT2lB9ffQiAanoh9LgeSxvFbFRMmACi+3S59AqIJ4KQFj
 
 VWCQBPzGgzoy3uABD/W/TeqFr/TAPd+MKreOwIPX+D2V2nhBI3c4GcEAA===
 ```
+
 %%
