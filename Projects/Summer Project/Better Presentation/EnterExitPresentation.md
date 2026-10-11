@@ -9,6 +9,7 @@ tags: [excalidraw]
 # Excalidraw Data
 
 ## Text Elements
+
 Interact ^1OuN1jhk
 
 Cinematic black bars enabled ^RhrAxwzS
@@ -26,7 +27,9 @@ Done ^6Jh3scoG
 EXIT ^bYecFvQt
 
 %%
+
 ## Drawing
+
 ```compressed-json
 N4KAkARALgngDgUwgLgAQQQDwMYEMA2AlgCYBOuA7hADTgQBuCpAzoQPYB2KqATLZMzYBXUtiRoIACyhQ4zZAHoFAc0JRJQgEYA6bGwC2CgF7N6hbEcK4OCtptbErHALRY8RMpWdx8Q1TdIEfARcZgRmBShcZQUebR4Adm0AZho6IIR9BA4oZm4AbXAwUDBSiBJuCABhAEkAaSghIQBFAGU00shYRErA7CiOZWCOssxuZwAWAAYp/jKYcZ4ZucgK
 
@@ -104,4 +107,5 @@ gZliehH+nwB6xSAygEEAAApmkvAPePjOoD70fgAASgxDsxlAOoVEL0Cxm4BsZswYPIzLkakz30F6XyXC
 
 ZwfoIQEYCczVwcXX+IvjCDBBo59ULGEIDuAGAhpG6BkXeKZFjwDArQDIKnMhj5ylioQbrtHNjkXTT0QqZ6cBXuSvAToOEfWNkDAwni7yTvKWIEAdxohqkI7HWRxMzBLsxOr0YOXAF0bhzSoiMynpgCLkpyfCoclsEnTPS0I36wQPmXaXHBAA
 ```
+
 %%
