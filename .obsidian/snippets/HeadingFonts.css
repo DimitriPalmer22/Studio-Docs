@@ -1,0 +1,14 @@
+/* Headings use the font `Archivo Condensed` */
+
+body {
+  --h1-font: Archivo Condensed;
+  --h2-font: Archivo Condensed;
+  --h3-font: Archivo Condensed;
+  --h4-font: Archivo Condensed;
+  --h5-font: Archivo Condensed;
+  --h6-font: Archivo Condensed;
+}
+
+/* .view-header-title {
+    font-family: "Archivo SuperCondensed"
+} */

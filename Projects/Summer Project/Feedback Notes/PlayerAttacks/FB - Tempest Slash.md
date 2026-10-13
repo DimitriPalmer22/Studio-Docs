@@ -1,4 +1,4 @@
-# Feedback - Tempest Slash
+# FB - Tempest Slash
 
 - [ ] Attack wind-ups still feel needlessly slow and clunky
 - [ ] Not enough forward movement throughout the whole animation
