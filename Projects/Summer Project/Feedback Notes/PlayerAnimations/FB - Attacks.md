@@ -15,3 +15,7 @@
 - [ ] Change the element of the shadow ball attack.
 
 # Secondary Attacks
+
+- [ ] Implement the ability for the split abilities to be held
+
+## F
