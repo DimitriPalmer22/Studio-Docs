@@ -20,11 +20,11 @@
 
 ## Shadow Ball
 
-- [ ] Change the element of the shadow ball attack.
+- [ ] Change the element of the shadow ball attack (once it's safe to).
 
 # Secondary Attacks
 
-- [ ] Implement the ability for the split abilities to be held
+- [ ] Implement the ability for the split abilities to be held.
 
 ## Relay
-- [ ] Charge time is WAYYYYY to long
+- [ ] Charge time is WAYYYYY to long.
