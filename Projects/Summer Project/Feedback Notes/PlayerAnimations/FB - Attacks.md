@@ -1,7 +1,8 @@
 # Primary Attacks
 
 ## Flame Volley
-- [ ] Re-do flame volley hitboxes
+- [x] Re-do flame volley hitboxes
+- [ ] Make flame volley finisher fireball bigger visually 
 
 ## Tempest Slash
 
