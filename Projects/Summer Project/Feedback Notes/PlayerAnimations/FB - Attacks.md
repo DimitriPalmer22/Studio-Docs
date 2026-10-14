@@ -26,5 +26,10 @@
 
 - [ ] Implement the ability for the split abilities to be held.
 
+## Crystal Explosion
+- [ ] Implement as a held split ability
+
 ## Relay
+- [ ] Implement as a held split ability
 - [ ] Charge time is WAYYYYY to long.
+
