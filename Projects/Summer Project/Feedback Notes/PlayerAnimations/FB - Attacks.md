@@ -3,9 +3,9 @@
 ## Tempest Slash
 
 - [x] Attack wind-ups still feel needlessly slow and clunky
-- [ ] Add multiple hitboxes in a hit group.
-	- [ ] Tempest 01
-	- [ ] Tempest Far
+- [x] Add multiple hitboxes in a hit group.
+	- [x] Tempest 01
+	- [x] Tempest Far
 - [ ] Not enough forward movement throughout the whole animation for hits 1 and 2
 - [ ] The far attack does close distance consistently
 - [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing...
@@ -19,4 +19,4 @@
 - [ ] Implement the ability for the split abilities to be held
 
 ## Relay
-- [ ] 
+- [ ] Charge time is WAYYYYY to long
