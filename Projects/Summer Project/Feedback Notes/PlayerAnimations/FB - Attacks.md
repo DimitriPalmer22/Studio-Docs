@@ -13,7 +13,7 @@
 - [ ] The far attack does close distance consistently
 - [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing...
 
-## Shadow Balls
+## Shadow Ball
 
 - [ ] Change the element of the shadow ball attack.
 
