@@ -1,6 +1,6 @@
 # Primary Attacks
 
-## FB - Tempest Slash
+## Tempest Slash
 
 - [x] Attack wind-ups still feel needlessly slow and clunky
 - [ ] Add multiple hitboxes in a hit group.
@@ -10,7 +10,7 @@
 - [ ] The far attack does close distance consistently
 - [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing...
 
-## FB - Shadow Balls
+## Shadow Balls
 
 - [ ] Change the element of the shadow ball attack.
 
@@ -18,4 +18,4 @@
 
 - [ ] Implement the ability for the split abilities to be held
 
-## F
+## 
