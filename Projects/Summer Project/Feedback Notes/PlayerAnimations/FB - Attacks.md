@@ -1,5 +1,9 @@
 # Primary Attacks
 
+## General
+
+- [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing…
+
 ## Flame Volley
 - [x] Re-do flame volley hitboxes
 - [ ] Make flame volley finisher fireball bigger visually 
@@ -12,7 +16,7 @@
 	- [x] Tempest Far
 - [ ] Not enough forward movement throughout the whole animation for hits 1 and 2
 - [ ] The far attack does close distance consistently
-- [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing...
+
 
 ## Shadow Ball
 
