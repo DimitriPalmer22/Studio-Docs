@@ -25,8 +25,9 @@
 # Secondary Attacks
 
 - [ ] Implement the ability for the split abilities to be held.
-	- In ThirdPersonCharacter, add / remove tag
-	- In montage base, detect when tag is present / removed.
+	- [ ] In ThirdPersonCharacter, add / remove tag
+	- [ ] In montage base, detect when tag is present / removed. (only is the montage portion detects when the button is being held)
+	- [ ] In tag holder, set up the tag for the secondary being held
 
 ## Crystal Explosion
 - [ ] Implement as a held split ability
