@@ -1,5 +1,8 @@
 # Primary Attacks
 
+## Flame Volley
+- [ ] Re-do flame volley hitboxes
+
 ## Tempest Slash
 
 - [x] Attack wind-ups still feel needlessly slow and clunky
