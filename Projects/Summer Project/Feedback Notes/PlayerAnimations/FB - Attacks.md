@@ -47,7 +47,7 @@
 - [x] Implement as a held split ability
 - [x] Spawn crystals
 - [x] Fire crystals
-- [ ] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
+- [x] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
 
 ## Relay
 - [ ] Implement as a held split ability
