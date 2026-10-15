@@ -57,8 +57,10 @@
 - [x] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
 - [x] Projectiles only doing 1 damage each
 - [x] Spawn projectiles after fully charging?
+- [x] Remove old BP & rename new one
 
 ## Relay
 - [x] Implement as a held split ability
 - [x] Charge time is WAYYYYY to long.
-- [ ] Time between action start and fire start is way too long 
+- [x] Time between action start and fire start is way too long 
+- [x] Remove old BP & rename new one
