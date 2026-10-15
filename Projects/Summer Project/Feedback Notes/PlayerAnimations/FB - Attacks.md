@@ -41,7 +41,7 @@
 	- [x] Charge end event
 	- [x] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
 - [x] Remove ability to move during charged attacks.
-- [ ] Remove old held ability base class in c++
+- [ ] Remove old held ability base class in C++
 - [ ] Tune the charge time for each ability (currently too long)
 
 ## Crystal Explosion
