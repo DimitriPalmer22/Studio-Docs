@@ -34,10 +34,11 @@
 		- Ngl, this is going to be deprecated anyway so...
 	- [x] In montage base, detect when tag is present / removed. (only is the montage portion detects when the button is being held)
 	- [x] In tag holder, set up the tag for the secondary being held
-	- [ ] Drain mana while charging.
-		- [ ] If mana drain isn't fully complete, don't release the ability
-	- [ ] Charge start event
-	- [ ] Charge end event
+	- [x] Drain mana while charging.
+		- [x] If mana drain isn't fully complete, don't release the ability
+	- [x] Charge start event
+	- [x] Charge end event
+	- [ ] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
