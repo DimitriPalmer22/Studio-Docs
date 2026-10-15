@@ -39,6 +39,7 @@
 	- [x] Charge start event
 	- [x] Charge end event
 	- [ ] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
+- [ ] Remove old held ability base class
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
