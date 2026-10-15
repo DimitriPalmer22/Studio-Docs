@@ -54,6 +54,7 @@
 - [x] Fire crystals
 - [x] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
 - [x] Projectiles only doing 1 damage each
+- [ ] Spawn projectiles after fully charging?
 
 ## Relay
 - [ ] Implement as a held split ability
