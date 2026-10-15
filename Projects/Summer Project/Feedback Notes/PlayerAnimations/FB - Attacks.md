@@ -19,7 +19,9 @@
 	- [x] Tempest Far
 - [ ] Not enough forward movement throughout the whole animation for hits 1 and 2
 - [ ] The far attack does close distance consistently
-- [ ] AOE-based attacks sjo
+- [ ] AOE-based attacks should:
+	- [ ] Have a bigger hitbox
+	- [ ] Go closer to enemies
 
 
 ## Shadow Ball
