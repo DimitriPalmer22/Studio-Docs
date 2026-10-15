@@ -5,10 +5,11 @@
 - [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing…
 
 ## Flame Volley
+
 - [x] Re-do flame volley hitboxes(?)
 - [x] Re-do the portions of the animation for flame volley
 - [x] Re-time flame volley animations again (anim rate for anim sections)
-- [ ] Make flame volley finisher fireball bigger visually 
+- [ ] Make flame volley finisher fireball bigger visually
 - [ ] FLAME VOLLEY FAR WAS THE ONE THAT CHANGED.
 
 ## Tempest Slash
@@ -23,7 +24,6 @@
 	- [ ] Have a bigger hitbox
 	- [ ] Go closer to enemies
 
-
 ## Shadow Ball
 
 - [ ] Change the element of the shadow ball attack (once it's safe to).
@@ -35,7 +35,7 @@
 	- [x] In ThirdPersonCharacter, make it so that holding the button ADDs the tag,
 	- [x] Then, make it so that releasing the button REMOVES the tag.
 	- [ ] Then, in the UHoldMontageAbilityBase class, respond to the event when the tag is removed instead of added
-		- Ngl, this is going to be deprecated anyway so...
+		- Ngl, this is going to be deprecated anyway so…
 	- [x] In montage base, detect when tag is present / removed. (only is the montage portion detects when the button is being held)
 	- [x] In tag holder, set up the tag for the secondary being held
 	- [x] Drain mana while charging.
@@ -51,6 +51,7 @@
 	- [x] while the ability is still charging -> apply / remove
 
 ## Crystal Explosion
+
 - [x] Implement as a held split ability
 - [x] Spawn crystals
 - [x] Fire crystals
@@ -60,7 +61,8 @@
 - [x] Remove old BP & rename new one
 
 ## Relay
+
 - [x] Implement as a held split ability
 - [x] Charge time is WAYYYYY to long.
-- [x] Time between action start and fire start is way too long 
+- [x] Time between action start and fire start is way too long
 - [x] Remove old BP & rename new one
