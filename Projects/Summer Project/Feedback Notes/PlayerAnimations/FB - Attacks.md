@@ -59,6 +59,6 @@
 - [x] Spawn projectiles after fully charging?
 
 ## Relay
-- [ ] Implement as a held split ability
-- [ ] Charge time is WAYYYYY to long.
-
+- [x] Implement as a held split ability
+- [x] Charge time is WAYYYYY to long.
+- [ ] Time between action start and fire start is way too long 
