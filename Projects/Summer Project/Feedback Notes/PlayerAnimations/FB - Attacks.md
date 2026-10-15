@@ -5,9 +5,9 @@
 - [ ] Combo index (which tempest slash attack to use) is not resetting after animation is finishing…
 
 ## Flame Volley
-- [ ] Re-do flame volley hitboxes
-- [ ] Re-do the portions of the animation for flame volley
-- [ ] Re-time flame volley animations again (anim rate for anim sections)
+- [x] Re-do flame volley hitboxes(?)
+- [x] Re-do the portions of the animation for flame volley
+- [x] Re-time flame volley animations again (anim rate for anim sections)
 - [ ] Make flame volley finisher fireball bigger visually 
 
 ## Tempest Slash
