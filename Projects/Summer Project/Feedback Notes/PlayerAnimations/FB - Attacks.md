@@ -45,14 +45,15 @@
 	- [x] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
 - [x] Remove ability to move during charged attacks.
 - [ ] Remove old held ability base class in C++
-- [ ] Tune the charge time for each ability (currently too long)
+- [x] Tune the charge time for each ability (currently too long)
+- [ ] Gameplay cue when the ability is fully charged
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
 - [x] Spawn crystals
 - [x] Fire crystals
 - [x] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
-- [ ] Projectiles only doing 1 damage each
+- [x] Projectiles only doing 1 damage each
 
 ## Relay
 - [ ] Implement as a held split ability
