@@ -47,7 +47,7 @@
 - [ ] Remove old held ability base class in C++
 - [x] Tune the charge time for each ability (currently too long)
 - [ ] Gameplay cues:
-	- [ ] when the ability is fully charged -> execute
+	- [ ] when the ability is fully charged -> apply / remove
 	- [ ] while the ability is still charging -> apply / remove
 
 ## Crystal Explosion
