@@ -39,7 +39,7 @@
 		- [x] If mana drain isn't fully complete, don't release the ability
 	- [x] Charge start event
 	- [x] Charge end event
-	- [ ] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
+	- [x] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
 - [ ] Remove ability to move during charged attacks.
 - [ ] Remove old held ability base class
 
