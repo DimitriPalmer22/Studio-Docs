@@ -26,7 +26,7 @@
 
 # Secondary Attacks
 
-- [ ] Implement the ability for the split abilities to be held.
+- [x] Implement the ability for the split abilities to be held.
 	- [x] In ThirdPersonCharacter, add / remove tag
 	- [x] In ThirdPersonCharacter, make it so that holding the button ADDs the tag,
 	- [x] Then, make it so that releasing the button REMOVES the tag.
@@ -36,6 +36,8 @@
 	- [x] In tag holder, set up the tag for the secondary being held
 	- [ ] Drain mana while charging.
 		- [ ] If mana drain isn't fully complete, don't release the ability
+	- [ ] Charge start event
+	- [ ] Charge end event
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
