@@ -9,6 +9,7 @@
 - [x] Re-do the portions of the animation for flame volley
 - [x] Re-time flame volley animations again (anim rate for anim sections)
 - [ ] Make flame volley finisher fireball bigger visually 
+- [ ] FLAME VOLLEY FAR WAS THE ONE THAT CHANGED.
 
 ## Tempest Slash
 
