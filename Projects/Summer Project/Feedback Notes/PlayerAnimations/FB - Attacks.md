@@ -33,6 +33,8 @@
 	- [ ] Then, in the UHoldMontageAbilityBase class, respond to the event when the tag is removed instead of added
 	- [x] In montage base, detect when tag is present / removed. (only is the montage portion detects when the button is being held)
 	- [x] In tag holder, set up the tag for the secondary being held
+	- [ ] Drain mana while charging.
+		- [ ] If mana drain isn't fully c
 
 ## Crystal Explosion
 - [ ] Implement as a held split ability
