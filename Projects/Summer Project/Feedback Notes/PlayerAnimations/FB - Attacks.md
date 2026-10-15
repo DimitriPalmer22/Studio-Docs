@@ -46,7 +46,9 @@
 - [x] Remove ability to move during charged attacks.
 - [ ] Remove old held ability base class in C++
 - [x] Tune the charge time for each ability (currently too long)
-- [ ] Gameplay cue when the ability is fully charged
+- [ ] Gameplay cues:
+	- [ ] when the ability is fully charged -> execute
+	- [ ] while the ability is still charging -> apply / remove
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
