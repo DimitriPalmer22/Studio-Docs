@@ -19,6 +19,7 @@
 	- [x] Tempest Far
 - [ ] Not enough forward movement throughout the whole animation for hits 1 and 2
 - [ ] The far attack does close distance consistently
+- [ ] AOE-based attacks sjo
 
 
 ## Shadow Ball
