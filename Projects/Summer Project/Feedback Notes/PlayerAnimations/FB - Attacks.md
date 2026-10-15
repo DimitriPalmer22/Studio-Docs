@@ -46,9 +46,9 @@
 - [x] Remove ability to move during charged attacks.
 - [ ] Remove old held ability base class in C++
 - [x] Tune the charge time for each ability (currently too long)
-- [ ] Gameplay cues:
-	- [ ] when the ability is fully charged -> apply / remove
-	- [ ] while the ability is still charging -> apply / remove
+- [x] Gameplay cues:
+	- [x] when the ability is fully charged -> apply / remove
+	- [x] while the ability is still charging -> apply / remove
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
@@ -56,7 +56,7 @@
 - [x] Fire crystals
 - [x] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
 - [x] Projectiles only doing 1 damage each
-- [ ] Spawn projectiles after fully charging?
+- [x] Spawn projectiles after fully charging?
 
 ## Relay
 - [ ] Implement as a held split ability
