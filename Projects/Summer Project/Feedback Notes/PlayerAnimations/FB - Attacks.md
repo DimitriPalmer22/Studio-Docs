@@ -27,9 +27,9 @@
 # Secondary Attacks
 
 - [ ] Implement the ability for the split abilities to be held.
-	- [ ] In ThirdPersonCharacter, add / remove tag
-	- [ ] In ThirdPersonCharacter, make it so that holding the button ADDs the tag,
-	- [ ] Then, make it so that releasing the button REMOVES the tag.
+	- [x] In ThirdPersonCharacter, add / remove tag
+	- [x] In ThirdPersonCharacter, make it so that holding the button ADDs the tag,
+	- [x] Then, make it so that releasing the button REMOVES the tag.
 	- [ ] Then, in the UHoldMontageAbilityBase class, respond to the event when the tag is removed instead of added
 		- Ngl, this is going to be deprecated anyway so...
 	- [x] In montage base, detect when tag is present / removed. (only is the montage portion detects when the button is being held)
@@ -38,7 +38,10 @@
 		- [ ] If mana drain isn't fully complete, don't release the ability
 
 ## Crystal Explosion
-- [ ] Implement as a held split ability
+- [x] Implement as a held split ability
+- [ ] Spawn crystals
+- [ ] Fire crystals
+- [ ] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
 
 ## Relay
 - [ ] Implement as a held split ability
