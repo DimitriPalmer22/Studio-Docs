@@ -45,8 +45,8 @@
 
 ## Crystal Explosion
 - [x] Implement as a held split ability
-- [ ] Spawn crystals
-- [ ] Fire crystals
+- [x] Spawn crystals
+- [x] Fire crystals
 - [ ] When cancelling the ability (gets hit prematurely or mana runs out), make sure to detach the spawned crystals before destroying them.
 
 ## Relay
