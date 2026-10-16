@@ -34,7 +34,7 @@
 	- [x] In ThirdPersonCharacter, add / remove tag
 	- [x] In ThirdPersonCharacter, make it so that holding the button ADDs the tag,
 	- [x] Then, make it so that releasing the button REMOVES the tag.
-	- [ ] Then, in the UHoldMontageAbilityBase class, respond to the event when the tag is removed instead of added
+	- [x] Then, in the UHoldMontageAbilityBase class, respond to the event when the tag is removed instead of added
 		- Ngl, this is going to be deprecated anyway so…
 	- [x] In montage base, detect when tag is present / removed. (only is the montage portion detects when the button is being held)
 	- [x] In tag holder, set up the tag for the secondary being held
@@ -44,7 +44,7 @@
 	- [x] Charge end event
 	- [x] Fully cancel animation when the ability is cancelled (gets hit or mana runs out)
 - [x] Remove ability to move during charged attacks.
-- [ ] Remove old held ability base class in C++
+- [x] Remove old held ability base class in C++
 - [x] Tune the charge time for each ability (currently too long)
 - [x] Gameplay cues:
 	- [x] when the ability is fully charged -> apply / remove
@@ -66,3 +66,10 @@
 - [x] Charge time is WAYYYYY to long.
 - [x] Time between action start and fire start is way too long
 - [x] Remove old BP & rename new one
+
+## Simple Explosion
+ - [ ] Workshop into a new ability for the twilight element.
+
+## Crystal Spin
+- [ ] Workshop into a new ability for the twilight element.
+	- The player spins the orb around in a large area
