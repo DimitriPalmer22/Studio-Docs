@@ -1,6 +1,6 @@
 # Enemy Projectile Ability Base
 - Convert
-	- [ ] Knight Projectile Pri
+	- [ ] (?) Knight Projectile Pri
 	- [ ] Pri Firewall
 	- [ ] Wraith Primordial
 	- [ ] Wraith Tempest
@@ -12,8 +12,18 @@
 	- [ ] Knight Boss 01
 	- [ ] Knight Boss 02
 	- [ ] Knight Boss 03
-	- [ ] 
+	- [ ] Knight Boss Dodge Attack
+	- [ ] Knight Pri
+	- [ ] Knight Tem
+	- [ ] Knight Twi
 
 # Enemy Single Montage Ability Base
 - Convert
-	- [ ] 
+	- [ ] Close Distance Knight
+	- [ ] Knight Boss Apply Shield
+	- [ ] Knight Boss Remove Shield
+	- [ ] Summoner Buff
+	- [ ] Summoner Spawn
+	- [ ] Summoner Boss Clone Stun
+	- [ ] Summoner Boss Enrage
+	- [ ] Summoner Boss
