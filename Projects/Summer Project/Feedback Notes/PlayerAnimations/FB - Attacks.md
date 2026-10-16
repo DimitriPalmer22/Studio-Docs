@@ -67,9 +67,7 @@
 - [x] Time between action start and fire start is way too long
 - [x] Remove old BP & rename new one
 
-## Simple Explosion
- - [ ] Workshop into a new ability for the twilight element.
-
 ## Crystal Spin
 - [ ] Workshop into a new ability for the twilight element.
 	- The player spins the orb around in a large area
+- [ ] Come up with addendums for it...
