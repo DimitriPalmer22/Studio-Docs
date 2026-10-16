@@ -1,7 +1,5 @@
 # Convert Enemy Abilities to New Split Montage
 
->  Rather than creating new classes and linking them, edit the classes in-place to avoid having to replace references to the old classes in the blueprints.
-
 ## Enemy Projectile Ability Base
 
 - Convert
