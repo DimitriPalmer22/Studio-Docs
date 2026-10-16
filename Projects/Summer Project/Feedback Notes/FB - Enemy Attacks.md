@@ -20,7 +20,9 @@
 	- [ ] Knight Boss Dodge Attack
 	- [ ] Knight Pri
 	- [ ] Knight Tem
-	- [ ] Knight Twi
+	- [ ] Knight Twi Base
+		- [ ] Knight Twi 01
+		- [ ] Knight Twi 02
 - [ ] Delete class
 
 ## Enemy Single Montage Ability Base
