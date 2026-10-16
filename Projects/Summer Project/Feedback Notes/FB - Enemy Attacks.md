@@ -1,4 +1,7 @@
-# Enemy Projectile Ability Base
+# Convert Enemy Abilities to New Split Montage
+
+## Enemy Projectile Ability Base
+
 - Convert
 	- [ ] (?) Knight Projectile Pri
 	- [ ] Pri Firewall
@@ -6,8 +9,10 @@
 	- [ ] Wraith Tempest
 	- [ ] Wraith Twi Straight
 	- [ ] Wraith Twi
+- [ ] Delete class
 
-# Enemy Melee Montage Ability Base
+## Enemy Melee Montage Ability Base
+
 - Convert
 	- [ ] Knight Boss 01
 	- [ ] Knight Boss 02
@@ -16,8 +21,10 @@
 	- [ ] Knight Pri
 	- [ ] Knight Tem
 	- [ ] Knight Twi
+- [ ] Delete class
 
-# Enemy Single Montage Ability Base
+## Enemy Single Montage Ability Base
+
 - Convert
 	- [ ] Close Distance Knight
 	- [ ] Knight Boss Apply Shield
@@ -31,3 +38,4 @@
 	- [ ] Summoner Boss Invulnerability Phase End
 	- [ ] Summoner Boss Shield
 	- [ ] Wraith Tem Lightning
+- [ ] Delete class
