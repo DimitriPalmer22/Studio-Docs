@@ -7,7 +7,7 @@
 	- [ ] Pri Firewall
 	- [ ] Wraith Primordial
 	- [ ] Wraith Tempest
-	- [ ] Wraith Twi Straight
+	- [x] Wraith Twi Straight
 	- [ ] Wraith Twi
 - [ ] Delete class
 
