@@ -26,4 +26,8 @@
 	- [ ] Summoner Spawn
 	- [ ] Summoner Boss Clone Stun
 	- [ ] Summoner Boss Enrage
-	- [ ] Summoner Boss
+	- [ ] Summoner Boss Heal
+	- [ ] Summoner Boss Invulnerability Phase Begin
+	- [ ] Summoner Boss Invulnerability Phase End
+	- [ ] Summoner Boss Shield
+	- [ ] Wraith Tem Lightning
