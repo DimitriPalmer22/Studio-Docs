@@ -6,7 +6,8 @@
 	- [ ] (?) Knight Projectile Pri
 	- [ ] Pri Firewall
 	- [ ] Wraith Primordial
-	- [ ] Wraith Tempest
+	- [x] Wraith Tempest
+		- [ ] Firing too fast?
 	- [x] Wraith Twi Straight
 	- [ ] Wraith Twi
 - [ ] Delete class
