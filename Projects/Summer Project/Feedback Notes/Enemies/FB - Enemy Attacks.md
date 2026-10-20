@@ -8,7 +8,8 @@
 	- [x] Wraith Tempest
 		- [ ] Firing too fast?
 	- [x] Wraith Twi Straight
-	- [ ] Knight 
+	- [ ] Knight Pri
+		- [ ] Should manually close distance before the action. Use anim notifies for this.
 - [x] Delete class
 
 ## Enemy Melee Montage Ability Base
