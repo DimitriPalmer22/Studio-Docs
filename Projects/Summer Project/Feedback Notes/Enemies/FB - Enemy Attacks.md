@@ -3,8 +3,8 @@
 ## Enemy Projectile Ability Base
 
 - Convert
-	- [ ] (?) Knight Projectile Pri
-	- [ ] Pri Firewall
+	- [x] Pri Firewall
+		- [ ] Wraith not rotating before firing. Fix this within the AI rather than the attack.
 	- [ ] Wraith Primordial
 	- [x] Wraith Tempest
 		- [ ] Firing too fast?
