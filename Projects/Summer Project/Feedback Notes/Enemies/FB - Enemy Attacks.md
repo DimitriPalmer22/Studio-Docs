@@ -3,13 +3,11 @@
 ## Enemy Projectile Ability Base
 
 - Convert
-	- [x] Pri Firewall
+	- [x] Wraith Pri Firewall
 		- [ ] Wraith not rotating before firing. Fix this within the AI rather than the attack.
-	- [ ] Wraith Primordial
 	- [x] Wraith Tempest
 		- [ ] Firing too fast?
 	- [x] Wraith Twi Straight
-	- [ ] Wraith Twi
 - [ ] Delete class
 
 ## Enemy Melee Montage Ability Base
