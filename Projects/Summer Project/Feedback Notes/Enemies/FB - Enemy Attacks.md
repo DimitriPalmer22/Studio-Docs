@@ -8,8 +8,8 @@
 	- [x] Wraith Tempest
 		- [ ] Firing too fast?
 	- [x] Wraith Twi Straight
-	- [ ] Knight Pri
-		- [ ] C++ base class should be perfect dodgeable. This way, we can implement custom dodgeable logic in ALL BPs.
+	- [x] Knight Pri
+		- [x] Base class should be perfect dodgeable. This way, we can implement custom dodgeable logic in ALL BPs.
 		- [ ] Should manually close distance before the action. Use anim notifies for this.
 - [x] Delete class
 
