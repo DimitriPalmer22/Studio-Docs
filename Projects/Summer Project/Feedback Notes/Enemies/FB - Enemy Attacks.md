@@ -8,7 +8,7 @@
 	- [x] Wraith Tempest
 		- [ ] Firing too fast?
 	- [x] Wraith Twi Straight
-- [ ] Delete class
+- [x] Delete class
 
 ## Enemy Melee Montage Ability Base
 
