@@ -8,26 +8,22 @@
 	- [x] Wraith Tempest
 		- [ ] Firing too fast?
 	- [x] Wraith Twi Straight
+
+- [x] Delete class
+
+## Enemy Melee Montage Ability Base
+
+- Convert
 	- [x] Knight Pri
 		- [x] Base class should be perfect dodgeable. This way, we can implement custom dodgeable logic in ALL BPs.
 		- [x] Should manually close distance before the action. 
 	- [x] Knight tem
 		- [ ] Again, should manually close distance before the action.
 	- [x] Knight twi
-- [x] Delete class
-
-## Enemy Melee Montage Ability Base
-
-- Convert
 	- [ ] Knight Boss 01
 	- [ ] Knight Boss 02
 	- [ ] Knight Boss 03
 	- [ ] Knight Boss Dodge Attack
-	- [ ] Knight Pri
-	- [ ] Knight Tem
-	- [ ] Knight Twi Base
-		- [ ] Knight Twi 01
-		- [ ] Knight Twi 02
 - [ ] Delete class
 
 ## Enemy Single Montage Ability Base
