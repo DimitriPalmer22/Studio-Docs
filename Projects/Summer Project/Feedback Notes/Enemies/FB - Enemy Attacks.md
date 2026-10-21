@@ -10,7 +10,10 @@
 	- [x] Wraith Twi Straight
 	- [x] Knight Pri
 		- [x] Base class should be perfect dodgeable. This way, we can implement custom dodgeable logic in ALL BPs.
-		- [ ] Should manually close distance before the action. Use anim notifies for this.
+		- [ ] Should manually close distance before the action. 
+	- [x] Knight tem
+		- [ ] Again, should manually close distance before the action.
+	- [ ] Knight twi
 - [x] Delete class
 
 ## Enemy Melee Montage Ability Base
