@@ -13,7 +13,7 @@
 		- [ ] Should manually close distance before the action. 
 	- [x] Knight tem
 		- [ ] Again, should manually close distance before the action.
-	- [ ] Knight twi
+	- [x] Knight twi
 - [x] Delete class
 
 ## Enemy Melee Montage Ability Base
