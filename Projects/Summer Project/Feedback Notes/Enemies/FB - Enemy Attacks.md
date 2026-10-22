@@ -1,17 +1,11 @@
+# Wraith - Primordial
+- [ ] Wraith not rotating before firing. Fix this within the AI rather than the attack.
+# Wraith - Tempest
+- [ ] Firing too fast?
 
-- Convert
-	- [x] Wraith Pri Firewall
-		- [ ] Wraith not rotating before firing. Fix this within the AI rather than the attack.
-	- [x] Wraith Tempest
-		- [ ] Firing too fast?
-	- [x] Wraith Twi Straight
-
-- [x] Delete class
-
-
-# Knight Pri
+# Knight - Primordial
 - [ ] Should manually close distance before the action. 
-# Knight tem
+# Knight - Tempest
 - [ ] Again, should manually close distance before the action portion of the animation.
 
 # Convert Enemy Abilities to New Split Montage
