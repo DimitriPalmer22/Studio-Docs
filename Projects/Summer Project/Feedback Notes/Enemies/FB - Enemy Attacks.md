@@ -18,7 +18,7 @@
 		- [x] Base class should be perfect dodgeable. This way, we can implement custom dodgeable logic in ALL BPs.
 		- [x] Should manually close distance before the action. 
 	- [x] Knight tem
-		- [ ] Again, should manually close distance before the action.
+		- [ ] Again, should manually close distance before the action portion of the animation.
 	- [x] Knight twi
 	- [ ] Knight Boss 01
 	- [ ] Knight Boss 02
