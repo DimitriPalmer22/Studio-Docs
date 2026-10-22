@@ -23,8 +23,8 @@
 	- [x] Knight Boss 01
 	- [x] Knight Boss 02
 	- [x] Knight Boss 03
-	- [ ] Knight Boss Dodge Attack
-- [ ] Delete class
+	- [x] Knight Boss Dodge Attack
+- [x] Delete class
 
 ## Enemy Single Montage Ability Base
 
