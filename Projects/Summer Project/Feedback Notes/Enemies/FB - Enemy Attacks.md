@@ -20,9 +20,9 @@
 	- [x] Knight tem
 		- [ ] Again, should manually close distance before the action portion of the animation.
 	- [x] Knight twi
-	- [ ] Knight Boss 01
-	- [ ] Knight Boss 02
-	- [ ] Knight Boss 03
+	- [x] Knight Boss 01
+	- [x] Knight Boss 02
+	- [x] Knight Boss 03
 	- [ ] Knight Boss Dodge Attack
 - [ ] Delete class
 
