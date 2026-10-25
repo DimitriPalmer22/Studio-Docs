@@ -13,7 +13,7 @@
 - [x] Cancel Flinch
 - [x] Death ability
 - [x] Fake shop interact
-- [ ] Flinch ability Strong
+- [x] Flinch ability Strong
 - [ ] Montage ability test?
 - [ ] Reading
 - [ ] Shield ability montage
