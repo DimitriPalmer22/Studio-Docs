@@ -23,5 +23,4 @@
 	- [ ] Summoner Boss Invulnerability Phase Begin
 	- [ ] Summoner Boss Invulnerability Phase End
 	- [ ] Summoner Boss Shield
-	- [ ] Wraith Tem Lightning
 - [ ] Delete class
