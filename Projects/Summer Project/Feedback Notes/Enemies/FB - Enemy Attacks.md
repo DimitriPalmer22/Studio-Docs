@@ -13,7 +13,7 @@
 
 - Convert
 	- [x] Close Distance Knight
-	- [ ] Knight Boss Apply Shield
+	- [x] Knight Boss Apply Shield
 	- [ ] Knight Boss Remove Shield
 	- [ ] Summoner Buff
 	- [ ] Summoner Spawn
