@@ -10,8 +10,8 @@
 
 # Convert Single Montage Ability Base
 - [x] Allister upgrade
-- [ ] Cancel Flinch
-- [ ] Death ability
+- [x] Cancel Flinch
+- [x] Death ability
 - [ ] Fake shop interact
 - [ ] Flinch ability Strong
 - [ ] Montage ability test?
