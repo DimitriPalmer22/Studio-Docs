@@ -20,7 +20,7 @@
 	- [x] Summoner Boss Clone Stun
 	- [x] Summoner Boss Enrage
 	- [x] Summoner Boss Heal
-	- [ ] Summoner Boss Invulnerability Phase Begin
-	- [ ] Summoner Boss Invulnerability Phase End
+	- [x] Summoner Boss Invulnerability Phase Begin
+	- [x] Summoner Boss Invulnerability Phase End
 	- [ ] Summoner Boss Shield
 - [ ] Delete class
