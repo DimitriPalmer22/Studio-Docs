@@ -17,7 +17,7 @@
 	- [x] Knight Boss Remove Shield
 	- [x] Summoner Buff
 	- [x] Summoner Spawn
-	- [ ] Summoner Boss Clone Stun
+	- [x] Summoner Boss Clone Stun
 	- [ ] Summoner Boss Enrage
 	- [ ] Summoner Boss Heal
 	- [ ] Summoner Boss Invulnerability Phase Begin
