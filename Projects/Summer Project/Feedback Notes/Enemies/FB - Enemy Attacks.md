@@ -9,7 +9,7 @@
 - [ ] Again, should manually close distance before the action portion of the animation.
 
 # Convert Single Montage Ability Base
-- [ ] Allister upgrade
+- [x] Allister upgrade
 - [ ] Cancel Flinch
 - [ ] Death ability
 - [ ] Fake shop interact
