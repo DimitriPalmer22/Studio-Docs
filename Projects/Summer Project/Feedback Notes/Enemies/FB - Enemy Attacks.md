@@ -22,5 +22,5 @@
 	- [x] Summoner Boss Heal
 	- [x] Summoner Boss Invulnerability Phase Begin
 	- [x] Summoner Boss Invulnerability Phase End
-	- [ ] Summoner Boss Shield
+	- [x] Summoner Boss Shield
 - [ ] Delete class
