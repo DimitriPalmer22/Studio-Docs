@@ -12,7 +12,7 @@
 ## Enemy Single Montage Ability Base
 
 - Convert
-	- [ ] Close Distance Knight
+	- [x] Close Distance Knight
 	- [ ] Knight Boss Apply Shield
 	- [ ] Knight Boss Remove Shield
 	- [ ] Summoner Buff
