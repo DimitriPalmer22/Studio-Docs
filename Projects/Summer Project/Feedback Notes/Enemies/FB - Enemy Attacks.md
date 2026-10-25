@@ -18,7 +18,7 @@
 	- [x] Summoner Buff
 	- [x] Summoner Spawn
 	- [x] Summoner Boss Clone Stun
-	- [ ] Summoner Boss Enrage
+	- [x] Summoner Boss Enrage
 	- [ ] Summoner Boss Heal
 	- [ ] Summoner Boss Invulnerability Phase Begin
 	- [ ] Summoner Boss Invulnerability Phase End
