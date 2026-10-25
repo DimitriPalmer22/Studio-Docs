@@ -9,13 +9,4 @@
 - [ ] Again, should manually close distance before the action portion of the animation.
 
 # Convert Single Montage Ability Base
-- [x] Allister upgrade
-- [x] Cancel Flinch
-- [x] Death ability
-- [x] Fake shop interact
-- [x] Flinch ability Strong
-- [x] Montage ability test?
-- [x] Reading
-- [x] Shield ability montage
-- [x] shield success montage
-- [ ] wake ability
+- [ ] Delete base class
