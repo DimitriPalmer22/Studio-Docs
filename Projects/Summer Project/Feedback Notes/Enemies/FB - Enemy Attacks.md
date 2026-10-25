@@ -8,19 +8,14 @@
 # Knight - Tempest
 - [ ] Again, should manually close distance before the action portion of the animation.
 
-# Convert Enemy Abilities to New Split Montage
-## Enemy Single Montage Ability Base
-
-- Convert
-	- [x] Close Distance Knight
-	- [x] Knight Boss Apply Shield
-	- [x] Knight Boss Remove Shield
-	- [x] Summoner Buff
-	- [x] Summoner Spawn
-	- [x] Summoner Boss Clone Stun
-	- [x] Summoner Boss Enrage
-	- [x] Summoner Boss Heal
-	- [x] Summoner Boss Invulnerability Phase Begin
-	- [x] Summoner Boss Invulnerability Phase End
-	- [x] Summoner Boss Shield
-- [ ] Delete class
+# Convert Single Montage Ability Base
+- [ ] Allister upgrade
+- [ ] Cancel Flinch
+- [ ] Death ability
+- [ ] Fake shop interact
+- [ ] Flinch ability Strong
+- [ ] Montage ability test?
+- [ ] Reading
+- [ ] Shield ability montage
+- [ ] shield success montage
+- [ ] wake up ability
