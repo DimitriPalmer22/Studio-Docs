@@ -15,8 +15,8 @@
 	- [x] Close Distance Knight
 	- [x] Knight Boss Apply Shield
 	- [x] Knight Boss Remove Shield
-	- [ ] Summoner Buff
-	- [ ] Summoner Spawn
+	- [x] Summoner Buff
+	- [x] Summoner Spawn
 	- [ ] Summoner Boss Clone Stun
 	- [ ] Summoner Boss Enrage
 	- [ ] Summoner Boss Heal
