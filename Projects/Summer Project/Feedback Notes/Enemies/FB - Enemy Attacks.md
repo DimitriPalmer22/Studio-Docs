@@ -17,5 +17,5 @@
 - [x] Montage ability test?
 - [x] Reading
 - [x] Shield ability montage
-- [ ] shield success montage
-- [ ] wake up ability
+- [x] shield success montage
+- [ ] wake ability
