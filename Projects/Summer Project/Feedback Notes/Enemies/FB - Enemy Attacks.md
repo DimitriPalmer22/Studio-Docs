@@ -12,7 +12,7 @@
 - [x] Allister upgrade
 - [x] Cancel Flinch
 - [x] Death ability
-- [ ] Fake shop interact
+- [x] Fake shop interact
 - [ ] Flinch ability Strong
 - [ ] Montage ability test?
 - [ ] Reading
