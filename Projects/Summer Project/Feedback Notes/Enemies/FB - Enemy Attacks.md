@@ -7,8 +7,3 @@
 - [ ] Should manually close distance before the action. 
 # Knight - Tempest
 - [ ] Again, should manually close distance before the action portion of the animation.
-
-# Convert Single Montage Ability Base
-- [x] Convert interact abilities to BP
-	- [x] Remove base class in C++
-- [ ] Delete base class for single montage ability base
