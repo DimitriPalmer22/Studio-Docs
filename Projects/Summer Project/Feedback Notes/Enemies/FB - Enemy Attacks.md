@@ -9,6 +9,6 @@
 - [ ] Again, should manually close distance before the action portion of the animation.
 
 # Convert Single Montage Ability Base
-- [ ] Convert interact abilities to BP
-	- [ ] Remove base class in C++
+- [x] Convert interact abilities to BP
+	- [x] Remove base class in C++
 - [ ] Delete base class for single montage ability base
