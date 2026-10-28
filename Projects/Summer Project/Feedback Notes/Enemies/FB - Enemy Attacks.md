@@ -11,3 +11,6 @@
 # Knockback Flinch
 
 - [ ] Tweak animation duration values.
+
+# Dodge
+- [ ] Tweak blend out times for the sake of smoothing out hte transition between the dodge and the next action.
