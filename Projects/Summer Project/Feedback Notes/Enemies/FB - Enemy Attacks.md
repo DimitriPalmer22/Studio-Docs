@@ -14,3 +14,4 @@
 
 # Dodge
 - [ ] Tweak blend out times for the sake of smoothing out hte transition between the dodge and the next action.
+- [ ] Character changing direction too early. Can't get the correct backwards animations to play concsistently
