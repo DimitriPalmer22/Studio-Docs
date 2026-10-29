@@ -15,4 +15,5 @@
 # Dodge
 - [ ] Tweak blend out times for the sake of smoothing out the transition between the dodge and the next action.
 - [ ] Allow for quicker cancelling out of the dodge animations
-	- 
+	- Add notifies at the end of each animation for cancelling? (add a cancel gameplay effect)
+	- Blanketly allow the player to cancel out of dodges whenever?
