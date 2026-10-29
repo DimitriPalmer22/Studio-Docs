@@ -7,6 +7,7 @@
 - [ ] Should manually close distance before the action. 
 # Knight - Tempest
 - [ ] Again, should manually close distance before the action portion of the animation.
+- [ ] Remove the debug visuals from the attack
 
 # Knockback Flinch
 
