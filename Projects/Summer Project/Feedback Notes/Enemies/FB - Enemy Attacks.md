@@ -13,6 +13,6 @@
 - [ ] Tweak animation duration values.
 
 # Dodge
-- [ ] Tweak blend out times for the sake of smoothing out hte transition between the dodge and the next action.
-- [x] Character changing direction too early. Can't get the correct backwards animations to play concsistently
-- [ ] Fix the default dodge animation playing when ability spec not found.
+- [ ] Tweak blend out times for the sake of smoothing out the transition between the dodge and the next action.
+- [ ] Allow for quicker cancelling out of the dodge animations
+	- 
