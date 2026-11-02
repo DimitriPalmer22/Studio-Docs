@@ -15,15 +15,20 @@ Instead, have a more automated approach.
 
 ## *Automated* Room Managers
 
+Use a weight-table approach on a per-spawn basis to determine which enemies should spawn.
+
+Instead of polling the room's floor for valid spawn points, we can just put down a whole bunch of valid points for enemies to spawn.
+
+- Have some parameters like:
+	- Enemy amount
+	- Difficulty (More difficult enemy variations are weighed more in the spawning table)
+	- Define some enemy types that can spawn
+
 ## Calculated Wave-Based Enemy Manager
 
 Per room, have an enemy manager (there will be different types)
-- Use a weight-table approach on a per-spawn basis to determine which enemies should spawn.
-- Define some enemy types that can spawn
 - Define some valid spawn points
-- Have some parameters like:
-	- Enemy amount
+- Have some more parameters like:
 	- Discreet wave count (if the enemy manager uses waves)
-	- Difficulty (More difficult enemy variations are weighed more in the spawning table)
 
 ## Calculated Time-Based Enemy Manager
