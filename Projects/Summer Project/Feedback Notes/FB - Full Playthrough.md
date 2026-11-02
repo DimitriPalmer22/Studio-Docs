@@ -77,5 +77,11 @@ Tempest Wraith
 
 ### I May Need to Rethink The Enemy Wave System as a Whole
 
+- The placement of the ranged enemies often interrupts combat in a way that is not fun. Yes, they force the player to move, but they are also so out-of-the-way that they are annoying to fight.
+### Audio Needs to be a Real Priority
 
-### 
+- The game feels most unfinished in the sound department.
+- There are too many missing sounds.
+- There are many sounds that just don't fit.
+
+> Use the sou
