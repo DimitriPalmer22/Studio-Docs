@@ -8,6 +8,7 @@
 ### Combat
 
 - Enemy spawns are too far apart in many rooms. There are portions of combat where the player has to chase down an enemy to continue the flow of combat.
+- Wraiths need to move...
 
 ### Story
 
@@ -43,11 +44,11 @@ Secondaries
 
 Room portal open sound
 - Need a separate sound for finishing the last enemy in a room
-- Does not fit the theme (should be more portally)
+- Does not fit the theme (should be more portal-y)
 - Too loud 
 - Should not play in starting room
 
-Room portal remains open soud
+Room portal remains open sound
 - Room clear portal sound does not stop playing when going to the next room?
 
 Room portal interact sound
@@ -56,7 +57,7 @@ Room portal interact sound
 Dialogue
 - Typing sound too loud
 - No confirmation sound for text
-- Dialgoue portal start sound too loud
+- Dialogue portal start sound too loud
 
 Orbs
 - Orbs need a collection sound
@@ -71,3 +72,10 @@ Tempest Wraith
 ## Is there Any Feature that is Visibly Unfinished?
 
 ### Journal / Codex
+
+## Key Takeaways
+
+### I May Need to Rethink The Enemy Wave System as a Whole
+
+
+### 
