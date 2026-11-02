@@ -100,7 +100,8 @@ Tempest Wraith
 - Some actions (perfectly dodging, shielding, etc.) can feel a bit ***more satisfying***.
 - I can experiment a *bit* more with the camera (pull it up and away more?)
 - Given the game's combat structure, it is difficult to attack the fire wraiths without taking damage yourself.
-	- Instead of giving them a wall that cannot be touched for a duration, make their wall more of an instan
+	- Instead of giving them a wall that cannot be touched for a duration, make their wall more of an instantaneous bit of damage that is safe immediately after the hitbox is enabled.
+	- This would also free us up to allow the fire wraiths to move / even create variations that have different fire wall patterns.
 
 ### Levels Need to be Cleaned Up A Bit
 
