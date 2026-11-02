@@ -15,8 +15,9 @@ Instead, have a more automated approach.
 
 To make the transition a bit easier & allow for more flexibility in the long run, implement an interface, `IEnemyManager`.
 - `StartEnemyManager` - Function to start spawning enemies
-- `StopEnemyManager` - Function to stop spawning enemies. Should also call a function to mark the spawner as complete. This should allow us to finish rooms externally.
-- `KillAllEnemies`
+- `FinishEnemyManager` - Function to stop spawning enemies. Should also call a function to mark the spawner as complete. This should allow us to finish rooms externally.
+- `GetAllEnemies` - Function to get all the enemies currently managed by this enemy manager. Should have no side-effects.
+- `ManageEnemy` - Function to make an enemy manager start managing a spawned enemy. Should only really be called by those enemy spawner BPs once the enemy is actually spawned successfully.
 
 ## *Automated* Room Managers
 
