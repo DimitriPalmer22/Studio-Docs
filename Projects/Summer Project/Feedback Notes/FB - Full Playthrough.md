@@ -33,7 +33,11 @@ Flame volley
 
 Crystal Explosion
 - Charge finished sound(?) is ear piercing
--
+
+Secondaries
+- Charge start sound
+- Charge finish (successful) sound
+- Charge finish (fail) sound
 
 #### Environmental
 
