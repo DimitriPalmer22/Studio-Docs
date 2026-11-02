@@ -84,4 +84,10 @@ Tempest Wraith
 - There are too many missing sounds.
 - There are many sounds that just don't fit.
 
-> Use the sou
+> Use the sound ledger that was created. Organize sounds by feature.
+
+### The Dialogue System Could Use a Bit More Love
+
+- Going back to the audio, some sounds are still missing.
+- The content of the dialogue can be a bit... boring...
+	- There is no real introduction to the game's greater plot and world, so everything seems ***irrelevant***. 
