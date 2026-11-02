@@ -11,7 +11,21 @@
 
 ## Which Features are Still Lacking
 
-### Music
+### Audio
+- Music too low
+
+Dodge
+- No dodge sound
+
+Dialogue
+- Typing sound too loud
+- No confirmation sound for text
+- Dialgoue portal start sound too loud
+
+Room clear sound
+- Does not fit the theme (should be more portally)
+- Room clear sound too loud 
+- Room clear sound should not play in starting room
 
 ### Where can Combat Improve
 
