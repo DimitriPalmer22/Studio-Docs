@@ -37,14 +37,17 @@ Crystal Explosion
 
 #### Environmental
 
-Room clear sound
-- Room clear portal sound does not stop playing when going to the next room?
+Room portal open sound
 - Need a separate sound for finishing the last enemy in a room
 - Does not fit the theme (should be more portally)
-- Room clear sound too loud 
-- Room clear sound should not play in starting room
+- Too loud 
+- Should not play in starting room
 
+Room portal remains open soud
+- Room clear portal sound does not stop playing when going to the next room?
 
+Room portal interact sound
+- Sound not synced to when Allister is going to the next room. (use event in animation?)
 
 Dialogue
 - Typing sound too loud
