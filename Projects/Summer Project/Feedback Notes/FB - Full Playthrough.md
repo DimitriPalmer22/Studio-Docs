@@ -17,14 +17,25 @@
 - Music too low
 - Non-music audio should fade when going from one room to the next
 
+#### Player Combat
+
 Dodge
 - No dodge sound
 - Perfect dodge sound is missing
 
-Dialogue
-- Typing sound too loud
-- No confirmation sound for text
-- Dialgoue portal start sound too loud
+Shield
+- Need: Shield activation sound
+- Need: Shield success sound
+
+Flame volley
+- Needs a sound for hitting enemies
+- Fire sound is kind of terrible
+
+Crystal Explosion
+- Charge finished sound(?) is ear piercing
+-
+
+#### Environmental
 
 Room clear sound
 - Room clear portal sound does not stop playing when going to the next room?
@@ -33,16 +44,20 @@ Room clear sound
 - Room clear sound too loud 
 - Room clear sound should not play in starting room
 
-Flame volley
-- Needs a sound for hitting enemies
-- Fire sound is kind of terrible
 
-Crystal Explosion
-- Charge finished sound(?) is ear piercing
-- 
+
+Dialogue
+- Typing sound too loud
+- No confirmation sound for text
+- Dialgoue portal start sound too loud
 
 Orbs
 - Orbs need a collection sound
+
+#### Enemies
+
+Tempest Wraith
+- Lightning strike needs a sound
 
 ### Where can Combat Improve
 
