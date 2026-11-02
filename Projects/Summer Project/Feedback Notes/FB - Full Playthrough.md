@@ -99,11 +99,16 @@ Tempest Wraith
 - Again, sounds are missing.
 - Some actions (perfectly dodging, shielding, etc.) can feel a bit ***more satisfying***.
 - I can experiment a *bit* more with the camera (pull it up and away more?)
+- Given the game's combat structure, it is difficult to attack the fire wraiths without taking damage yourself.
+	- Instead of giving them a wall that cannot be touched for a duration, make their wall more of an instan
 
 ### Levels Need to be Cleaned Up A Bit
 
 - The player can still be awkwardly caught on random geometry (crystals, books, etc.) in some rooms.
 - Lighting bugs can still be found in some levels.
+- Some props are awkwardly breaking up the play area.
+	- Bookshelves that jut into the play area's walkable space
+	- These allow the player to get stuck on them, and they also break up the flow of combat.
 
 ### UI Needs a Bit of Love
 
