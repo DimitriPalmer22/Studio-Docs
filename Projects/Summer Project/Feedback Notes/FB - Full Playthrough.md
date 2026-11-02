@@ -16,6 +16,7 @@
 
 Dodge
 - No dodge sound
+- Perfect dodge sound is missing
 
 Dialogue
 - Typing sound too loud
@@ -23,9 +24,21 @@ Dialogue
 - Dialgoue portal start sound too loud
 
 Room clear sound
+- Need a separate sound for finishing the last enemy in a room
 - Does not fit the theme (should be more portally)
 - Room clear sound too loud 
 - Room clear sound should not play in starting room
+
+Flame volley
+- Needs a sound for hitting enemies
+- Fire sound is kind of terrible
+
+Crystal Explosion
+- Charge finished sound(?) is ear piercing
+- 
+
+Orbs
+- Orbs need a collection sound
 
 ### Where can Combat Improve
 
