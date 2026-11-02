@@ -11,7 +11,12 @@ Having discreet waves implemented for each room poses several problems
 Implement a style of enemy room configuration like Hades:
 - Don't define exactly how many enemies there are per room, where they spawn, and which ones spawn.
 
-Instead, have a more automated approach.
+Instead, have a more automated approach. 
+
+To make the transition a bit easier & allow for more flexibility in the long run, implement an interface, `IEnemyManager`.
+- `StartEnemyManager` - Function to start spawning enemies
+- `StopEnemyManager` - Function to stop spawning enemies. Should also call a function to mark the spawner as complete. This should allow us to finish rooms externally.
+- `KillAllEnemies`
 
 ## *Automated* Room Managers
 
