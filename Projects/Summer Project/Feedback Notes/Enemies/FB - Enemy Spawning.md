@@ -13,6 +13,10 @@ Implement a style of enemy room configuration like Hades:
 
 Instead, have a more automated approach.
 
+## *Automated* Room Managers
+
+## Calculated Wave-Based Enemy Manager
+
 Per room, have an enemy manager (there will be different types)
 - Use a weight-table approach on a per-spawn basis to determine which enemies should spawn.
 - Define some enemy types that can spawn
@@ -21,3 +25,5 @@ Per room, have an enemy manager (there will be different types)
 	- Enemy amount
 	- Discreet wave count (if the enemy manager uses waves)
 	- Difficulty (More difficult enemy variations are weighed more in the spawning table)
+
+## Calculated Time-Based Enemy Manager
