@@ -98,3 +98,9 @@ Tempest Wraith
 - The other attacks should be worked on to feel as impactful and satisfying.
 - Again, sounds are missing.
 - Some actions (perfectly dodging, shielding, etc.) can feel a bit ***more satisfying***.
+- I can experiment a *bit* more with the camera (pull it up and away more?)
+
+### Levels Need to be Cleaned Up A Bit
+
+- The player can still be awkwardly caught on random geometry (crystals, books, etc.) in some rooms.
+- Lighting bugs can still be found in some levels.
