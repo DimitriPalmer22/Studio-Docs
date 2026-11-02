@@ -1,3 +1,5 @@
+- [ ] Wraiths are having weird deformations in their idle state
+
 # Wraith - Primordial
 
 - [ ] Wraith not rotating before firing. Fix this within the AI rather than the attack.
