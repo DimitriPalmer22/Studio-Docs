@@ -91,3 +91,10 @@ Tempest Wraith
 - Going back to the audio, some sounds are still missing.
 - The content of the dialogue can be a bit... boring...
 	- There is no real introduction to the game's greater plot and world, so everything seems ***irrelevant***. 
+
+### Player Combat
+
+- In terms of the flame volley, the crystal explosion, and the default dodges, ***they feel nice***.
+- The other attacks should be worked on to feel as impactful and satisfying.
+- Again, sounds are missing.
+- Some actions (perfectly dodging, shielding, etc.) can feel a bit ***more satisfying***.
