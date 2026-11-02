@@ -11,7 +11,7 @@ Having discreet waves implemented for each room poses several problems
 Implement a style of enemy room configuration like Hades:
 - Don't define exactly how many enemies there are per room, where they spawn, and which ones spawn.
 
-Instead, have a more automated approach. 
+Instead, have a more automated approach.
 
 To make the transition a bit easier & allow for more flexibility in the long run, implement an interface, `IEnemyManager`.
 - `StartEnemyManager` - Function to start spawning enemies
@@ -43,14 +43,14 @@ Per room, have an enemy manager (there will be different types)
 
 Allow enemies to "trickle in".
 
-
 ---
+
 # Google AI Overview
 
 > Prompt
 > How does hades enemy spawning work?
 
-In _[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)_, enemy spawning is split into a few distinct systems depending on the room type: ==standard wave-based encounters, continuous trickle/survival rooms, and special events==. [Link](https://www.google.com/goto?url=CAEScQHrOzAVxiOUWHlVoGR1ol6ctXa2pMsmmO75USLOoPdCmQovjChXx3PlQkYKJZLhUeRb4cX-on-_7TRzcnkW6CF9B48QJCS4qaXxEDtLVb20oS1au4qZM_gi6ZCRYcfCQwEbmTiTF8m22uaSnuhi4FAg)
+In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, enemy spawning is split into a few distinct systems depending on the room type: ==standard wave-based encounters, continuous trickle/survival rooms, and special events==. [Link](https://www.google.com/goto?url=CAEScQHrOzAVxiOUWHlVoGR1ol6ctXa2pMsmmO75USLOoPdCmQovjChXx3PlQkYKJZLhUeRb4cX-on-_7TRzcnkW6CF9B48QJCS4qaXxEDtLVb20oS1au4qZM_gi6ZCRYcfCQwEbmTiTF8m22uaSnuhi4FAg)
 
 1. Standard Wave Encounters
 
@@ -69,10 +69,10 @@ In _[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)_, ene
 
 - **Resolution:** You do not have to kill everything; you just have to stay alive. Once the timer hits 45 seconds, Hades automatically clears out all remaining enemies and the room reward appears. [Link](https://www.google.com/goto?url=CAESZwHrOzAVqqRShyvi6_nG5kv2z0BVNGeeiNDI8lVNdBDccoLeN6jWyuNdi3E17gsQAkzlkxInbgf9gVaauMQirFdoRV02w3UJRrcwQMq9XH7Lmbqi3sncKCIBpFK9DazEVONCK-8W_9Y)
 
-3. Special Spawns & Modifiers
+1. Special Spawns & Modifiers
 
 - **Trial of the Gods:** Choosing one god over another causes the spurned deity to trap you and summon extra waves of enemies alongside a localized hazard.
 
 - **Thanatos Encounters:** If Thanatos appears in a non-unique chamber, the total enemy count scales up, and you compete against him to see who can get the most kills.
 
-- **Forced Overtime (Pact of Punishment):** Turning on Forced Overtime does _not_ make enemies spawn more frequently or change the wave structure; instead, it speeds up individual enemy spawn-in animations and movement speed. [Link](https://www.google.com/goto?url=CAESpAEB6zswFRisg7puVWTeMeje4e9dpaQrvEsRkT_BxTueOdX32MnByY2nJ_J_EI-2s-JOINRgJj-PWLGZ2cH8dJ-bGcqT1NHfUJVUlKHUC__-Cw9LLHmwk72BuExSomKzoUUUfb9hsXYQxxVa5_MwGmVqpgo3NmgeKWlJqTaHFPNWQPgmMhWS5cO4PBmJgo3vyeTnknlRxVQZy9LxbU_1PnE7SlvuyQ)
+- **Forced Overtime (Pact of Punishment):** Turning on Forced Overtime does *not* make enemies spawn more frequently or change the wave structure; instead, it speeds up individual enemy spawn-in animations and movement speed. [Link](https://www.google.com/goto?url=CAESpAEB6zswFRisg7puVWTeMeje4e9dpaQrvEsRkT_BxTueOdX32MnByY2nJ_J_EI-2s-JOINRgJj-PWLGZ2cH8dJ-bGcqT1NHfUJVUlKHUC__-Cw9LLHmwk72BuExSomKzoUUUfb9hsXYQxxVa5_MwGmVqpgo3NmgeKWlJqTaHFPNWQPgmMhWS5cO4PBmJgo3vyeTnknlRxVQZy9LxbU_1PnE7SlvuyQ)
