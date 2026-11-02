@@ -10,4 +10,12 @@ Having discreet waves implemented for each room poses several problems
 
 Implement a style of enemy room configuration like Hades:
 - Don't define exactly how many enemies there are per room, where they spawn, and which ones spawn.
-- Instead, 
+
+Instead, have a more automated approach.
+
+Per room, have an enemy manager (there will be different types)
+- Define some enemy types that can spawn
+- Define some valid spawn points
+- Have some parameters like:
+	- Enemy amount
+	- Disc
