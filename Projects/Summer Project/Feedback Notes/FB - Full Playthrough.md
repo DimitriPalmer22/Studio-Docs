@@ -104,3 +104,11 @@ Tempest Wraith
 
 - The player can still be awkwardly caught on random geometry (crystals, books, etc.) in some rooms.
 - Lighting bugs can still be found in some levels.
+
+### UI Needs a Bit of Love
+
+- The tome selection at the start requires a placeholder UI at least.
+
+### GAME BREAKING BUGS
+
+- Sometimes, the game refuses to load into the next level because `Error: URoomSubsystem::EnableNextRoom - Next room stream is null!`. Find a way to replicate this and prevent it from happening again.
