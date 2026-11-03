@@ -81,4 +81,7 @@ In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, ene
 
 # Enemy Wave Spawner Scratch Notes
 
-## Split Spawning up Into Multiple Functions
+## Split Spawning Up Into Multiple Functions
+- Full Spawn Function
+	1. ***Bool***: Load the actor class & make it appear
+	2. ***Void***: 
