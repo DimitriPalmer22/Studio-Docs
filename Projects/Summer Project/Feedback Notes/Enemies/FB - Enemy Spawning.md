@@ -76,3 +76,9 @@ In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, ene
 - **Thanatos Encounters:** If Thanatos appears in a non-unique chamber, the total enemy count scales up, and you compete against him to see who can get the most kills.
 
 - **Forced Overtime (Pact of Punishment):** Turning on Forced Overtime does *not* make enemies spawn more frequently or change the wave structure; instead, it speeds up individual enemy spawn-in animations and movement speed. [Link](https://www.google.com/goto?url=CAESpAEB6zswFRisg7puVWTeMeje4e9dpaQrvEsRkT_BxTueOdX32MnByY2nJ_J_EI-2s-JOINRgJj-PWLGZ2cH8dJ-bGcqT1NHfUJVUlKHUC__-Cw9LLHmwk72BuExSomKzoUUUfb9hsXYQxxVa5_MwGmVqpgo3NmgeKWlJqTaHFPNWQPgmMhWS5cO4PBmJgo3vyeTnknlRxVQZy9LxbU_1PnE7SlvuyQ)
+
+---
+
+# Enemy Wave Spawner Scratch Notes
+
+## Split Spawning up Into Multiple Functions
