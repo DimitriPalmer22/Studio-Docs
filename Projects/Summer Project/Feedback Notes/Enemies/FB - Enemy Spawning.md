@@ -83,5 +83,6 @@ In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, ene
 
 ## Split Spawning Up Into Multiple Functions
 - Full Spawn Function
-	1. ***Bool***: Load the actor class & make it appear
-	2. ***Void***: 
+	1. ***Bool***: Load the actor class 
+	2. Bool: Make the actor appear (spawn it)
+	3. ***Void***: Do both & broadcast an event
