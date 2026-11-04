@@ -88,5 +88,3 @@ In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, ene
 	3. ***Void***: Do both & broadcast an event
 
 ---
-
-- [ ] bool in the BP implementation (of the ACTOR) for whether to automatically trigger a room clear on the last enemy's death?.
