@@ -100,3 +100,5 @@ This interfaces describes objects that can spawn enemies. It should have functio
 - Spawn Enemy(?)
 
 This way, we can describe spawn ZONES, areas where enemies can spawn, and not just specific points. This will allow us to have more dynamic spawning behavior.
+
+## Determining a spawn point for an enemy
