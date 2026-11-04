@@ -102,3 +102,8 @@ This interfaces describes objects that can spawn enemies. It should have functio
 This way, we can describe spawn ZONES, areas where enemies can spawn, and not just specific points. This will allow us to have more dynamic spawning behavior.
 
 ## Determining a spawn point for an enemy
+
+### 1. Create a list of points uniformly distributed across the area
+
+There are different ways we can do this, but the simplest way is to:
+- Have a set number of
