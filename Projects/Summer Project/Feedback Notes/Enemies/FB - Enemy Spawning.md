@@ -104,6 +104,8 @@ This way, we can describe spawn ZONES, areas where enemies can spawn, and not ju
 
 ## Determining a spawn point for an enemy
 
+> To spawn a BATCH of enemies, we can use an Object to hold information about the batch of spawns.
+
 ### 1. Create a list of points uniformly distributed across the area
 
 There are different ways we can do this, but the simplest way is to:
@@ -121,8 +123,9 @@ This makes things a bit easier for fallback scenarios (all the points are too cl
 ### 3. Filter out invalid points
 
 Use criteria like:
-- distance from the player (filter out points that are too close / too far to the player)
-- proximity to other enemies (use some type of score value to determine how "dense" the immediate area is). If it is in proximity to too many other enemies, it should be filtered out.
+- Whether an enemy has just spawned there
+- Distance from the player (filter out points that are too close / too far to the player)
+- Proximity to other enemies (use some type of score value to determine how "dense" the immediate area is). If it is in proximity to too many other enemies, it should be filtered out.
 
 ### 4. Select a Random Point
 
@@ -132,4 +135,7 @@ Use a weighted random system to select a point from the remaining valid points. 
 
 ### 5. Update the point & Surrounding ones
 
-For this instance of batched enemy spawning, ma
+For this instance of batched enemy spawning:
+- mark the point as "used" so that it is not used again for this batch of enemies.
+- Mark surrounding points as in proximity to an enemy, so that they are weighted lower for future spawns. This will help prevent enemies from spawning too close together.
+
