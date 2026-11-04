@@ -106,4 +106,14 @@ This way, we can describe spawn ZONES, areas where enemies can spawn, and not ju
 ### 1. Create a list of points uniformly distributed across the area
 
 There are different ways we can do this, but the simplest way is to:
-- Have a set number of
+- Have a set number of points that we want to generate
+- Use the set number of points to determine a grid size (e.g. 10 points = 3x3 grid)
+- Randomly generate points within each grid cell, so that they are uniformly distributed across the area
+
+For areas that do not change in size, this can be determined when the 
+
+### 2. Sort the points based on distance
+
+This makes things a bit easier for fallback scenarios (all the points are too close). This same list will be used for ALL enemies that need to spawn (if multiple enemies are spawning at once).
+
+### 3. 
