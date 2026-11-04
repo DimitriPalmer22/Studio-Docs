@@ -95,4 +95,8 @@ Automatic spawners do not use the same spawn point logic as the current system.
 Instead, it calculates optimal positions based on how far they are from the player and how many enemies are already in the room.
 
 ## An Interface for `IEnemySpawnArea`
-This interfaces describes objects that can spawn enemies. It should have functions like: Spawn Enemy
+This interfaces describes objects that can spawn enemies. It should have functions like: 
+- Determine Spawn Location(?)
+- Spawn Enemy(?)
+
+This way, we can describe spawn ZONES, areas where enemies can spawn, and not just specific points. This will allow us to have more dynamic spawning behavior.
