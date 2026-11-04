@@ -120,5 +120,7 @@ This makes things a bit easier for fallback scenarios (all the points are too cl
 ### 3. Filter out invalid points
 
 Use criteria like:
-- distance
-- proximity to other enemies
+- distance from the player (filter out points that are too close / too far to the player)
+- proximity to other enemies (use some type of score value to determine how "dense" the immediate area is). If it is in proximity to too many other enemies, it should be filtered out.
+
+### 4. Select a Random Point
