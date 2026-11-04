@@ -95,6 +95,7 @@ Automatic spawners do not use the same spawn point logic as the current system.
 Instead, it calculates optimal positions based on how far they are from the player and how many enemies are already in the room.
 
 ## An Interface for `IEnemySpawnArea`
+
 This interfaces describes objects that can spawn enemies. It should have functions like: 
 - Determine Spawn Location(?)
 - Spawn Enemy(?)
@@ -124,3 +125,11 @@ Use criteria like:
 - proximity to other enemies (use some type of score value to determine how "dense" the immediate area is). If it is in proximity to too many other enemies, it should be filtered out.
 
 ### 4. Select a Random Point
+
+Use a weighted random system to select a point from the remaining valid points. The weights can be determined by factors such as:
+- Distance from the player (closer points are weighted higher / lower depending on enemy type)
+- Proximity to other enemies (points that are too close to other enemies are weighted lower)
+
+### 5. Update the point & Surrounding ones
+
+For this instance of batched enemy spawning, ma
