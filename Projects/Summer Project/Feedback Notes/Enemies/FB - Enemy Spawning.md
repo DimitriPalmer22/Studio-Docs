@@ -88,3 +88,11 @@ In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, ene
 	3. ***Void***: Do both & broadcast an event
 
 ---
+# When Using Auto-Spawners, Determine where Enemies Spawn
+
+Automatic spawners do not use the same spawn point logic as the current system. 
+
+Instead, it calculates optimal positions based on how far they are from the player and how many enemies are already in the room.
+
+## An Interface for `IEnemySpawnArea`
+This interfaces describes objects that can spawn enemies. It should have functions like: Spawn Enemy
