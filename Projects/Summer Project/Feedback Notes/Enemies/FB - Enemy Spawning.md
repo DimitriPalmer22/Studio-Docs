@@ -97,7 +97,7 @@ Instead, it calculates optimal positions based on how far they are from the play
 ## An Interface for `IEnemySpawnArea`
 
 This interfaces describes objects that can spawn enemies. It should have functions like: 
-- GetSpawnTransorms -> Transformp
+- `GetSpawnTransorms` -> Transform array
 - Spawn Enemy(?)
 
 This way, we can describe spawn ZONES, areas where enemies can spawn, and not just specific points. This will allow us to have more dynamic spawning behavior.
