@@ -26,6 +26,15 @@ Waves are a batch of enemies that spawn at once within a single spawn area. Wave
 - The "**budget**" of the wave, which determines how many enemies can spawn at once (each enemy type has a different budget cost)
 - The spawn area that the wave will spawn in.
 
+## Configuring Waves
+
+Considering the fact that each spawn area can have its own set of waves, we can configure waves on a per-spawn area basis.
+- This means attaching the wave setup to the spawn area's actor itself (via a component)
+- Each spawn area can have it's own `index` property, allowing for proper ordering of wav
+
+Then,
+
+
 ## Additional Waves
 
 Sometimes, an extra wave (or more) can be automatically spawned after the initial waves are defeated. 
