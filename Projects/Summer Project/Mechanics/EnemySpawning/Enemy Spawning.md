@@ -28,8 +28,15 @@ Waves are a batch of enemies that spawn at once within a single spawn area. Wave
 
 ## Additional Waves
 
-Sometimes, an extra wave (or more) can be automatically spawned after the initial wave is defeated. 
+Sometimes, an extra wave (or more) can be automatically spawned after the initial waves are defeated. 
 
 This can be used to increase the difficulty of a level or to add more variety to the gameplay.
 
-This happens on a per-spawn area bas
+This happens on a per-spawn area basis.
+
+>[!Question] *How do we determine what enemies spawn?*
+>We look at all the other waves within the spawn area and randomly pick one of it's wave of enemies.
+
+
+>[!Question] *How do we determine the budget of the wave?*
+> idk
