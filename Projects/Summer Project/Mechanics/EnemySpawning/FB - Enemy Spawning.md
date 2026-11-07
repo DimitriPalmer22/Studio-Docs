@@ -82,31 +82,33 @@ In *[Hades](https://www.google.com/search?kgmid=%2Fg%2F11fk4qxvvv&q=Hades)*, ene
 # Enemy Wave Spawner Scratch Notes
 
 ## Split Spawning Up Into Multiple Functions
+
 - Full Spawn Function
-	1. ***Bool***: Load the actor class 
+	1. ***Bool***: Load the actor class
 	2. Bool: Make the actor appear (spawn it)
 	3. ***Void***: Do both & broadcast an event
 
 ---
+
 # When Using Auto-Spawners, Determine where Enemies Spawn
 
-Automatic spawners do not use the same spawn point logic as the current system. 
+Automatic spawners do not use the same spawn point logic as the current system.
 
 Instead, it calculates optimal positions based on how far they are from the player and how many enemies are already in the room.
 
 ## An Interface for `IEnemySpawnArea`
 
-This interfaces describes objects that can spawn enemies. It should have functions like: 
+This interfaces describes objects that can spawn enemies. It should have functions like:
 - `GetSpawnTransorms` -> Transform array
 - Spawn Enemy(?)
 
 This way, we can describe spawn ZONES, areas where enemies can spawn, and not just specific points. This will allow us to have more dynamic spawning behavior.
 
-## Determining a spawn point for an enemy
+## Determining a Spawn point for an Enemy
 
 > To spawn a BATCH of enemies, we can use an Object to hold information about the batch of spawns.
 
-### 1. Create a list of points uniformly distributed across the area
+### 1. Create a List of Points Uniformly Distributed across the Area
 
 There are different ways we can do this, but the simplest way is to:
 - Have a set number of points that we want to generate
@@ -114,13 +116,14 @@ There are different ways we can do this, but the simplest way is to:
 - Randomly generate points within each grid cell, so that they are uniformly distributed across the area
 
 For areas that do not change in size, this can be determined when the room is created.
-### 2. Sort the points based on distance
 
-This makes things a bit easier for fallback scenarios (all the points are too close). 
+### 2. Sort the Points Based on Distance
+
+This makes things a bit easier for fallback scenarios (all the points are too close).
 
 > This same list will be used for ALL enemies that need to spawn (if multiple enemies are spawning at once). Therefore, we do not need to worry about the performance cost of sorting the list multiple times.
 
-### 3. Filter out invalid points
+### 3. Filter out Invalid Points
 
 Use criteria like:
 - Whether an enemy has just spawned there
@@ -133,9 +136,8 @@ Use a weighted random system to select a point from the remaining valid points. 
 - Distance from the player (closer points are weighted higher / lower depending on enemy type)
 - Proximity to other enemies (points that are too close to other enemies are weighted lower)
 
-### 5. Update the point & Surrounding ones
+### 5. Update the point & Surrounding Ones
 
 For this instance of batched enemy spawning:
 - mark the point as "used" so that it is not used again for this batch of enemies.
 - Mark surrounding points as in proximity to an enemy, so that they are weighted lower for future spawns. This will help prevent enemies from spawning too close together.
-
