@@ -30,10 +30,10 @@ Waves are a batch of enemies that spawn at once within a single spawn area. Wave
 
 Considering the fact that each spawn area can have its own set of waves, we can configure waves on a per-spawn area basis.
 - This means attaching the wave setup to the spawn area's actor itself (via a component)
-- Each spawn area can have it's own `index` property, allowing for proper ordering of wav
+- Each spawn area can have it's own `index` property, allowing for proper ordering of the different spawn areas. This is not needed for rooms with a single spawn area, however.
 
-Then,
-
+Then, we can have one centralized actor that manages the spawning of waves across all spawn areas in the level. This actor can be responsible for:
+- Keeping track of which spawn area is currently active.
 
 ## Additional Waves
 
@@ -48,4 +48,4 @@ This happens on a per-spawn area basis.
 
 
 >[!Question] *How do we determine the budget of the wave?*
-> idk
+> Get the maximum budget of all the other waves in the spawn area and use that as the budget for the additional wave. This ensures that the additional wave is not too difficult or too easy compared to the other waves.
