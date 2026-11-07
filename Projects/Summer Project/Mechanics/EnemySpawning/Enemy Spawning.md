@@ -18,3 +18,11 @@ To facilitate enemy spawning, we will define **spawn areas** within each level. 
 Rather than placing down individual points where enemies can spawn, spawn areas probe the area and determine a set of valid points where enemies can spawn.
 
 This set of points is then used to calculate the optimal spawn point for each enemy based on the player's current position and the other enemies that will be present in the wave.
+
+# Waves
+
+Waves are a batch of enemies that spawn at once within a single spawn area. Waves have several parameters:
+- The set of enemies that can spawn in the wave
+- The "**budget**" of the wave, which determines how many enemies can spawn at once (each enemy type has a different budget cost)
+- The spawn area that the wave will spawn in.
+-
