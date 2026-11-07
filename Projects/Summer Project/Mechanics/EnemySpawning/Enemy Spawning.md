@@ -25,3 +25,11 @@ Waves are a batch of enemies that spawn at once within a single spawn area. Wave
 - The set of enemies that can spawn in the wave
 - The "**budget**" of the wave, which determines how many enemies can spawn at once (each enemy type has a different budget cost)
 - The spawn area that the wave will spawn in.
+
+## Additional Waves
+
+Sometimes, an extra wave (or more) can be automatically spawned after the initial wave is defeated. 
+
+This can be used to increase the difficulty of a level or to add more variety to the gameplay.
+
+This happens on a per-spawn area bas
