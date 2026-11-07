@@ -12,7 +12,7 @@ Levels will ***NOT*** be pre-populated with enemies. Instead, enemy spawning wil
 # Spawn Areas
 
 To facilitate enemy spawning, we will define **spawn areas** within each level. These areas will be used to determine:
-- where enemies can spawn 
+- where enemies can spawn
 - how many can spawn at once.
 
 Rather than placing down individual points where enemies can spawn, spawn areas probe the area and determine a set of valid points where enemies can spawn.
@@ -37,15 +37,14 @@ Then, we can have one centralized actor that manages the spawning of waves acros
 
 ## Additional Waves
 
-Sometimes, an extra wave (or more) can be automatically spawned after the initial waves are defeated. 
+Sometimes, an extra wave (or more) can be automatically spawned after the initial waves are defeated.
 
 This can be used to increase the difficulty of a level or to add more variety to the gameplay.
 
 This happens on a per-spawn area basis.
 
->[!Question] *How do we determine what enemies spawn?*
->We look at all the other waves within the spawn area and randomly pick one of it's wave of enemies.
+> [!Question] *How do we determine what enemies spawn?*
+> We look at all the other waves within the spawn area and randomly pick one of it's wave of enemies.
 
-
->[!Question] *How do we determine the budget of the wave?*
+> [!Question] *How do we determine the budget of the wave?*
 > Get the maximum budget of all the other waves in the spawn area and use that as the budget for the additional wave. This ensures that the additional wave is not too difficult or too easy compared to the other waves.
