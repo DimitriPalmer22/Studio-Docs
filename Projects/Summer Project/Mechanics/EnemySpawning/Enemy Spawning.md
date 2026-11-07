@@ -9,4 +9,12 @@ Levels will ***NOT*** be pre-populated with enemies. Instead, enemy spawning wil
 - *A pre-configured set of enemy types* - To keep the game balanced, each level will have a set of enemy types that can spawn. This will ensure that the player is not overwhelmed by too many difficult enemies at once.
 - *A pre-set number of waves* - Each spawn area in the game will have a pre-set number of waves it can spawn. However, depending on the difficulty, we can scale up the number of waves to spawn in each area.
 
-#
+# Spawn Areas
+
+To facilitate enemy spawning, we will define **spawn areas** within each level. These areas will be used to determine:
+- where enemies can spawn 
+- how many can spawn at once.
+
+Rather than placing down individual points where enemies can spawn, spawn areas probe the area and determine a set of valid points where enemies can spawn.
+
+This set of points is then used to calculate the optimal spawn point for each enemy based on the player's current position and the other enemies that will be present in the wave.
