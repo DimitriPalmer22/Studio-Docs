@@ -48,3 +48,16 @@ This happens on a per-spawn area basis.
 
 > [!Question] *How do we determine the budget of the wave?*
 > Get the maximum budget of all the other waves in the spawn area and use that as the budget for the additional wave. This ensures that the additional wave is not too difficult or too easy compared to the other waves.
+
+# Spawn Budgets
+
+To calculate how many of each enemy type can spawn in a wave, we will use a **budget system**. Each enemy type will have a budget cost associated with it, and the total budget for the wave will determine how many enemies can spawn at once.
+
+Calculating the budget for a wave can be done in several ways:
+- A constant budget for the wave
+- A budget that scales based on the player's current progress in the game
+
+In most instances, we will be using the budget that scales based on the current progress in the game.
+
+
+#
