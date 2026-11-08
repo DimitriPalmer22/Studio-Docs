@@ -55,11 +55,11 @@ To calculate how many of each enemy type can spawn in a wave, we will use a **bu
 
 Calculating the budget for a wave can be done in several ways:
 - A constant budget for the wave
-- A budget that scales based on the player's current progress in the game
+- A budget that scales based on the player's current progress in the current floor.
 
 In most instances, we will be using the budget that scales based on the current progress in the game. The calculation includes:
 - A base value for the budget
 - A multiplier to help with making later waves more difficult (evaluate the wave index on a curve)
-- A scaling factor based on the player's current progress in the game
+- A scaling factor based on the player's current progress in the current floor (evaluate the room number on a curve)
 
 #
