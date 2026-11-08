@@ -62,4 +62,7 @@ In most instances, we will be using the budget that scales based on the current 
 - A multiplier to help with making later waves more difficult (evaluate the wave index on a curve)
 - A scaling factor based on the player's current progress in the current floor (evaluate the room number on a curve)
 
+> [!Important] Budget Normalization
+> Spawn budgets are standardized to a value of 100. This means that 100 is the "normal"  
+
 #
