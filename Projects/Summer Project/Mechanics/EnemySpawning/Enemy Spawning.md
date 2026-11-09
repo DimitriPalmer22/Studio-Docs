@@ -1,5 +1,8 @@
 # Enemy Spawning
 
+> [!NOTE] Configuring Enemy Spawns
+> To see information about how to configure enemy spawns in the levels, see [Configure Enemy Spawns](Configure%20Enemy%20Spawns.md).
+
 To enhance the game's rogue-like nature, [Avernoth](../../Avernoth/Avernoth.md) will feature a dynamic enemy spawning system.
 - This system will ensure that enemies are spawned in a way that keeps the player **engaged and challenged**
 - while also maintaining **balance and fairness**.
@@ -63,5 +66,4 @@ In most instances, we will be using the budget that scales based on the current 
 - A scaling factor based on the player's current progress in the current floor (evaluate the room number on a curve)
 
 > [!Important] Budget Normalization
-> Spawn budgets are standardized to a value of 100. This means that 100 is the "normal" budget for a wave, and all other budgets are scaled accordingly. This allows us to easily compare the budgets of different waves and ensure that they are balanced. 
-
+> Spawn budgets are standardized to a value of 100. This means that 100 is the "normal" budget for a wave, and all other budgets are scaled accordingly. This allows us to easily compare the budgets of different waves and ensure that they are balanced.
