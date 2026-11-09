@@ -36,3 +36,10 @@ Each spawn area has a `Box Component` that defines the area in which enemies can
 Each spawn area also has a component on it to manage the waves.
 
 After clicking on this component, you'll see a field for `Waves`. Each entry in the `Waves` array represents a new wave that can spawn in this area. Each wave has several properties that can be configured:
+
+![](<../../../../_Meta/Attachments/Pasted image 20261108211320.png>)
+
+#### Budget Generator
+
+> [!Question] What is the budget?
+> The budget is a value that determines how many enemies can spawn in a wave. Each enemy type has a budget cost associated with it, and the total budget for the wave will determine how many enemies can spawn at once. For more information, see [[Enemy Spawning.md#]]
