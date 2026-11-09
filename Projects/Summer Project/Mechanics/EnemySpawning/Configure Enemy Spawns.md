@@ -2,8 +2,8 @@
 tags:
   - LevelDesign
 ---
-# Configure Enemy Spawns
 
+# Configure Enemy Spawns
 
 > [!NOTE] Enemy Spawning System Information
 > For general information about the enemy spawning system, see [Enemy Spawning](Enemy%20Spawning.md).
@@ -18,11 +18,11 @@ All actors related to the enemy spawning system within the level should be place
 
 ## Spawn Areas
 
-Each spawn area holds information about the enemies that can spawn in it, as well as the waves that can spawn in it. 
+Each spawn area holds information about the enemies that can spawn in it, as well as the waves that can spawn in it.
 
 > [!NOTE] This is Unlike the Old System
-> In the old system, spawn areas were not used. Instead, enemies were spawned at specific points in the level. The waves were then configured within the Room Manager's 'Enemy Manager' component. 
-> 
+> In the old system, spawn areas were not used. Instead, enemies were spawned at specific points in the level. The waves were then configured within the Room Manager's 'Enemy Manager' component.
+>
 > The old system lacked flexibility and made it difficult to manage the spawning of enemies, as well as to create a dynamic and engaging experience for the player.
 
 ### Resizing the Spawn Area
@@ -46,7 +46,6 @@ After clicking on this component, you'll see a field for `Waves`. Each entry in 
 > Then, for the `Scaling Budget Generator`, ensure `BP Scaling Budget Generator` is selected.
 > From there, change the `Difficulty Modifier` value to make the wave easier or harder.
 
-
 > [!Question] What is the budget?
 > The budget is a value that determines how many enemies can spawn in a wave. Each enemy type has a budget cost associated with it, and the total budget for the wave will determine how many enemies can spawn at once. For more information, see [Spawn Budgets](Enemy%20Spawning.md#Spawn%20Budgets).
 
@@ -55,10 +54,13 @@ In this section, we have several options:
 The `budget generator type` determines how the budget for the wave is calculated. The options are:
 - `Constant Value`
 - `Scaled Value` (Default)
+
 ##### Constant Value
-If using  a constant value, the LD can select a simple number to use as the budget for the wave. This number does not scale based on the player's progress in the game.
+
+If using a constant value, the LD can select a simple number to use as the budget for the wave. This number does not scale based on the player's progress in the game.
 
 ##### Scaled Value
+
 If using a scaled value, a new field appears: `Scaling Budget Generator`. The LD need to pick at least one of the options that appears from the drop-down list. The `BP Scaling Budget Generator` is a good choice. It allows the LD to configure:
 -  **A base value** - The original number to perform calculations on when generating the budget. This should probably be kept at the default value of 100.
 -  **A difficulty modifier** - This is just a multiplier applied on top of the base value. This allows the LD to more easily configure waves that progressively use larger budgets (without needing to touch the base value).
