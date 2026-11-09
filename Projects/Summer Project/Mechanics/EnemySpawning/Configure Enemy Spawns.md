@@ -27,8 +27,12 @@ Each spawn area holds information about the enemies that can spawn in it, as wel
 
 ### Resizing the Spawn Area
 
-Each spawn area has a `Box Component` that defines the area in which enemies can spawn. This box can be resized to fit the desired area for enemy spawning.
+Each spawn area has a `Box Component` that defines the area in which enemies can spawn. This box can be moved, rotated, and resized to fit the desired area for enemy spawning.
+
+![](<../../../../_Meta/Attachments/Pasted image 20261108211040.png>)
 
 ### Configuring the Spawn Area's Waves
 
-Each spawn area should be configured with the following properties:
+Each spawn area also has a component on it to manage the waves.
+
+After clicking on this component, you'll see a field for `Waves`. Each entry in the `Waves` array represents a new wave that can spawn in this area. Each wave has several properties that can be configured:
