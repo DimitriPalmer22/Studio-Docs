@@ -49,10 +49,13 @@ In this section, we have several options:
 The `budget generator type` determines how the budget for the wave is calculated. The options are:
 - `Constant Value`
 - `Scaled Value` (Default)
-
+##### Constant Value
 If using  a constant value, the LD can select a simple number to use as the budget for the wave. This number does not scale based on the player's progress in the game.
 
+##### Scaled Value
 If using a scaled value, a new field appears: `Scaling Budget Generator`. The LD need to pick at least one of the options that appears from the drop-down list. The `BP Scaling Budget Generator` is a good choice. It allows the LD to configure:
--  A base value - The original number to perform calculations on when generating the budget. This should probably be kept at the default value of 100.
+-  **A base value** - The original number to perform calculations on when generating the budget. This should probably be kept at the default value of 100.
 -  **A difficulty modifier** - This is just a multiplier applied on top of the base value. This allows the LD to more easily configure waves that progressively use larger budgets (without needing to touch the base value).
-- A curve that scales the budget based on the player's current progress in the current floor. This should be kept at the default value.
+- **Progress Scaling Curve** - A curve that scales the budget based on the player's current progress in the current floor. This should be kept at the default value.
+
+#### Enemy Type Generator
