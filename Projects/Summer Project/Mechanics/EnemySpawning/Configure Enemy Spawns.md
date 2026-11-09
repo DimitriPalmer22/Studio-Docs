@@ -44,6 +44,12 @@ After clicking on this component, you'll see a field for `Waves`. Each entry in 
 > [!Question] What is the budget?
 > The budget is a value that determines how many enemies can spawn in a wave. Each enemy type has a budget cost associated with it, and the total budget for the wave will determine how many enemies can spawn at once. For more information, see [Spawn Budgets](Enemy%20Spawning.md#Spawn%20Budgets).
 
+
+> [!TLDR
+> ] Title
+> Contents
+
+
 In this section, we have several options:
 
 The `budget generator type` determines how the budget for the wave is calculated. The options are:
