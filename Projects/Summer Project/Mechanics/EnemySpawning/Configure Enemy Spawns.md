@@ -50,6 +50,8 @@ The `budget generator type` determines how the budget for the wave is calculated
 - `Constant Value`
 - `Scaled Value` (Default)
 
-If using  a constant value, the user can select a simple number to use as the budget for the wave. This number does not scale based on the player's progress in the game.
+If using  a constant value, the LD can select a simple number to use as the budget for the wave. This number does not scale based on the player's progress in the game.
 
-If using a scaled value, the user needs to 
+If using a scaled value, a new field appears: `Scaling Budget Generator`. The LD need to pick at least one of the options that appears from the drop-down list. The `BP Scaling Budget Generator` is a good choice. It allows the LD to configure:
+-  A base value (which should probably be kept at the default value of 100)
+-  A difficulty modifier - 
