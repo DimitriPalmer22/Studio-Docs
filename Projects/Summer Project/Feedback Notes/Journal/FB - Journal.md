@@ -10,9 +10,11 @@ The end room's seal is currently a 3-layer radial design. Within each layer, the
 
 The seal should be used as a representation of the player's progress within the game. The runes only appear after the player has completed the corresponding journal entry. 
 
-Whenever the player retur
+Whenever the player returns to the end seal room, the seal should be displayed with the runes that have been collected. This will give the player a visual representation of their progress within the game.
 
 ### A UI Representation that Matches the Seal
+
+Currently, completing a journal entry is *VERY* uneventful. There is no visual representation of the player's progress within the game. We can fix this by creating a UI representation that matches the seal in the end room that appears when the player completes a journal entry.
 
 ## When to Notify of Current Progress
 
