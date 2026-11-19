@@ -16,6 +16,8 @@ Whenever the player returns to the end seal room, the seal should be displayed w
 
 Currently, completing a journal entry is *VERY* uneventful. There is no visual representation of the player's progress within the game. We can fix this by creating a UI representation that matches the seal in the end room that appears when the player completes a journal entry.
 
+This UI representation is pr
+
 ## When to Notify of Current Progress
 
 There should be points in which the player is informed of their progress within the game:
@@ -41,6 +43,14 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 - It is difficult to see the text when the **rune** (that appears when the objective is complete) appears.
 
 # Game Plan
+
+## End Room Seal Design:
+- Solidify the design for the end room's seal. 
+- This is important because other things depend on it.
+
+## UI Representation of the Seal:
+- Create a UI screen that appears whenever completing a journal entry.
+- The design of this should loosely match the end room's seal.
 
 ## Tarun's Journal UI:
 - Completely scrap the UI we have in-place
