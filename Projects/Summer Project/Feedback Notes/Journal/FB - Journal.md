@@ -17,7 +17,7 @@ Whenever the player returns to the end seal room, the seal should be displayed w
 Currently, completing a journal entry is *VERY* uneventful. There is no visual representation of the player's progress within the game. We can fix this by creating a UI representation that matches the seal in the end room that appears when the player completes a journal entry.
 
 This UI representation is purely exegetic, meaning the characters in the game do not acknowledge it. It is purely for the player's benefit. 
-- We can pretend [Tarun](../../Avernoth/Narrative/Characters/Tarun.md) 
+- We can pretend [Tarun](../../Avernoth/Narrative/Characters/Tarun.md) is keeping track of this within his notebook.
 
 ## When to Notify of Current Progress
 
@@ -27,9 +27,13 @@ There should be points in which the player is informed of their progress within 
 
 Collecting a [Journal Entry](../../Avernoth/Mechanics/Journal%20System.md#Journal%20Entry) (after reaching the first end room) should notify the player of their current progress within the game.
 
-This should NOT make the player
+I don't know if this should make the Seal UI representation appear.
 
 ### Completing a Journal Quest
+
+Completing a Journal Entry (collecting a [Standard Journal Entry](../../Avernoth/Mechanics/Journal%20System.md#Standard%20Journal%20Entry) / completing an [Experiment Log](../../Avernoth/Mechanics/Journal%20System.md#Experiment%20Log)'s objective) should notify the player of their current progress within the game.
+
+I 
 
 ### "Depositing" Journal Entries
 
