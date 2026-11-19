@@ -6,6 +6,12 @@ In general, the conveyance of the game's story and the player's progress within 
 
 ### The End Room Seal
 
+The end room's seal is currently a 3-layer radial design. Within each layer, there are spaces for each rune (from the journal entries) to be filled in. 
+
+The seal should be used as a representation of the player's progress within the game. The runes only appear after the player has completed the corresponding journal entry. 
+
+Whenever the player retur
+
 ### A UI Representation that Matches the Seal
 
 ## When to Notify of Current Progress
@@ -34,7 +40,7 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 
 # Game Plan
 
-Tarun's Journal UI:
+## Tarun's Journal UI:
 - Completely scrap the UI we have in-place
 - Create a new one with:
 	- Tabs for each **Chapter** of the game
