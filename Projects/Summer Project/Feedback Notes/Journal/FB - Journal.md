@@ -46,7 +46,7 @@ Interacting with the end room's seal sends the player back to the starting area.
 
 The player should be able to access this UI representation from the journal menu as well.
 
-## Tarun's Journal UI
+## Codex UI
 
 Within the game's world, [Tarun](../../Avernoth/Narrative/Characters/Tarun.md) takes note of the Journal Entries the [Allister](../../Avernoth/Narrative/Characters/Allister.md) encounters. So, the player should be able to view Tarun's Journal at any time.
 
@@ -77,7 +77,7 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 
 # Work Notes
 
-## Tarun's Journal UI
+## Codex UI
 The two-page system we had before wasn't a bad idea:
 - The left page is for navigation
 - The right page is for the journal's contents.
