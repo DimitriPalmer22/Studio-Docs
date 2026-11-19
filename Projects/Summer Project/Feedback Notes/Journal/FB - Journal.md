@@ -22,4 +22,11 @@ Collecting a [Journal Entry](../../Avernoth/Mechanics/Journal%20System.md#Journa
 
 ### Whenever the User Wants
 
-## Tarun's Journal
+## Tarun's Journal UI
+
+Within the game's world, [Tarun](../../Avernoth/Narrative/Characters/Tarun.md) takes note of the Journal Entries the [Allister](../../Avernoth/Narrative/Characters/Allister.md) encounters. So, the player should be able to view Tarun's Journal at any time.
+
+Currently, the UI & image Alex made for the Journal is not *ideal* for the following reasons:
+- Does not fit will onto the screen
+- Does not work well for placing the text on (the lines are not straight)
+- 
