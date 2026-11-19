@@ -73,3 +73,15 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 	- Buttons for going to next / previous entry
 	- Better representation for complete entries
 	- The completion symbol should be somewhere off to the side, away from text
+
+
+# Work Notes
+
+## Tarun's Journal UI
+The two-page system we had before wasn't a bad idea:
+- The left page is for navigation
+- The right page is for the journal's contents.
+
+However, we often got hit with "Why does the left page never change? If we are turning the page to the next entry, shouldn't the left page change as well?"
+- We can really just say it's a magic book
+- Tapping on elements on the left page change the right page's contents, making them fade in and out.
