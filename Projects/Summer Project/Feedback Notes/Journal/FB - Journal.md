@@ -110,4 +110,3 @@ We can set up several possible pre-determined layouts for the journal entries. W
 
 > [!NOTE] Update the Journal Entry Collect UI as well
 > This idea requires the journal entry collect UI to be updated as well to support this functionality. It should literally be the same as the journal entry UI, just without the left page and bigger to fill more space on the screen.
-\
