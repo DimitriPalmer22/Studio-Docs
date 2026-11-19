@@ -82,6 +82,10 @@ The two-page system we had before wasn't a bad idea:
 - The left page is for navigation
 - The right page is for the journal's contents.
 
+### The Left Page
 However, we often got hit with "Why does the left page never change? If we are turning the page to the next entry, shouldn't the left page change as well?"
 - We can really just say it's a magic book
 - Tapping on elements on the left page change the right page's contents, making them fade in and out.
+
+### The Right Page
+The right page contains the contents of the journal entry. However, maybe we should just **COMPLTELY** copy the journal entry UI and put it here...
