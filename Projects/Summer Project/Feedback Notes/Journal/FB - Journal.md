@@ -13,7 +13,7 @@ The seal should be used as a representation of the player's progress within the 
 Whenever the player returns to the end seal room, the seal should be displayed with the runes that have been collected. This will give the player a visual representation of their progress within the game.
 
 > [!NOTE] Early Seal Layers Explanation
-> We should establish early on that the game is divided into 3 chapters.
+> We should establish early on that the game is divided into 3 chapters, with each chapter corresponding to a layer on the seal. This will help the player understand where they are in the game better. We can have one of the characters explain this, seeming as they are ALL magicians.
 
 ### A UI Representation that Matches the Seal
 
@@ -72,3 +72,4 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 	- Tabs for each **Chapter** of the game
 	- Buttons for going to next / previous entry
 	- Better representation for complete entries
+	- The completion symbol should be somewhere off to the side, away from text
