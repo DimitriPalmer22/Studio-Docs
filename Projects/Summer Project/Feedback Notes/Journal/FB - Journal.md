@@ -33,11 +33,15 @@ I don't know if this should make the Seal UI representation appear.
 
 Completing a Journal Entry (collecting a [Standard Journal Entry](../../Avernoth/Mechanics/Journal%20System.md#Standard%20Journal%20Entry) / completing an [Experiment Log](../../Avernoth/Mechanics/Journal%20System.md#Experiment%20Log)'s objective) should notify the player of their current progress within the game.
 
-I 
+This should DEFINITELY make the seal UI representation appear.
 
 ### "Depositing" Journal Entries
 
+Interacting with the end room's seal sends the player back to the starting area. Maybe include a notification of the player's current progress within the game when they do this.
+
 ### Whenever the User Wants
+
+The player should be able to access this UI representation from the journal menu as well.
 
 ## Tarun's Journal UI
 
