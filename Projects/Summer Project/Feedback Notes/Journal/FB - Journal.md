@@ -12,6 +12,9 @@ The seal should be used as a representation of the player's progress within the 
 
 Whenever the player returns to the end seal room, the seal should be displayed with the runes that have been collected. This will give the player a visual representation of their progress within the game.
 
+> [!NOTE] Early Seal Layers Explanation
+> We should establish early on that the game is divided into 3 chapters.
+
 ### A UI Representation that Matches the Seal
 
 Currently, completing a journal entry is *VERY* uneventful. There is no visual representation of the player's progress within the game. We can fix this by creating a UI representation that matches the seal in the end room that appears when the player completes a journal entry.
