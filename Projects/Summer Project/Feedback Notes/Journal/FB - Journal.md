@@ -6,9 +6,9 @@ In general, the conveyance of the game's story and the player's progress within 
 
 ### The End Room Seal
 
-The end room's seal is currently a 3-layer radial design. Within each layer, there are spaces for each rune (from the journal entries) to be filled in. 
+The end room's seal is currently a 3-layer radial design. Within each layer, there are spaces for each rune (from the journal entries) to be filled in.
 
-The seal should be used as a representation of the player's progress within the game. The runes only appear after the player has completed the corresponding journal entry. 
+The seal should be used as a representation of the player's progress within the game. The runes only appear after the player has completed the corresponding journal entry.
 
 Whenever the player returns to the end seal room, the seal should be displayed with the runes that have been collected. This will give the player a visual representation of their progress within the game.
 
@@ -19,7 +19,7 @@ Whenever the player returns to the end seal room, the seal should be displayed w
 
 Currently, completing a journal entry is *VERY* uneventful. There is no visual representation of the player's progress within the game. We can fix this by creating a UI representation that matches the seal in the end room that appears when the player completes a journal entry.
 
-This UI representation is purely exegetic, meaning the characters in the game do not acknowledge it. It is purely for the player's benefit. 
+This UI representation is purely exegetic, meaning the characters in the game do not acknowledge it. It is purely for the player's benefit.
 - We can pretend [Tarun](../../Avernoth/Narrative/Characters/Tarun.md) is keeping track of this within his notebook.
 
 ## When to Notify of Current Progress
@@ -58,15 +58,18 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 
 # Game Plan
 
-## End Room Seal Design:
-- Solidify the design for the end room's seal. 
+## End Room Seal Design
+
+- Solidify the design for the end room's seal.
 - This is important because other things depend on it.
 
-## UI Representation of the Seal:
+## UI Representation of the Seal
+
 - Create a UI screen that appears whenever completing a journal entry.
 - The design of this should loosely match the end room's seal.
 
-## Tarun's Journal UI:
+## Tarun's Journal UI
+
 - Completely scrap the UI we have in-place
 - Create a new one with:
 	- Tabs for each **Chapter** of the game
@@ -74,25 +77,27 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 	- Better representation for complete entries
 	- The completion symbol should be somewhere off to the side, away from text
 
-
 # Work Notes
 
 ## Codex UI
+
 The two-page system we had before wasn't a bad idea:
 - The left page is for navigation
 - The right page is for the journal's contents.
 
 ### The Left Page
+
 However, we often got hit with "Why does the left page never change? If we are turning the page to the next entry, shouldn't the left page change as well?"
 - We can really just say it's a magic book
 - Tapping on elements on the left page change the right page's contents, making them fade in and out.
 
 ### The Right Page
-The right page contains the contents of the journal entry. However, maybe we should just **COMPLTELY** copy the journal entry UI and put it here...
 
+The right page contains the contents of the journal entry. However, maybe we should just **COMPLTELY** copy the journal entry UI and put it here…
 
 #### Varying Page Layouts for Entries
-Having each journal entry follow the EXACT same layout is very boring visually. Also, if these are supposed to be notes of some sort, then we can have the pages look different. 
+
+Having each journal entry follow the EXACT same layout is very boring visually. Also, if these are supposed to be notes of some sort, then we can have the pages look different.
 
 For example, some entries can have:
 - a diagram
@@ -100,4 +105,9 @@ For example, some entries can have:
 - a list of items
 - various scribbles around the page
 
-Within the data for the entry itself, we sto
+We can set up several possible pre-determined layouts for the journal entries. Within the data for the entry itself, we store which layout to use. This way, we can have a variety of layouts for the journal entries, making them more visually interesting.
+
+
+> [!NOTE] Update the Journal Entry Collect UI as well
+> This idea requires the journal entry collect UI to be updated as well to support this functionality. It should literally be the same as the journal entry UI, just without the left page and bigger to fill more space on the screen.
+\
