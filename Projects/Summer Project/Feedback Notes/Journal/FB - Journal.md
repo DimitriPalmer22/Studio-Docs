@@ -30,10 +30,13 @@ Currently, the image Alex made for the Journal is not *ideal* for the following 
 - Does not fit will onto the screen
 - Does not work well for placing the text on (the lines are not straight)
 - Not enough space for other elements to be placed on the screen (buttons, tabs, etc.)
+- It is difficult to see the text when the **rune** (that appears when the objective is complete) appears.
 
 # Game Plan
 
 Tarun's Journal UI:
 - Completely scrap the UI we have in-place
 - Create a new one with:
-	- Tabs for each **
+	- Tabs for each **Chapter** of the game
+	- Buttons for going to next / previous entry
+	- Better representation for complete entries
