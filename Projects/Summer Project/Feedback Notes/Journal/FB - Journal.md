@@ -87,7 +87,7 @@ The two-page system we had before wasn't a bad idea:
 
 ### The Left Page
 
-The left page acts as a permanent Table of Contents.
+	The left page acts as a permanent Table of Contents.
 
 However, we often got hit with "Why does the left page never change? If we are turning the page to the next entry, shouldn't the left page change as well?"
 - We can really just say it's a magic book
