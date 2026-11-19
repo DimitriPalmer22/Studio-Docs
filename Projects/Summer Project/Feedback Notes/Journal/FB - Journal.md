@@ -107,6 +107,5 @@ For example, some entries can have:
 
 We can set up several possible pre-determined layouts for the journal entries. Within the data for the entry itself, we store which layout to use. This way, we can have a variety of layouts for the journal entries, making them more visually interesting.
 
-
 > [!NOTE] Update the Journal Entry Collect UI as well
 > This idea requires the journal entry collect UI to be updated as well to support this functionality. It should literally be the same as the journal entry UI, just without the left page and bigger to fill more space on the screen.
