@@ -89,3 +89,15 @@ However, we often got hit with "Why does the left page never change? If we are t
 
 ### The Right Page
 The right page contains the contents of the journal entry. However, maybe we should just **COMPLTELY** copy the journal entry UI and put it here...
+
+
+#### Varying Page Layouts for Entries
+Having each journal entry follow the EXACT same layout is very boring visually. Also, if these are supposed to be notes of some sort, then we can have the pages look different. 
+
+For example, some entries can have:
+- a diagram
+- a table
+- a list of items
+- various scribbles around the page
+
+Within the data for the entry itself, we sto
