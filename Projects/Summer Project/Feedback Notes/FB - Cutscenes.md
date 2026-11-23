@@ -42,3 +42,5 @@ Latent node approach to using dialogue system:
 - The nodes themselves just send line(s) information to the dialogue UI (speaker, text, etc.)
 - The UI handles other behaviors (opening anim, change speaker anim, etc.)
 - The UI sends an event to the subsystem to finish the latent node when the player exits the line(s) / closes the dialogue screen.
+
+#### Open / Close UI Manually
