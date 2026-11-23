@@ -32,5 +32,12 @@ Rather than having data tables for:
 
 Dialogue data is stored within the cutscene itself.
 
-## Why?
-Having too many assets for dialogue quickly became confusing and bloated the project to no end.
+### Why?
+- Having too many assets for dialogue quickly became confusing and bloated the project to no end.
+- The separation between the cutscene system and dialogue system allowed for little-to-no flexibility when creating cutscenes.
+
+### New Approach
+
+Latent node approach to using dialogue system:
+- The nodes themselves just send line information to the dialogue UI (speaker, text, etc.)
+- The UI handles ot
