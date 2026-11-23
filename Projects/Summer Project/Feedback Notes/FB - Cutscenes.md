@@ -11,6 +11,9 @@ The way the cutscenes are currently implemented definitely *works*, but it isn't
 
 Each cutscene is treated as it's own unique asset. This way, we can edit the cutscenes without affecting parent actors.
 
+### A simple object BP class?
+- Removes the need for placing the cutscene as a component on a parent actor; only needs a reference to the class.
+
 ## Handling Dialogue
 
 Rather than having data tables for:
@@ -20,4 +23,4 @@ Rather than having data tables for:
 Dialogue data is stored within the cutscene itself.
 
 ## Why?
-Having too many assets for dialogue quickly became confusing and bload
+Having too many assets for dialogue quickly became confusing and bloated the project to no end.
