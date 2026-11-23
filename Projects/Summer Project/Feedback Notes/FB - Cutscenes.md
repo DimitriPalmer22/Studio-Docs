@@ -13,6 +13,16 @@ Each cutscene is treated as it's own unique asset. This way, we can edit the cut
 
 ### A simple object BP class?
 - Removes the need for placing the cutscene as a component on a parent actor; only needs a reference to the class.
+- Unsure if I can use latent nodes here.
+- The lack of a world context makes it unbearably difficult to:
+	- Get subsystems
+	- Use global macros
+	- Use specific functions from libraries
+
+### An actor component
+- Keeps world context
+- Has easy access to room manager / whatever other actor this needs access to.
+- Bloats actor component panel with cutscenes.
 
 ## Handling Dialogue
 
