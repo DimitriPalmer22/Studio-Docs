@@ -44,3 +44,6 @@ Latent node approach to using dialogue system:
 - The UI sends an event to the subsystem to finish the latent node when the player exits the line(s) / closes the dialogue screen.
 
 #### Open / Close UI Manually
+
+If we want, we can open / close the dialogue UI manually. 
+- This allows us to keep queueing lines of dialogue while doing other actions.
