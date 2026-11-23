@@ -9,6 +9,15 @@ The way the cutscenes are currently implemented definitely *works*, but it isn't
 
 ## Representing a Cutscene
 
-Each cutscene is treated as it's own unique asset. This way, we can edit the cutscenes without 
+Each cutscene is treated as it's own unique asset. This way, we can edit the cutscenes without affecting parent actors.
 
-## Handling dialogue.
+## Handling Dialogue
+
+Rather than having data tables for:
+- Batches of entire dialogue interactions
+- Batches of lines for a singular dialogue interaction
+
+Dialogue data is stored within the cutscene itself.
+
+## Why?
+Having too many assets for dialogue quickly became confusing and bload
