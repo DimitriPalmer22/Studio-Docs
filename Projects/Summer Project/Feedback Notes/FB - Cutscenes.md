@@ -51,5 +51,5 @@ If we want, we can open / close the dialogue UI manually.
 
 ## First Journal Appearance Cutscene
 
-- The journal table itself houses the cutscene for the cinematic and the accompanying dialogue.
+- The room manager houses the cutscene for the cinematic and the accompanying dialogue.
 - The exit portal has the cutscene for inhibiting the player from leaving the room and the accompanying dialogue.
