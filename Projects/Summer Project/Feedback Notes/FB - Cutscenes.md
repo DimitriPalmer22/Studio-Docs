@@ -49,7 +49,13 @@ If we want, we can open / close the dialogue UI manually.
 - This allows us to keep queueing lines of dialogue while doing other actions.
 ---
 
-## First Journal Appearance Cutscene
+# First Journal Appearance Cutscene
 
 - The room manager houses the cutscene for the cinematic and the accompanying dialogue.
 - The exit portal has the cutscene for inhibiting the player from leaving the room and the accompanying dialogue.
+
+---
+
+# Convert Journal Dialogue
+
+Each response and into Cutscene
