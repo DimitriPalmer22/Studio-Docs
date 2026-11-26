@@ -58,4 +58,11 @@ If we want, we can open / close the dialogue UI manually.
 
 # Convert Journal Dialogue
 
-Each response and into Cutscene
+Each `response` and `completion` dialogue has its own corresponding cutscene asset.
+- No longer JUST dialogue. 
+- We can have the player do actions, look at things, etc. in between lines of dialogue.
+
+Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, there is:
+- A cutscene for the `response` dialogue (if it has any)
+- A cutscene for the `completion` dialogue (if applicable)
+- A data table for entry's dialogue 
