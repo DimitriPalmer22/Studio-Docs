@@ -68,3 +68,6 @@ Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, the
 - A data table for entry's dialogue 
 
 ---
+
+- [ ] Start room timer on room start?
+- [ ] Fix rooms cleared if negative on start.
