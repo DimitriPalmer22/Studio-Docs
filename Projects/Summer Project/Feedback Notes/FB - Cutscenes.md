@@ -73,6 +73,6 @@ Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, the
 
 - [x] Enable the player end
 - [x] Move the journal table / room player end cutscene directly after
-- [ ] Move the reward spawn
+- [x] Move the reward spawn
 - [ ] Room clear dialogue cutscene
 - [ ] Quest Item Spawned cutscene
