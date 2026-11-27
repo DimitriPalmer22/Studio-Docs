@@ -66,3 +66,11 @@ Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, the
 - A cutscene for the `response` dialogue (if it has any)
 - A cutscene for the `completion` dialogue (if applicable)
 - A data table for entry's dialogue 
+
+---
+
+# Convert Room Manager Dialogue
+
+- [ ] Enable the player end
+- [ ] Room clear dialogue cutscene
+- [ ] Quest Item Spawned cutscene
