@@ -68,11 +68,3 @@ Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, the
 - A data table for entry's dialogue 
 
 ---
-
-# Convert Room Manager Dialogue
-
-- [x] Enable the player end
-- [x] Move the journal table / room player end cutscene directly after
-- [x] Move the reward spawn
-- [ ] Room clear dialogue cutscene
-- [ ] Quest Item Spawned cutscene
