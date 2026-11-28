@@ -47,12 +47,6 @@ Latent node approach to using dialogue system:
 
 If we want, we can open / close the dialogue UI manually. 
 - This allows us to keep queueing lines of dialogue while doing other actions.
----
-
-# First Journal Appearance Cutscene
-
-- The room manager houses the cutscene for the cinematic and the accompanying dialogue.
-- The exit portal has the cutscene for inhibiting the player from leaving the room and the accompanying dialogue.
 
 ---
 
@@ -62,12 +56,9 @@ Each `response` and `completion` dialogue has its own corresponding cutscene ass
 - No longer JUST dialogue. 
 - We can have the player do actions, look at things, etc. in between lines of dialogue.
 
-Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, there is:
+Each Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, there is:
 - A cutscene for the `response` dialogue (if it has any)
 - A cutscene for the `completion` dialogue (if applicable)
 - A data table for entry's dialogue 
 
 ---
-
-- [x] Start room timer on room start?
-- [x] Fix rooms cleared if negative on start.
