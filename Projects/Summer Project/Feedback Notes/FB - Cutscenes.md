@@ -69,5 +69,5 @@ Eacn Journal ENTRY (the entire thing) has its own FOLDER. Inside the folder, the
 
 ---
 
-- [ ] Start room timer on room start?
-- [ ] Fix rooms cleared if negative on start.
+- [x] Start room timer on room start?
+- [x] Fix rooms cleared if negative on start.
